@@ -2,7 +2,7 @@
   <a href="https://voice.shapeshift.one">
     <img src="https://github.com/shapeshiftONE/voice/raw/main/etc/wslogo-dark.png" />
   </a>
-  <h1 align="center">Unified Repo | ShapeShift DAO</h1>
+  <h1 align="center">Unified Repo (v0.2) | ShapeShift DAO</h1>
   <div align="center">
     <strong>Bi-Directional Document Repository for ShapeShiftONE platform. </strong>
   </div>
