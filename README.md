@@ -1,12 +1,14 @@
 <p align="center">
   <a href="https://voice.shapeshift.one">
-    <img src="etc/wslogo-dark.png" />
+    <img src="https://github.com/shapeshiftONE/voice/raw/main/etc/wslogo-dark.png" />
   </a>
   <h1 align="center">Unified Repo | ShapeShift DAO</h1>
   <div align="center">
     <strong>Bi-Directional Document Repository for ShapeShiftONE platform. </strong>
   </div>
+  
 ---
+
 Media files, including graphics, gifs, and videos are untracked for the time-being. 
 
 ## Contributing as a writer or translator
