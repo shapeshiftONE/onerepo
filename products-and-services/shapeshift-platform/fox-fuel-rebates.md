@@ -9,9 +9,11 @@ dateCreated: 2021-09-28T02:25:18.104Z
 bountyPrice: 5USD
 ---
 
-# FOX Fuel - Introduction
+# FOX Fuel
 
-ShapeShift will now help cover your gas costs on trades by reimbursing you with FOX.
+The ShapeShift platform helps cover your gas fees on trades by reimbursing you with FOX.
+
+## Introduction
 
 Gas fees can be expensive when using DEXes to trade. The ShapeShift solution should ease that burden a bit.
 
