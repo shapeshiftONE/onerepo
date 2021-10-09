@@ -2,8 +2,8 @@
 title: ShapeShift to Decentralize Entire Company; Announces Largest Airdrop in History
 description: The seven-year-old crypto pioneer charts a new path as the first to fully decentralize corporate entity structure to benefit all
 published: true
-date: 2021-10-09T21:38:51.690Z
-tags: decentralization, shapeshift, shapeshiftdao, news, press release
+date: 2021-10-09T21:40:49.875Z
+tags: decentralization, news, press release, shapeshift, shapeshiftdao
 editor: markdown
 dateCreated: 2021-10-09T21:38:51.690Z
 ---
