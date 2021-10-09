@@ -2,11 +2,13 @@
 title: ShapeShift Decentralizes: The Announcement
 description: ShapeShift, an international, non-custodial cryptocurrency leader, announces that it has begun dismantling its corporate structure, decentralizing governance to its customers via its FOX Token. 
 published: false
-date: 2021-10-09T22:13:26.473Z
-tags: fox, shapeshift, historical, archives, blog, tokenomics, governance
+date: 2021-10-09T22:17:03.861Z
+tags: archives, blog, fox, governance, historical, shapeshift, tokenomics
 editor: markdown
 dateCreated: 2021-10-09T22:13:26.473Z
 ---
+
+https://shapeshift.com/shapeshift-decentralize-airdrop
 
 # The Evolution of ShapeShift
 
