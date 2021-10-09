@@ -1,23 +1,24 @@
 ---
 title: Introduction to Uniswap
-description: 
+description: Uniswap is a decentralised exchange protocol launched with huge success on Ethereum mainnet in November 2018. 
 published: false
-date: 2021-10-09T07:04:29.613Z
-tags: defi, education, decentralized finance, finance, dex, decentralized exchange
+date: 2021-10-09T21:20:42.151Z
+tags: decentralized exchange, decentralized finance, defi, dex, education, finance, uniswap, liquidity mining, liquidity pool
 editor: markdown
 dateCreated: 2021-10-09T07:04:27.833Z
 ---
 
 # What is Uniswap?
 
-Uniswap is a decentralised exchange protocol launched on the Ethereum mainnet in November 2018. It was created by Hayden Adams with funding from an Ethereum Foundation grant. It’s built on a beautifully simple concept whereby liquidity for exchange transactions is provided in the form of on-chain pools, equal in value for both ETH and a single ERC-20 token traded. Trades are executed against these on-chain pools, which use an automated market making strategy to enable exchange free of order books or additional counterparties. The smart contract design allows for exceptionally low gas usage when compared with other exchanges. If you haven’t had the chance to learn about it yet I would recommend reading some of the excellent articles on the subject (1, 2), the documentation overview, or the white paper.
+Uniswap is a decentralised exchange protocol launched on the Ethereum mainnet in November 2018. It was developed by Hayden Adams with funding from a grant from the Ethereum Foundation. Uniswap's simple concept where liquidity for exchange transactions is provided by on-chain liquidity pools. The pool value is calculated by the equal value of both ETH and a single ERC-20 token traded. Trades are executed against these pools, which use an automated market-making strategy to trades without the need for order books or relying  on third party centralized entities. The smart contract design at the time allowed for exceptionally low gas fees compared to other decentralized exchanges. 
 
-Uniswap already has a budding ecosystem including a trading interface and statistics portal, and integrations are coming thick and fast. Development efforts are coordinated on Slack, GitHub and Reddit. In only its first 2 months, Uniswap has already achieved significant trading volume.
+Uniswap shocked the DeFi world with its immensely successful launch achieving a cumulative trading volume of $1mil in only two months. This success was only a  foreshadowing of the DeFi bloom just around the corner, and certainly was the source of inspiration for other popular DEXes today such as QuickSwap on Polygon and PancakeSwap on Binance Smart Chain. In 2020 Uniswap reported a total trade volume of $20bn with over 250,000 wallets and 8500 unique tokens traded. 
 
+## UNI Token
 
 ## Who are Liquidity Providers?
-Trades on Uniswap cause price slippage, with trades that are large relative to total liquidity causing more slippage. So, for Uniswap to function well and allow large trades it also needs large liquidity pools. So who provides this liquidity, and why should they pool their valuable ETH and ERC-20 tokens in a Uniswap exchange? Liquidity providers can be anyone who is able to supply equal values of ETH and an ERC-20 token to a Uniswap exchange contract. In return they are given tokens from the exchange contract which can be used to withdraw their proportion of the liquidity pool at any time. Whenever someone trades on the exchange, the trader pays a 0.3% fee which is added to the liquidity pool. Since no new liquidity tokens are minted, this has the effect of splitting the transaction fee proportionally between all existing liquidity providers.
 
+Trades on Uniswap cause price slippage, with trades that are large relative to total liquidity causing more slippage. So, for Uniswap to function well and allow large trades it also needs large liquidity pools. So who provides this liquidity, and why should they pool their valuable ETH and ERC-20 tokens in a Uniswap exchange? Liquidity providers can be anyone who is able to supply equal values of ETH and an ERC-20 token to a Uniswap exchange contract. In return they are given tokens from the exchange contract which can be used to withdraw their proportion of the liquidity pool at any time. Whenever someone trades on the exchange, the trader pays a 0.3% fee which is added to the liquidity pool. Since no new liquidity tokens are minted, this has the effect of splitting the transaction fee proportionally between all existing liquidity providers.
 
 In fact, not only do liquidity providers receive fees from all trades, but trades are guaranteed to occur when the price in the wider market changes. This is because if the price changes on another exchange, there will be an arbitrage opportunity created by the price differential between that exchange and Uniswap. When an arbitrageur executes the profitable trade that brings the Uniswap exchange back into line with the wider market, liquidity providers benefit from Uniswap exchange fees. Sure enough, on all Uniswap exchanges with significant liquidity, arbitrageurs are hard at work such that prices track closely with the rest of the market.
 
