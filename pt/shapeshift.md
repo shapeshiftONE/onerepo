@@ -2,8 +2,8 @@
 title: ShapeShift & Token FOX
 description: Tudo o que você precisa saber sobre a ShapeShift.
 published: true
-date: 2021-10-05T19:59:31.483Z
-tags: institucional, shapeshift, token fox
+date: 2021-10-08T21:38:50.395Z
+tags: shapeshift, token fox, institucional
 editor: markdown
 dateCreated: 2021-10-05T14:20:31.871Z
 ---

@@ -2,7 +2,7 @@
 title: Markdown Language & Rendering
 description: Some things you should get familiar with.
 published: true
-date: 2021-09-28T02:38:37.798Z
+date: 2021-10-08T21:38:04.135Z
 tags: meta, workstream
 editor: markdown
 dateCreated: 2021-09-28T02:25:18.104Z

@@ -2,7 +2,7 @@
 title: ShapeShift DAO (Decentralized)
 description: 
 published: true
-date: 2021-10-03T22:49:30.765Z
+date: 2021-10-08T21:38:18.437Z
 tags: dao, shapeshiftdao, decentralization, decentralized autonomous organization, decentralized shapeshift
 editor: markdown
 dateCreated: 2021-10-03T22:49:30.765Z

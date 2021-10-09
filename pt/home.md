@@ -2,8 +2,8 @@
 title: Repositório Unificado de Informações da ShapeShift DAO
 description: Elaborado pelo Fluxo de Informação e Globalização e financiado pela DAO.
 published: true
-date: 2021-10-06T15:56:29.490Z
-tags: repositório, serviços, shapeshift, tutoriais
+date: 2021-10-08T21:38:28.664Z
+tags: shapeshift, repositório, tutoriais, serviços
 editor: markdown
 dateCreated: 2021-10-04T01:42:09.684Z
 ---

@@ -2,8 +2,8 @@
 title: ShapeShift & FOX Token
 description: Information regarding everything related to ShapeShift.
 published: true
-date: 2021-10-06T17:49:56.574Z
-tags: dao, decentralized autonomous organization, decentralized shapeshift, fox, overview, shapeshift, shapeshiftdao
+date: 2021-10-08T21:38:22.608Z
+tags: shapeshift, overview, dao, decentralized autonomous organization, decentralized shapeshift, fox, shapeshiftdao
 editor: markdown
 dateCreated: 2021-10-03T23:09:23.913Z
 ---

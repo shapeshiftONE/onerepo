@@ -2,7 +2,7 @@
 title: Colony (for Workstream Leaders)
 description: 
 published: true
-date: 2021-10-03T17:35:23.351Z
+date: 2021-10-08T21:38:12.591Z
 tags: meta, workstream, colony, dao
 editor: markdown
 dateCreated: 2021-10-03T17:35:23.351Z

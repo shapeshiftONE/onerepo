@@ -2,7 +2,7 @@
 title: ShapeShift DAO Unified Information Repository
 description: Brought to you by the DAO-funded Information and Globalization Workstream
 published: true
-date: 2021-10-06T17:36:11.869Z
+date: 2021-10-08T21:37:59.038Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-13T18:21:56.126Z

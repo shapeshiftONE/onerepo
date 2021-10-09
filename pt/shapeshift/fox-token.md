@@ -2,8 +2,8 @@
 title: Token FOX da ShapeShift
 description: Descubra as utilidades e o poder de governança do Token FOX.
 published: true
-date: 2021-10-06T15:57:01.778Z
-tags: erc20, fox, rainfall, recompensas, shapeshift fox token, token
+date: 2021-10-08T21:38:56.470Z
+tags: erc20, fox, rainfall, shapeshift fox token, token, recompensas
 editor: markdown
 dateCreated: 2021-10-05T16:09:23.612Z
 ---

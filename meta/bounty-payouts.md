@@ -2,8 +2,8 @@
 title: Bounty System (All Non-GCA Contributers)
 description: All quality work will be rewarded, regardless of the stage of your candidacy.
 published: true
-date: 2021-10-04T12:28:10.720Z
-tags: bounty, meta, payments, payouts, workstream
+date: 2021-10-08T21:38:30.448Z
+tags: meta, workstream, bounty, payouts, payments
 editor: markdown
 dateCreated: 2021-10-04T03:24:33.401Z
 ---

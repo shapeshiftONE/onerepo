@@ -2,7 +2,7 @@
 title: ShapeShift DAO (Decentralized)
 description: 
 published: true
-date: 2021-10-04T16:48:39.589Z
+date: 2021-10-08T21:38:48.463Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-04T16:12:24.455Z

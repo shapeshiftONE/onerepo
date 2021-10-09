@@ -2,8 +2,8 @@
 title: ShapeShift (Empresa)
 description: Constituição da ShapeShift como empresa.
 published: true
-date: 2021-10-09T01:13:44.680Z
-tags: empresa, institucional, shapeshift
+date: 2021-10-09T01:13:46.191Z
+tags: institucional, shapeshift, empresa
 editor: markdown
 dateCreated: 2021-10-05T14:30:08.230Z
 ---

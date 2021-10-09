@@ -2,7 +2,7 @@
 title: ShapeShift (Empresa)
 description: 
 published: true
-date: 2021-10-09T01:15:19.169Z
+date: 2021-10-09T01:15:20.659Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-06T19:03:39.883Z

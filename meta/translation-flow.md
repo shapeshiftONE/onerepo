@@ -2,7 +2,7 @@
 title: Translation Workflow
 description: v1 of our workstreams translation workflow. 
 published: true
-date: 2021-10-04T00:18:34.242Z
+date: 2021-10-08T21:38:14.564Z
 tags: globalfox program, meta, workflow
 editor: markdown
 dateCreated: 2021-10-03T21:34:37.955Z

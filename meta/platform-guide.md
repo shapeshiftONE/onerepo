@@ -2,7 +2,7 @@
 title: Quick Guide to Getting Started for Translation
 description: 
 published: true
-date: 2021-10-08T21:31:24.266Z
+date: 2021-10-08T21:39:02.751Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-06T20:39:52.665Z

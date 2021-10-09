@@ -2,7 +2,7 @@
 title: 전체 개요
 description: ShapeShift 정보 및 글로벌화 부서
 published: true
-date: 2021-09-27T23:38:57.903Z
+date: 2021-10-08T21:38:00.989Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-24T14:26:47.044Z
