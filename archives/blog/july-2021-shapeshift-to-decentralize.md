@@ -2,13 +2,11 @@
 title: ShapeShift Decentralizes: The Announcement
 description: ShapeShift, an international, non-custodial cryptocurrency leader, announces that it has begun dismantling its corporate structure, decentralizing governance to its customers via its FOX Token. 
 published: false
-date: 2021-10-09T22:17:03.861Z
+date: 2021-10-10T13:52:31.374Z
 tags: archives, blog, fox, governance, historical, shapeshift, tokenomics
 editor: markdown
 dateCreated: 2021-10-09T22:13:26.473Z
 ---
-
-https://shapeshift.com/shapeshift-decentralize-airdrop
 
 # The Evolution of ShapeShift
 
@@ -82,7 +80,39 @@ The ShapeShift DAO is powered by SafeSnap (SnapShot + Gnosis Safe), which means 
 
 Voting power applies to those with FOX in their wallets and will soon be upgraded to include FOX in the FOX/ETH Liquidity Pool on Uniswap V2.
 
-# The Largest Airdrop in History—Over 1M Recipients
+# The Largest Airdrop in History
+
+As of this post, FOX has been airdropped to the largest number of eligible recipients in crypto history. There are now more than 1 million potential FOX holders who can choose to claim tokens.
+
+This makes FOX Tokens one of the most widely distributed tokens in history. ShapeShift has never sold these tokens; there was no ICO. 
+
+Eligible recipients: 
+
+- Over 900,000 ShapeShift customers and KeepKey owners
+- Every customer who has ever traded $1 or more of ETH or any ERC-20 token through ShapeShift prior to June 9, 2021 is eligible:
+  - 1-4 trades: Receive 200 FOX
+  - 5-9 trades: Receive 350 FOX
+  - 10-24 trades: Receive 750 FOX
+  - 25-99 trades: Receive 1,500 FOX
+  - 100+ trades: Receive 8,500 FOX
+- Every customer with a wallet registered with ShapeShift holding crypto as of June 9, 2021:
+  - Receive 250 FOX
+- Every KeepKey customer who connected their KeepKey with ShapeShift as of June 9 2021:
+  - Receive 900 FOX
+- THORChain traders of ETH/ERC-20 assets and those who upgraded ETH.RUNE for Native RUNE as of June 16th at 2 p.m. MST:
+  - 500 FOX
+- RUNE ERC-20 token holders as of June 9th:
+  - 350 FOX
+
+Over 120,000 members of the following communities that have inspired us. You are eligible for 200 FOX if you held more than $1,500 of the community’s and those tokens were not staked on June 9th:
+
+| --- | --- | --- | --- | --- |
+| Gitcoin | Aave | Compound | Uniswap | SushiSwap |
+| Yearn | Alchemix | Balancer | Curve | Maker |
+| BadgerDAO | 0x | 1inch |   |   |
+{.no-border}
+
+
 
 # Liquidity Mining: When it starts and how it works
 
@@ -95,3 +125,6 @@ Voting power applies to those with FOX in their wallets and will soon be upgrade
 # Tentative Roadmap
 
 # Official FOX Contract Addresses
+
+
+https://shapeshift.com/shapeshift-decentralize-airdrop{.hide}
