@@ -2,7 +2,7 @@
 title: Que significa ser un ShapeShift FOX: un corto Foxifesto
 description: ShapeShift CPO and co-founder Jon gives his thoughts on FOX culture.
 published: true
-date: 2021-10-25T14:55:34.108Z
+date: 2021-10-25T15:00:57.344Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-25T14:45:49.358Z
@@ -12,7 +12,7 @@ dateCreated: 2021-10-25T14:45:49.358Z
 
 Al lanzarnos hacia el futuro decentralizado de ShapeShift, pienso que será util exponer la visión sobre que significa ser un ShapeShift FOX. ShapeShift ha evolucionado mucho a lo largo de siete años, pero muchos de nuestros principios fundamentales y la cultura que desarrollamos con el tiempo se mantienen constantes.
 
-Our culture at ShapeShift has been grounded in three core values: we have expected our Foxes to be Kind, Pioneering, and to embody Integrity. 
+Nuestra cultura en ShapeShift ha estado anclada a tres valores: esperamos que nuestros Foxes sean amables, Pioneros, e íntegros. 
 
 These core values have been essential to how the culture at ShapeShift has developed to this point, and it goes hand in hand with our focus and alignment around self-custody, decentralization, and the broader crypto ecosystem that we have always seen ourselves as a part of. ShapeShift has been lucky to have a team full of immensely talented people who have embraced these values over the years, and I am sure they will help create the core of a kind and pioneering decentralized community that shows great integrity in everything they do. 
 
