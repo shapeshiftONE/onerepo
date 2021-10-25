@@ -2,7 +2,7 @@
 title: Que significa ser un ShapeShift FOX: un corto Foxifesto
 description: ShapeShift CPO and co-founder Jon gives his thoughts on FOX culture.
 published: true
-date: 2021-10-25T17:01:25.744Z
+date: 2021-10-25T17:05:57.868Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-25T14:45:49.358Z
@@ -26,8 +26,8 @@ Avanzando obviamente, yo no tengo derecho particular o habilidad para influir en
 - Nosotros creemos en un futuro multi-chain: muchos activos útiles digitales y aplicaciones vivirán en múltiples blockchains.
 - Nosotros creemos en la importancia de la auto custodia cómo una cualidad inherente de blockchain y redes crypto. We believe in the importance of self-custody as an inherent quality of blockchain and crypto networks.
 - Nosotros creemos en la descentralización y la innovación sin permiso.
-- We believe in the ability for anyone to frictionlessly swap one digital asset for another. 
-- We believe in being open minded about new crypto projects and opportunities (but this should be paired with healthy skepticism).
+- Nosotros creemos en la habilidad de cualquier persona para cambiar sin fricción cualquier activo digital por otro. 
+- Nosotros creemos en ser mente abierta sobre nuevos proyectos crypto y oportunidades (pero ésto debe de ir acompañado con un escepticismo saludable).
 - We believe in the spirit of open cooperation with a positive sum mindset. We can support and build on top of other crypto projects and make the whole ecosystem stronger together.
 - We believe that open discussion and debate is healthy for the community and leads to better ideas and experiments.
 - We believe in kindness and treating each other with respect. A community that is kind to each other will inevitably do greater things than one that is constantly infighting. This includes kindness to other communities and those that we disagree with.
