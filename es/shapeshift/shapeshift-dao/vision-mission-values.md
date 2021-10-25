@@ -2,17 +2,17 @@
 title: ShapeShift Vision, Mission, and Values
 description: The core beliefs that make ShapeShift, written by Willy.
 published: true
-date: 2021-10-25T00:00:35.148Z
+date: 2021-10-25T12:24:00.122Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-25T00:00:35.148Z
 ---
 
-## Visio
-We envision a borderless financial system built on open, decentralized protocols.
+## Visión
+Visualizamos un sistema financiero sin fronteras construido sobre protocolos descentralizados y abiertos. 
 
-## Mission
-We shall be the pathway into this borderless financial system; an open-source, multi-chain, self-custody crypto platform enabling billions to achieve financial sovereignty.
+## Misión
+Nosotros seremos la ruta a un sistema financiero sin fronteras; de fuente abierta, múltiples cadenas, auto custodiado. Nuestra plataforma crypto  habilitará a billones de personas para  obtener soberanía financiera.
 
 ## Values
 
