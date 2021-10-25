@@ -2,7 +2,7 @@
 title: Foxifesto: por dentro da cultura da ShapeShift
 description: Diretor de produto e co-fundador da ShapeShift, Jon conta um pouco  sobre a cultura FOX.
 published: true
-date: 2021-10-25T03:49:19.454Z
+date: 2021-10-25T03:50:06.704Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-25T02:32:34.768Z
