@@ -2,7 +2,7 @@
 title: Que significa ser un ShapeShift FOX: un corto Foxifesto
 description: ShapeShift CPO and co-founder Jon gives his thoughts on FOX culture.
 published: true
-date: 2021-10-25T15:56:28.323Z
+date: 2021-10-25T16:11:34.996Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-25T14:45:49.358Z
@@ -14,7 +14,7 @@ Al lanzarnos hacia el futuro decentralizado de ShapeShift, pienso que será util
 
 Nuestra cultura en ShapeShift ha estado anclada a tres valores: esperamos que nuestros Foxes sean amables, Pioneros, e íntegros. 
 
-Éstos valores centrales han sido esenciales sobre cómo la cultura de ShapeShift se ha desarrollado hasta éste punto, and it goes hand in hand with our focus and alignment around self-custody, decentralization, and the broader crypto ecosystem that we have always seen ourselves as a part of. ShapeShift has been lucky to have a team full of immensely talented people who have embraced these values over the years, and I am sure they will help create the core of a kind and pioneering decentralized community that shows great integrity in everything they do. 
+Éstos valores han sido esenciales para desarrollar la cultura ShapeShift  hasta éste punto, y van de la mano con nuestro objetivo y alineación alrededor de la auto custodia, decentralizacion y ecosistema crypto amplio del que siempre hemos sido parte.  with our focus and alignment around self-custody, decentralization, and the broader crypto ecosystem that we have always seen ourselves as a part of. ShapeShift has been lucky to have a team full of immensely talented people who have embraced these values over the years, and I am sure they will help create the core of a kind and pioneering decentralized community that shows great integrity in everything they do. 
 
 Obviously, moving forward I have no particular right or ability to influence what the meaning of a ShapeShift FOX is; that will ultimately be up to the community and will evolve over time. With that said, I still think perhaps we can collectively steer things in a positive direction by presenting this “Foxifesto” below to give an idea of what being a FOX has meant historically and hopefully lay a foundation for what it can mean in the decentralized future that we all build together.
 
