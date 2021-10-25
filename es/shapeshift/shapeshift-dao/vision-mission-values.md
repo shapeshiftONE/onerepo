@@ -2,7 +2,7 @@
 title: ShapeShift Vision, Mission, and Values
 description: The core beliefs that make ShapeShift, written by Willy.
 published: true
-date: 2021-10-25T13:21:15.659Z
+date: 2021-10-25T13:25:52.181Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-25T00:00:35.148Z
