@@ -2,7 +2,7 @@
 title: ShapeShift Vision, Mission, and Values
 description: The core beliefs that make ShapeShift, written by Willy.
 published: true
-date: 2021-10-25T12:24:00.122Z
+date: 2021-10-25T12:33:47.576Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-25T00:00:35.148Z
@@ -12,11 +12,11 @@ dateCreated: 2021-10-25T00:00:35.148Z
 Visualizamos un sistema financiero sin fronteras construido sobre protocolos descentralizados y abiertos. 
 
 ## Misión
-Nosotros seremos la ruta a un sistema financiero sin fronteras; de fuente abierta, múltiples cadenas, auto custodiado. Nuestra plataforma crypto  habilitará a billones de personas para  obtener soberanía financiera.
+Nosotros seremos la ruta a un sistema financiero sin fronteras; de fuente abierta, múltiples cadenas, auto custodiado. Nuestra plataforma crypto  habilitará a billones de personas para  obtener su soberanía financiera.
 
-## Values
+## Valores
 
-**Trustworthy** - We are upfront and transparent. We are fair and accurate in our dealings with one another and with our customers. We earn trust with time and execution, rather than by expecting it by default.
+**Digno de confianza** - We are upfront and transparent. We are fair and accurate in our dealings with one another and with our customers. We earn trust with time and execution, rather than by expecting it by default.
 
 **Collaborative** - We are talented individuals aligning behind unified strategies to build greatness. We support, encourage, and challenge each other. We leverage the force multiplier of teamwork.
 
