@@ -2,7 +2,7 @@
 title: Foxifesto: por dentro da cultura da ShapeShift
 description: Diretor de produto e co-fundador da ShapeShift, Jon conta um pouco  sobre a cultura FOX.
 published: true
-date: 2021-10-25T03:24:51.757Z
+date: 2021-10-25T03:49:19.454Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-25T02:32:34.768Z
@@ -34,6 +34,6 @@ Dito isso, acredito que todos podemos direcionar as coisas coletivamente de mane
 - Acreditamos que a discussão aberta e o debate são saudáveis para a comunidade e levam a melhores ideias e experimentos.
 - Acreditamos na gentileza e no respeito mútuo. Uma comunidade que é amigável sem dúvidas fará coisas maiores e mais assertivas do que uma que é instável internamente. Isso quer dizer que também devemos ser gentis com outras comunidades, inclusive com as quais discordamos.
 - Acreditamos que o universo da criptografia continuará a expandir e permanecemos abertos para acompanhar como será evolução.
-- Acreditamos no poder dos DAOs em remodelar para melhor as estruturas de alocação e incentivo do capital humano nas próximas décadas.
+- Botamos fé que o poder das DAOs pode remodelar para melhor as estruturas de alocação e incentivo do capital humano nas próximas décadas.
 
 [Originalmente publicado em 14 de julho de 2021.](https://shapeshift.com/library/what-it-means-to-be-a-shapeshift-fox-a-short-foxifesto)
