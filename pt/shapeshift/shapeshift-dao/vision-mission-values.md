@@ -2,7 +2,7 @@
 title: Visão, Missão e Valores da ShapeShift
 description: As crenças básicas que fazem da ShapeShift, escrito por Willy.
 published: true
-date: 2021-10-25T02:48:44.429Z
+date: 2021-10-25T02:49:08.666Z
 tags: institucional, missao, shapeshiftdao, valores, vissao
 editor: markdown
 dateCreated: 2021-10-25T01:38:48.308Z
@@ -25,4 +25,4 @@ Seremos o caminho para esse sistema financeiro sem fronteiras; uma plataforma de
 **Inspiração** - Somos apaixonados por nosso trabalho, nos engajamos entre nós e com o mundo. Colocamos arte, confiança e personalização em nossos produtos acreditando que a  criptografia se torna ainda melhor quando não encontra fronteiras.
 
 **Pioneirismo** - Nós inovamos e criamos ferramentas digitais que transcendem as fronteiras do mercado convencional de finanças. Rejeitamos o conforto paternalista de um mundo prometido e vivemos como selvagens, preparando o santuário às margens da nuvem negra chamada moeda fiduciária.
-Seguimos com maturidade, coragem e determinação estóica.
+Seguimos com maturidade, coragem e determinação estoica.
