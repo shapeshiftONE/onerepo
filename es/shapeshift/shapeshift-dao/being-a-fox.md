@@ -2,7 +2,7 @@
 title: Que significa ser un ShapeShift FOX: un corto Foxifesto
 description: ShapeShift CPO and co-founder Jon gives his thoughts on FOX culture.
 published: true
-date: 2021-10-25T16:27:48.688Z
+date: 2021-10-25T16:30:10.347Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-25T14:45:49.358Z
@@ -16,7 +16,7 @@ Nuestra cultura en ShapeShift ha estado anclada a tres valores: esperamos que nu
 
 Éstos valores han sido esenciales para desarrollar la cultura ShapeShift  hasta éste punto. Además,van de la mano con nuestro objetivo de alineación hacia la auto-custodia, decentralizacion y un ecosistema crypto amplio del que siempre hemos sido parte. ShapeShift ha tenido suerte de tener un equipo de personas inmensamente talentosas que abrazaron éstos principios durante los años. Yo  estoy seguro que ellos ayudarán a crear el núcleo de una comunidad decentralizada amable y pionera que demostrará gran integridad en todo lo que hagan.
 
-Obviamente, avanzando yo no tengo derecho particular o habilidad para influir en el significado de que es ser ShapeShift FOX; that will ultimately be up to the community and will evolve over time. With that said, I still think perhaps we can collectively steer things in a positive direction by presenting this “Foxifesto” below to give an idea of what being a FOX has meant historically and hopefully lay a foundation for what it can mean in the decentralized future that we all build together.
+Obviamente, avanzando yo no tengo derecho particular o habilidad para influir en el significado de que es ser ShapeShift FOX; ésa voluntad será de la comunidad y evolucionará con el tiempo. With that said, I still think perhaps we can collectively steer things in a positive direction by presenting this “Foxifesto” below to give an idea of what being a FOX has meant historically and voluntadhopefully lay a foundation for what it can mean in the decentralized future that we all build together.
 
 - Jon ShapeShift
 
