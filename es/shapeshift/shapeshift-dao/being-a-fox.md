@@ -2,7 +2,7 @@
 title: Que significa ser un ShapeShift FOX: un corto Foxifesto
 description: ShapeShift CPO and co-founder Jon gives his thoughts on FOX culture.
 published: true
-date: 2021-10-25T16:53:26.463Z
+date: 2021-10-25T16:56:30.866Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-25T14:45:49.358Z
@@ -22,8 +22,8 @@ Avanzando obviamente, yo no tengo derecho particular o habilidad para influir en
 
 ## Que significa ser un ShapeShift FOX:
 
-- Nosotros creemos que la tecnología blockchain y crypto son herramientas que dan poder a las personas a nivel global.
-- Nosotros creemos en un futuro multi-chain: muchos activos digitales útiles y aplicaciones vivirán en múltiples useful digital assets and applications blockchains.
+- Nosotros creemos que la tecnología blockcin y crypto son herramientas que dan poder a las personas a nivel global.
+- Nosotros creemos en un futuro multi-chain: muchos activos útiles digitales y aplicaciones vivirán en múltiples blockchains.
 - We believe in the importance of self-custody as an inherent quality of blockchain and crypto networks.
 - We believe in decentralization and permissionless innovation.
 - We believe in the ability for anyone to frictionlessly swap one digital asset for another. 
