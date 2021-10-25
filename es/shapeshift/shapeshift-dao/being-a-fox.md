@@ -2,7 +2,7 @@
 title: Que significa ser un ShapeShift FOX: un corto Foxifesto
 description: ShapeShift CPO and co-founder Jon gives his thoughts on FOX culture.
 published: true
-date: 2021-10-25T17:15:55.384Z
+date: 2021-10-25T17:25:19.779Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-25T14:45:49.358Z
@@ -31,7 +31,7 @@ Avanzando obviamente, yo no tengo derecho particular o habilidad para influir en
 - Nosotros creemos en el espíritu de la cooperación abierta con mentalidad positiva. Nosotros podemos apoyar y construir sobre otros proyectos crypto para crear un ecosistema mas fuerte juntos.
 - Nosotros creemos que la discusión abierta y el debate es sano para la comunidad, éste conlleva a mejores ideas y experimentos.
 - Nosotros creemos en la bondad y el respeto de unos hacia otros. Una  comunidad bondadosa hará inevitablemente cosas más grandes que una comunidad en pelea constante. Ésto incluye bondad hacia otras comunidades, incluso con aquellas que estamos en desacuerdo.
-- We believe that crypto as a whole will continue to evolve, and we remain open to what that evolution may look like.
-- We believe in the power of DAOs to reshape the allocation and incentive structures of human capital over the next decades for the better.
+- Nosotros creemos que crypto continuará evolucionando y nos mantenemos abiertos a su futuro.
+- Nosotros creemos en el poder de los DAOs para mejorar el remodelamiento de la asignación y estructuras del capital humano en las próximas décadas.
 
 [Originally published on July 14th 2021.](https://shapeshift.com/library/what-it-means-to-be-a-shapeshift-fox-a-short-foxifesto)
