@@ -2,7 +2,7 @@
 title: ShapeShift Vision, Mission, and Values
 description: The core beliefs that make ShapeShift, written by Willy.
 published: true
-date: 2021-10-25T12:33:47.576Z
+date: 2021-10-25T12:43:35.219Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-25T00:00:35.148Z
@@ -16,7 +16,7 @@ Nosotros seremos la ruta a un sistema financiero sin fronteras; de fuente abiert
 
 ## Valores
 
-**Digno de confianza** - We are upfront and transparent. We are fair and accurate in our dealings with one another and with our customers. We earn trust with time and execution, rather than by expecting it by default.
+**Digno de confianza** - Nosotros estamos en la delantera y somos transparentes. Somos justos y precisos en nuestras transacciones unos a otros así también con nuestros clientes. Nos ganamos su confianza con tiempo y ejecución, sin esperar que rather than by expecting it by default.
 
 **Collaborative** - We are talented individuals aligning behind unified strategies to build greatness. We support, encourage, and challenge each other. We leverage the force multiplier of teamwork.
 
