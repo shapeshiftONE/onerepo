@@ -2,7 +2,7 @@
 title: Foxifesto: por dentro da cultura da ShapeShift
 description: Diretor de produto e co-fundador da ShapeShift, Jon conta um pouco  sobre a cultura FOX.
 published: true
-date: 2021-10-25T02:47:26.180Z
+date: 2021-10-25T03:24:51.757Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-25T02:32:34.768Z
@@ -22,7 +22,7 @@ Dito isso, acredito que todos podemos direcionar as coisas coletivamente de mane
 
 - Jon ShapeShift
 
-## Somos todos FOX:
+## Somos todos FOX
 
 - Acreditamos que blockchains e criptografia são ferramentas que podem capacitar e empoderar as pessoas em  proporções globais.
 - Acreditamos no futuro de várias blockchains: elas serão a morada de muitos ativos e aplicativos digitais essenciais para as pessoas.
