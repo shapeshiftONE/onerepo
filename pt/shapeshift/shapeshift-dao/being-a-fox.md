@@ -2,7 +2,7 @@
 title: Foxifesto: por dentro da cultura da ShapeShift
 description: Diretor de produto e co-fundador da ShapeShift, Jon conta um pouco  sobre a cultura FOX.
 published: true
-date: 2021-10-25T02:32:34.768Z
+date: 2021-10-25T02:33:53.773Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-25T02:32:34.768Z
@@ -13,7 +13,7 @@ dateCreated: 2021-10-25T02:32:34.768Z
 Acho que é válido colocar no papel minha visão do que é ser um FOX, estes pensamentos vêm à tona na medida em que caminhamos para uma futura ShapeShift descentralizada. 
 A ShapeShift evoluiu muito nos últimos sete anos ou mais, e muitos dos princípios básicos e da cultura que desenvolvemos ao longo do tempo permaneceram consistentes. 
 
-Nossa cultura na ShapeShift se baseia em três valores fundamentais: esperamos que nossos Foxes sejam gentis, pioneiros e que incorporem valor em nossa comunidade. 
+Nossa cultura na ShapeShift se baseia em três valores fundamentais: esperamos que nossas raposas sejam gentis, pioneiras e que incorporem valor em nossa comunidade. 
 
 Esses valores fundamentais foram essenciais para o desenvolvimento da cultura organizacional da ShapeShift, e vão de mãos dadas com nosso foco e alinhamento em torno do auto custódia, descentralização, até o ecossistema criptográfico mais amplo do qual sempre fizemos parte. A ShapeShift tem a sorte em possuir uma equipe repleta de pessoas muito talentosas que abraçaram esses valores ao longo dos anos, e tenho certeza de que irão nos ajudar a criar o núcleo de uma comunidade descentralizada pioneira e que garante integridade em tudo o que faz. 
 
