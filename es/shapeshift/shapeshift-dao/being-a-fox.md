@@ -2,7 +2,7 @@
 title: Que significa ser un ShapeShift FOX: un corto Foxifesto
 description: ShapeShift CPO and co-founder Jon gives his thoughts on FOX culture.
 published: true
-date: 2021-10-25T16:34:57.381Z
+date: 2021-10-25T16:41:05.202Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-25T14:45:49.358Z
@@ -16,7 +16,7 @@ Nuestra cultura en ShapeShift ha estado anclada a tres valores: esperamos que nu
 
 Éstos valores han sido esenciales para desarrollar la cultura ShapeShift  hasta éste punto. Además,van de la mano con nuestro objetivo de alineación hacia la auto-custodia, decentralizacion y un ecosistema crypto amplio del que siempre hemos sido parte. ShapeShift ha tenido suerte de tener un equipo de personas inmensamente talentosas que abrazaron éstos principios durante los años. Yo  estoy seguro que ellos ayudarán a crear el núcleo de una comunidad decentralizada amable y pionera que demostrará gran integridad en todo lo que hagan.
 
-Avanzando obviamente, yo no tengo derecho particular o habilidad para influir en el significado de que es ser ShapeShift FOX; ésa voluntad será de la comunidad y evolucionará con el tiempo. Con lo anterior expresado, yo todavía creo que colectivamente podemos girar hacia la dirección correcta al presentar éste “Foxifesto” below to give an idea of what being a FOX has meant historically and hopefully lay a foundation for what it can mean in the decentralized future that we all build together.
+Avanzando obviamente, yo no tengo derecho particular o habilidad para influir en el significado de que es ser ShapeShift FOX; ésa voluntad será de la comunidad y evolucionará con el tiempo. Con lo anterior expresado, yo todavía creo que colectivamente podemos girar hacia la dirección correcta al presentar éste “Foxifesto”, para dar una idea de cuál ha sido el significado histórico de ser un Fox y ojalá así la base para lo que pueda significar en el futuro decentralizado que construyamos juntos.or what it can mean in the decentralized future that we all build together.
 
 - Jon ShapeShift
 
