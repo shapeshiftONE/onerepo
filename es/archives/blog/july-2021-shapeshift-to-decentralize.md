@@ -2,7 +2,7 @@
 title: Descentralización de ShapeShift: El anuncio
 description: ShapeShift, líder internacional no custodiado en criptomonedas, anuncia que ha iniciado a desmantelar su estructura corporativa, descentralizando su gobernabilidad a sus clientes a través de FOX Token. 
 published: true
-date: 2021-10-27T03:56:32.024Z
+date: 2021-10-27T04:08:36.715Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-27T02:05:25.760Z
@@ -207,26 +207,26 @@ La hoja de ruta de ShapeShift será determinada en última instancia por los tit
 
 - Código abierto para todo ShapeShift y su infraestructura.
 - Reemplazar o descentralizar la funcionalidad que actualmente depende de la infraestructura centralizada, como ShapeShift oAuth.
-- Anything that cannot be open-sourced in the short-term will be run by the Foundation with the intention of it open-sourcing and decentralizing when possible in coordination with the community.
+- Cualquier cosa que no pueda ser de código abierto a corto plazo será administrada por la Fundación con la intención de que sea de código abierto y descentralización cuando sea posible en coordinación con la comunidad.
 
-**Additional Blockchains**
+**Blockchains adicionales**
 
-- Add support for a growing list of blockchains, with the ultimate goal of enabling projects to easily add their own blockchains.
+- Agregar soporte para una lista creciente de blockchains, con el objetivo final de permitir que los proyectos agreguen fácilmente sus propias blockchains.
 
 **DEXs**
 
-- Add support for DEX aggregators on additional EVM-compatible chains.
-- Add cross-chain swapping capabilities for new assets as they become available on THORChain.
+- Agregue soporte para agregadores DEX en cadenas adicionales compatibles con EVM.
+- Agregue capacidades de intercambio entre cadenas (cross-chain swapping) para nuevos activos a medida que estén disponibles en THORChain.
 
 **DeFi**
 
-- Enable users to provide liquidity on THORChain and earn yield on a growing number of assets and blockchains, including native BTC.
-- Enable users to easily deposit to Yearn vaults, and deposit all revenues earned through Yearn’s affiliate partnership to the ShapeShift DAO.
-- Enable users to view and manage positions across a growing list and variety of protocols (borrowing, lending, yield-generating, etc.). This includes protocols like Aave, Compound, Alchemix, and Liquidity.
-- Enable users to “zap in” to DeFi positions, which would otherwise require multiple transactions.
-- Enable users to transfer assets across blockchains via decentralized bridge protocols.
+- Permitir a los usuarios proporcionar liquidez en THORChain y obtener rendimiento en un número creciente de activos y blockchains, incluido BTC nativo.
+- Permitir a los usuarios depositar fácilmente en las bóvedas de Yearn y depositar todos los ingresos obtenidos a través de la asociación de afiliados de Yearn en el DAO de ShapeShift.
+- Permitir a los usuarios ver y administrar posiciones en una lista creciente y una variedad de protocolos (préstamos, préstamos, generación de rendimiento, etc.). Esto incluye protocolos como Aave, Compound, Alchemix y Liquidity.
+- Permitir a los usuarios "zap in" a las posiciones DeFi, que de otro modo requerirían múltiples transacciones.
+- Permitir a los usuarios transferir activos a través de blockchains usando protocolos de puente descentralizados.
 
-**Layer 2**
+**Capa (Layer) 2**
 
 - Add support for a growing list of Ethereum Layer 2 solutions, with the ultimate goal of enabling projects to easily add support for their own Layer 2.
 - We have explored implementing support for Bitcoin’s Lightning network, but unfortunately have yet to find a viable solution for supporting Lightning that is both non-custodial and also doesn’t require users to run full nodes. However, if the community can determine a viable path, we would love to support Lightning.
