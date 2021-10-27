@@ -1,8 +1,8 @@
 ---
 title: Ce que signifie être un FOX (Renard) ShapeShift : un court manifeste du renard
 description: Le directeur général et cofondateur de ShapeShift, Jon, donne son avis sur la culture FOX.
-published: false
-date: 2021-10-25T00:43:58.599Z
+published: true
+date: 2021-10-27T14:24:28.532Z
 tags: mission, shapeshift, valeurs, vision
 editor: markdown
 dateCreated: 2021-10-25T00:43:58.599Z
