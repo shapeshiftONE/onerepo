@@ -2,7 +2,7 @@
 title: Descentralización de ShapeShift: El anuncio
 description: ShapeShift, líder internacional no custodiado en criptomonedas, anuncia que ha iniciado a desmantelar su estructura corporativa, descentralizando su gobernabilidad a sus clientes a través de FOX Token. 
 published: true
-date: 2021-10-27T03:18:59.602Z
+date: 2021-10-27T03:35:52.935Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-27T02:05:25.760Z
@@ -89,23 +89,23 @@ Esto hace que FOX Tokens sea uno de los tokens más ampliamente distribuidos de 
 ## Destinatarios elegibles
 
 
-- Over 900,000 ShapeShift customers and KeepKey owners
-- Every customer who has ever traded $1 or more of ETH or any ERC-20 token through ShapeShift prior to June 9, 2021 is eligible:
-  - 1-4 trades: Receive 200 FOX
-  - 5-9 trades: Receive 350 FOX
-  - 10-24 trades: Receive 750 FOX
-  - 25-99 trades: Receive 1,500 FOX
-  - 100+ trades: Receive 8,500 FOX
-- Every customer with a wallet registered with ShapeShift holding crypto as of June 9, 2021:
-  - Receive 250 FOX
-- Every KeepKey customer who connected their KeepKey with ShapeShift as of June 9 2021:
-  - Receive 900 FOX
-- THORChain traders of ETH/ERC-20 assets and those who upgraded ETH.RUNE for Native RUNE as of June 16th at 2 p.m. MST:
+- Más de 900.000 clientes de ShapeShift y propietarios de KeepKey
+- Todos los clientes que alguna vez hayan negociado $ 1 ó más de ETH o cualquier token ERC-20 a través de ShapeShift antes del 9 de junio de 2021 son elegibles:
+  - 1-4 operaciones: Recibe 200 FOX
+  - 5-9 operaciones: Recibe 350 FOX
+  - 10-24 operaciones: Recibe 750 FOX
+  - 25-99 operaciones: Recibe 1.500 FOX
+  - Más de 100 operaciones: Recibe 8,500 FOX
+- Cada cliente con una billetera registrada en ShapeShift que posea criptomonedas a partir del 9 de junio de 2021:
+  - Recibe 250 FOX
+- Todos los clientes de KeepKey que conectaron su KeepKey con ShapeShift a partir del 9 de junio de 2021:
+  - Recibe 900 FOX
+-  Comerciantes de activos ETH / ERC-20 en THORChain y aquellos que actualizaron ETH.RUNE para RUNE nativo a partir del 16 de junio a las 2 p.m. MST:
   - 500 FOX
-- RUNE ERC-20 token holders as of June 9th:
+- Titulares de tokens RUNE ERC-20 a partir del 9 de junio:
   - 350 FOX
 
-Over 120,000 members of the following communities that have inspired us. You are eligible for 200 FOX if you held more than $1,500 of the community’s and those tokens were not staked on June 9th:
+Más de 120,000 miembros de las siguientes comunidades que nos han inspirado. Usted es elegible para 200 FOX si tenía más de $ 1,500 de la comunidad y esos tokens no entraron en Stake el 9 de junio:
 
 | --- | --- | --- | --- | --- |
 | Gitcoin | Aave | Compound | Uniswap | SushiSwap |
@@ -113,35 +113,36 @@ Over 120,000 members of the following communities that have inspired us. You are
 | BadgerDAO | 0x | 1inch |   |   |
 {.no-border}
 
-> Important note: All addresses have 90 days from today to claim their Airdropped FOX Tokens. After that, the amount claimable will decrease 10% from the original amount each day for 10 days, and any unclaimed tokens after that period will be returned to the ShapeShift DAO, further increasing the DAO treasury.<br>
-Claiming Your Tokens: ‍For detailed information on token awards and how to claim awarded FOX Tokens, please see this informative Help Desk article.
+> Nota importante: Todas las direcciones tienen 90 días a partir de hoy para reclamar sus tokens FOX del Airdrop. Después de eso, la cantidad reclamable disminuirá un 10% de la cantidad original cada día durante 10 días, y cualquier token no reclamado después de ese período se devolverá al DAO de ShapeShift, aumentando aún más la tesorería del DAO.<br>
+Reclamar sus tokens: Para obtener información detallada sobre los premios de tokens y cómo reclamar los tokens FOX otorgados, consulte este artículo informativo de help desk.
 {.is-info}
 
 
-# Liquidity Mining: When it starts and how it works
+# Minería de liquidez: cuándo comienza y cómo funciona
 
-**FOX Liquidity Mining Is Here**
+**Fox Liquidity Mining ya está aquí**
 
-FOX Token holders that provide liquidity to the FOX/ETH pool on Uniswap V2 and stake their FOX-ETH-UNI-LP token in the ShapeShift Staking Rewards contract may earn a proportional share of 15,768,000 FOX Tokens over the following three months. Thereafter, governance will decide whether or not to continue or change the program.
+Los titulares de tokens FOX que proporcionan liquidez al grupo FOX/ETH en Uniswap V2 y apuestan su token FOX-ETH-UNI-LP en el contrato ShapeShift Staking Rewards pueden ganar una parte proporcional de 15,768,000 tokens FOX durante los siguientes tres meses. A partir de entonces, la gobernanza decidirá si continuar o no el programa.
 
 
-# FOX Utility: The benefits for users
+# FOX Utility: Los beneficios para los usuarios
 
-**FOX Perpetual Utility — Hodl FOX, Earn Crypto**
+**Utilidad perpetua FOX — Hodl FOX, Gana Criptomonedas**
 
-Other than governance, why should you care about FOX?
+Aparte de la gobernanza, ¿por qué debería preocuparse por FOX?
 
-FOX has always been a “Perpetual Utility” token—they provide benefits as long as you hodl them in your wallet. You do not need to spend your tokens to derive their benefits.
+FOX siempre ha sido un token de "Utilidad Perpetua": proporcionan beneficios siempre que los guarde (HOLD) en su billetera. No necesita gastar sus tokens para obtener sus beneficios.
 
-Here is the non-governance benefits that exists today:
+Estos son los beneficios de no gobernanza que existen hoy en día:
 
-**Rainfall**
+**Rainfall (LLuvia de Recompensas)**
 
-Rainfall rewards FOX hodlers with free crypto when people trade on ShapeShift. The more FOX you hold, the better your chances of winning a Rainfall reward.
+Rainfall recompensa a los hodlers de FOX con criptomonedas gratuitas cuando las personas comercian en ShapeShift. Cuanto más FOX tengas, mejores serán tus posibilidades de ganar una recompensa de Lluvia.
 
-For every qualifying transaction on ShapeShift, the following benefits are realized:
 
-- The user who makes a crypto trade earns more FOX Tokens
+Por cada transacción calificada en ShapeShift, se realizan los siguientes beneficios:
+
+- El usuario que realiza una operación crypto gana más tokens FOX
 - Another random FOX holder earns free USDC
 - Revenue generated for ShapeShift (if any) through that transaction goes to the ShapeShift DAO
 
