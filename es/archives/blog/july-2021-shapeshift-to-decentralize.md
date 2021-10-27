@@ -2,7 +2,7 @@
 title: Descentralización de ShapeShift: El anuncio
 description: ShapeShift, líder internacional no custodiado en criptomonedas, anuncia que ha iniciado a desmantelar su estructura corporativa, descentralizando su gobernabilidad a sus clientes a través de FOX Token. 
 published: true
-date: 2021-10-27T04:19:51.410Z
+date: 2021-10-27T04:53:41.922Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-27T02:05:25.760Z
