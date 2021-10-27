@@ -2,7 +2,7 @@
 title: Descentralización de ShapeShift: El anuncio
 description: ShapeShift, líder internacional no custodiado en criptomonedas, anuncia que ha iniciado a desmantelar su estructura corporativa, descentralizando su gobernabilidad a sus clientes a través de FOX Token. 
 published: true
-date: 2021-10-27T05:39:31.392Z
+date: 2021-10-27T05:53:40.905Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-27T02:05:25.760Z
@@ -187,8 +187,7 @@ FOX Token Address oficial: 0xc770eefad204b5180df6a14ee197d99d808ee52d
 - Todos los empleados y accionistas tienen una adquisición de tres años a través del contrato inteligente de Sablier, el contrato inicia a partir del 2 de junio de 2021 (la fecha de concesión) y todos los contratos están completamente adquiridos el 2 de junio de 2024.
 - ShapeShift DAO Governance Treasury tiene un cronograma de adquisición de derechos de tres años a través del contrato inteligente sablier; este contrato también está totalmente adquirido el 2 de junio de 2024.
 
-![Schedule](https://assets.website-files.com/5cec55545d0f47cfe2a39a8e/60ee9b3a558d84a6c5876fcb_FOX%20Supply%20Schedule%20v3.jpg)
-
+![fox_supply_schedule_español.jpg](/fox_supply_schedule_español.jpg)
 # Enlaces importantes
 
 Deposita FOX/ETH en Uniswap para ganar FOX: https://fox.shapeshift.com/fox-farming
