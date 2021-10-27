@@ -2,7 +2,7 @@
 title: Descentralización de ShapeShift: El anuncio
 description: ShapeShift, líder internacional no custodiado en criptomonedas, anuncia que ha iniciado a desmantelar su estructura corporativa, descentralizando su gobernabilidad a sus clientes a través de FOX Token. 
 published: true
-date: 2021-10-27T02:24:34.334Z
+date: 2021-10-27T02:50:12.794Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-27T02:05:25.760Z
@@ -16,25 +16,24 @@ Hace siete años, fuimos pioneros en el comercio de criptomonedas sin fricción 
 
 ![evolution-of-shapeshift.png](/assets/evolution-of-shapeshift.png)
 
-- In 2017, we acquired KeepKey to bring easy cold-storage to our users.
-- In 2018, we built a full self-custody crypto interface that incorporated KeepKey, Ledger, and Trezor hardware wallets with integrated trading functionality across chains.
-- In 2019, we removed all commissions for holders of the FOX Token.
-- In 2020, we acquired Portis to further engage with the burgeoning web3 dapp ecosystem and released ShapeShift’s self-custody mobile app.
-- And by late 2020, we began integrating decentralized protocols directly into the ShapeShift crypto platform to enable immutable, borderless trading with no intermediary, removing ourselves—and our prior business model—from the process.
+- En 2017, adquirimos KeepKey para brindar un fácil almacenamiento en billetera fría (Hardware) a nuestros usuarios.
+- En 2018, construimos una interfaz criptográfica de completa autocustodia que incorporó las billeteras de hardware KeepKey, Ledger y Trezor con funcionalidad integrada en todas las cadenas.
+- En 2019, eliminamos todas las comisiones para los dueños de FOX token.
+- En 2020, adquirimos Portis para involucrarnos aún más con el floreciente ecosistema web3 dapp y lanzamos la aplicación móvil autocustodiada de ShapeShift.
+- Y a fines de 2020, comenzamos a integrar protocolos descentralizados directamente en la plataforma criptográfica ShapeShift para permitir el comercio inmutable, sin fronteras y sin intermediarios, eliminándonos a nosotros mismos - y a nuestro modelo de negocio anterior-, del proceso.
 
-This evolution enabled us to return protection and dignity to our users, ending KYC and other intrusive financial surveillance practices. ShapeShift will never be a bank. The end goal has been and remains: a world where people are empowered to manage their own financial futures, without sacrificing their privacy and control to governmental and middlemen entities. A world where users can participate in and explore new voluntary forms of financial innovation.
+Esta evolución nos permitió devolver la protección y la dignidad a nuestros usuarios, poniendo fin a KYC y otras prácticas intrusivas de vigilancia financiera. ShapeShift nunca será un banco. El objetivo final ha sido y sigue siendo: un mundo donde las personas estén empoderadas para administrar su propio futuro financiero, sin sacrificar su privacidad y control a entidades gubernamentales e intermediaras. Un mundo donde los usuarios puedan participar y explorar nuevas formas voluntarias de innovación financiera.
 
-> It has become clear to us that decentralization is the only way to achieve borderless, immutable finance. Therefore, decentralizing ShapeShift is how we choose to maintain fidelity to the principles first established by Satoshi and the Bitcoin whitepaper.
+> Nos ha quedado claro que la descentralización es la única manera de lograr una financiación sin fronteras e inmutable. Por lo tanto, descentralizar ShapeShift es la forma en que elegimos mantener la fidelidad a los principios establecidos por primera vez por Satoshi y el documento técnico (Whitepaper) de Bitcoin.
+A partir de hoy, nuestro proceso de descentralización se llevará en pasos:
 
-Starting today, our process of decentralization will occur in steps:
+- Significa que ShapeShift, con el tiempo, pasará a ser completamente de código abierto.  
+- Significa que ShapeShift desmantelará toda su estructura corporativa de una manera que respete a nuestros accionistas y empodere a nuestros empleados.
+- Significa que la propiedad y el gobierno sobre el futuro de ShapeShift se traslada a la comunidad amplia y descentralizada de titulares de FOX tokens, a partir de ahora.
 
-- It means ShapeShift will, over time, go fully open-source. 
-- It means ShapeShift will dismantle its entire corporate structure in a way that respects our shareholders and empowers our employees.
-- It means the ownership and governance over ShapeShift’s future moves to the broad and decentralized community of FOX Token holders, starting now.
+Hasta donde sabemos, ninguna otra empresa establecida se ha descentralizado a tal grado. Este es un nuevo terreno que esperamos inspire a otros también.
 
-To our knowledge, no established company has ever decentralized itself to this degree. This is new ground that we hope will inspire others as well.
-
-It is with great enthusiasm and gratitude to the many pioneers around us that we begin this next phase of ShapeShift’s journey.
+Es con gran entusiasmo y gratitud a los muchos pioneros que nos rodean que comenzamos esta próxima fase del viaje de ShapeShift.
 
 We begin this new phase from a position of strength. Since 2014, ShapeShift has grown to support a broad community of users and has facilitated a vast number of crypto transactions (as of the end of May 2021):
 
