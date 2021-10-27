@@ -2,7 +2,7 @@
 title: Descentralización de ShapeShift: El anuncio
 description: ShapeShift, líder internacional no custodiado en criptomonedas, anuncia que ha iniciado a desmantelar su estructura corporativa, descentralizando su gobernabilidad a sus clientes a través de FOX Token. 
 published: true
-date: 2021-10-27T03:51:52.039Z
+date: 2021-10-27T03:56:32.024Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-27T02:05:25.760Z
@@ -203,10 +203,10 @@ La hoja de ruta de ShapeShift será determinada en última instancia por los tit
 
 - Implemente soporte para billeteras adicionales, incluidas, entre otras, MetaMask, Trust Wallet, WalletConnect y Gnosis Safe. Estamos considerando .js a bordo para esto.
 
-**Open Sourcing**
+**Código abierto**
 
-- Open source all ShapeShift code and infrastructure.
-- Replace or decentralize functionality that currently relies on centralized infrastructure, such as ShapeShift oAuth.
+- Código abierto para todo ShapeShift y su infraestructura.
+- Reemplazar o descentralizar la funcionalidad que actualmente depende de la infraestructura centralizada, como ShapeShift oAuth.
 - Anything that cannot be open-sourced in the short-term will be run by the Foundation with the intention of it open-sourcing and decentralizing when possible in coordination with the community.
 
 **Additional Blockchains**
