@@ -1,9 +1,9 @@
 ---
 title: ShapeShift Vision, Mission, et Valeurs
 description: Les croyances fondamentales qui font ShapeShift, écrites par Willy.
-published: false
-date: 2021-10-25T00:24:21.939Z
-tags: mission, shapeshift, vision, willy, valeurs
+published: true
+date: 2021-10-27T14:23:57.255Z
+tags: mission, shapeshift, valeurs, vision, willy
 editor: markdown
 dateCreated: 2021-10-25T00:24:21.939Z
 ---
