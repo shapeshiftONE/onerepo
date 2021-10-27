@@ -2,7 +2,7 @@
 title: Descentralización de ShapeShift: El anuncio
 description: ShapeShift, líder internacional no custodiado en criptomonedas, anuncia que ha iniciado a desmantelar su estructura corporativa, descentralizando su gobernabilidad a sus clientes a través de FOX Token. 
 published: true
-date: 2021-10-27T02:56:45.439Z
+date: 2021-10-27T03:04:36.230Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-27T02:05:25.760Z
@@ -41,23 +41,23 @@ Comenzamos esta nueva fase desde una posición de fuerza. Desde 2014, ShapeShift
 
 Hemos evolucionado continuamente para ofrecer a los usuarios acceso a una gama de servicios y capacidades innovadores ampliamente solicitados, sin fricción:
 
-- Intercambiar via 0x DEX con las mejores tasas disponibles 
-- Cross-chain swaps, including native BTC to ETH, via THORChain integration
-- Earn interest by providing FOX & ETH liquidity on Uniswap V2
-- Fully non-custodial, including our secure native software wallet
-- Accessible with KeepKey and most prominent hardware wallets including Ledger and Trezor
-- Fast and private, with no account or KYC required
+- Intercambiar via nueva agregación 0x DEX con las mejores tasas disponibles 
+- Intercambios entre cadenas, incluido BTC nativo a ETH, a través de la integración thorChain
+- Gane intereses proporcionando liquidez a FOX & ETH en Uniswap V2
+- Totalmente sin custodia, incluida nuestra billetera segura de software nativa
+- Accesible con KeepKey y las carteras de hardware más destacadas, incluidas Ledger y Trezor
+- Rápido y privado, sin necesidad de cuenta o KYC
 
-> Is All Corporate Structure Really Going Away? 
-Learn more about why we’ve made this decision: [Erik Voorhees’ Blog Post](https://erikvoorhees.medium.com/shapeshift-is-decentralizing-639bb4c82fc8)
+> ¿Realmente va a desaparecer toda la estructura corporativa?
+Obtén más información sobre por qué hemos tomado esta decisión: [Erik Voorhees’ Blog Post](https://erikvoorhees.medium.com/shapeshift-is-decentralizing-639bb4c82fc8)
 {.is-success}
 
 
-# FOX Superpower: Governance
+# FOX Superpower: Gobernanza
 
-The FOX Token has always been our way of giving extra utility to those who support the ShapeShift platform and community (starting with no trading fees in 2019). Now, FOX is becoming the entire control and ownership structure of the project.
+El token FOX siempre ha sido nuestra forma de dar una utilidad adicional a aquellos que apoyan la plataforma y la comunidad ShapeShift (comenzando sin tarifas comerciales en 2019). Ahora, FOX se está convirtiendo en toda la estructura de control y propiedad del proyecto.
 
-With time, governance over the entire ShapeShift open-source platform will move to FOX holders. This will be a process in which decision making moves from the fully centralized shareholder/board structure of ShapeShift today to a fully decentralized community/token structure in the future.
+Con el tiempo, la gobernanza de toda la plataforma de código abierto ShapeShift se trasladará a los titulares de FOX. Este será un proceso en el que la toma de decisiones se mueva de la estructura de accionistas / juntas totalmente centralizada de ShapeShift hoy a una estructura de comunidad / token totalmente descentralizada en el futuro.
 
 FOX holders will eventually govern all important decisions of the project. This includes governing the ShapeShift DAO—a new DAO treasury endowed with over 240,000,000 FOX Tokens (24% of all FOX).
 
