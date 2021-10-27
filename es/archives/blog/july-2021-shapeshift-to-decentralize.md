@@ -2,7 +2,7 @@
 title: Descentralización de ShapeShift: El anuncio
 description: ShapeShift, líder internacional no custodiado en criptomonedas, anuncia que ha iniciado a desmantelar su estructura corporativa, descentralizando su gobernabilidad a sus clientes a través de FOX Token. 
 published: true
-date: 2021-10-27T03:35:52.935Z
+date: 2021-10-27T03:51:52.039Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-27T02:05:25.760Z
@@ -142,68 +142,66 @@ Rainfall recompensa a los hodlers de FOX con criptomonedas gratuitas cuando las 
 
 Por cada transacción calificada en ShapeShift, se realizan los siguientes beneficios:
 
-- El usuario que realiza una operación crypto gana más tokens FOX
-- Another random FOX holder earns free USDC
-- Revenue generated for ShapeShift (if any) through that transaction goes to the ShapeShift DAO
+- El usuario que realiza un intercambio crypto gana más tokens FOX
+- Otro titular aleatorio de FOX gana USDC gratis
+- Los ingresos generados por ShapeShift (si los hay) a través de esa transacción se destinan al DAO de ShapeShift
 
-**FOX Fuel: Reimbursement for Gas Fees**
+**FOX Fuel: Reembolso de las tarifas de gas**
 
-Gas fees can get expensive!
+¡Las tarifas de gas pueden ser caras!
 
-FOX Tokens help you offset these costs. 10% of the current market value of your FOX Tokens, as determined by CoinCap.io at the time of trade, can be repaid to you every 30 days in additional FOX Tokens to help reimburse you for gas costs on trades. With enough FOX Tokens, this can potentially cover all of one’s gas costs on trades.
+Los tokens FOX le ayudan a compensar estos costos. El 10% del valor de mercado actual de sus Tokens FOX, según lo determinado por CoinCap.io en el momento de la operación, se le puede reembolsar cada 30 días en Tokens FOX adicionales para ayudarlo a reembolsar los costos de gas en las operaciones. Con suficientes tokens FOX, esto puede cubrir potencialmente todos los costos de gas en las operaciones.
 
-Example: If you have $500 of FOX, you can get reimbursed $50 each month for gas fees on your trades via an equivalent value in FOX (and so on). The FOX Fuel reward is calculated and rewarded when the trade is completed, and the benefit refreshes 30 days after each trade.
+Ejemplo: Si tiene $ 500 de FOX, puede recibir un reembolso de $ 50 cada mes por las tarifas de gas en sus operaciones a través de un valor equivalente en FOX (y así sucesivamente). La recompensa fox fuel se calcula y recompensa cuando se completa la operación, y el beneficio se actualiza 30 días después de cada operación.
 
-Taken together, ShapeShift trades are more competitive than other offerings. In the example below, a 1000 DAI trade yields more than $1000 of output coin to the user via ShapeShift. Uniswap and MetaMask yield negative via slippage and fees.
+En conjunto, las operaciones de ShapeShift son más competitivas que otras ofertas. En el siguiente ejemplo, una operación de 1000 DAI produce más de $ 1000 de moneda de salida para el usuario a través de ShapeShift. Uniswap y MetaMask rinden negativo a través de deslizamiento y tarifas (fees).
 
-# FOX Allocation: Today and into the future
+# Asignación FOX: Hoy y en el futuro
 
-The FOX allocation breaks down as follows:
+La asignación de FOX se desglosa de la siguiente manera::
 
 ![FOX Allocation](https://assets.website-files.com/5cec55545d0f47cfe2a39a8e/60ee99b227abae6ec6a63d67_allocation%20chart.jpg)
 
-## Supply and Circulation
+## Suministro y circulación
 
-Total Supply: 1,000,001,337 (no inflation)
+Suministro total: 1.000.001.337 (sin inflación)
 
-- 340,000,000 (34%) granted to the ShapeShift customers and DeFi community via airdrop
-- 320,000,000 (32%) granted to employees and shareholders
-- 242,000,000 (24%) granted to ShapeShift DAO (governance treasury)
-- 75,000,000 (7.5%) granted to the Foundation
-- 13,000,000 (1.3%) retained by ShapeShift during decentralization process
-- ~10,000,000 (1%) already in circulation with >21,000 holders
+- 340,000,000 (34%) otorgados a los clientes de ShapeShift y la comunidad DeFi a través de airdrop
+- 320.000.000 (32%) otorgados a empleados y accionistas
+- 242.000.000 (24%) otorgados a ShapeShift DAO (tesorería de gobernanza)
+- 75.000.000 (7,5%) concedidos a la Fundación
+- 13.000.000 (1,3%) retenidos por ShapeShift durante el proceso de descentralización
+- ~10,000,000 (1%) ya en circulación con >21,000 titulares
 
-The active (unlocked/unvested) supply at the time of the airdrop, approximately 438M FOX, is roughly 75% in the hands of the community:
+El suministro activo (desbloqueado / no invertido) en el momento del Airdrop, aproximadamente 438M FOX, está aproximadamente en manos del 75% de la comunidad:
+- 10M + 340M en poder de la comunidad
+- 75M + 13M en poder de ShapeShift
+- Todos los demás tokens están en adquisición de derechos por tres años
 
-- 10M + 340M held by community
-- 75M + 13M held by ShapeShift
-- All other buckets are on three-year vesting
+FOX Token Address oficial: 0xc770eefad204b5180df6a14ee197d99d808ee52d
 
-Official FOX Token Address: 0xc770eefad204b5180df6a14ee197d99d808ee52d
+## Horarios de distribución y bloqueo
 
-## Distribution and Lockup Schedules
-
-- No lockup on airdrop recipients
-- All employees and shareholders have three-year vesting via Sablier smart contract, the contracts vest as of June 2nd, 2021 (the grant date), and all contracts are fully vested on June 2nd, 2024.
-- ShapeShift DAO Governance Treasury has a three-year vesting schedule via Sablier smart contract; this contract is also fully vested on June 2nd, 2024.
+- Sin bloqueo en los destinatarios de airdrop
+- Todos los empleados y accionistas tienen una adquisición de tres años a través del contrato inteligente de Sablier, el contrato inicia a partir del 2 de junio de 2021 (la fecha de concesión) y todos los contratos están completamente adquiridos el 2 de junio de 2024.
+- ShapeShift DAO Governance Treasury tiene un cronograma de adquisición de derechos de tres años a través del contrato inteligente sablier; este contrato también está totalmente adquirido el 2 de junio de 2024.
 
 ![Schedule](https://assets.website-files.com/5cec55545d0f47cfe2a39a8e/60ee9b3a558d84a6c5876fcb_FOX%20Supply%20Schedule%20v3.jpg)
 
-# Important Links
+# Enlaces importantes
 
-Deposit FOX/ETH on Uniswap to earn FOX: https://fox.shapeshift.com/fox-farming
-
+Deposita FOX/ETH en Uniswap para ganar FOX: https://fox.shapeshift.com/fox-farming
 - FOX SnapShot: https://app.boardroom.info/shapeshift/proposals 
 - FOX Forum:  https://forum.shapeshift.com
 - FOX Discord: https://discord.com/invite/shapeshift
 
-# Tentative Roadmap
+# Hoja de ruta tentativa
 
-The ShapeShift roadmap will ultimately be determined by FOX holders. To get the ball rolling, here are some of the major initiatives from the current ShapeShift roadmap, many of which are already in progress:
+La hoja de ruta de ShapeShift será determinada en última instancia por los titulares de FOX. Para iniciar la marcha, estas son algunas de las principales iniciativas de la hoja de ruta actual de ShapeShift, muchas de las cuales ya están en progreso:
 
-**Wallet Support**
+**Soporte de billetera**
 
-- Implement support for additional wallets, including but not limited to MetaMask, Trust Wallet, WalletConnect, and Gnosis Safe. We’re considering onboard.js for this.
+- Implemente soporte para billeteras adicionales, incluidas, entre otras, MetaMask, Trust Wallet, WalletConnect y Gnosis Safe. Estamos considerando .js a bordo para esto.
 
 **Open Sourcing**
 
