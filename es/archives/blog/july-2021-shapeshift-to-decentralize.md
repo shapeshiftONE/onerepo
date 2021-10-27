@@ -2,7 +2,7 @@
 title: Descentralización de ShapeShift: El anuncio
 description: ShapeShift, líder internacional no custodiado en criptomonedas, anuncia que ha iniciado a desmantelar su estructura corporativa, descentralizando su gobernabilidad a sus clientes a través de FOX Token. 
 published: true
-date: 2021-10-27T03:04:36.230Z
+date: 2021-10-27T03:18:59.602Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-27T02:05:25.760Z
@@ -59,33 +59,35 @@ El token FOX siempre ha sido nuestra forma de dar una utilidad adicional a aquel
 
 Con el tiempo, la gobernanza de toda la plataforma de código abierto ShapeShift se trasladará a los titulares de FOX. Este será un proceso en el que la toma de decisiones se mueva de la estructura de accionistas / juntas totalmente centralizada de ShapeShift hoy a una estructura de comunidad / token totalmente descentralizada en el futuro.
 
-FOX holders will eventually govern all important decisions of the project. This includes governing the ShapeShift DAO—a new DAO treasury endowed with over 240,000,000 FOX Tokens (24% of all FOX).
+Los titulares de FOX eventualmente gobernarán todas las decisiones importantes del proyecto. Esto incluye gobernar el DAO de ShapeShift, un nuevo tesoro de DAO dotado con más de 240,000,000 de tokens FOX (24% de todos los FOX).
 
-What types of decisions could ShapeShift DAO governance control going forward?
+¿Qué tipos de decisiones podría controlar el gobierno de DAO de ShapeShift en el futuro?
 
-- Which protocols and assets to integrate.
-- How to spend or invest funds in the ShapeShift DAO, such as:
-  - Funding community initiatives like liquidity mining, Rainfall, FOX Fuel, and FOX rewards or other new initiatives.
-  - Which products or services to build.
-  - Hiring contractors to build those products or services (and selecting those hired).
-- Whether to add or change fees for using the ShapeShift interface (currently, ShapeShift does not add any fees but has the capability to turn these on). Examples of this today include: fees on 0x trades, fees on THORChain trades, fees on LP tx’s through THORChain, and fees on fiat purchases through Banxa.
-- And any other ideas contributed by our customers and community.
+- Qué protocolos y activos a integrar.
+- Cómo gastar o invertir fondos de él DAO de ShapeShift, como:
+  - Financiar iniciativas comunitarias como la minería de liquidez, Rainfall, FOX Fuel y FOX rewards u otras iniciativas nuevas.
+  - Qué productos o servicios construir.
+  - Contratar personas o equipos para crear esos productos o servicios (y seleccionar a los contratados).
+- Ya sea para agregar o cambiar tarifas por usar la interfaz de ShapeShift (actualmente, ShapeShift no agrega ninguna tarifa, pero tiene la capacidad de activarlas). Ejemplos de esto hoy en día incluyen: tarifas en operaciones 0x, tarifas en operaciones THORChain, tarifas en LP tx a través de THORChain y tarifas en compras fiduciarias a través de Banxa.
+- Y cualquier otra idea aportada por nuestros clientes y la comunidad.
 
-FOX hodlers are encouraged to engage—discuss and debate ideas, brainstorm the optimal path forward, suggest a route change to the roadmap. Please see the “Important Links” section below for the ShapeShift community chat on Discord, the ShapeShift Discourse forum, and ShapeShift’s governance portal on Boardroom, where we will focus all open discussion and communications for the decentralized community.
+Se alienta a los hodlers de FOX a participar: discutir y debatir ideas, hacer una lluvia de ideas sobre el camino óptimo a seguir, sugerir un camino para la hoja de ruta. Consulte la sección "Enlaces importantes" a continuación para el chat de la comunidad de ShapeShift en Discord, el foro de Discurso de ShapeShift y el portal de gobernanza de ShapeShift en la sala de juntas, donde centraremos toda la discusión abierta y las comunicaciones para la comunidad descentralizada.
 
-ShapeShift will establish a well-funded non-profit organization—a Foundation—with the narrow objective to promote and facilitate a transition to a completely decentralized, community-owned project. As sufficient decentralization is achieved, this Foundation has a mandate to dissolve away.
+ShapeShift establecerá una organización sin fines de lucro bien financiada, una Fundación, con el objetivo estrecho de promover y facilitar una transición a un proyecto completamente descentralizado y propiedad de la comunidad. A medida que se logre una descentralización suficiente, esta Fundación tiene el mandato de disolverse.
 
-The ShapeShift DAO is powered by SafeSnap (SnapShot + Gnosis Safe), which means community members can propose and vote on proposals with zero gas fees, and the result of those votes can trigger on-chain transactions.
+El DAO de ShapeShift funciona con SafeSnap (SnapShot + Gnosis Safe), lo que significa que los miembros de la comunidad pueden proponer y votar propuestas con cero tarifas de gas, y el resultado de esos votos puede desencadenar reacciones en cadena.
 
-Voting power applies to those with FOX in their wallets and will soon be upgraded to include FOX in the FOX/ETH Liquidity Pool on Uniswap V2.
+El poder de voto se aplica a aquellos con FOX en sus billeteras y pronto se actualizará para incluir a FOX en el grupo de liquidez fox / ETH en Uniswap V2.
 
-# The Largest Airdrop in History
+# El Airdrop más grande de la historia
 
-As of this post, FOX has been airdropped to the largest number of eligible recipients in crypto history. There are now more than 1 million potential FOX holders who can choose to claim tokens.
+A partir de esta publicación, FOX ha realizado el mayor Airdrop, al mayor número de destinatarios elegibles en la historia de las criptomonedas. Ahora hay más de 1 millón de posibles titulares de FOX que pueden optar por reclamar tokens.
 
-This makes FOX Tokens one of the most widely distributed tokens in history. ShapeShift has never sold these tokens; there was no ICO. 
+Esto hace que FOX Tokens sea uno de los tokens más ampliamente distribuidos de la historia. ShapeShift nunca ha vendido estos tokens; no había ICO. 
 
-## Eligible Recipients
+
+## Destinatarios elegibles
+
 
 - Over 900,000 ShapeShift customers and KeepKey owners
 - Every customer who has ever traded $1 or more of ETH or any ERC-20 token through ShapeShift prior to June 9, 2021 is eligible:
