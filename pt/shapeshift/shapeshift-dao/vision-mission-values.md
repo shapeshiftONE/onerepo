@@ -2,7 +2,7 @@
 title: Visão, Missão e Valores da ShapeShift
 description: As crenças básicas que fazem da ShapeShift, escrito por Willy.
 published: true
-date: 2021-10-29T22:21:47.609Z
+date: 2021-10-29T22:33:39.600Z
 tags: institucional, missao, shapeshiftdao, valores, vissao
 editor: markdown
 dateCreated: 2021-10-25T01:38:48.308Z
