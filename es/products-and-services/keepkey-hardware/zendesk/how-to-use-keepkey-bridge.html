@@ -2,7 +2,7 @@
 title: Cómo utilizar el puente KeepKey Bridge
 description: The KeepKey Bridge is a Microsoft Windows application that is designed to help with webUSB connectivity problems between KeepKey and a Windows machine.
 published: true
-date: 2021-11-03T20:12:18.461Z
+date: 2021-11-03T20:28:35.870Z
 tags: hardware wallet, hd wallet, keepkey, keepkey wallet, keepkey-zendesk, zendesk
 editor: ckeditor
 dateCreated: 2021-10-31T19:22:03.564Z
@@ -12,27 +12,27 @@ dateCreated: 2021-10-31T19:22:03.564Z
 <h2>¿Qué es KeepKey Bridge?</h2>
 <p>KeepKey Bridge es una aplicación de Microsoft Windows que está diseñada para ayudar con los problemas de conectividad webUSB entre KeepKey y una máquina con Windows.</p>
 <p>Bridge se ejecuta como una aplicación que abre una conexión USB local a KeepKey. Bridge expone un puerto de host local que la aplicación web ShapeShift puede usar para comunicarse con KeepKey. KeepKey en sí no es consciente del Bridge, pero la aplicación web ShapeShift debe estar dirigida para usar Bridge.</p>
-<h2><strong>When Should I Try It?</strong></h2>
-<p>If you are using a Windows machine and are having trouble getting your KeepKey connected to <a href="https://beta.shapeshift.com/"><strong>beta.shapeshift.com</strong></a>, try running the bridge by using the instructions below.</p>
-<h2><strong>Installing The Bridge</strong></h2>
-<p><strong>1.</strong> Before using the bridge, be sure that your KeepKey is updated to the most recent bootloader/firmware. The updater app can be found <a href="https://beta.shapeshift.com/updater-download#"><strong>here</strong></a>. Download the latest release of the KeepKey bridge <a href="https://github.com/keepkey/python-keepkey/releases"><strong>here</strong>.</a></p>
+<h2>¿Cuándo debería intentarlo?</h2>
+<p>Si está utilizando una máquina con Windows y tiene problemas para conectar su KeepKey a <a href="https://beta.shapeshift.com/"><strong>beta.shapeshift.com</strong></a>, intente ejecutar Bridge siguiendo las instrucciones a continuación.</p>
+<h2><strong>Instalar The Bridge</strong></h2>
+<p><strong>1.</strong> Antes de usar The Bridge, asegúrese de que su KeepKey esté actualizado al cargador de arranque / firmware más reciente. Se puede encontrar la aplicación de actualización <a href="https://beta.shapeshift.com/updater-download#"><strong>here</strong></a>. Descargue la última versión de KeepKey bridge <a href="https://github.com/keepkey/python-keepkey/releases"><strong>here</strong>.</a></p>
 <figure class="image"><img src="https://shapeshift.zendesk.com/hc/article_attachments/4412027362829/kkupdate.png" alt="kkupdate.png"></figure>
-<p><i><strong>Note</strong></i>: Your computer will likely give some warnings when downloading/running this application. You can click "Run Anyway" to continue the installation.&nbsp;</p>
+<p>Nota: Es probable que su computadora le dé algunas advertencias al descargar / ejecutar esta aplicación. Puede hacer clic en "Ejecutar de todos modos" para continuar con la instalación.</p>
 <figure class="image"><img src="https://shapeshift.zendesk.com/hc/article_attachments/4412027356941/kkbsetup.png" alt="kkbsetup.png"></figure>
-<p><strong>2.</strong> Once the kkbsetup.exe file is downloaded, you can verify that the file is what we claim it is by comparing the SHA256 of the executable with the published digest in the release notes. This is done by opening up a cmd window (Command Prompt), navigating to the Downloads folder, and typing: <strong>cetuil -hashfile kkbsetup.exe SHA256</strong>. The resulting info displayed should match what is published in the <a href="https://github.com/keepkey/python-keepkey/releases"><strong>python-keepkey releases</strong></a> notes. If everything matches up, double click the file to install (<i>creating a desktop shortcut is recommended for convenience</i>).</p>
+<p><strong>2.</strong> Una vez que se descarga el archivo kkbsetup.exe, puede verificar que el archivo es lo que afirmamos comparando el SHA256 del ejecutable con el resumen publicado en las notas de la versión. Esto se hace abriendo una ventana de cmd (símbolo del sistema), navegando a la carpeta Descargas y escribiendo: cetuil -hashfile kkbsetup.exe SHA256. La información resultante que se muestre debe coincidir con la publicada en el <a href="https://github.com/keepkey/python-keepkey/releases"><strong>python-keepkey releases</strong></a> notas. Si todo coincide, haga doble clic en el archivo para instalar (se recomienda crear un acceso directo en el escritorio para su comodidad).</p>
 <figure class="image"><img src="https://shapeshift.zendesk.com/hc/article_attachments/4412021629197/runanyway.png" alt="runanyway.png"></figure>
-<h2><strong>Using The Bridge</strong></h2>
-<p><strong>3.</strong> When starting the KeepKey Bridge application,&nbsp; a blank window will appear. Even though it is blank, the bridge is running (we know it's not an ideal UI, but we're working on an improvement soon!). When the window is closed, the bridge will stop running.</p>
+<h2><strong>Usar The Bridge</strong></h2>
+<p><strong>3.</strong> Al iniciar la aplicación KeepKey Bridge, aparecerá una ventana en blanco. Aunque está en blanco, el puente se está ejecutando (sabemos que no es una interfaz de usuario ideal, ¡pero estamos trabajando en una mejora pronto!). Cuando la ventana está cerrada, The Bridge dejará de funcionar.</p>
 <figure class="image"><img src="https://shapeshift.zendesk.com/hc/article_attachments/4412027408781/blank.png" alt="blank.png"></figure>
-<p><strong>4.</strong> With the bridge running, head over to <a href="https://beta.shapeshift.com/"><strong>beta.shapeshift.com</strong></a>. Select KeepKey as the wallet you'd like to pair.</p>
+<p><strong>4.</strong> Con The Bridge en funcionamiento, dirígete a <a href="https://beta.shapeshift.com/"><strong>beta.shapeshift.com</strong></a>. Seleccione KeepKey como la billetera que le gustaría emparejar.</p>
 <figure class="image"><img src="https://shapeshift.zendesk.com/hc/article_attachments/4412030326157/selectkeepkey.png" alt="selectkeepkey.png"></figure>
 <figure class="image"><img src="https://shapeshift.zendesk.com/hc/article_attachments/4412030342285/pair1.png" alt="pair1.png"></figure>
-<p><strong>5.</strong> Click the checkbox and then select "TRY KEEPKEY BRIDGE".</p>
+<p><strong>5.</strong> Haga clic en la casilla de verificación y luego seleccione "PROBAR KEEPKEY BRIDGE" (TRY KEEPKEY BRIDGE).</p>
 <figure class="image"><img src="https://shapeshift.zendesk.com/hc/article_attachments/4412027472909/pair2.png" alt="pair2.png"></figure>
 <figure class="image"><img src="https://shapeshift.zendesk.com/hc/article_attachments/4412030346509/trybridge.png" alt="trybridge.png"></figure>
-<p>If successful, your wallet will start syncing and eventually connect to the platform.</p>
+<p>Si tiene éxito, su billetera comenzará a sincronizarse y eventualmente se conectará a la plataforma.</p>
 <figure class="image"><img src="https://shapeshift.zendesk.com/hc/article_attachments/4412030363021/paired.png" alt="paired.png"></figure>
-<h2>Troubleshooting</h2>
+<h2>Solución de problemas</h2>
 <figure class="image"><img src="https://shapeshift.zendesk.com/hc/article_attachments/4412030511885/error.png" alt="error.png"></figure>
 <p>If you run into any error messages (like the one pictured above) when attempting to pair your KeepKey via the bridge or it just won't connect, please try the following:</p>
 <p><strong>1.&nbsp;</strong>Go to the <a href="https://beta.shapeshift.com/settings"><strong>settings page</strong></a> and "forget" your KeepKey.</p>
