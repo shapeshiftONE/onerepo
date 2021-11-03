@@ -1,53 +1,45 @@
 <!--
-title: Replacing Your Driver Using Zadig
-description: Is your Windows machine not detecting your KeepKey, Trezor, or Ledger? We have found that some machines do not have the appropriate...
+title: Reemplazo de su controlador con Zadig
+description: ¿Su máquina con Windows no detecta su KeepKey, Trezor o Ledger? Hemos encontrado que algunas máquinas no tienen el apropiado ...
 published: true
-date: 2021-10-31T12:38:32.281Z
-tags: keepkey, hardware wallet, hd wallet, keepkey wallet, zendesk, keepkey-zendesk
+date: 2021-11-03T23:06:06.964Z
+tags: hardware wallet, hd wallet, keepkey, keepkey wallet, keepkey-zendesk, zendesk
 editor: ckeditor
+dateCreated: 2021-10-31T19:22:23.954Z
 -->
 
-<h1>Replacing Your Driver Using Zadig</h1>
-<div class="article-content">
-          <div class="article-body"><h2>Is your Windows machine not detecting your KeepKey, Trezor, or Ledger?</h2>
-<h2>We have found that some machines do not have the appropriate default driver settings to successfully recognize a hardware wallet device on beta.shapeshift.com. Not to worry. We have a solution directly from the Windows to help.&nbsp; The following will explain how to use a USB driver installer called Zadig.<br>&nbsp;<br>Installing Zadig</h2>
-<p>1. To start, head over to&nbsp;<a href="https://zadig.akeo.ie/" target="_self">Zadig</a>&nbsp;Click "Zadig 2.4" and begin the installation.</p>
-<p><img src="https://shapeshift.zendesk.com/hc/article_attachments/360008039340/zadig1.png" alt="zadig1.png"></p>
-<p><img src="https://shapeshift.zendesk.com/hc/article_attachments/360008048859/zadig.2.png" alt="zadig.2.png"></p>
-<p>2. Once installed, you should see something like this:</p>
-<p><img src="https://shapeshift.zendesk.com/hc/article_attachments/360008048879/zadig.3.png" alt="zadig.3.png"></p>
-<h2>Replacing Your Driver</h2>
-<p>3. Click "Options" and select "List All Devices".</p>
-<p><img src="https://shapeshift.zendesk.com/hc/article_attachments/360008048899/zadig.8.png" alt="zadig.8.png"></p>
-<p>4. You should now see that devices have been detected. Click the drop down caret and select "KeepKey Interface (Interface 0). <strong>For this process, it is important to note that we are NOT going to select KeepKey U2F Interface (Interface 1).</strong></p>
-<p><img src="https://shapeshift.zendesk.com/hc/article_attachments/360008039300/zadig.9.png" alt="zadig.9.png"></p>
-<p>5. To the right of the green arrow use the up or down arrow(s) to navigate to libusbK (v3.0.7.0).</p>
-<p>&nbsp;<img src="https://shapeshift.zendesk.com/hc/article_attachments/360008048959/zadig.13.png" alt="zadig.13.png"></p>
-<p>Note: If your current Driver is already libusbK (v3.0.7.0), use the up or down arrow(s) to select WinUSB (v6.1.7600.16385).</p>
-<p>Zadig should now look something like this:</p>
-<p><img src="https://shapeshift.zendesk.com/hc/article_attachments/360008039220/zadig.4.png" alt="zadig.4.png"></p>
-<p>6. Click "Replace Driver".</p>
-<p>7. The driver will begin to install.</p>
-<p><img src="https://shapeshift.zendesk.com/hc/article_attachments/360008039240/zadig.5.png" alt="zadig.5.png"></p>
-<p><img src="https://shapeshift.zendesk.com/hc/article_attachments/360008039260/zadig.6.png" alt="zadig.6.png"></p>
-<p>8. You should now see that your current driver has changed to libusbK (or WinUSB depending on which one you replaced.</p>
-<p><img src="https://shapeshift.zendesk.com/hc/article_attachments/360008048919/zadig.10.png" alt="zadig.10.png"></p>
-<p>If you had beta.shapeshift.com open, go ahead and close that down. Restart whichever you were trying to connect your device to and try to pair the KeepKey. If the driver was indeed the issue causing your device to not be detected, you should now see that you are able to connect your KeepKey.</p>
+<h1>Reemplazo de su controlador con Zadig</h1>
+<h2>¿Su máquina con Windows no detecta su KeepKey, Trezor o Ledger?</h2>
+<h2>Hemos descubierto que algunas máquinas no tienen la configuración de controlador predeterminada adecuada para reconocer correctamente un dispositivo de billetera de hardware en beta.shapeshift.com. No es para preocuparse. Tenemos una solución directamente desde Windows para ayudar. A continuación, se explica cómo utilizar un instalador de controladores USB llamado Zadig.<br>&nbsp;<br>Instalar Zadig</h2>
+<p>1. Para empezar, dirígete a&nbsp;<a href="https://zadig.akeo.ie/">Zadig</a>&nbsp;Haga clic en "Zadig 2.4" y comience la instalación.</p>
+<figure class="image"><img src="https://shapeshift.zendesk.com/hc/article_attachments/360008039340/zadig1.png" alt="zadig1.png"></figure>
+<figure class="image"><img src="https://shapeshift.zendesk.com/hc/article_attachments/360008048859/zadig.2.png" alt="zadig.2.png"></figure>
+<p>2. Una vez instalado, debería ver algo como esto:</p>
+<figure class="image"><img src="https://shapeshift.zendesk.com/hc/article_attachments/360008048879/zadig.3.png" alt="zadig.3.png"></figure>
+<h2>Reemplazo de su controlador</h2>
+<p>3. Haga clic en "Opciones" y seleccione "Mostrar todos los dispositivos".</p>
+<figure class="image"><img src="https://shapeshift.zendesk.com/hc/article_attachments/360008048899/zadig.8.png" alt="zadig.8.png"></figure>
+<p>4. Ahora debería ver que se han detectado dispositivos. Haga clic en el cursor desplegable y seleccione "Interfaz KeepKey (Interfaz 0). Para este proceso, es importante tener en cuenta que NO vamos a seleccionar la Interfaz KeepKey U2F (Interfaz 1).</p>
+<figure class="image"><img src="https://shapeshift.zendesk.com/hc/article_attachments/360008039300/zadig.9.png" alt="zadig.9.png"></figure>
+<p>5. A la derecha de la flecha verde, use las flechas hacia arriba o hacia abajo para navegar hasta libusbK (v3.0.7.0).</p>
 <p>&nbsp;</p>
-<p><strong>If you are having trouble replacing your driver or would like help reverting this process, please contact our <a href="/hc/en-us/requests/new" target="_self">support team</a>.</strong></p>
+<figure class="image"><img src="https://shapeshift.zendesk.com/hc/article_attachments/360008048959/zadig.13.png" alt="zadig.13.png"></figure>
+<p>Nota: Si su controlador actual ya es libusbK (v3.0.7.0), use las flechas hacia arriba o hacia abajo para seleccionar WinUSB (v6.1.7600.16385).</p>
+<p>Zadig ahora debería verse así:</p>
+<figure class="image"><img src="https://shapeshift.zendesk.com/hc/article_attachments/360008039220/zadig.4.png" alt="zadig.4.png"></figure>
+<p>6. Haga clic en "Reemplazar controlador".</p>
+<p>7. El controlador comenzará a instalarse.</p>
+<figure class="image"><img src="https://shapeshift.zendesk.com/hc/article_attachments/360008039240/zadig.5.png" alt="zadig.5.png"></figure>
+<figure class="image"><img src="https://shapeshift.zendesk.com/hc/article_attachments/360008039260/zadig.6.png" alt="zadig.6.png"></figure>
+<p>8. Ahora debería ver que su controlador actual ha cambiado a libusbK (o WinUSB dependiendo de cuál reemplazó.</p>
+<figure class="image"><img src="https://shapeshift.zendesk.com/hc/article_attachments/360008048919/zadig.10.png" alt="zadig.10.png"></figure>
+<p>Si tenía abierto beta.shapeshift.com, continúe y ciérrelo. Reinicie el dispositivo al que intentaba conectar e intente emparejar KeepKey. Si el controlador fue realmente el problema que causó que no se detectara su dispositivo, ahora debería ver que puede conectar su KeepKey.</p>
+<p>&nbsp;</p>
+<p>Si tiene problemas para reemplazar su controlador o si desea obtener ayuda para revertir este proceso, comuníquese con nuestro<strong> </strong><a href="/hc/en-us/requests/new"><strong>support team</strong></a><strong>.</strong></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p></div>
-
-          <div class="article-attachments">
-            <ul class="attachments">
-              
-            </ul>
-          </div>
-        </div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <hr>
-<div class="meta-footer">
-<p>Documented archived by the ShapeShift DAO Information and Globalization workstream for translation purposes. Original article can be found <a href="https://shapeshift.zendesk.com/hc/en-us/articles/360011307520-Replacing-Your-Driver-Using-Zadig" target="_blank">here.</a></p>
-<p>Last updated: 5 months ago</p>
-</div>
-	
+<p>Documento archivado por el flujo de trabajo ShapeShift DAO Information and Globalization para fines de traducción. Se puede encontrar el artículo original <a href="https://shapeshift.zendesk.com/hc/en-us/articles/360011307520-Replacing-Your-Driver-Using-Zadig">here.</a></p>
+<p>Última actualización: hace 5 meses</p>
