@@ -1,9 +1,9 @@
 ---
-title: ShapeShift Vision, Mission, and Values
-description: The core beliefs that make ShapeShift, written by Willy.
+title: Visión, misión y valores de ShapeShift
+description: Las creencias centrales que hacen ShapeShift, escrito por Willy.
 published: true
-date: 2021-10-25T13:31:01.140Z
-tags: mission, shapeshift, valores, vision
+date: 2021-11-04T21:44:08.225Z
+tags: mission, shapeshift, valores, vision, willy
 editor: markdown
 dateCreated: 2021-10-25T00:00:35.148Z
 ---
