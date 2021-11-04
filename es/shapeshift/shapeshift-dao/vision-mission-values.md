@@ -2,7 +2,7 @@
 title: Visión, misión y valores de ShapeShift
 description: Las creencias centrales que hacen ShapeShift, escrito por Willy.
 published: true
-date: 2021-11-04T21:44:08.225Z
+date: 2021-11-04T21:44:43.269Z
 tags: mission, shapeshift, valores, vision, willy
 editor: markdown
 dateCreated: 2021-10-25T00:00:35.148Z
@@ -22,6 +22,6 @@ Nosotros seremos la ruta a un sistema financiero sin fronteras; de fuente abiert
 
 **Adaptativos** - Somos un equipo descentralizado en una industria experimental y nueva que parece extraída de una novela de ciencia ficción. Abrazamos la volatilidad. Nosotros observamos, reaccionamos, soportamos y nos movemos encima de todo desafío y obstáculo.
 
-**Energicos** - Nos gusta jugar y somos apasionados. Somos sinceros con nosotros mismos y con el mundo. Vertimos arte, carácter, y convicción en nuestros productos. Tenemos fe en cripto y creemos que, así como el lenguaje, es mejor cuando no tiene fronteras.
+**Enérgicos** - Nos gusta jugar y somos apasionados. Somos sinceros con nosotros mismos y con el mundo. Vertimos arte, carácter, y convicción en nuestros productos. Tenemos fe en cripto y creemos que, así como el lenguaje, es mejor cuando no tiene fronteras.
 
 **Pioneros** - Innovamos con herramientas digitales, a lo largo de la frontera de finanzas distribuidas. Alejándonos de la comodidad paternalista de un mundo con permiso, nosotros construimos en lo salvaje, preparando santuario de las nubes negras de las últimas horas del crepúsculo del Fiat. Esperamos madurez, firmeza de carácter y resolución estoica.
