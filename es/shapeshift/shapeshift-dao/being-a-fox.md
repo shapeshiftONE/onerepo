@@ -1,8 +1,8 @@
 ---
 title: Que significa ser un ShapeShift FOX: un corto Foxifesto
-description: ShapeShift CPO and co-founder Jon gives his thoughts on FOX culture.
+description: El CPO y cofundador de ShapeShift, Jon, da sus pensamientos sobre la cultura FOX.
 published: true
-date: 2021-11-04T21:37:46.394Z
+date: 2021-11-04T21:41:20.657Z
 tags: jonshapeshift, mission, vision
 editor: markdown
 dateCreated: 2021-10-25T14:45:49.358Z
