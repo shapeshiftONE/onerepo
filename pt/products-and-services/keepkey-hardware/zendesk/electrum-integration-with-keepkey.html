@@ -1,35 +1,36 @@
 <!--
-title: Electrum Integration with KeepKey
-description: Please follow these instructions to integrate Electrum with your KeepKey device. First download Electrum via this link:...
+title: Integração entre Electrum e KeepKey
+description: Saiba como integrar a carteira Electrum em sua KeepKey.
 published: true
-date: 2021-10-31T12:38:32.281Z
-tags: keepkey, hardware wallet, hd wallet, keepkey wallet, zendesk, keepkey-zendesk
+date: 2021-11-04T02:31:23.788Z
+tags: hardware wallet, hd wallet, keepkey, keepkey wallet, keepkey-zendesk, zendesk, electrum, integração, carteira electrum, integração electrum
 editor: ckeditor
+dateCreated: 2021-10-31T19:24:12.023Z
 -->
 
-<h1>Electrum Integration with KeepKey</h1>
-<div class="article-content">
-          <div class="article-body"><p>Please follow these instructions to integrate Electrum with your KeepKey device.</p>
-<p>First download Electrum via this link:&nbsp;<a href="https://electrum.org/#download" target="_blank" rel="noopener noreferrer">https://electrum.org/#download</a></p>
-<p>First, select "Standard wallet":</p>
-<p><a href="https://attachment.freshdesk.com/inline/attachment?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MjQwMjU2Mjg3MzQsImRvbWFpbiI6ImtlZXBrZXkuZnJlc2hkZXNrLmNvbSIsImFjY291bnRfaWQiOjI0NzUzMn0.1UTDKsB6v-IECtaO51Lj02W0g8jbIgCaZDTqPkZBUOU" target="_blank" rel="noopener noreferrer"><img src="/attachments/token/kwhKXw4YVLPTNYFZ0xifBeWsG/?name=Screen+Shot+2018-09-17+at+1.23.24+PM.png">&nbsp;<br></a><br>Select "Use a hardware device":<br><a href="https://attachment.freshdesk.com/inline/attachment?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MjQwMjU2Mjg3MzQsImRvbWFpbiI6ImtlZXBrZXkuZnJlc2hkZXNrLmNvbSIsImFjY291bnRfaWQiOjI0NzUzMn0.1UTDKsB6v-IECtaO51Lj02W0g8jbIgCaZDTqPkZBUOU" target="_blank" rel="noopener noreferrer"><img src="/attachments/token/MqWoyMhyuHLhuyDCA7EHXp2d2/?name=Screen+Shot+2018-09-17+at+1.23.36+PM.png">&nbsp;<br></a><br>Connect your KeepKey device - hit "next"<br><a href="https://attachment.freshdesk.com/inline/attachment?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MjQwMjU2Mjg3NDksImRvbWFpbiI6ImtlZXBrZXkuZnJlc2hkZXNrLmNvbSIsImFjY291bnRfaWQiOjI0NzUzMn0._TJbhEAc4-zRjApv17iIMqtFgvrCB2q_lJf5bfb9ohA" target="_blank" rel="noopener noreferrer"><img src="/attachments/token/R60gofRbbkGiyqSmMrCPSoB3f/?name=Screen+Shot+2018-09-17+at+1.23.48+PM.png">&nbsp;<br></a><br>Select your device:<br><a href="https://attachment.freshdesk.com/inline/attachment?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MjQwMjU2Mjg3NDksImRvbWFpbiI6ImtlZXBrZXkuZnJlc2hkZXNrLmNvbSIsImFjY291bnRfaWQiOjI0NzUzMn0._TJbhEAc4-zRjApv17iIMqtFgvrCB2q_lJf5bfb9ohA" target="_blank" rel="noopener noreferrer"><img src="/attachments/token/CdrIWrf7TtMwQQFDf1arbKs6l/?name=Screen+Shot+2018-09-17+at+1.22.24+PM.png">&nbsp;<br></a><br>Enter your current pin:<br><a href="https://attachment.freshdesk.com/inline/attachment?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MjQwMjU2Mjg3NDksImRvbWFpbiI6ImtlZXBrZXkuZnJlc2hkZXNrLmNvbSIsImFjY291bnRfaWQiOjI0NzUzMn0._TJbhEAc4-zRjApv17iIMqtFgvrCB2q_lJf5bfb9ohA" target="_blank" rel="noopener noreferrer"><img src="/attachments/token/SwxJbffjFJUArkWIUjr39vmeZ/?name=Screen+Shot+2018-09-17+at+1.22.37+PM.png">&nbsp;<br></a></p>
-<p>Select legacy (p2pkh):<a href="https://attachment.freshdesk.com/inline/attachment?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MjQwMjU2Mjg3NDksImRvbWFpbiI6ImtlZXBrZXkuZnJlc2hkZXNrLmNvbSIsImFjY291bnRfaWQiOjI0NzUzMn0._TJbhEAc4-zRjApv17iIMqtFgvrCB2q_lJf5bfb9ohA" target="_blank" rel="noopener noreferrer"><img src="/attachments/token/vxQsDaKlXsoepP0ZsVpPBFwq6/?name=Screen+Shot+2018-09-17+at+1.24.53+PM.png">&nbsp;</a></p>
-<p><strong>If you'd like to select a different account on your KeepKey device please follow the the derivation path guidline below:</strong></p>
-<p class="p1"><span class="s1">Account&nbsp;<a href="/agent/tickets/0"><span class="s2">#0</span></a>: m/44'/0'/0'</span></p>
-<p class="p1"><span class="s1">Account&nbsp;<a href="/agent/tickets/1"><span class="s2">#1</span></a>: m/44'/0'/1'</span></p>
-<p class="p1"><span class="s1">Account&nbsp;<a href="/agent/tickets/2"><span class="s2">#2</span></a>: m/44'/0'/2'</span></p>
-<p class="p1"><span class="s1">Account&nbsp;<a href="/agent/tickets/3"><span class="s2">#3</span></a>: m/44'/0'/3'</span></p>
-<p><br><a href="https://attachment.freshdesk.com/inline/attachment?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MjQwMjU2Mjg3NDksImRvbWFpbiI6ImtlZXBrZXkuZnJlc2hkZXNrLmNvbSIsImFjY291bnRfaWQiOjI0NzUzMn0._TJbhEAc4-zRjApv17iIMqtFgvrCB2q_lJf5bfb9ohA" target="_blank" rel="noopener noreferrer"><img src="/attachments/token/5htqTDrefuTZAnKzJtb3IfAyL/?name=Screen+Shot+2018-09-17+at+1.25.02+PM.png"></a></p></div>
-
-          <div class="article-attachments">
-            <ul class="attachments">
-              
-            </ul>
-          </div>
-        </div>
+<h1>Integração entre Electrum e KeepKey</h1>
+<p>Saiba como integrar a carteira Electrum em sua KeepKey.</p>
+<p>Baixe a carteira Electrum <a href="https://electrum.org/#download">aqui</a>.</p>
+<p>Para começar, selecione "<i>Standard wallet</i>" e prossiga clicando em “<i>Next</i>”:</p>
+<figure class="image"><img src="https://p13.zdusercontent.com/attachment/691242/kwhKXw4YVLPTNYFZ0xifBeWsG?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..Aqm3qV6i7FYeNl8Uku8jjQ.Gty9lsF8zdiE5Hu008kRy1T1xD2oDlixXMrh1qxXN8Tri44oWNOkG1lJKJqO_OR8t1589deM3khhmpeVdhiO4hvQ8s2PziDDLI2A08BjI_wSOxb-nIVWHUzTRhAMiAyAt3cPJRmDPqGF7JveigfLS37SBm2vHZd3gS-8fsnijTXgz0ZopvX-6wn9eFp3FzjAStexkHQ2VR66l5Rmp1muq9rtVARolU9TnPjQpms5u5Zimo2YqOyBjU_wucvkmhU8EuDiM_y8K1hWy7QZU-yOJw.0euvbxytrk-guvwlzJTFlA" alt="https://p13.zdusercontent.com/attachment/691242/kwhKXw4YVLPTNYFZ0xifBeWsG?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..Aqm3qV6i7FYeNl8Uku8jjQ.Gty9lsF8zdiE5Hu008kRy1T1xD2oDlixXMrh1qxXN8Tri44oWNOkG1lJKJqO_OR8t1589deM3khhmpeVdhiO4hvQ8s2PziDDLI2A08BjI_wSOxb-nIVWHUzTRhAMiAyAt3cPJRmDPqGF7JveigfLS37SBm2vHZd3gS-8fsnijTXgz0ZopvX-6wn9eFp3FzjAStexkHQ2VR66l5Rmp1muq9rtVARolU9TnPjQpms5u5Zimo2YqOyBjU_wucvkmhU8EuDiM_y8K1hWy7QZU-yOJw.0euvbxytrk-guvwlzJTFlA"></figure>
+<p><br><br>Selecione "<i>Use a hardware device</i>":<br>&nbsp;</p>
+<figure class="image"><img src="https://shapeshift.zendesk.com/attachments/token/MqWoyMhyuHLhuyDCA7EHXp2d2/?name=Screen+Shot+2018-09-17+at+1.23.36+PM.png"></figure>
+<p><br>Conecte sua KeepKey e clique em “<i>Next</i>”:<br>&nbsp;</p>
+<figure class="image"><img src="https://p13.zdusercontent.com/attachment/691242/R60gofRbbkGiyqSmMrCPSoB3f?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..ij2BcAEAf_1DfDAzPmnKHw.3kCNbjL6KLde257AdGZi_2NkyolhhSouUVCRyq6_ueuPFmphj9e3Xt51lNl1bfCRK7aJsePia047gBAxpdIsU80FnQAVmM-3cJ725wdGUGinWUWa0zibrQQvrZEE3LLXKVsWx2WMgf5DR5N701hWaf_SP-gulfwPnz6VyRU5gq-qsEcXOv_caQIbk9w8EuoSVHZ67TX-PWx2ix3oinWHp3qKOu9B7s8HOYVagtwMfYoM2xaDBeojM693OEPEcbFBkL7mFiK5UlRZbnqiAeYHWw.yshQTCFoRxEC89G9jF-bqg" alt="https://p13.zdusercontent.com/attachment/691242/R60gofRbbkGiyqSmMrCPSoB3f?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..ij2BcAEAf_1DfDAzPmnKHw.3kCNbjL6KLde257AdGZi_2NkyolhhSouUVCRyq6_ueuPFmphj9e3Xt51lNl1bfCRK7aJsePia047gBAxpdIsU80FnQAVmM-3cJ725wdGUGinWUWa0zibrQQvrZEE3LLXKVsWx2WMgf5DR5N701hWaf_SP-gulfwPnz6VyRU5gq-qsEcXOv_caQIbk9w8EuoSVHZ67TX-PWx2ix3oinWHp3qKOu9B7s8HOYVagtwMfYoM2xaDBeojM693OEPEcbFBkL7mFiK5UlRZbnqiAeYHWw.yshQTCFoRxEC89G9jF-bqg"></figure>
+<p><br><br>Seu dispositivo foi identificado com sucesso. Selecione sua KeepKey:<br>&nbsp;</p>
+<figure class="image"><img src="https://p13.zdusercontent.com/attachment/691242/CdrIWrf7TtMwQQFDf1arbKs6l?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..rCdMd374deMtrleygLgGqw.1ptNcx6uUicVBmY1lC9yXXsEUi0i8vFxRKwxluHI2OQWc8kFNgrRK2Xn2DvfooHaoUB__3xj_bDmWGg9t5ZwDC4uzzATmqu4MBSZJ-Iu9hffd1-03lx8fxGwZbxdRugln87zpANLexGTIvLKWwAM1QToS2cSrjn03Ej-g8NJpJoHLIbp0Fg2PsCQlDRfn1CNZWi_tsMY49uwjR54e3dmBkvRm9NSGe3kUArzDDvAV5C5BWMsO1yjiub92TXPrwxR1Up-GFaKfoPqWWioKYEjCg.RHbSqyLiDZ7bqZYaNSrBNQ" alt="https://p13.zdusercontent.com/attachment/691242/CdrIWrf7TtMwQQFDf1arbKs6l?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..rCdMd374deMtrleygLgGqw.1ptNcx6uUicVBmY1lC9yXXsEUi0i8vFxRKwxluHI2OQWc8kFNgrRK2Xn2DvfooHaoUB__3xj_bDmWGg9t5ZwDC4uzzATmqu4MBSZJ-Iu9hffd1-03lx8fxGwZbxdRugln87zpANLexGTIvLKWwAM1QToS2cSrjn03Ej-g8NJpJoHLIbp0Fg2PsCQlDRfn1CNZWi_tsMY49uwjR54e3dmBkvRm9NSGe3kUArzDDvAV5C5BWMsO1yjiub92TXPrwxR1Up-GFaKfoPqWWioKYEjCg.RHbSqyLiDZ7bqZYaNSrBNQ"></figure>
+<p><br><br>Digite o PIN de sua KeepKey:<br>&nbsp;</p>
+<figure class="image image_resized" style="width:65.61%;"><img src="https://p13.zdusercontent.com/attachment/691242/SwxJbffjFJUArkWIUjr39vmeZ?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..2z6KR9zvvOKb-z_fNaJLYw._lxsYUoFLmbeeMeUkkiMvKy66o9aY0qH_eXztwlGwwutvcelwQqriAVbtf4Lrcl4GE8D-ft_r-vpOpdU0WM5xRxIhmu9sWxoVyUxiBfh6jToduZpXfW7WNob8QXo_kGXvmDbOL-vyBkV6nkmzQ_nJVk6if6O12EFdTaUI2t3b-1E4_DhUZILwJCz2wVBbIzxFEmqedbFJ7tS2sh74aZkgQcKnJ069LB8UPoTq5DHKHCCkqcCC8-M9YRl--PU3qEqD_Dn-vLqI5PzV0sKCmVOZg.F3W2yKYOeRMuaca8wy44lw" alt="https://p13.zdusercontent.com/attachment/691242/SwxJbffjFJUArkWIUjr39vmeZ?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..2z6KR9zvvOKb-z_fNaJLYw._lxsYUoFLmbeeMeUkkiMvKy66o9aY0qH_eXztwlGwwutvcelwQqriAVbtf4Lrcl4GE8D-ft_r-vpOpdU0WM5xRxIhmu9sWxoVyUxiBfh6jToduZpXfW7WNob8QXo_kGXvmDbOL-vyBkV6nkmzQ_nJVk6if6O12EFdTaUI2t3b-1E4_DhUZILwJCz2wVBbIzxFEmqedbFJ7tS2sh74aZkgQcKnJ069LB8UPoTq5DHKHCCkqcCC8-M9YRl--PU3qEqD_Dn-vLqI5PzV0sKCmVOZg.F3W2yKYOeRMuaca8wy44lw"></figure>
+<p>Selecione a opção ‘legacy (p2pkh)’:</p>
+<figure class="image image_resized" style="width:64.57%;"><img src="https://p13.zdusercontent.com/attachment/691242/vxQsDaKlXsoepP0ZsVpPBFwq6?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..SduYoy1l0gkTy4Tj53TEOw.-SYJNRIzch-nNNKCl0IhrNMn0vbI9YKcg_-bMZ5KDaP-3Q7SzhV67voQIUZ1gE9wUsghkIZDClBiAf1wR4rC34DH-98bXeWA-p3VigPLJ25kVh9Iqa9cySq0eGlHBLX8sv6YFNGWzpqR8zQ-mR63fWbM6fojl8haL3jVLdAxmle0q0l16Dsd2JRllW1EWcgNh07BwJwBYxBT2V4qIBhVjbmhx29_ZSICI6qqbMNSt_1_khuOzWdWFeHyQQI2TORdhLtsMd7fqSwRkFQ2GKWChQ.S9qyr1uN1Z7A3zqOF-Wo6g" alt="https://p13.zdusercontent.com/attachment/691242/vxQsDaKlXsoepP0ZsVpPBFwq6?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..SduYoy1l0gkTy4Tj53TEOw.-SYJNRIzch-nNNKCl0IhrNMn0vbI9YKcg_-bMZ5KDaP-3Q7SzhV67voQIUZ1gE9wUsghkIZDClBiAf1wR4rC34DH-98bXeWA-p3VigPLJ25kVh9Iqa9cySq0eGlHBLX8sv6YFNGWzpqR8zQ-mR63fWbM6fojl8haL3jVLdAxmle0q0l16Dsd2JRllW1EWcgNh07BwJwBYxBT2V4qIBhVjbmhx29_ZSICI6qqbMNSt_1_khuOzWdWFeHyQQI2TORdhLtsMd7fqSwRkFQ2GKWChQ.S9qyr1uN1Z7A3zqOF-Wo6g"></figure>
+<p>&nbsp;</p>
+<p><strong>Siga as derivativas abaixo para selecionar uma carteira diferente em sua KeepKey:</strong></p>
+<p>Conta #0: m/44'/0'/0'</p>
+<p>Conta #1: m/44'/0'/1'</p>
+<p>Conta #2: m/44'/0'/2'</p>
+<p>Cnta #3: m/44'/0'/3'<br>&nbsp;</p>
+<figure class="image"><img src="https://p13.zdusercontent.com/attachment/691242/5htqTDrefuTZAnKzJtb3IfAyL?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..JwKdK5XZRZSBBVe0lxG82A.r3drZmnvQfw2MaS67lItyGmuyBAD7RxWddNqQFcEyIZ60_e1P2GHcD2iW8lCKlrnao_VmQ4N-pQ8zl0tEhZrmTSLO_4YPvERNCH1aGHesUi2atn7T47R40mptPSFlI73bU0VJavjv5AAAf2XPeFcH5vKe8b1lX2RwFHoYxCLYKHBh9KEm8sB6fhcd4tienSAjEdCLKPh3A6lAjtnrPPbNQc8sQizrdy2c6-vYOe5n90xHviUd-B0urtOQDxtqH82kiwMA7RJ0sx5ZQl10NX96A.2gv1ex_BftZEEzLUpIb43g" alt="https://p13.zdusercontent.com/attachment/691242/5htqTDrefuTZAnKzJtb3IfAyL?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..JwKdK5XZRZSBBVe0lxG82A.r3drZmnvQfw2MaS67lItyGmuyBAD7RxWddNqQFcEyIZ60_e1P2GHcD2iW8lCKlrnao_VmQ4N-pQ8zl0tEhZrmTSLO_4YPvERNCH1aGHesUi2atn7T47R40mptPSFlI73bU0VJavjv5AAAf2XPeFcH5vKe8b1lX2RwFHoYxCLYKHBh9KEm8sB6fhcd4tienSAjEdCLKPh3A6lAjtnrPPbNQc8sQizrdy2c6-vYOe5n90xHviUd-B0urtOQDxtqH82kiwMA7RJ0sx5ZQl10NX96A.2gv1ex_BftZEEzLUpIb43g"></figure>
+<p>&nbsp;</p>
 <hr>
-<div class="meta-footer">
-<p>Documented archived by the ShapeShift DAO Information and Globalization workstream for translation purposes. Original article can be found <a href="https://shapeshift.zendesk.com/hc/en-us/articles/360060952191-Electrum-Integration-with-KeepKey" target="_blank">here.</a></p>
-<p>Last updated: 5 months ago</p>
-</div>
-	
+<p>Este documento foi arquivado e traduzido através do Fluxo de Informação e Globalização da ShapeShift DAO. Confira o artigo original <a href="https://shapeshift.zendesk.com/hc/en-us/articles/360060952191-Electrum-Integration-with-KeepKey">aqui</a>.</p>
+<p>Última atualização: 5 meses atrás.</p>
