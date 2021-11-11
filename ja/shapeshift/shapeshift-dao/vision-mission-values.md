@@ -2,16 +2,16 @@
 title: Shapeshift ビジョン、ミッション、バリュー
 description: ウィリーによるShapeshiftを支える核となる信念
 published: true
-date: 2021-11-11T04:04:32.595Z
+date: 2021-11-11T04:12:19.852Z
 tags: mission, shapeshift, values, vision, willy
 editor: markdown
 dateCreated: 2021-11-11T04:03:59.845Z
 ---
 
-## Vision
-We envision a borderless financial system built on open, decentralized protocols.
+## ビジョン
+私たちは、オープンで分散型のプロトコル上に、ボーダーレスな金融システムを構築する事を構想しています。
 
-## Mission
+## ミッション
 We shall be the pathway into this borderless financial system; an open-source, multi-chain, self-custody crypto platform enabling billions to achieve financial sovereignty.
 
 ## Values
