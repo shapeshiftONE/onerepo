@@ -2,7 +2,7 @@
 title: Shapeshift ビジョン、ミッション、バリュー
 description: ウィリーによるShapeshiftを支える核となる信念
 published: true
-date: 2021-11-11T04:27:33.089Z
+date: 2021-11-11T06:07:40.384Z
 tags: mission, shapeshift, values, vision, willy
 editor: markdown
 dateCreated: 2021-11-11T04:03:59.845Z
@@ -18,7 +18,7 @@ dateCreated: 2021-11-11T04:03:59.845Z
 
 **信頼** - 私たちは、率直で透明性の高い行動をとります。私たちはお互いの、そして私たちの顧客とのやり取りを、公平かつ正確に行います。私たちは、信頼を最初から期待するのではなく、時間と実行を通して獲得します。
 
-**Collaborative** - We are talented individuals aligning behind unified strategies to build greatness. We support, encourage, and challenge each other. We leverage the force multiplier of teamwork.
+**協力** - 私たちは、素晴らしいものを作り出すため、統一された戦略の元に集った才能ある個人です。私たちはお互いにサポートし、励まし合い、挑戦します。私たちはチームワークの増幅力を最大限に活用します。
 
 **Adaptive** - We are a decentralized startup in an experimental new industry straight out of a sci-fi novel. We embrace volatility. We observe, react, endure, and move through every challenge and obstacle brought upon us.
 
