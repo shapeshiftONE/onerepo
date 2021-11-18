@@ -1,9 +1,9 @@
 ---
 title: ShapeShift Decentralizes: The Announcement
 description: ShapeShift, an international, non-custodial cryptocurrency leader, announces that it has begun dismantling its corporate structure, decentralizing governance to its customers via its FOX Token. 
-published: false
-date: 2021-10-10T13:52:31.374Z
-tags: archives, blog, fox, governance, historical, shapeshift, tokenomics
+published: true
+date: 2021-11-18T04:48:42.114Z
+tags: blog, fox, shapeshift, historia, archivo, governancia, tokeconomics
 editor: markdown
 dateCreated: 2021-10-09T22:13:26.473Z
 ---
@@ -86,7 +86,7 @@ As of this post, FOX has been airdropped to the largest number of eligible recip
 
 This makes FOX Tokens one of the most widely distributed tokens in history. ShapeShift has never sold these tokens; there was no ICO. 
 
-Eligible recipients: 
+## Eligible Recipients
 
 - Over 900,000 ShapeShift customers and KeepKey owners
 - Every customer who has ever traded $1 or more of ETH or any ERC-20 token through ShapeShift prior to June 9, 2021 is eligible:
@@ -112,19 +112,143 @@ Over 120,000 members of the following communities that have inspired us. You are
 | BadgerDAO | 0x | 1inch |   |   |
 {.no-border}
 
+> Important note: All addresses have 90 days from today to claim their Airdropped FOX Tokens. After that, the amount claimable will decrease 10% from the original amount each day for 10 days, and any unclaimed tokens after that period will be returned to the ShapeShift DAO, further increasing the DAO treasury.<br>
+Claiming Your Tokens: ‍For detailed information on token awards and how to claim awarded FOX Tokens, please see this informative Help Desk article.
+{.is-info}
 
 
 # Liquidity Mining: When it starts and how it works
 
+**FOX Liquidity Mining Is Here**
+
+FOX Token holders that provide liquidity to the FOX/ETH pool on Uniswap V2 and stake their FOX-ETH-UNI-LP token in the ShapeShift Staking Rewards contract may earn a proportional share of 15,768,000 FOX Tokens over the following three months. Thereafter, governance will decide whether or not to continue or change the program.
+
+
 # FOX Utility: The benefits for users
+
+**FOX Perpetual Utility — Hodl FOX, Earn Crypto**
+
+Other than governance, why should you care about FOX?
+
+FOX has always been a “Perpetual Utility” token—they provide benefits as long as you hodl them in your wallet. You do not need to spend your tokens to derive their benefits.
+
+Here is the non-governance benefits that exists today:
+
+**Rainfall**
+
+Rainfall rewards FOX hodlers with free crypto when people trade on ShapeShift. The more FOX you hold, the better your chances of winning a Rainfall reward.
+
+For every qualifying transaction on ShapeShift, the following benefits are realized:
+
+- The user who makes a crypto trade earns more FOX Tokens
+- Another random FOX holder earns free USDC
+- Revenue generated for ShapeShift (if any) through that transaction goes to the ShapeShift DAO
+
+**FOX Fuel: Reimbursement for Gas Fees**
+
+Gas fees can get expensive!
+
+FOX Tokens help you offset these costs. 10% of the current market value of your FOX Tokens, as determined by CoinCap.io at the time of trade, can be repaid to you every 30 days in additional FOX Tokens to help reimburse you for gas costs on trades. With enough FOX Tokens, this can potentially cover all of one’s gas costs on trades.
+
+Example: If you have $500 of FOX, you can get reimbursed $50 each month for gas fees on your trades via an equivalent value in FOX (and so on). The FOX Fuel reward is calculated and rewarded when the trade is completed, and the benefit refreshes 30 days after each trade.
+
+Taken together, ShapeShift trades are more competitive than other offerings. In the example below, a 1000 DAI trade yields more than $1000 of output coin to the user via ShapeShift. Uniswap and MetaMask yield negative via slippage and fees.
 
 # FOX Allocation: Today and into the future
 
+The FOX allocation breaks down as follows:
+
+![FOX Allocation](https://assets.website-files.com/5cec55545d0f47cfe2a39a8e/60ee99b227abae6ec6a63d67_allocation%20chart.jpg)
+
+## Supply and Circulation
+
+Total Supply: 1,000,001,337 (no inflation)
+
+- 340,000,000 (34%) granted to the ShapeShift customers and DeFi community via airdrop
+- 320,000,000 (32%) granted to employees and shareholders
+- 242,000,000 (24%) granted to ShapeShift DAO (governance treasury)
+- 75,000,000 (7.5%) granted to the Foundation
+- 13,000,000 (1.3%) retained by ShapeShift during decentralization process
+- ~10,000,000 (1%) already in circulation with >21,000 holders
+
+The active (unlocked/unvested) supply at the time of the airdrop, approximately 438M FOX, is roughly 75% in the hands of the community:
+
+- 10M + 340M held by community
+- 75M + 13M held by ShapeShift
+- All other buckets are on three-year vesting
+
+Official FOX Token Address: 0xc770eefad204b5180df6a14ee197d99d808ee52d
+
+## Distribution and Lockup Schedules
+
+- No lockup on airdrop recipients
+- All employees and shareholders have three-year vesting via Sablier smart contract, the contracts vest as of June 2nd, 2021 (the grant date), and all contracts are fully vested on June 2nd, 2024.
+- ShapeShift DAO Governance Treasury has a three-year vesting schedule via Sablier smart contract; this contract is also fully vested on June 2nd, 2024.
+
+![Schedule](https://assets.website-files.com/5cec55545d0f47cfe2a39a8e/60ee9b3a558d84a6c5876fcb_FOX%20Supply%20Schedule%20v3.jpg)
+
 # Important Links
+
+Deposit FOX/ETH on Uniswap to earn FOX: https://fox.shapeshift.com/fox-farming
+
+- FOX SnapShot: https://app.boardroom.info/shapeshift/proposals 
+- FOX Forum:  https://forum.shapeshift.com
+- FOX Discord: https://discord.com/invite/shapeshift
 
 # Tentative Roadmap
 
-# Official FOX Contract Addresses
+The ShapeShift roadmap will ultimately be determined by FOX holders. To get the ball rolling, here are some of the major initiatives from the current ShapeShift roadmap, many of which are already in progress:
 
+**Wallet Support**
+
+- Implement support for additional wallets, including but not limited to MetaMask, Trust Wallet, WalletConnect, and Gnosis Safe. We’re considering onboard.js for this.
+
+**Open Sourcing**
+
+- Open source all ShapeShift code and infrastructure.
+- Replace or decentralize functionality that currently relies on centralized infrastructure, such as ShapeShift oAuth.
+- Anything that cannot be open-sourced in the short-term will be run by the Foundation with the intention of it open-sourcing and decentralizing when possible in coordination with the community.
+
+**Additional Blockchains**
+
+- Add support for a growing list of blockchains, with the ultimate goal of enabling projects to easily add their own blockchains.
+
+**DEXs**
+
+- Add support for DEX aggregators on additional EVM-compatible chains.
+- Add cross-chain swapping capabilities for new assets as they become available on THORChain.
+
+**DeFi**
+
+- Enable users to provide liquidity on THORChain and earn yield on a growing number of assets and blockchains, including native BTC.
+- Enable users to easily deposit to Yearn vaults, and deposit all revenues earned through Yearn’s affiliate partnership to the ShapeShift DAO.
+- Enable users to view and manage positions across a growing list and variety of protocols (borrowing, lending, yield-generating, etc.). This includes protocols like Aave, Compound, Alchemix, and Liquidity.
+- Enable users to “zap in” to DeFi positions, which would otherwise require multiple transactions.
+- Enable users to transfer assets across blockchains via decentralized bridge protocols.
+
+**Layer 2**
+
+- Add support for a growing list of Ethereum Layer 2 solutions, with the ultimate goal of enabling projects to easily add support for their own Layer 2.
+- We have explored implementing support for Bitcoin’s Lightning network, but unfortunately have yet to find a viable solution for supporting Lightning that is both non-custodial and also doesn’t require users to run full nodes. However, if the community can determine a viable path, we would love to support Lightning.
+
+**Network Effects‍**
+
+How does ShapeShift capture value in an open source, decentralized world? While open source code can easily be replicated, communities, partnerships, reputation, and the network effects these brew, cannot be.
+
+FOX incentives can kickstart, accelerate, and solidify these network effects while also achieving the necessary, ongoing mission of distributing FOX widely, fairly, and to ShapeShift community members.
+
+**Open-Source Partnerships**
+
+For protocols, blockchains, and any project willing to share a percentage of their revenue.
+
+**Blockchains**
+
+Blockchain projects will be able to add support for their own chains and tokens, with the option of sponsor bounties for any or all of the work.
+
+**Protocols**
+
+Protocols or other crypto services (i.e., fiat ramps) that need an interface, web3/blockchain provider, and/or wallet no longer need to build this themselves; rather, they can integrate directly with ShapeShift at launch and gain valuable exposure to a growing user base and not worry about added fees or the risks and dependencies inherent with closed-source technology.
+
+Any project that is willing to share a percentage of the revenue generated by ShapeShift users is eligible for bonus FOX incentives, as determined by governance.
 
 https://shapeshift.com/shapeshift-decentralize-airdrop{.hide}
