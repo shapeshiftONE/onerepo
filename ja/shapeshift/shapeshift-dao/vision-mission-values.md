@@ -2,8 +2,8 @@
 title: Shapeshift ビジョン、ミッション、バリュー
 description: ウィリーによるShapeshiftを支える核となる信念
 published: true
-date: 2021-11-19T04:32:11.084Z
-tags: mission, shapeshift, values, vision, willy
+date: 2021-11-19T04:34:22.502Z
+tags: ミッション, バリュー
 editor: markdown
 dateCreated: 2021-11-11T04:03:59.845Z
 ---
