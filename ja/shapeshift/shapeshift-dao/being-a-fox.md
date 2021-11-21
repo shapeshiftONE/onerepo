@@ -1,8 +1,8 @@
 ---
-title: Shapeshift FOXであることの証し：短いフォックス・フェスト
+title: Shapeshift FOXであることの証：短いフォックス・フェスト
 description: 
 published: true
-date: 2021-11-21T23:40:15.784Z
+date: 2021-11-21T23:41:01.060Z
 tags: jonshapeshift, shapeshift, バリュー, ビジョン, ミッション
 editor: markdown
 dateCreated: 2021-11-21T23:40:15.784Z
