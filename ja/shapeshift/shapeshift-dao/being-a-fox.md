@@ -2,13 +2,13 @@
 title: Shapeshift FOXであることの証：短いフォックス・フェスト
 description: 
 published: true
-date: 2021-11-21T23:41:01.060Z
+date: 2021-11-22T00:14:43.018Z
 tags: jonshapeshift, shapeshift, バリュー, ビジョン, ミッション
 editor: markdown
 dateCreated: 2021-11-21T23:40:15.784Z
 ---
 
-## A "Foxifesto" from Jon, co-founder of ShapeShift
+## ShapeShift共同創設者ジョンによる"フォックス・フェスト"
 
 As we launch forward into the future decentralized ShapeShift, I thought it might be useful to lay out a vision of what it means to be a ShapeShift FOX. ShapeShift has evolved a lot over the past seven plus years, but much of the core founding principles and culture that we have developed over that time has remained consistent.
 
