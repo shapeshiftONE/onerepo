@@ -2,7 +2,7 @@
 title: Shapeshift FOXであることの証：短いフォックス・フェスト
 description: 
 published: true
-date: 2021-11-22T00:45:15.558Z
+date: 2021-11-22T00:59:57.769Z
 tags: jonshapeshift, shapeshift, バリュー, ビジョン, ミッション
 editor: markdown
 dateCreated: 2021-11-21T23:40:15.784Z
@@ -10,10 +10,10 @@ dateCreated: 2021-11-21T23:40:15.784Z
 
 ## ShapeShift共同創設者ジョンによる"フォックス・フェスト"
 
-未来の分散型ShapeShiftに向けて出発するにあたり、私はShapeshift FOXであることの証、その意味する所のビジョンを説明しておくのが役に立つと考えました。ShapeSiftは過去7年以上に渡って大きく進化してきましたが、その間に培われたコアとなる基礎的な設立理念と文化は一貫しています。
+未来の分散型ShapeShiftに向けて出発するにあたり、私はShapeshift FOXであることの証、その意味する所のビジョンを説明しておくのが役に立つと考えました。ShapeSiftは過去7年以上に渡って大きく進化してきましたが、その間に培われた核となる基礎的な設立理念と文化は一貫しています。
 
+ShapeShiftの文化は3つの核となる価値に基づいています。私たちはフォックスたちに優しさ、先駆性、そして誠実さを期待しています。
 
-Our culture at ShapeShift has been grounded in three core values: we have expected our Foxes to be Kind, Pioneering, and to embody Integrity. 
 
 These core values have been essential to how the culture at ShapeShift has developed to this point, and it goes hand in hand with our focus and alignment around self-custody, decentralization, and the broader crypto ecosystem that we have always seen ourselves as a part of. ShapeShift has been lucky to have a team full of immensely talented people who have embraced these values over the years, and I am sure they will help create the core of a kind and pioneering decentralized community that shows great integrity in everything they do. 
 
