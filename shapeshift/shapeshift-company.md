@@ -18,7 +18,8 @@ ShapeShift was a U.S. based cryptocurrency exchange registered in Switzerland in
 
 A few months after the initial launch, Peercoin, Darkcoin, and Dogecoin was added to the list of asset offerings. By September 2015 the exchange offered 40 different assets with over 900 different trading pairs--by far the most of any crypto exchanges at the time.
 
-![First version of the ShapeShift Exchange](https://hackmd.io/_uploads/BkA-K-3dK.png)
+![First version of the ShapeShift Exchange](https://hackmd.io/_uploads/HkSUqE3ut.png)
+
 
 
 ### Digital Currency Group Investment
@@ -54,25 +55,65 @@ On August 11th, 2015, Spells of Genesis, a trading card and arcade game that int
 
 ## Regulatory Roadblocks and Opposition
 
+### 2014 SEC Settlement
+
+In 2014, CEO Voorhees was fined by the SEC for an unrelated venture from 2012 and 2013. He was accused of using social media platforms to solicit investors without federal approval for his two bitcoin-related ventures, SatoshiDICE and FeedZeBirds. Eventually Voorhees settled with the SEC in a civil court and was banned from making a crypto securities offering for five years.
+
 ### New York's BitLicense
 
 In July 2014, the New York State Department of Financial Services (NYSDFS) announced its plans to regulate businesses involved in virtual currency activities. The controversial "BitLicense" was met with fierce opposition when finalized in 2015, including ShapeShift, ultimately leading to the announcement that it would cease offering services to New York residents as a result of regulatory framework. Voorhees described the customer data requirements imposed by the BitLicense as “Orwellian” and a reckless data collection effort. 
 
 ### Washington State Senate Bill 5031
 
-2017 - 08
+In August 2017 ShapeShift announced that it would cease operations in the State of Washington, citing the BitLicense-like regulations passed by the state senate.
 
 ### Mandatory KYC Data Collection
 
-2018 - 09 -04 
+In September 2018, ShapeShift began to implement a voluntary KYC program and announced that KYC would soon be mandatory for all. In a heartfelt message written by Voorhees, he made it clear that this decision did not come easy, and that it was a pro-active measure being put in place as it was becoming more and more clear as to which direction the regulatory bodies were hell-bent on imposing.
+
+> "We still firmly believe that individuals, regardless of their race, religion, or nationality, deserve the right to financial privacy, just as they deserve the right to privacy in their thoughts, in their relationships, and in their communications. Such privacy is a foundational element of a civil and just society, and should be defended by all good people. We remain committed to that cause and it is best served if we are smart about our approach.
+
+This was a significant turning point in ShapeShift's history and future, as crypto's no-KYC, no-account, privacy advocating darling exchange finally sucummed to the growing interest and regulations in the digital assets sector.
+
+Although the exact figures are not public, ShapeShift's volume predictably took a significant hit, and many long-time users migrated elsewhere.
+
+### WSJ Accusations and Factual Response
+
+On September 28th, 2018, Wall Street Journal made waves around the Blockchain and FinTech world with an "expose" titled "How Dirty Money Disappears Into The Black Hole Of Cryptocurrency."
+
+Perhaps leveraging the growing tensions at the time between North Korea and the U.S. and South Korea as bait for pageviews, the article began:
+
+> “A North Korean agent, a stolen-credit-card peddler and the mastermind of an $80 million Ponzi scheme had a common problem. They needed to launder their dirty money. They found a common solution in ShapeShift.”
+
+The article attempted to link ShapeShift to $9m in laundered money by criminal organizations and that ShapeShift was complicit and knowingly allowed these types of activities. 
+
+The blockchain industry quickly rallied and refuted the WSJ article, as it was clear that the journalist did not know how to analyze chain data, made deceptive claims, and omitted relevant information.
+
+#### ShapeShift's Response
+
+Voorhees, unsurprisingly, took to himself to refute and defend ShapeShift. Some key points illustrated by Voorhees include:
+
+> - Overall, the article contains factual inaccuracies, omits significant details about how ShapeShift operates, and reflects a fundamental misunderstanding of how blockchain transactions work.
+> - $9m (even if it was true) is 0.15% of ShapeShift’s exchange volume during the described time period;
+> - We have a strong record of complying with law-enforcement requests, providing valuable assistance in over 30 investigations in 13 different countries all over the world;
+>- We work with other exchanges on an almost-daily basis to identify and block thieves and criminals, through a self-policing group ShapeShift created to protect the users and industry;
+>- We block entire countries on the sanctions lists;
+>- We have an internal anti-money laundering program that uses blockchain forensics that are far more advanced (and we would argue, effective) than asking someone for their “name and address”;
+>- An objective observer will find no complacency here; ShapeShift’s record (based on facts) compares favorably against any peer, within the crypto industry or without.
+
+The entire rebuttal can be read [here](https://shapeshift.com/newsroom/shining-light-on-wsjs-attack-on-shapeshift-and-crypto).
+
+#### CipherBlade's Investigation
+
+Perhaps even more important than ShapeShift's own response, was that of CipherBlade, one of the most respected blockchain forensics and investigation agency. In a third party review by CipherBlade, aptly titled, "How Truth Disappears Into the Black Hole of Shoddy Journalism," the conclusion was clear: **"WSJ used flawed methodology which generated highly inflated claims that were used to single out one exchange for transactions that are neither unusual nor illicit.""**
+
+The highly detailed forensic review went on to rip apart WSJ's claims on ShapeShift one by one. The full article can be read [here](https://medium.com/cipherblade/how-truth-disappears-into-the-black-hole-of-shoddy-journalism-bbff158cd271). 
+
 
 ### Privacy Coin De-Listings
 
-2020 - 11 - 11
+In November 2020, three privacy-focused coins XMR, DASH, and ZEC were de-listed from the ShapeShift platform "to further derisk the company from a regulatory standpoint."
 
-### WSJ Accusations and Response
-
-2019 - 03 - 20
 
 ## Funding
 
@@ -91,14 +132,23 @@ Notable Investors: Earlybird Venture Capital, Blockchain Capital, Digital Curren
 
 ### Portis Acquisition
 
+Portis, an Israli-based software wallet company founded in May 2018, was acquired by ShapeShift in April 2020 for an undisclosed amount. Voorhees not only praised Portis' SDK, as it was already integrated with the existing ShapeShift platform, but their core values.
+
+>"After integrating Portis’ SDK into the ShapeShift Platform last year, we recognized the depth of their tech and how closely our values aligned. They really built something special, making self-custody extremely easy. As our relationship evolved, acquiring Portis became a natural next step."
+
 ### Bitfract Acquisition
+
+Bitfract, founded in 2018 and based in Texas by CEO Willy Ogorzaly, was a platform that allowed users to convert their Bitcoin into a variety or "basket" of digital assets in a single transaction. The platform enabled investors to simplify the buying, selling, and re-balancing of portfolios through a simple transaction while allegedly saving up to 80% in fees. 
+
+![](https://hackmd.io/_uploads/SJOGQXnOF.png)
+
+On Aug 9, 2018 it was announced that Bitfract was acquired by ShapeShift for an undisclosed amount.
 
 ### KeepKey Acquisition
 
+KeepKey was founded in 2014 to provide thousands of users with the most secure, convenient, and easy-to-use hardware wallet available for storing bitcoins and other digital assets. In August 2017, ShapeShift acquired KeepKey for an undisclosed amount.
+
 ## Path to Decentralization
-
 ### Non-Custodial Exchange Launch
-
 ### ERC20 FOX Token Launch
-
 ### The Announcement
