@@ -2,7 +2,7 @@
 title: How Uniswap Solved the Liquidity Problem on DEXs
 description: Uniswap is a decentralised exchange protocol launched with huge success on Ethereum mainnet in November 2018. 
 published: true
-date: 2021-11-27T22:08:03.799Z
+date: 2021-11-27T22:10:20.248Z
 tags: decentralized exchange, decentralized finance, defi, dex, education, finance, liquidity mining, liquidity pool, uniswap
 editor: markdown
 dateCreated: 2021-10-09T07:04:27.833Z
@@ -29,15 +29,20 @@ But after a few days with their liquidity in the pool, some liquidity providers 
 
 
 ## Why is my liquidity worth less than I put in?
-To understand why the value of a liquidity provider’s stake can go down despite income from fees, we need to look a bit more closely at the formula used by Uniswap to govern trading. The formula really is very simple. If we neglect trading fees, we have the following: `eth_liquidity_pool * token_liquidity_pool = constant_product`
+To understand why the value of a liquidity provider’s stake can go down despite income from fees, we need to look a bit more closely at the formula used by Uniswap to govern trading. The formula really is very simple. If we neglect trading fees, we have the following: 
+
+`eth_liquidity_pool * token_liquidity_pool = constant_product`
 
 
-In other words, the number of tokens a trader receives for their ETH and vice versa is calculated such that after the trade, the product of the two liquidity pools is the same as it was before the trade. The consequence of this formula is that for trades which are very small in value compared to the size of the liquidity pool we have: `eth_price = token_liquidity_pool / eth_liquidity_pool`
+In other words, the number of tokens a trader receives for their ETH and vice versa is calculated such that after the trade, the product of the two liquidity pools is the same as it was before the trade. The consequence of this formula is that for trades which are very small in value compared to the size of the liquidity pool we have: 
+
+`eth_price = token_liquidity_pool / eth_liquidity_pool`
 
 
 Combining these two equations, we can work out the size of each liquidity pool at any given price, assuming constant total liquidity:
-eth_liquidity_pool = sqrt(constant_product / eth_price)
-token_liquidity_pool = sqrt(constant_product * eth_price)
+
+`eth_liquidity_pool = sqrt(constant_product / eth_price)`
+`token_liquidity_pool = sqrt(constant_product * eth_price)`
 
 
 So let’s look at the impact of a price change on a liquidity provider. To keep things simple, let’s imagine our liquidity provider supplies 1 ETH and 100 DAI to the Uniswap DAI exchange, giving them 1% of a liquidity pool which contains 100 ETH and 10,000 DAI. This implies a price of 1 ETH = 100 DAI. Still neglecting fees, let’s imagine that after some trading, the price has changed; 1 ETH is now worth 120 DAI. What is the new value of the liquidity provider’s stake? Plugging the numbers into the formulae above, we have:
