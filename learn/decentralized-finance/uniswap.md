@@ -1,8 +1,8 @@
 ---
 title: How Uniswap Solved the Liquidity Problem on DEXs
 description: Uniswap is a decentralised exchange protocol launched with huge success on Ethereum mainnet in November 2018. 
-published: false
-date: 2021-11-27T22:05:33.032Z
+published: true
+date: 2021-11-27T22:08:03.799Z
 tags: decentralized exchange, decentralized finance, defi, dex, education, finance, liquidity mining, liquidity pool, uniswap
 editor: markdown
 dateCreated: 2021-10-09T07:04:27.833Z
