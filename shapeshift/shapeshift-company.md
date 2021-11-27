@@ -146,9 +146,56 @@ On Aug 9, 2018 it was announced that Bitfract was acquired by ShapeShift for an 
 
 ### KeepKey Acquisition
 
-KeepKey was founded in 2014 to provide thousands of users with the most secure, convenient, and easy-to-use hardware wallet available for storing bitcoins and other digital assets. In August 2017, ShapeShift acquired KeepKey for an undisclosed amount.
+KeepKey was founded in 2014 "to provide thousands of users with the most secure, convenient, and easy-to-use hardware wallet available for storing bitcoins and other digital assets." 
+
+In August 2017, ShapeShift acquired KeepKey for an undisclosed amount. Shortly after, KeepKey was integrated directly into ShapeShift's platform, allowing for a full vertical integration of self-custody (Portis for software, KeepKey for hardware). 
+
+KeepKey is often brought up by journalists and tech reviewers as one of the leading hardware wallets in safety and quality up along with Trezor and Ledger. 
+
+Most of the software is [open source](https://github.com/keepkey), and there are plans to open source the hardware as soon as possible. It is still unclear how (or if at all) the manufacturing and distribution aspect of KeepKey will continue as the company fully decentralizes. 
 
 ## Path to Decentralization
-### Non-Custodial Exchange Launch
-### ERC20 FOX Token Launch
+
+The ethos and vision of ShapeShift since its inception was made very clear: privacy and financial equality for all. The financial regulatory bodies of America unfortunately did not see eye-to-eye with the early pioneers of blockchain, and ShapeShift along with all the other exchanges ultimately had bowed to pressure. 
+
+The enforcement of KYC data collection was the end of an era for a legendary "first of its kind" financial system that was very endeared by many early adopters. 
+
+### No-KYC DEX Launch & FOX Token
+
+With KYC enforcement in place, transaction volume predictably began its rapid decline as centralized exchanges like Bittrex, GDAX, and shortly after Binance began to rapidly gain much of the world's global volume.
+
+Little did the world know at the time, that a small project called Uniswap would very shortly and swiftly change the paradigm of the industry again. Although early attempts at a completely decentralized exchange certainly was respectable in its own right, there were numerous usability and liquidity issues that prevented mass adoption. 
+
+Uniswap's liquidity and AMM protocols catapulted the DeFi landscape while ShapeShift was still confined within the restrictive walls of regulation. 
+
+To those who really knew ShapeShift, its leaders, and its values, it came as no surprise when the company quickly re-aligned itself the announcement and launch of a non-custodial, no-KYC-needed platform that aggregated and utilized the protocols and liquidity of various DEXes.
+
+ShapeShift's "FOX" token was also launched as an ERC20 utility-token that gave the holders various benefits on the platform, such as the gas-rebate program. 
+
+The company, however, struggled to gain ground as the entire industry entered its longest and arguably the most important bear market in its short history. It was during this "crypto winter" when many projects, platforms, and protocols were laying down the foundation and the infrastructure needed to mature the market past the speculation phase and into the utilization phase. 
+
 ### The Announcement
+
+Winter eventually thawed into spring and by late 2020 the industry was once again booming with chatter, optimism, breakthroughs, and major protocol-level improvements. Ideas and ambitions, that were only text and diagrams on whitepapers just a few years ago, slowly but surely began to show glimpse and teasers of the endless possibilities that blockchain and distributed peer-to-peer technology could open up. 
+
+With the DeFi revolution already in full swing, it was time for the DAO revolution. In July 2021, ShapeShift publicly announced its plans to decentralize the entire company while conducting one of the largest airdrops in history of FOX tokens, which would eventually be used for decentralized governance processes. 
+
+The decision to decentralize a company of this size, history, range of services and products, number of employees, physical ownership of materials, etc., was an ambitious one that could be used as inspiration or a case study for future companies that are thinking of decentralizing. 
+
+If all goes as planned, centralized ShapeShift should no longer be existing on January 1st, 2022. ShapeShift Foundation is in the process of formation to pick up processes that are necessary and to support the DAO.
+
+ShapeShift AG is now ShapeShift DAO.
+
+Learn more about ShapeShift DAO: <link>
+CEO Erik Voorhees Announcement: [link](https://erikvoorhees.medium.com/shapeshift-is-decentralizing-639bb4c82fc8)
+
+---
+bounty: true
+amt: 30
+signee: 0xef4fd55584434903aa6fc9baa61eacdde5355da0
+
+---
+
+0x8a2b8520f75afea149c4a0152840cdbf4fdc5a7af4b3499f2b72a4024588e8b924313791c0418bf034ff89fb204910e3c6a8e00abb5e13bdbbbbea028beb26021c
+
+---
