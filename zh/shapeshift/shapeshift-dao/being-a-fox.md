@@ -1,8 +1,8 @@
 ---
 title: 成为ShapeShift FOX意味着什么：一个简短的Fox宣言
 description: ShapeShift CPO和联合创始人Jon给出了他对FOX文化的看法。
-published: false
-date: 2021-11-28T07:26:21.456Z
+published: true
+date: 2021-11-28T07:26:43.272Z
 tags: jonshapeshift, mission, shapeshift, values, vision
 editor: markdown
 dateCreated: 2021-11-28T04:02:26.367Z
