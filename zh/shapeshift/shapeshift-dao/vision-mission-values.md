@@ -1,8 +1,8 @@
 ---
 title: ShapeShift 的愿景、使命和价值观
 description: 塑造ShapeShift的核心信念，由Willy撰写。
-published: false
-date: 2021-11-28T03:44:47.186Z
+published: true
+date: 2021-11-28T03:45:07.979Z
 tags: mission, shapeshift, values, vision, willy
 editor: markdown
 dateCreated: 2021-11-28T03:14:23.495Z
