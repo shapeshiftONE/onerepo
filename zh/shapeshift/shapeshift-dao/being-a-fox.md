@@ -1,14 +1,14 @@
 ---
-title: 成为ShapeShift FOX意味着什么：一个简短的Foxifesto
+title: 成为ShapeShift FOX意味着什么：一个简短的Fox宣言
 description: ShapeShift CPO和联合创始人Jon给出了他对FOX文化的看法。
 published: false
-date: 2021-11-28T07:24:40.028Z
+date: 2021-11-28T07:26:21.456Z
 tags: jonshapeshift, mission, shapeshift, values, vision
 editor: markdown
 dateCreated: 2021-11-28T04:02:26.367Z
 ---
 
-## 来自ShapeShift联合创始人Jon的"Foxifesto"
+## 来自ShapeShift联合创始人Jon的"Fox宣言"
 
 当我们向未来的去中心化ShapeShift迈进时，我认为制定一个关于成为ShapeShift FOX的愿景可能是有用的。ShapeShift在过去七年多的时间里发生了很多变化，但我们在这段时间里形成的许多核心创始原则和文化仍然是一脉相承的。
 
@@ -16,7 +16,7 @@ dateCreated: 2021-11-28T04:02:26.367Z
 
 这些核心价值观对于ShapeShift的文化能发展到今天是至关重要的，它与我们对自我监管，去中心化以及我们一直将自己视为一部分的更广泛的加密生态系统的关注并保持一致密切相关。ShapeShift很幸运拥有一支由才华横溢的人组成的团队，他们多年来一直信奉这些价值观，我相信他们将帮助创建一个善良和开拓性的去中心化社区的核心，在他们所做的每件事上都表现出极大的职业操守。 
 
-显然，展望未来，我没有特别的权利或能力来影响ShapeShift FOX的含义。这最终将取决于社区，并将随着时间的推移而发展。话虽如此，我仍然认为也许我们可以通过在下面介绍这个"Foxifesto"来共同引导事情朝着积极的方向发展，以了解FOX在过去意味着什么，并希望为它在我们所有人共同建立的分散未来中可能意味着什么奠定基础。
+显然，展望未来，我没有特别的权利或能力来影响ShapeShift FOX的含义。这最终将取决于社区，并将随着时间的推移而发展。话虽如此，我仍然认为也许我们可以通过在下面介绍这个"Fox宣言"来共同引导事情朝着积极的方向发展，以了解FOX在过去意味着什么，并希望为它在我们所有人共同建立的分散未来中可能意味着什么奠定基础。
 
 - Jon ShapeShift
 
