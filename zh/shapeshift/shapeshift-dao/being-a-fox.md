@@ -2,7 +2,7 @@
 title: 成为ShapeShift FOX意味着什么：一个简短的Foxifesto
 description: ShapeShift CPO和联合创始人Jon给出了他对FOX文化的看法。
 published: false
-date: 2021-11-28T04:02:26.367Z
+date: 2021-11-28T04:04:44.983Z
 tags: jonshapeshift, mission, shapeshift, values, vision
 editor: markdown
 dateCreated: 2021-11-28T04:02:26.367Z
@@ -34,4 +34,4 @@ dateCreated: 2021-11-28T04:02:26.367Z
 - 我们相信，加密货币作为一个整体将继续发展，我们仍然对这种演变可能是什么样子持开放态度。
 - 我们相信，DAO的力量可以在未来几十年内重塑人力资本的分配和激励结构，使其变得更好。
 
-[Originally published on July 最初发布于14年2021月<>日(https://shapeshift.com/library/what-it-means-to-be-a-shapeshift-fox-a-short-foxifesto)
+[最初发布于2021年7月14日。](https://shapeshift.com/library/what-it-means-to-be-a-shapeshift-fox-a-short-foxifesto)
