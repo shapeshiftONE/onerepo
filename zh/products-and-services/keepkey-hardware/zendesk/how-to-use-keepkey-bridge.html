@@ -1,61 +1,49 @@
 <!--
-title: 如何使用密钥桥接器
+title: 如何使用 KeepKey 桥接器
 description: KeepKey Bridge是一个Microsoft Windows应用程序，旨在帮助解决KeepKey和Windows机器之间的webUSB连接问题。
 published: false
-date: 2021-11-28T12:28:32.200Z
+date: 2021-11-29T03:50:33.763Z
 tags: hardware wallet, hd wallet, keepkey, keepkey wallet, keepkey-zendesk, zendesk
 editor: ckeditor
 dateCreated: 2021-11-28T12:28:32.200Z
 -->
 
-<h1>How To Use The KeepKey Bridge</h1>
-<section class="article-info">
-        <div class="article-content">
-          <div class="article-body"><h2><strong>What is the KeepKey Bridge?</strong></h2>
-<p>The KeepKey Bridge is a Microsoft Windows application that is designed to help with webUSB connectivity problems between KeepKey and a Windows machine.</p>
-<p>The bridge runs as an application that opens a local USB connection to the KeepKey. The bridge exposes a localhost port that the ShapeShift web app can use to communicate with the KeepKey. The KeepKey itself is not aware of the bridge but the ShapeShift web app must be directed to use the bridge.</p>
-<h2><strong>When Should I Try It?</strong></h2>
-<p>If you are using a Windows machine and are having trouble getting your KeepKey connected to <a href="https://beta.shapeshift.com/" target="_self"><strong>beta.shapeshift.com</strong></a>, try running the bridge by using the instructions below.</p>
-<h2><strong>Installing The Bridge</strong></h2>
-<p><strong>1.</strong> Before using the bridge, be sure that your KeepKey is updated to the most recent bootloader/firmware. The updater app can be found <a href="https://beta.shapeshift.com/updater-download#" target="_self"><strong>here</strong></a>. Download the latest release of the KeepKey bridge <a href="https://github.com/keepkey/python-keepkey/releases" target="_self" rel="undefined"><strong>here</strong>.</a></p>
-<p><img src="https://shapeshift.zendesk.com/hc/article_attachments/4412027362829/kkupdate.png" alt="kkupdate.png"></p>
-<p><strong><em>Note</em></strong>: Your computer will likely give some warnings when downloading/running this application. You can click "Run Anyway" to continue the installation.&nbsp;</p>
-<p><img src="https://shapeshift.zendesk.com/hc/article_attachments/4412027356941/kkbsetup.png" alt="kkbsetup.png"></p>
-<p><strong>2.</strong> Once the kkbsetup.exe file is downloaded, you can verify that the file is what we claim it is by comparing the SHA256 of the executable with the published digest in the release notes. This is done by opening up a cmd window (Command Prompt), navigating to the Downloads folder, and typing: <strong>cetuil -hashfile kkbsetup.exe SHA256</strong>. The resulting info displayed should match what is published in the <a href="https://github.com/keepkey/python-keepkey/releases" target="_self"><strong>python-keepkey releases</strong></a> notes. If everything matches up, double click the file to install (<em>creating a desktop shortcut is recommended for convenience</em>).</p>
-<p><img src="https://shapeshift.zendesk.com/hc/article_attachments/4412021629197/runanyway.png" alt="runanyway.png"></p>
-<h2><strong>Using The Bridge</strong></h2>
-<p><strong>3.</strong> When starting the KeepKey Bridge application,&nbsp; a blank window will appear. Even though it is blank, the bridge is running (we know it's not an ideal UI, but we're working on an improvement soon!). When the window is closed, the bridge will stop running.</p>
-<p><img src="https://shapeshift.zendesk.com/hc/article_attachments/4412027408781/blank.png" alt="blank.png"></p>
-<p><strong>4.</strong> With the bridge running, head over to <a href="https://beta.shapeshift.com/" target="_self"><strong>beta.shapeshift.com</strong></a>. Select KeepKey as the wallet you'd like to pair.</p>
-<p><img src="https://shapeshift.zendesk.com/hc/article_attachments/4412030326157/selectkeepkey.png" alt="selectkeepkey.png"></p>
-<p><img src="https://shapeshift.zendesk.com/hc/article_attachments/4412030342285/pair1.png" alt="pair1.png"></p>
-<p><strong>5.</strong> Click the checkbox and then select "TRY KEEPKEY BRIDGE".</p>
-<p><img src="https://shapeshift.zendesk.com/hc/article_attachments/4412027472909/pair2.png" alt="pair2.png"></p>
-<p><img src="https://shapeshift.zendesk.com/hc/article_attachments/4412030346509/trybridge.png" alt="trybridge.png"></p>
-<p>If successful, your wallet will start syncing and eventually connect to the platform.</p>
-<p><img src="https://shapeshift.zendesk.com/hc/article_attachments/4412030363021/paired.png" alt="paired.png"></p>
+<h1>如何使用 KeepKey 桥接器</h1>
+<h2><strong>什么是 KeepKey 桥接器？</strong></h2>
+<p>KeepKey Bridge是一个Microsoft Windows应用程序，旨在帮助解决KeepKey和Windows机器之间的webUSB连接问题。</p>
+<p>网桥作为应用程序运行，该应用程序打开与 KeepKey 的本地 USB 连接。桥公开一个本地主机端口，ShapeShift Web 应用可以使用该端口与 KeepKey 进行通信。KeepKey 本身不知道桥接器，但必须指示 ShapeShift Web 应用使用桥接器。</p>
+<h2><strong>我应该什么时候尝试？</strong></h2>
+<p>如果您使用的是 Windows 计算机，并且在将 KeepKey 连接到 <a href="https://beta.shapeshift.com/"><strong>beta.shapeshift.com</strong></a>，时遇到问题，请尝试按照以下说明运行网桥。</p>
+<h2><strong>安装桥接器</strong></h2>
+<p><strong>1.</strong> 在使用网桥之前，请确保您的 KeepKey 已更新到最新的引导加载程序/固件。更新程序应用程序可以在 <a href="https://beta.shapeshift.com/updater-download#"><strong>这里</strong></a> 找到。在 <a href="https://github.com/keepkey/python-keepkey/releases"><strong>此处</strong></a> 下载最新版本的 KeepKey 桥接器。</p>
+<figure class="image"><img src="https://shapeshift.zendesk.com/hc/article_attachments/4412027362829/kkupdate.png" alt="kkupdate.png"></figure>
+<p><i><strong>注意</strong></i>：下载/运行此应用程序时，您的计算机可能会发出一些警告。您可以单击"仍然运行"以继续安装。</p>
+<figure class="image"><img src="https://shapeshift.zendesk.com/hc/article_attachments/4412027356941/kkbsetup.png" alt="kkbsetup.png"></figure>
+<p><strong>2.</strong>下载 kkbsetup.exe 文件后，您可以通过将可执行文件的 SHA256 与发行说明中发布的摘要进行比较来验证该文件是否符合我们所声称的内容。这是通过打开cmd窗口（命令提示符），导航到"下载"文件夹，然后键入<strong>：cetuil -hashfile kkbsetup.exe SHA256</strong>来完成的。显示的结果信息应与 <a href="https://github.com/keepkey/python-keepkey/releases"><strong>python-keepkey releases</strong></a> 中发布的信息相匹配。如果一切匹配，请双击要安装的文件（<i>为方便起见，建议创建桌面快捷方式</i>）。</p>
+<figure class="image"><img src="https://shapeshift.zendesk.com/hc/article_attachments/4412021629197/runanyway.png" alt="runanyway.png"></figure>
+<h2><strong>使用桥接器</strong></h2>
+<p><strong>3.</strong> 启动KeepKey Bridge应用程序时，将出现一个空白窗口。即使它是空白的，桥正在运行（我们知道这不是一个理想的UI，但我们很快就会进行改进！当窗口关闭时，桥将停止运行。</p>
+<figure class="image"><img src="https://shapeshift.zendesk.com/hc/article_attachments/4412027408781/blank.png" alt="blank.png"></figure>
+<p><strong>4.</strong>随着桥接的运行，前往 <a href="https://beta.shapeshift.com/"><strong>beta.shapeshift.com</strong></a> 。选择 KeepKey 作为您要配对的钱包。</p>
+<figure class="image"><img src="https://shapeshift.zendesk.com/hc/article_attachments/4412030326157/selectkeepkey.png" alt="selectkeepkey.png"></figure>
+<figure class="image"><img src="https://shapeshift.zendesk.com/hc/article_attachments/4412030342285/pair1.png" alt="pair1.png"></figure>
+<p><strong>5.</strong> 单击复选框，然后选择"尝试KEEPKEY BRIDGE"。</p>
+<figure class="image"><img src="https://shapeshift.zendesk.com/hc/article_attachments/4412027472909/pair2.png" alt="pair2.png"></figure>
+<figure class="image"><img src="https://shapeshift.zendesk.com/hc/article_attachments/4412030346509/trybridge.png" alt="trybridge.png"></figure>
+<p>如果成功，您的钱包将开始同步并最终连接到平台。</p>
+<figure class="image"><img src="https://shapeshift.zendesk.com/hc/article_attachments/4412030363021/paired.png" alt="paired.png"></figure>
 <h2>Troubleshooting</h2>
-<p><img src="https://shapeshift.zendesk.com/hc/article_attachments/4412030511885/error.png" alt="error.png"></p>
-<p>If you run into any error messages (like the one pictured above) when attempting to pair your KeepKey via the bridge or it just won't connect, please try the following:</p>
-<p><strong>1.&nbsp;</strong>Go to the <a href="https://beta.shapeshift.com/settings" target="_self"><strong>settings page</strong></a> and "forget" your KeepKey.</p>
-<p><strong>2.&nbsp;</strong>Unplug your KeepKey.</p>
-<p><strong>3.&nbsp;</strong>Refresh <a href="https://beta.shapeshift.com/" target="_self"><strong>beta.shapeshift.com</strong></a>.</p>
-<p><strong>4.&nbsp;</strong>Close the bridge application.</p>
-<p><strong>5.&nbsp;</strong>Repeat the steps from the "Using The Bridge" section in this article.</p>
+<figure class="image"><img src="https://shapeshift.zendesk.com/hc/article_attachments/4412030511885/error.png" alt="error.png"></figure>
+<p>如果您在尝试通过网桥配对KeepKey时遇到任何错误消息（如上图所示），或者它只是无法连接，请尝试以下操作：</p>
+<p><strong>1.&nbsp;</strong>Go to the <a href="https://beta.shapeshift.com/settings"><strong>settings page</strong></a> and "forget" your KeepKey.</p>
+<p><strong>2.&nbsp;</strong>拔出您的 KeepKey 。</p>
+<p><strong>3.&nbsp;</strong>Refresh <a href="https://beta.shapeshift.com/"><strong>beta.shapeshift.com</strong></a>.</p>
+<p><strong>4.&nbsp;</strong>关闭桥接应用程序。</p>
+<p><strong>5.&nbsp;</strong>重复本文"使用桥接"部分中的步骤。</p>
 <p>&nbsp;</p>
-<p>If you have any questions, please contact customer support <a href="/hc/en-us/requests/new" target="_self"><strong>here</strong></a>.</p>
-<p>&nbsp;</p></div>
-
-          <div class="article-attachments">
-            <ul class="attachments">
-              
-            </ul>
-          </div>
-        </div>
-      </section>
+<p>如果您有任何疑问，请在 <a href="/hc/en-us/requests/new"><strong>此处</strong></a> 联系客户支持。</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <hr>
-<div class="meta-footer">
-<p>Documented archived by the ShapeShift DAO Information and Globalization workstream for translation purposes. Original article can be found <a href="https://shapeshift.zendesk.com/hc/en-us/articles/4412027288333-How-To-Use-The-KeepKey-Bridge" target="_blank">here.</a></p>
+<p>Documented archived by the ShapeShift DAO Information and Globalization workstream for translation purposes. Original article can be found <a href="https://shapeshift.zendesk.com/hc/en-us/articles/4412027288333-How-To-Use-The-KeepKey-Bridge">here.</a></p>
 <p>Last updated: 2 days ago</p>
-</div>
-	
