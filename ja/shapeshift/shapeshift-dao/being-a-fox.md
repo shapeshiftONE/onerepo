@@ -2,7 +2,7 @@
 title: Shapeshift FOXであることの証：短いフォックス・フェスト
 description: 
 published: true
-date: 2021-11-29T01:10:18.025Z
+date: 2021-11-29T01:14:01.249Z
 tags: jonshapeshift, shapeshift, バリュー, ビジョン, ミッション
 editor: markdown
 dateCreated: 2021-11-21T23:40:15.784Z
@@ -31,10 +31,10 @@ ShapeShiftの文化は3つの核となる価値に基づいています。私た
 - 私たちは、非中央集権とパーミッションレスによるイノベーションを信じています。
 - 私たちは、誰もがあるデジタル資産を他のデジタル資産と摩擦なく交換できる事を信じています。
 - 私たちは、新しいクリプト・プロジェクトや機会に対してオープンマインドである事を信じています。（しかし、これは健全な猜疑心とセットでなければなりません。）
-- We believe in the spirit of open cooperation with a positive sum mindset. We can support and build on top of other crypto projects and make the whole ecosystem stronger together.
-- We believe that open discussion and debate is healthy for the community and leads to better ideas and experiments.
-- We believe in kindness and treating each other with respect. A community that is kind to each other will inevitably do greater things than one that is constantly infighting. This includes kindness to other communities and those that we disagree with.
-- We believe that crypto as a whole will continue to evolve, and we remain open to what that evolution may look like.
-- We believe in the power of DAOs to reshape the allocation and incentive structures of human capital over the next decades for the better.
+- 私たちは、ポジティブな考え方でオープンに協力する精神を信じています。他のクリプト・プロジェクトをサポートし、その上に構築することで、エコシステム全体を共に強化することができます。
+- 私たちは、オープンな議論や討論がコミュニティにとって健全であり、より良いアイデアや実験につながると信じています。
+- 私たちは、優しさと、お互いに敬意を持って接することを信じています。お互いに親切なコミュニティは、常に内輪もめしているコミュニティよりも必然的に大きな成果を上げることができます。これには、他のコミュニティや意見の合わない人への優しさも含まれます。
+- 私たちは、クリプト全体が進化し続けることを信じており、その進化がどのようなものであるかを受け入れ、オープンでいる姿勢を貫いています。
+- 私たちは、DAOの力が今後数十年の間に、人的資本の配分とインセンティブ構造をより良い方向に再構築すると信じています。
 
-[Originally published on July 14th 2021.](https://shapeshift.com/library/what-it-means-to-be-a-shapeshift-fox-a-short-foxifesto)
+[原文は2021年7月14日に公開されたものです。](https://shapeshift.com/library/what-it-means-to-be-a-shapeshift-fox-a-short-foxifesto)
