@@ -2,7 +2,7 @@
 title: Shapeshift FOXであることの証：短いフォックス・フェスト
 description: 
 published: true
-date: 2021-11-27T07:19:43.985Z
+date: 2021-11-29T00:27:52.873Z
 tags: jonshapeshift, shapeshift, バリュー, ビジョン, ミッション
 editor: markdown
 dateCreated: 2021-11-21T23:40:15.784Z
@@ -18,9 +18,10 @@ ShapeShiftの文化は3つの核となる価値に基づいています。私た
 こうした核となる価値は、ShapeShiftの文化をここまで発展させるのに不可欠なものであって、自己管理、分散化、そして私たちが常にその一部として考えてきた広範なクリプト・エコシステムへのフォーカスと整合性を取ることに密接に関わっています。ShapeShiftにとって長年にわたり、こうした価値観を受け入れてきた非常に優秀な人材がチームにいた事は、非常に幸運な事でした。そして彼らがこれからも、全ての行動に誠実さを示し、親切で、先駆的な分散型コミュニティの中核となるのを確信しています。
 
 
-Obviously, moving forward I have no particular right or ability to influence what the meaning of a ShapeShift FOX is; that will ultimately be up to the community and will evolve over time. With that said, I still think perhaps we can collectively steer things in a positive direction by presenting this “Foxifesto” below to give an idea of what being a FOX has meant historically and hopefully lay a foundation for what it can mean in the decentralized future that we all build together.
+もちろん、今後、私にはShapeShift FOXの意味するものは何かについて影響を与える特別な権利も能力もありません。それは最終的にはコミュニティに委ねられ、時と共に進化していく事でしょう。とは言え、以下の"フォックス・フェスト"を提示する事で、もしかしたらFOXである事が歴史的にどのような意味を持っていたのか、また、私たちが共に築く分散型の未来においてどのような意味を持ちうるのか、その礎を築くことができるのではないか、物事を共同でポジティブな方向に導くことができるのではないかと考えています。
 
-- Jon ShapeShift
+
+- ジョン ShapeShift
 
 ## What it means to be a ShapeShift FOX:
 
