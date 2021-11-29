@@ -2,7 +2,7 @@
 title: Shapeshift FOXであることの証：短いフォックス・フェスト
 description: 
 published: true
-date: 2021-11-29T00:27:52.873Z
+date: 2021-11-29T00:58:10.803Z
 tags: jonshapeshift, shapeshift, バリュー, ビジョン, ミッション
 editor: markdown
 dateCreated: 2021-11-21T23:40:15.784Z
@@ -23,7 +23,7 @@ ShapeShiftの文化は3つの核となる価値に基づいています。私た
 
 - ジョン ShapeShift
 
-## What it means to be a ShapeShift FOX:
+## ShapeShift FOXであることの証:
 
 - We believe that blockchains and crypto tech are tools that can empower people on a global level.
 - We believe in the multi-chain future: many useful digital assets and applications will live on multiple blockchains.
