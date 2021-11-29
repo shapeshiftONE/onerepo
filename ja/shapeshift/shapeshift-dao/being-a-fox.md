@@ -2,7 +2,7 @@
 title: Shapeshift FOXであることの証：短いフォックス・フェスト
 description: 
 published: true
-date: 2021-11-29T00:58:10.803Z
+date: 2021-11-29T01:10:18.025Z
 tags: jonshapeshift, shapeshift, バリュー, ビジョン, ミッション
 editor: markdown
 dateCreated: 2021-11-21T23:40:15.784Z
@@ -25,12 +25,12 @@ ShapeShiftの文化は3つの核となる価値に基づいています。私た
 
 ## ShapeShift FOXであることの証:
 
-- We believe that blockchains and crypto tech are tools that can empower people on a global level.
-- We believe in the multi-chain future: many useful digital assets and applications will live on multiple blockchains.
-- We believe in the importance of self-custody as an inherent quality of blockchain and crypto networks.
-- We believe in decentralization and permissionless innovation.
-- We believe in the ability for anyone to frictionlessly swap one digital asset for another. 
-- We believe in being open minded about new crypto projects and opportunities (but this should be paired with healthy skepticism).
+- 私たちは、ブロックチェーンと暗号技術は、世界規模なレベルで人々に力を与えるツールであると信じています。
+- 私たちは、マルチ・チェーンの未来を信じています。多くの有用なデジタル資産とアプリケーションは、複数のブロックチェーン上に存在するでしょう
+- 私たちは、ブロックチェーンとクリプト・ネットワークの固有の特性として、セルフ・カストディ（自己管理）の重要性を信じています。
+- 私たちは、非中央集権とパーミッションレスによるイノベーションを信じています。
+- 私たちは、誰もがあるデジタル資産を他のデジタル資産と摩擦なく交換できる事を信じています。
+- 私たちは、新しいクリプト・プロジェクトや機会に対してオープンマインドである事を信じています。（しかし、これは健全な猜疑心とセットでなければなりません。）
 - We believe in the spirit of open cooperation with a positive sum mindset. We can support and build on top of other crypto projects and make the whole ecosystem stronger together.
 - We believe that open discussion and debate is healthy for the community and leads to better ideas and experiments.
 - We believe in kindness and treating each other with respect. A community that is kind to each other will inevitably do greater things than one that is constantly infighting. This includes kindness to other communities and those that we disagree with.
