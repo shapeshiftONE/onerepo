@@ -2,7 +2,7 @@
 title: 如何使用 KeepKey 桥接器
 description: KeepKey Bridge是一个Microsoft Windows应用程序，旨在帮助解决KeepKey和Windows机器之间的webUSB连接问题。
 published: false
-date: 2021-11-29T03:50:33.763Z
+date: 2021-12-02T09:10:54.116Z
 tags: hardware wallet, hd wallet, keepkey, keepkey wallet, keepkey-zendesk, zendesk
 editor: ckeditor
 dateCreated: 2021-11-28T12:28:32.200Z
@@ -10,10 +10,10 @@ dateCreated: 2021-11-28T12:28:32.200Z
 
 <h1>如何使用 KeepKey 桥接器</h1>
 <h2><strong>什么是 KeepKey 桥接器？</strong></h2>
-<p>KeepKey Bridge是一个Microsoft Windows应用程序，旨在帮助解决KeepKey和Windows机器之间的webUSB连接问题。</p>
-<p>网桥作为应用程序运行，该应用程序打开与 KeepKey 的本地 USB 连接。桥公开一个本地主机端口，ShapeShift Web 应用可以使用该端口与 KeepKey 进行通信。KeepKey 本身不知道桥接器，但必须指示 ShapeShift Web 应用使用桥接器。</p>
+<p>KeepKey Bridge是一个Microsoft Windows应用程序，旨在帮助解决KeepKey和Windows计算机之间的webUSB连接问题。</p>
+<p>网桥作为一个应用程序运行，该应用程序打开到 KeepKey 的本地USB连接。桥接器暴露了一个本地主机端口，ShapeShift Web应用程序可以使用该端口与KeepKey进行通信。KeepKey本身并不知道这座桥，但ShapeShift Web应用程序必须被指示使用这座桥。</p>
 <h2><strong>我应该什么时候尝试？</strong></h2>
-<p>如果您使用的是 Windows 计算机，并且在将 KeepKey 连接到 <a href="https://beta.shapeshift.com/"><strong>beta.shapeshift.com</strong></a>，时遇到问题，请尝试按照以下说明运行网桥。</p>
+<p>如果您使用的是 Windows 计算机，并且在将 KeepKey 连接到 <a href="https://beta.shapeshift.com/"><strong>beta.shapeshift.com </strong></a>时遇到问题，请尝试按照以下说明运行网桥。</p>
 <h2><strong>安装桥接器</strong></h2>
 <p><strong>1.</strong> 在使用网桥之前，请确保您的 KeepKey 已更新到最新的引导加载程序/固件。更新程序应用程序可以在 <a href="https://beta.shapeshift.com/updater-download#"><strong>这里</strong></a> 找到。在 <a href="https://github.com/keepkey/python-keepkey/releases"><strong>此处</strong></a> 下载最新版本的 KeepKey 桥接器。</p>
 <figure class="image"><img src="https://shapeshift.zendesk.com/hc/article_attachments/4412027362829/kkupdate.png" alt="kkupdate.png"></figure>
@@ -22,7 +22,7 @@ dateCreated: 2021-11-28T12:28:32.200Z
 <p><strong>2.</strong>下载 kkbsetup.exe 文件后，您可以通过将可执行文件的 SHA256 与发行说明中发布的摘要进行比较来验证该文件是否符合我们所声称的内容。这是通过打开cmd窗口（命令提示符），导航到"下载"文件夹，然后键入<strong>：cetuil -hashfile kkbsetup.exe SHA256</strong>来完成的。显示的结果信息应与 <a href="https://github.com/keepkey/python-keepkey/releases"><strong>python-keepkey releases</strong></a> 中发布的信息相匹配。如果一切匹配，请双击要安装的文件（<i>为方便起见，建议创建桌面快捷方式</i>）。</p>
 <figure class="image"><img src="https://shapeshift.zendesk.com/hc/article_attachments/4412021629197/runanyway.png" alt="runanyway.png"></figure>
 <h2><strong>使用桥接器</strong></h2>
-<p><strong>3.</strong> 启动KeepKey Bridge应用程序时，将出现一个空白窗口。即使它是空白的，桥正在运行（我们知道这不是一个理想的UI，但我们很快就会进行改进！当窗口关闭时，桥将停止运行。</p>
+<p><strong>3.</strong> 启动KeepKey Bridge应用程序时，将出现一个空白窗口。即使它是空白的，桥正在运行（我们知道这不是一个理想的UI，但我们很快就会进行改进！）当窗口关闭时，桥将停止运行。</p>
 <figure class="image"><img src="https://shapeshift.zendesk.com/hc/article_attachments/4412027408781/blank.png" alt="blank.png"></figure>
 <p><strong>4.</strong>随着桥接的运行，前往 <a href="https://beta.shapeshift.com/"><strong>beta.shapeshift.com</strong></a> 。选择 KeepKey 作为您要配对的钱包。</p>
 <figure class="image"><img src="https://shapeshift.zendesk.com/hc/article_attachments/4412030326157/selectkeepkey.png" alt="selectkeepkey.png"></figure>
@@ -32,14 +32,14 @@ dateCreated: 2021-11-28T12:28:32.200Z
 <figure class="image"><img src="https://shapeshift.zendesk.com/hc/article_attachments/4412030346509/trybridge.png" alt="trybridge.png"></figure>
 <p>如果成功，您的钱包将开始同步并最终连接到平台。</p>
 <figure class="image"><img src="https://shapeshift.zendesk.com/hc/article_attachments/4412030363021/paired.png" alt="paired.png"></figure>
-<h2>Troubleshooting</h2>
+<h2>检修故障</h2>
 <figure class="image"><img src="https://shapeshift.zendesk.com/hc/article_attachments/4412030511885/error.png" alt="error.png"></figure>
 <p>如果您在尝试通过网桥配对KeepKey时遇到任何错误消息（如上图所示），或者它只是无法连接，请尝试以下操作：</p>
-<p><strong>1.&nbsp;</strong>Go to the <a href="https://beta.shapeshift.com/settings"><strong>settings page</strong></a> and "forget" your KeepKey.</p>
+<p><strong>1.&nbsp;打开</strong> <a href="https://beta.shapeshift.com/settings"><strong>settings page</strong></a> 并“遗忘”您的 KeepKey。</p>
 <p><strong>2.&nbsp;</strong>拔出您的 KeepKey 。</p>
-<p><strong>3.&nbsp;</strong>Refresh <a href="https://beta.shapeshift.com/"><strong>beta.shapeshift.com</strong></a>.</p>
+<p><strong>3.&nbsp;刷新</strong> <a href="https://beta.shapeshift.com/"><strong>beta.shapeshift.com</strong></a> 页面。</p>
 <p><strong>4.&nbsp;</strong>关闭桥接应用程序。</p>
-<p><strong>5.&nbsp;</strong>重复本文"使用桥接"部分中的步骤。</p>
+<p><strong>5.&nbsp;</strong>重复本文"使用桥接器"部分中的步骤。</p>
 <p>&nbsp;</p>
 <p>如果您有任何疑问，请在 <a href="/hc/en-us/requests/new"><strong>此处</strong></a> 联系客户支持。</p>
 <p>&nbsp;</p>
