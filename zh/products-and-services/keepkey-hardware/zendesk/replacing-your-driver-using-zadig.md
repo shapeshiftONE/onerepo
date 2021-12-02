@@ -1,14 +1,14 @@
 ---
-title: 使用 Zadig 替换驱动程序
+title: 使用 Zadig 更换驱动程序
 description: 您的 Windows 计算机是否未检测到您的 KeepKey、Trezor 或 Ledger？我们发现有些机器没有合适的...
 published: false
-date: 2021-11-29T02:19:09.061Z
+date: 2021-12-02T02:25:57.870Z
 tags: hardware wallet, hd wallet, keepkey, keepkey wallet, keepkey-zendesk, zendesk
 editor: markdown
 dateCreated: 2021-11-28T12:51:10.265Z
 ---
 
-# 使用 Zadig 替换驱动程序
+# 使用 Zadig 更换驱动程序
 
 ## 您的 Windows 计算机是否未检测到您的 KeepKey、Trezor 或 Ledger？
 
@@ -54,13 +54,13 @@ Zadig现在应该看起来像这样：
 
 ![zadig.6.png](https://shapeshift.zendesk.com/hc/article_attachments/360008039260/zadig.6.png)
 
-8\. 您现在应该看到您当前的驱动程序已更改为 libusbK（或 WinUSB，具体取决于您替换的驱动程序。
+8\. 您现在应该看到您当前的驱动程序已更改为 libusbK（或 WinUSB，具体取决于您替换的驱动程序。）
 
 ![zadig.10.png](https://shapeshift.zendesk.com/hc/article_attachments/360008048919/zadig.10.png)
 
-如果您打开了 beta.shapeshift.com，请继续关闭它。重新启动您尝试将设备连接到的任何设备，并尝试配对KeepKey。如果驱动程序确实是导致无法检测到设备的问题，则现在应该看到您可以连接KeepKey。
+如果您打开了 beta.shapeshift.com，那就继续关闭它。重新启动您尝试将设备连接到的任何设备，并尝试配对KeepKey。如果驱动程序确实是导致您的设备未被检测到的问题，则现在应该可以看到您可以连接KeepKey。
 
-**如果您在更换驱动程序时遇到问题，或者希望获得恢复此过程的帮助，请联系我们的支持团队 [support team](/hc/en-us/requests/new).**
+**如果您在更换驱动程序时遇到问题，或需要帮助恢复此过程，请联系我们的 [支持团队](/hc/en-us/requests/new).**
 
 ---
 
