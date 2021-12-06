@@ -1,193 +1,193 @@
 ---
-title: ShapeShift (Company)
-description: An overview of the ShapeShift Exchange and Organization pre-decentralization. 
+title: ShapeShift (Empresa)
+description: Estágios iniciais e pré-descentralização da ShapeShift como Corretora e Organização.
 published: true
 date: 2021-10-08T21:38:16.473Z
-tags: shapeshift, shapeshift history, history, centralized shapeshift
+tags: shapeshift, shapeshift history, history, centralized shapeshift, história da shapeshift, história, empresa, shapeshift centralizada
 editor: markdown
 dateCreated: 2021-11-25T22:45:46.428Z
 ---
 
-# ShapeShift (Company) History
 
-## Formation and Early Stages
+# História da ShapeShift (Empresa)
 
-ShapeShift was a U.S. based cryptocurrency exchange registered in Switzerland in 2014. The company, under the leadership of Erik Voorhees and co-founder "Jon Shapeshift," launched its initial version in the summer of 2014 with Litecoin as the first altcoin available for instant swaps to and from Bitcoin. Initially ShapeShift was "primarily intended to be used as an API" according to archives.
+## Formação e estágios iniciais
 
-> ShapeShift is a new piece of infrastructure in Bitcoinland. It is how digital currency exchange should work. From start to finish you can change currencies in under ten seconds, no account required. - *About Us Page Circa Aug. 2014*
+A ShapeShift era uma corretora de criptomoedas com sede nos EUA registrada na Suíça, em 2014. A empresa, sob a liderança de Erik Voorhees e co-fundador "Jon Shapeshift", lançou sua versão inicial no verão de 2014 com Litecoin como a primeira altcoin disponível para trocas instantâneas de/para Bitcoin. Inicialmente,a  ShapeShift era "destinado principalmente para ser usado como uma API", de acordo com os históricos.
 
-A few months after the initial launch, Peercoin, Darkcoin, and Dogecoin was added to the list of asset offerings. By September 2015 the exchange offered 40 different assets with over 900 different trading pairs--by far the most of any crypto exchanges at the time.
+> ShapeShift é uma nova peça de infraestrutura em Terras de Bitcoin. É assim que o câmbio digital deve funcionar. Do início ao fim, você pode alterar as moedas em menos de dez segundos, sem a necessidade de uma conta.  *Confira abaixo a página 'Sobre nós', por volta de agosto de 2014*
 
-![First version of the ShapeShift Exchange](https://hackmd.io/_uploads/HkSUqE3ut.png)
+Poucos meses após o lançamento inicial, a Peercoin, Darkcoin e Dogecoin foram adicionadas à lista de ofertas de ativos. Em setembro de 2015, a ShapeShift oferecia 40 ativos diferentes com mais de 900 pares de negociação diferentes - de longe o máximo de todas as corretoras de criptomoedas da época.
+
+![Primeira versão da ShapeShift](https://hackmd.io/_uploads/HkSUqE3ut.png)
 
 
 
-### Digital Currency Group Investment
+### Investidores de criptomoedas que se fizeram presentes
 
-In March 2015, ShapeShift received its first funding with a $525,000 seed investment from Digital Currency Group, a New York-based venture capital fund led by Barry Silbert and Roger Ver. 
+Em março de 2015, a ShapeShift recebeu seu primeiro financiamento com um investimento inicial de $ 525.000 do Digital Currency Group, um fundo de capital de risco com sede em Nova York liderado por Barry Silbert e Roger Ver.
 
-### CoinPayments Partnership
+### Parceria com CoinPayments 
 
-In May 2015 ShapeShift entered into a partnership with CoinPayments.net, a leading cryptocurrency merchant system still in operation today. 
+Em maio de 2015, a ShapeShift firmou uma parceria com CoinPayments.net, um sistema de criptomoedas líder em operação ainda nos dias de hoje.
 
-> "We are excited to offer simple and frictionless conversions to our customers using the ShapeShift API,” said CoinPayments.net CEO Alex Alexandrov, “This partnership gets us one step closer to a system where customer can pay in any currency they choose and vendors settle in what they find most convenient for their business."
+> “Estamos entusiasmados em oferecer conversões simples e sem atrito para nossos clientes usando a API ShapeShift”, disse Alex Alexandrov, CEO da CoinPayments.net, “Esta parceria nos deixa um passo mais perto de um sistema onde o cliente pode pagar em qualquer moeda que escolherem e os fornecedores liquidarem o capital no que eles acham mais conveniente para seus negócios."
 
-### iOS App Release
+### Lançamento do aplicativo iOS
 
-On June 9th 2015, ShapeShift announced the launch of its platform on iOS, boasting that iPhone users can now trade "every major digital asset at the touch of a button." 
+Em 9 de junho de 2015, a ShapeShift anunciou o lançamento de seu aplicativo iOS, reforçando que os usuários do iPhone podem negociar "todos os principais ativos digitais no toque de um botão".
 
-> “Most exchanges hold customer funds and extract personal information, which is an archaic and insecure model,” added Voorhees. “Mt. Gox was a teachable moment for everyone in the Bitcoin community and ShapeShift has innovated these problems out of the picture. We are both faster and more secure. This is real consumer protection - no funds or sensitive information is stored on our servers nor on the user’s phone in case it is damaged, destroyed or stolen. Digital currency has brought to humanity a more secure infrastructure, and so we build in that spirit.”
+> “A maioria das corretoras de criptomoedas mantém fundos de clientes e extraem informações pessoais, o que é um modelo arcaico e inseguro”, acrescentou Voorhees. “Mt. Gox foi um momento de aprendizado para todos na comunidade Bitcoin e a ShapeShift inovou esses problemas. Somos mais rápidos e mais seguros. Isso é proteção real ao consumidor - nenhum dinheiro ou informação sensível é armazenada em nossos servidores nem o telefone do usuário, caso seja danificado, destruído ou roubado. A moeda digital trouxe para a humanidade uma infraestrutura mais segura, por isso seguimos construindo nosso projeto com este espírito de liberdade. ”
 
-### Spells of Genesis Cards
+### Cartas Colecionáveis 'Spells of Genesis'
 
-On August 11th, 2015, Spells of Genesis, a trading card and arcade game that integrated Bitcoin and blockchain, announced its plans to release and sell a limited quantity of ShapeShift-inspired cards. These extremely rare cards gave an early glimpse of the forecoming NFT boom, nearly half a decade later. Plans to burn and auction off some of these cards were announced and approved in November 2021. 
+Em 11 de agosto de 2015, Spells of Genesis, um jogo de cartas baseado em *arcade* que integrava Bitcoin e blockchain, anunciou seus planos de vender uma quantidade limitada de cartas inspiradas na ShapeShift. Essas cartas extremamente raras marcaram os primeiros indícios do *boom* do NFT, quase meia década depois. Planos para queimar e leiloar alguns desses cartões foram anunciados e aprovados em novembro de 2021.
 
->“Digital goods in games have always had fake scarcity,” explains ShapeShift’s CEO Erik Voorhees, “the company can always create more, and nobody really knows how many exist, making it impractical to value or price. These blockchain-based digital assets, however, are truly mathematically scarce, and will become commoditized and traded like other financial assets. Spells of Genesis is breaking exciting new ground and we’re thrilled to be working closely with them.”
+> “Os bens digitais em jogos sempre tiveram uma escassez falsa”, explica o CEO da ShapeShift, Erik Voorhees, “a empresa sempre pode criar mais, e ninguém sabe realmente quantos existem, o que torna impraticável o valor ou o preço. Esses ativos digitais baseados em blockchain, no entanto, são verdadeiramente matematicamente escassos e se tornarão comoditizados e comercializados como outros ativos financeiros. Spells of Genesis está desbravando novos caminhos e estamos entusiasmados por trabalhar de perto com eles.”
 
-### Other Notable Partnerships & Integrations
+### Outras parcerias e integrações notáveis
 
-* Vaultoro 6/3/15
-* Bitwala 6/15/16
-* Wirex 9/22/16
-* OpenBazaar 1/7/17
+* Vaultoro 3/6/15
+* Bitwala 15/6/16
+* Wirex 22/9/16
+* OpenBazaar 7/1/17
 * Unocoin 03/2017
-* FIO Protocol 08/25/2020
+* FIO Protocol 25/8/2020
 
-## Regulatory Roadblocks and Opposition
+## Obstáculos regulatórios e oposição
 
-### 2014 SEC Settlement
+### Determinação da SEC, em 2014
 
-In 2014, CEO Voorhees was fined by the SEC for an unrelated venture from 2012 and 2013. He was accused of using social media platforms to solicit investors without federal approval for his two bitcoin-related ventures, SatoshiDICE and FeedZeBirds. Eventually Voorhees settled with the SEC in a civil court and was banned from making a crypto securities offering for five years.
+O CEO da ShapeShift, Erik Voorhees, foi multado pela SEC em 2014. Foram alegados movimentos irregulares e não registrados no mercado durante o período entre 2012 e 2013. Ele foi acusado de usar plataformas de mídia social para solicitar investidores sem aprovação federal para seus dois empreendimentos relacionados ao Bitcoin: SatoshiDICE e FeedZeBirds. Por fim, Voorhees fez um acordo com a SEC em um tribunal civil e foi proibido de fazer uma oferta de valores mobiliários criptografados por cinco anos.
 
-### New York's BitLicense
+### BitLicense de Nova Iorque
 
-In July 2014, the New York State Department of Financial Services (NYSDFS) announced its plans to regulate businesses involved in virtual currency activities. The controversial "BitLicense" was met with fierce opposition when finalized in 2015, including ShapeShift, ultimately leading to the announcement that it would cease offering services to New York residents as a result of regulatory framework. Voorhees described the customer data requirements imposed by the BitLicense as “Orwellian” and a reckless data collection effort. 
+Em julho de 2014, o Departamento de Serviços Financeiros do Estado de Nova York (NYSDFS) anunciou seus planos para regulamentar as empresas envolvidas em atividades de criptomoedas. O polêmico programa "BitLicense" encontrou forte oposição quando finalizado em 2015, incluindo a manifestação da ShapeShift, levando ao puúblico o anúncio de que deixaria de oferecer serviços aos residentes de Nova Iorque devido a  estrutura regulatória. Voorhees descreveu os requisitos de dados do cliente impostos pelo BitLicense como “Orwellianos” e um esforço imprudente de coleta de dados.
 
-### Washington State Senate Bill 5031
+### Projeto de lei 5031 do Estado de Washington 
 
-In August 2017 ShapeShift announced that it would cease operations in the State of Washington, citing the BitLicense-like regulations passed by the state senate.
+Em agosto de 2017, a ShapeShift anunciou que encerraria as operações no estado de Washington, citando os regulamentos semelhantes ao BitLicense aprovados pelo senado estadual.
 
-### Mandatory KYC Data Collection
+### Coleta de dados obrigatória (KYC: Conheça seu Consumidor)
 
-In September 2018, ShapeShift began to implement a voluntary KYC program and announced that KYC would soon be mandatory for all. In a heartfelt message written by Voorhees, he made it clear that this decision did not come easy, and that it was a pro-active measure being put in place as it was becoming more and more clear as to which direction the regulatory bodies were hell-bent on imposing.
+Em setembro de 2018, a ShapeShift começou a implementar um programa KYC (*Know Your Customer*) voluntário e anunciou que o KYC seria obrigatório para todos com a evolução do tempo. Em uma mensagem sincera escrita por Voorhees, ele deixou claro que essa decisão não foi fácil, e que era uma ação pró-ativa sendo implementada à medida que ficava cada vez mais claro em que direção os órgãos reguladores estavam agindo de má-fé: inclinados a impor um sistema opressor.
 
-> "We still firmly believe that individuals, regardless of their race, religion, or nationality, deserve the right to financial privacy, just as they deserve the right to privacy in their thoughts, in their relationships, and in their communications. Such privacy is a foundational element of a civil and just society, and should be defended by all good people. We remain committed to that cause and it is best served if we are smart about our approach.
+> "Ainda acreditamos firmemente que os indivíduos, independentemente de sua raça, religião ou nacionalidade, merecem o direito à privacidade financeira, assim como merecem o direito à privacidade em seus pensamentos, em seus relacionamentos e em suas comunicações. Essa privacidade é um elemento fundamental de uma sociedade civil e justa, e deve ser defendido por todas as pessoas de bem. Continuamos comprometidos com nossa causa e temos certeza qe tudo dará certo se formos inteligentes em nossa abordagem."
 
-This was a significant turning point in ShapeShift's history and future, as crypto's no-KYC, no-account, privacy advocating darling exchange finally sucummed to the growing interest and regulations in the digital assets sector.
+Este foi um ponto de reflexão significativo na história e no futuro da ShapeShift, a privacidade foi comprometida por crescentes interesses e regulamentações no setor de ativos digitais, sufocando ideais de liberdade, como não exigir o KYC.
 
-Although the exact figures are not public, ShapeShift's volume predictably took a significant hit, and many long-time users migrated elsewhere.
+Embora os números exatos não sejam públicos, o volume da ShapeShift (como já era previsto) sofreu um impacto significativo e muitos usuários antigos deixaram de utilizar a nossa plataforma e migraram para outros lugares.
 
-### WSJ Accusations and Factual Response
+### Acusações do WSJ e resposta factual
 
-On September 28th, 2018, Wall Street Journal made waves around the Blockchain and FinTech world with an "expose" titled "How Dirty Money Disappears Into The Black Hole Of Cryptocurrency."
+Em 28 de setembro de 2018, o Wall Street Journal conturbou o mundo do Blockchain e das FinTechs com um "dossiê" intitulado "Como o dinheiro sujo desaparece no buraco negro da criptomoeda".
 
-Perhaps leveraging the growing tensions at the time between North Korea and the U.S. and South Korea as bait for pageviews, the article began:
+Talvez com o intuito de aproveitar as tensões crescentes na época entre a Coreia do Norte, Estados Unidos e Coreia do Sul, utilizando o título como isca para visualizações de página, o artigo inicia-se assim:
 
-> “A North Korean agent, a stolen-credit-card peddler and the mastermind of an $80 million Ponzi scheme had a common problem. They needed to launder their dirty money. They found a common solution in ShapeShift.”
+> “Um agente norte-coreano, um vendedor de cartão de crédito roubado e o idealizador de um esquema Ponzi (Pirâmide Financeira) de US$ 80 milhões tinha um problema: ele precisava lavar seu dinheiro sujo e encontrou uma solução na ShapeShift.”
 
-The article attempted to link ShapeShift to $9m in laundered money by criminal organizations and that ShapeShift was complicit and knowingly allowed these types of activities. 
+O artigo tentou vincular a ShapeShift a US$ 9 milhões em dinheiro lavado por organizações criminosas, alegando que a empresa era cúmplice e permitia conscientemente esses tipos de atividades.
 
-The blockchain industry quickly rallied and refuted the WSJ article, as it was clear that the journalist did not know how to analyze chain data, made deceptive claims, and omitted relevant information.
+A indústria do Blockchain rapidamente se recompôs deste duro golpe e refutou o artigo do WSJ, pois estava claro que o jornalista não sabia como analisar os dados do Blockchain, fez afirmações enganosas e omitiu informações relevantes.
 
-#### ShapeShift's Response
+#### Direto de resposta da ShapeShift
 
-Voorhees, unsurprisingly, took to himself to refute and defend ShapeShift. Some key points illustrated by Voorhees include:
+Voorhees, sem surpresa, decidiu refutar e defender a ShapeShift. Alguns pontos-chave ilustrados por Voorhees incluem:
 
-> - Overall, the article contains factual inaccuracies, omits significant details about how ShapeShift operates, and reflects a fundamental misunderstanding of how blockchain transactions work.
-> - $9m (even if it was true) is 0.15% of ShapeShift’s exchange volume during the described time period;
-> - We have a strong record of complying with law-enforcement requests, providing valuable assistance in over 30 investigations in 13 different countries all over the world;
->- We work with other exchanges on an almost-daily basis to identify and block thieves and criminals, through a self-policing group ShapeShift created to protect the users and industry;
->- We block entire countries on the sanctions lists;
->- We have an internal anti-money laundering program that uses blockchain forensics that are far more advanced (and we would argue, effective) than asking someone for their “name and address”;
->- An objective observer will find no complacency here; ShapeShift’s record (based on facts) compares favorably against any peer, within the crypto industry or without.
+> - No geral, o artigo contém imprecisões factuais, omite detalhes significativos sobre como a ShapeShift opera e reflete um mal-entendido fundamental de como as transações em blockchain funcionam.
+> - $9 milhões (mesmo que fosse verdade) é 0,15% do volume de negociações da ShapeShift durante o período de tempo descrito;
+> - Temos um forte histórico de cumprimento de solicitações de aplicação da lei, fornecendo assistência valiosa em mais de 30 investigações em 13 países diferentes ao redor do mundo;
+>- Trabalhamos com outras corretoras quase diariamente para identificar e bloquear ladrões e criminosos, por meio de um grupo de autopoliciamento ShapeShift criado para proteger os usuários e a indústria;
+>- Bloqueamos países por completo em listas de sanções;
+>- Possuímos um programa interno de combate à lavagem de dinheiro que usa análises forenses de blockchain que são muito mais avançadas (e poderíamos argumentar, eficazes) do que pedir a alguém seu “nome e endereço”;
+>- Um observador objetivo não encontrará complacência aqui; O registro da ShapeShift (com base em fatos) compara-se favoravelmente com qualquer par, dentro ou fora da indústria de criptografia.
 
-The entire rebuttal can be read [here](https://shapeshift.com/newsroom/shining-light-on-wsjs-attack-on-shapeshift-and-crypto).
+Leia o direito de resposta completo [aqui](https://shapeshift.com/newsroom/shining-light-on-wsjs-attack-on-shapeshift-and-crypto).
 
-#### CipherBlade's Investigation
+#### Auditoria da CipherBlade
 
-Perhaps even more important than ShapeShift's own response, was that of CipherBlade, one of the most respected blockchain forensics and investigation agency. In a third party review by CipherBlade, aptly titled, "How Truth Disappears Into the Black Hole of Shoddy Journalism," the conclusion was clear: **"WSJ used flawed methodology which generated highly inflated claims that were used to single out one exchange for transactions that are neither unusual nor illicit.""**
+Talvez ainda mais importante do que a resposta da própria ShapeShift, foi a da CipherBlade, uma das agências forenses e de investigação de blockchain mais respeitadas. Em uma revisão de terceiros promovida pela CipherBlade, apropriadamente intitulada, "Como a verdade desaparece no buraco negro do jornalismo de má qualidade", a conclusão foi clara: **"WSJ usou uma metodologia falha que gerou reivindicações altamente infladas que foram usadas para destacar uma troca para transações que não são incomuns nem ilícitas.""**
 
-The highly detailed forensic review went on to rip apart WSJ's claims on ShapeShift one by one. The full article can be read [here](https://medium.com/cipherblade/how-truth-disappears-into-the-black-hole-of-shoddy-journalism-bbff158cd271). 
-
-
-### Privacy Coin De-Listings
-
-In November 2020, three privacy-focused coins XMR, DASH, and ZEC were de-listed from the ShapeShift platform "to further derisk the company from a regulatory standpoint."
+A análise forense altamente detalhada acabou refutando  todas as alegações do WSJ sobre a ShapeShift. Leia o artigo completo [aqui](https://medium.com/cipherblade/how-truth-disappears-into-the-black-hole-of-shoddy-journalism-bbff158cd271). 
 
 
-## Funding
+### Remoção de moedas listadas na plataforma
 
-Since the founding of ShapeShift, there have been four known funding rounds for a total amount of $12.8mil.  
+Em novembro de 2020, três moedas com foco na privacidade XMR, DASH e ZEC foram retiradas da lista da plataforma ShapeShift "para atingir propositalmente a empresa do ponto de vista regulatório".
 
-| Announced | Round | # of Investors | Amount Raised |
+
+## Financiamento
+
+Desde a fundação da ShapeShift,  quatro rodadas de investimentos foram aplicadas, totalizando US$12,8 milhões. 
+
+| Anúncio | Estágio | # de investidores | Fundos arrecadados |
 | -------- | -------- | -------- | -------- |
-| Mar 29, 2017     | Series A     | 9     | $10.4M|
-| Mar 29, 2016     | Seed 3     | 2     | N/A|
-| Sep 8, 2015     | Seed 2     | 7     | $1.6M|
-| Mar 10, 2015     | Seed 1     | 2     | $525K|
+| 29 de março, 2017     | Série A     | 9     | $10.4M|
+| 29 de março, 2016     | Semente 3     | 2     | N/A|
+| 8 de setembro, 2015     | Semente 2     | 7     | $1.6M|
+| 10 de março, 2015     | Semente 1     | 2     | $525K|
 
-Notable Investors: Earlybird Venture Capital, Blockchain Capital, Digital Currency Group, Bitfinex, Lakestar Venture Capital 
+Investidores notáveis: Earlybird Venture Capital, Blockchain Capital, Digital Currency Group, Bitfinex, Lakestar Venture Capital 
 
-## Acquisitions
+## Aquisições
 
-### Portis Acquisition
+### Aquisição da Portis
 
-Portis, an Israli-based software wallet company founded in May 2018, was acquired by ShapeShift in April 2020 for an undisclosed amount. Voorhees not only praised Portis' SDK, as it was already integrated with the existing ShapeShift platform, but their core values.
+Portis, uma empresa de carteira de software baseada em Israel fundada em maio de 2018, foi adquirida pela ShapeShift em abril de 2020 por um valor não revelado. Voorhees não elogiou apenas o SDK (*Software Development Kit*) da Portis, visto que já estava integrado à plataforma ShapeShift existente, mas também seus valores essenciais.
 
->"After integrating Portis’ SDK into the ShapeShift Platform last year, we recognized the depth of their tech and how closely our values aligned. They really built something special, making self-custody extremely easy. As our relationship evolved, acquiring Portis became a natural next step."
+>"Depois de integrar o SDK da Portis na plataforma ShapeShift no ano passado, reconhecemos a profundidade de sua tecnologia e como nossos valores estão alinhados. Eles realmente construíram algo especial, tornando a autocuidado extremamente fácil. Conforme nosso relacionamento evoluiu, adquirir a Portis tornou-se um processo natural."
 
-### Bitfract Acquisition
+### Aquisição da Bitfract
 
-Bitfract, founded in 2018 and based in Texas by CEO Willy Ogorzaly, was a platform that allowed users to convert their Bitcoin into a variety or "basket" of digital assets in a single transaction. The platform enabled investors to simplify the buying, selling, and re-balancing of portfolios through a simple transaction while allegedly saving up to 80% in fees. 
+A Bitfract, fundada em 2018 e sediada no Texas pelo CEO Willy Ogorzaly, era uma plataforma que permitia aos usuários converter seu Bitcoin em "pacotes" de ativos digitais em uma única transação. A plataforma permitiu que os investidores simplificassem a compra, venda e reequilíbrio de carteiras por meio de uma simples transação, ao mesmo tempo que economizavam até 80% em taxas.
 
 ![](https://hackmd.io/_uploads/SJOGQXnOF.png)
 
-On Aug 9, 2018 it was announced that Bitfract was acquired by ShapeShift for an undisclosed amount.
+Em 9 de agosto de 2018, foi anunciado que a Bitfract foi adquirida pela ShapeShift por um valor não revelado.
 
-### KeepKey Acquisition
+### Aquisição da KeepKey
 
-KeepKey was founded in 2014 "to provide thousands of users with the most secure, convenient, and easy-to-use hardware wallet available for storing bitcoins and other digital assets." 
+A KeepKey foi criada em 2014 "para fornecer a milhares de usuários a carteira de hardware mais segura, conveniente e fácil de usar disponível para armazenamento de bitcoins e outros ativos digitais."
 
-In August 2017, ShapeShift acquired KeepKey for an undisclosed amount. Shortly after, KeepKey was integrated directly into ShapeShift's platform, allowing for a full vertical integration of self-custody (Portis for software, KeepKey for hardware). 
+Em agosto de 2017, a ShapeShift adquiriu a KeepKey por um valor não divulgado. Pouco depois, a KeepKey foi integrada diretamente na plataforma da ShapeShift, permitindo uma integração vertical completa de autocustódia (Portis para *software* e KeepKey para *hardware*). 
 
-KeepKey is often brought up by journalists and tech reviewers as one of the leading hardware wallets in safety and quality up along with Trezor and Ledger. 
+A KeepKey é frequentemente apontada por jornalistas e revisores técnicos como uma das carteiras de *hardware* líderes em segurança e qualidade, juntamente com Trezor e Ledger.
 
-Most of the software is [open source](https://github.com/keepkey), and there are plans to open source the hardware as soon as possible. It is still unclear how (or if at all) the manufacturing and distribution aspect of KeepKey will continue as the company fully decentralizes. 
+Grande parte da KeepKey tem seu [código-fonte aberto](https://github.com/keepkey), e há planos para abrir o código o mais rápido possível. Ainda não está claro como ou será a questão de fabricação e distribuição da KeepKey à medida em que a empresa se descentraliza totalmente.
 
-## Path to Decentralization
+## Caminho para a Descentralização
 
-The ethos and vision of ShapeShift since its inception was made very clear: privacy and financial equality for all. The financial regulatory bodies of America unfortunately did not see eye-to-eye with the early pioneers of blockchain, and ShapeShift along with all the other exchanges ultimately had bowed to pressure. 
+Os valores culturais e a visão da ShapeShift desde o seu início ficaram muito claros: privacidade e igualdade financeira para todos. Os órgãos reguladores financeiros dos Estados Unidos, infelizmente, não concordaram com o nosso pioneirismo em blockchain. A ShapeShift junto com a maioria das outras corretoras, finalmente, cederam à pressão. 
 
-The enforcement of KYC data collection was the end of an era for a legendary "first of its kind" financial system that was very endeared by many early adopters. 
+A aplicação da coleta de dados KYC foi o fim de uma era para um lendário sistema financeiro "o primeiro de seu tipo" que era muito querido por muitos que o adotaram.
 
-### No-KYC DEX Launch & FOX Token
+### Corretora que não exige KYC & Token FOX
 
-With KYC enforcement in place, transaction volume predictably began its rapid decline as centralized exchanges like Bittrex, GDAX, and shortly after Binance began to rapidly gain much of the world's global volume.
+Com a aplicação o protocolo KYC em vigor, o volume de transações previsivelmente começou seu rápido declínio visualizando trocas centralizadas como Bittrex, GDAX e logo após a Binance começar a ganhar rapidamente grande parte do volume global do mundo.
 
-Little did the world know at the time, that a small project called Uniswap would very shortly and swiftly change the paradigm of the industry again. Although early attempts at a completely decentralized exchange certainly was respectable in its own right, there were numerous usability and liquidity issues that prevented mass adoption. 
+Mal sabia o mundo na época, que um pequeno projeto chamado Uniswap mudaria muito em breve e rapidamente o paradigma da indústria novamente. Embora as primeiras tentativas de uma bolsa completamente descentralizada certamente fossem respeitáveis por si só, haviam vários problemas de usabilidade e liquidez que impediam a adoção em massa.
 
-Uniswap's liquidity and AMM protocols catapulted the DeFi landscape while ShapeShift was still confined within the restrictive walls of regulation. 
+A liquidez da Uniswap e os protocolos AMM impulsionaram o cenário DeFi enquanto a ShapeShift ainda estava confinada dentro das barreiras restritivas da regulamentação.
 
-To those who really knew ShapeShift, its leaders, and its values, it came as no surprise when the company quickly re-aligned itself the announcement and launch of a non-custodial, no-KYC-needed platform that aggregated and utilized the protocols and liquidity of various DEXes.
+Para aqueles que realmente conheciam a ShapeShift, seus líderes e seus valores, não foi nenhuma surpresa quando a empresa se realinhou rapidamente e anunciou uma plataforma sem custódia e sem necessidade de KYC, utilizando protocolos e liquidez de várias corretoras.
 
-ShapeShift's "FOX" token was also launched as an ERC20 utility-token that gave the holders various benefits on the platform, such as the gas-rebate program. 
+O token FOX da ShapeShift também foi lançado como um token utilitário ERC20 e garantiu aos detentores vários benefícios na plataforma, como o programa de desconto de taxas.
 
-The company, however, struggled to gain ground as the entire industry entered its longest and arguably the most important bear market in its short history. It was during this "crypto winter" when many projects, platforms, and protocols were laying down the foundation and the infrastructure needed to mature the market past the speculation phase and into the utilization phase. 
+A empresa, no entanto, lutou para ganhar terreno à medida que toda a indústria caminhava para o período mais longo de baixas no mercado. Foi durante esse "inverno criptográfico" quando muitos projetos, plataformas e protocolos estavam estabelecendo a base e a infraestrutura necessária para amadurecer o mercado, passando da fase de especulação e entrando na fase de utilização.
 
-### The Announcement
+### O anúncio
 
-Winter eventually thawed into spring and by late 2020 the industry was once again booming with chatter, optimism, breakthroughs, and major protocol-level improvements. Ideas and ambitions, that were only text and diagrams on whitepapers just a few years ago, slowly but surely began to show glimpse and teasers of the endless possibilities that blockchain and distributed peer-to-peer technology could open up. 
+O inverno acabou chegando à primavera e, no final de 2020, o setor estava mais uma vez em pleno vapor, otimismo, avanços e grandes melhorias em nível de protocolos. Ideias e ambições que eram apenas textos e diagramas em manifestos apenas alguns anos atrás, lentamente começaram a tomar forma, vislumbres e amostras das possibilidades infinitas que o blockchain e a tecnologia ponto a ponto distribuída poderiam criar  finalmente estavam acontecendo, novamente.
 
-With the DeFi revolution already in full swing, it was time for the DAO revolution. In July 2021, ShapeShift publicly announced its plans to decentralize the entire company while conducting one of the largest airdrops in history of FOX tokens, which would eventually be used for decentralized governance processes. 
+Com a revolução DeFi já em  andamento, era hora da revolução DAO. Em julho de 2021, a ShapeShift anunciou publicamente seus planos de descentralizar toda a empresa enquanto conduzia um dos maiores lançamentos *Airdrops* da história em Tokens FOX, que eventualmente seriam usados para processos de governança descentralizados.
 
-The decision to decentralize a company of this size, history, range of services and products, number of employees, physical ownership of materials, etc., was an ambitious one that could be used as inspiration or a case study for future companies that are thinking of decentralizing. 
+A decisão de descentralizar uma empresa deste porte, história, gama de serviços e produtos, número de funcionários, propriedade física dos materiais, etc., foi uma decisão ambiciosa que pode servir de inspiração ou estudo de caso para futuras empresas que estão pensando de descentralizar suas atividades.
 
-If all goes as planned, centralized ShapeShift should no longer be existing on January 1st, 2022. ShapeShift Foundation is in the process of formation to pick up processes that are necessary and to support the DAO.
+Se tudo correr como planejado, a ShapeShift centralizada não deverá mais existir em 1º de janeiro de 2022. A Fundação ShapeShift está em processo de formação para selecionar os protocolos necessários e fornecer total suporte para a DAO.
 
-ShapeShift AG is now ShapeShift DAO.
+A ShapeShift não é mais uma empresa, mas sim uma DAO.
 
-Learn more about ShapeShift DAO: <link>
-CEO Erik Voorhees Announcement: [link](https://erikvoorhees.medium.com/shapeshift-is-decentralizing-639bb4c82fc8)
+Saiba mais sobre a ShapeShift DAO lendo o anúncio do CEO Erik Voorhess [aqui].(https://erikvoorhees.medium.com/shapeshift-is-decentralizing-639bb4c82fc8)
 
 ---
 bounty: true
