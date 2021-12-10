@@ -1,5 +1,5 @@
 ---
-title: ShapeShift se décentralise : L'annonce
+title: ShapeShift se décentralise - L'annonce
 description: ShapeShift, un leader international des crypto-monnaies non-dépositaire (non-custodial), annonce avoir commencé à démanteler sa structure d'entreprise, décentralisant la gouvernance à ses clients via son jeton FOX. 
 published: true
 date: 2021-11-19T15:49:46.947Z
