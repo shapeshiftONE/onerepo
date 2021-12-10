@@ -71,7 +71,7 @@ In August 2017 ShapeShift announced that it would cease operations in the State 
 
 In September 2018, ShapeShift began to implement a voluntary KYC program and announced that KYC would soon be mandatory for all. In a heartfelt message written by Voorhees, he made it clear that this decision did not come easy, and that it was a pro-active measure being put in place as it was becoming more and more clear as to which direction the regulatory bodies were hell-bent on imposing.
 
-> "We still firmly believe that individuals, regardless of their race, religion, or nationality, deserve the right to financial privacy, just as they deserve the right to privacy in their thoughts, in their relationships, and in their communications. Such privacy is a foundational element of a civil and just society, and should be defended by all good people. We remain committed to that cause and it is best served if we are smart about our approach.
+> "We still firmly believe that individuals, regardless of their race, religion, or nationality, deserve the right to financial privacy, just as they deserve the right to privacy in their thoughts, in their relationships, and in their communications. Such privacy is a foundational element of a civil and just society, and should be defended by all good people. We remain committed to that cause and it is best served if we are smart about our approach."
 
 This was a significant turning point in ShapeShift's history and future, as crypto's no-KYC, no-account, privacy advocating darling exchange finally sucummed to the growing interest and regulations in the digital assets sector.
 
@@ -105,7 +105,7 @@ The entire rebuttal can be read [here](https://shapeshift.com/newsroom/shining-l
 
 #### CipherBlade's Investigation
 
-Perhaps even more important than ShapeShift's own response, was that of CipherBlade, one of the most respected blockchain forensics and investigation agency. In a third party review by CipherBlade, aptly titled, "How Truth Disappears Into the Black Hole of Shoddy Journalism," the conclusion was clear: **"WSJ used flawed methodology which generated highly inflated claims that were used to single out one exchange for transactions that are neither unusual nor illicit.""**
+Perhaps even more important than ShapeShift's own response, was that of CipherBlade, one of the most respected blockchain forensics and investigation agency. In a third party review by CipherBlade, aptly titled, "How Truth Disappears Into the Black Hole of Shoddy Journalism," the conclusion was clear: **"WSJ used flawed methodology which generated highly inflated claims that were used to single out one exchange for transactions that are neither unusual nor illicit."**
 
 The highly detailed forensic review went on to rip apart WSJ's claims on ShapeShift one by one. The full article can be read [here](https://medium.com/cipherblade/how-truth-disappears-into-the-black-hole-of-shoddy-journalism-bbff158cd271). 
 
@@ -132,7 +132,7 @@ Notable Investors: Earlybird Venture Capital, Blockchain Capital, Digital Curren
 
 ### Portis Acquisition
 
-Portis, an Israli-based software wallet company founded in May 2018, was acquired by ShapeShift in April 2020 for an undisclosed amount. Voorhees not only praised Portis' SDK, as it was already integrated with the existing ShapeShift platform, but their core values.
+Portis, an Israeli-based software wallet company founded in May 2018, was acquired by ShapeShift in April 2020 for an undisclosed amount. Voorhees not only praised Portis' SDK, as it was already integrated with the existing ShapeShift platform, but their core values.
 
 >"After integrating Portis’ SDK into the ShapeShift Platform last year, we recognized the depth of their tech and how closely our values aligned. They really built something special, making self-custody extremely easy. As our relationship evolved, acquiring Portis became a natural next step."
 
@@ -168,7 +168,7 @@ Little did the world know at the time, that a small project called Uniswap would
 
 Uniswap's liquidity and AMM protocols catapulted the DeFi landscape while ShapeShift was still confined within the restrictive walls of regulation. 
 
-To those who really knew ShapeShift, its leaders, and its values, it came as no surprise when the company quickly re-aligned itself the announcement and launch of a non-custodial, no-KYC-needed platform that aggregated and utilized the protocols and liquidity of various DEXes.
+To those who really knew ShapeShift, its leaders, and its values, it came as no surprise when the company quickly re-aligned itself with the announcement and launch of a non-custodial, no-KYC-needed platform that aggregated and utilized the protocols and liquidity of various DEXes.
 
 ShapeShift's "FOX" token was also launched as an ERC20 utility-token that gave the holders various benefits on the platform, such as the gas-rebate program. 
 
