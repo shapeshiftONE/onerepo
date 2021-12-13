@@ -2,7 +2,11 @@
 title: ShapeShift (Company)
 description: An overview of the ShapeShift Exchange and Organization pre-decentralization.
 published: true
+<<<<<<< HEAD
 date: 2021-12-03T23:16:27.315Z
+=======
+date: 2021-12-04T00:01:55.345Z
+>>>>>>> docs: update shapeshift/shapeshift-company
 tags: centralized shapeshift, history, shapeshift, shapeshift history
 editor: markdown
 dateCreated: 2021-10-03T22:45:46.428Z
@@ -37,7 +41,9 @@ As one of the oldest market data provider that is still operational today, CoinC
 
 In May 2015 ShapeShift entered into a partnership with CoinPayments.net, a leading cryptocurrency merchant system still in operation today. 
 
-> "We are excited to offer simple and frictionless conversions to our customers using the ShapeShift API,” said CoinPayments.net CEO Alex Alexandrov, “This partnership gets us one step closer to a system where customer can pay in any currency they choose and vendors settle in what they find most convenient for their business."
+"We are excited to offer simple and frictionless conversions to our customers using the ShapeShift API,” said CoinPayments CEO Alex Alexandrov, “This partnership gets us one step closer to a system where customer can pay in any currency they choose and vendors settle in what they find most convenient for their business." 
+
+[Read more: *ShapeShift.io Partners Crypto Payment Processor CoinPayments.net* ➡](https://www.newsbtc.com/news/shapeshift-io-partners-with-crypto-payment-processor-coinpayments-net/)
 
 ### iOS App Release
 
