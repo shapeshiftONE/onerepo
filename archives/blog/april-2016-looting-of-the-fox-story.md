@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-25T18:21:56.126Z
 ---
 
-# Looting of the Fox: The Story of Sabotage at ShapeShift
+# Looting of the Fox - The Story of Sabotage at ShapeShift
 
 > This article/document/post/content was originally published on Apr 19, 2016 by Erik Voorhees and could be slightly modified for translation by the ShapeShift's Information and Globalization workstream for an ongoing archival project.
 {.is-success}
