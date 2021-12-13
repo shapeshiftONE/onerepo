@@ -2,7 +2,7 @@
 title: Looting of the Fox - The Story of Sabotage at ShapeShift
 description: This is the story of how ShapeShift, a leading blockchain asset exchange platform, was betrayed. Not once, not twice, but three times in less than a month.
 published: true
-date: 2021-12-13T07:40:55.780Z
+date: 2021-12-13T07:41:44.231Z
 tags: archive, funds, hacks, looting, shapeshift, shapeshift history, stolen funds
 editor: markdown
 dateCreated: 2021-12-13T07:26:39.830Z
@@ -10,17 +10,20 @@ dateCreated: 2021-12-13T07:26:39.830Z
 
 # Looting of the Fox - The Story of Sabotage at ShapeShift
 
-> This article/document/post/content was originally published on Apr 19, 2016 by Erik Voorhees and could be slightly modified for translation by the ShapeShift's Information and Globalization workstream for an ongoing archival project.
-{.is-success}
----
-
 This is the story of how ShapeShift was betrayed. Not once, not twice, but three times in less than a month.
 
 In total, nearly two-hundred thousand dollars in cryptocurrency was stolen by thieves within and without, not to mention the significant resources expended in its wake. Nevertheless, no customer funds were ever lost or at risk, a milestone for an industry pocked with past tragedy, and ShapeShift itself has adapted and rebuilt, humbled by the experience learned, and ever more resolute in its mission of safe, frictionless asset exchange.
 
 In the spirit of Bitcoin’s openness, we wanted to share this story with the community; may you be informed, entertained, reflective, and ever-diligent in your own affairs.
 
-[Note: some names & sensitive details have been changed]
+> This article/document/post/content was originally published on Apr 19, 2016 by Erik Voorhees and could be slightly modified for translation by the ShapeShift's Information and Globalization workstream for an ongoing archival project.
+{.is-success}
+
+> Note: some names & sensitive details have been changed
+{.is-info}
+
+---
+
 
 # The Backstory
 
