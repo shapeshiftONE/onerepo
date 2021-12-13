@@ -1,11 +1,11 @@
 ---
 title: ShapeShift (Company)
-description: An overview of the ShapeShift Exchange and Organization pre-decentralization. 
+description: An overview of the ShapeShift Exchange and Organization pre-decentralization.
 published: true
-date: 2021-10-08T21:38:16.473Z
-tags: shapeshift, shapeshift history, history, centralized shapeshift
+date: 2021-12-03T23:16:27.315Z
+tags: centralized shapeshift, history, shapeshift, shapeshift history
 editor: markdown
-dateCreated: 2021-11-25T22:45:46.428Z
+dateCreated: 2021-10-03T22:45:46.428Z
 ---
 
 # ShapeShift (Company) History
@@ -18,13 +18,20 @@ ShapeShift was a U.S. based cryptocurrency exchange registered in Switzerland in
 
 A few months after the initial launch, Peercoin, Darkcoin, and Dogecoin was added to the list of asset offerings. By September 2015 the exchange offered 40 different assets with over 900 different trading pairs--by far the most of any crypto exchanges at the time.
 
-![First version of the ShapeShift Exchange](https://hackmd.io/_uploads/HkSUqE3ut.png)
+![First version of the ShapeShift Exchange](/shapeshift-and-fox/shapeshift-platform.png){.align-left}
 
 
+### Early Funding & Digital Currency Group Investment
 
-### Digital Currency Group Investment
+Voorhees, as founder and CEO of ShapeShift, personally kick-started the company with an investment of $300,000 in early 2014. Later that year, Roger Ver came on as an angel investor, and in March 2015, ShapeShift received its first VC-backed funding with a $525,000 seed investment by Digital Currency Group, a New York-based fund commonly known as DCG, led by Barry Silbert. 
 
-In March 2015, ShapeShift received its first funding with a $525,000 seed investment from Digital Currency Group, a New York-based venture capital fund led by Barry Silbert and Roger Ver. 
+### Launch of CoinCap.io, Tool and API for Real-Time Market Data
+
+![CoinCaps Logo, Circa 2014](https://hackmd.io/_uploads/Hk0htldYK.png =140x70){.align-left} ShapeShift launched CoinCap in 2014 as a tool for reliable real-time market data of over 1,000 cryptocurrencies. 
+
+As one of the oldest market data provider that is still operational today, CoinCap is able to provide an impressive 11 years worth of historical data for free via the API. 
+
+
 
 ### CoinPayments Partnership
 
@@ -44,6 +51,8 @@ On August 11th, 2015, Spells of Genesis, a trading card and arcade game that int
 
 >“Digital goods in games have always had fake scarcity,” explains ShapeShift’s CEO Erik Voorhees, “the company can always create more, and nobody really knows how many exist, making it impractical to value or price. These blockchain-based digital assets, however, are truly mathematically scarce, and will become commoditized and traded like other financial assets. Spells of Genesis is breaking exciting new ground and we’re thrilled to be working closely with them.”
 
+33 of these rarest and oldest NFTs have been ported to Ethereum and can be viewed on [OpenSea.io](https://opensea.io/assets/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/46243891414939301).
+
 ### Other Notable Partnerships & Integrations
 
 * Vaultoro 6/3/15
@@ -53,11 +62,26 @@ On August 11th, 2015, Spells of Genesis, a trading card and arcade game that int
 * Unocoin 03/2017
 * FIO Protocol 08/25/2020
 
+### 2014 Exchange Hacks
+
+ShapeShift disclosed that the exchange was a victim of a string of thefts, which was ultimately determined to be an inside job by a "rogue" employee who sold confidential information which allowed the intrusion. 
+
+* March 14th — 315 BTC 
+* April 7th — 97 BTC, 3600 ETH, 1900 LTC 
+* April 9th - 57 BTC, 2200 ETH
+
+The total theft amounted to roughly $230,000, but at no point were user funds at risk. The losses were absorbed by the company and no customers were affected. 
+
+> This is your chance to walk away, learn a lesson, and let this be closed. We will not pursue legal action if 315 Bitcoin are found in this address by 10am. No further questions will be asked, and we can part ways amicably.
+
+**Recommended Reads:**
+
+* [Looting of the Fox: The Story of Sabotage at ShapeShift](https://news.bitcoin.com/looting-fox-sabotage-shapeshift/)
+* [The ShapeShift Hack: Simply Incredible](https://hackingdistributed.com/2016/04/25/shapeshift-hack-simply-incredible/)
+* [ShapeShift Lost $230k in String of Thefts, Report Finds](https://coindesk.com/markets/2016/04/18/shapeshift-lost-230k-in-string-of-thefts-report-finds/)
+
 ## Regulatory Roadblocks and Opposition
 
-### 2014 SEC Settlement
-
-In 2014, CEO Voorhees was fined by the SEC for an unrelated venture from 2012 and 2013. He was accused of using social media platforms to solicit investors without federal approval for his two bitcoin-related ventures, SatoshiDICE and FeedZeBirds. Eventually Voorhees settled with the SEC in a civil court and was banned from making a crypto securities offering for five years.
 
 ### New York's BitLicense
 
@@ -125,6 +149,8 @@ Since the founding of ShapeShift, there have been four known funding rounds for 
 | Mar 29, 2016     | Seed 3     | 2     | N/A|
 | Sep 8, 2015     | Seed 2     | 7     | $1.6M|
 | Mar 10, 2015     | Seed 1     | 2     | $525K|
+| Mar 10, 2015     | Angel     | 1     | N/A|
+| Mar 10, 2015     | Personal     | 1     | $300K |
 
 Notable Investors: Earlybird Venture Capital, Blockchain Capital, Digital Currency Group, Bitfinex, Lakestar Venture Capital 
 
@@ -142,7 +168,7 @@ Bitfract, founded in 2018 and based in Texas by CEO Willy Ogorzaly, was a platfo
 
 ![](https://hackmd.io/_uploads/SJOGQXnOF.png)
 
-On Aug 9, 2018 it was announced that Bitfract was acquired by ShapeShift for an undisclosed amount.
+On Aug 9, 2018 it was announced that Bitfract was acquired by ShapeShift for an undisclosed amount. 
 
 ### KeepKey Acquisition
 
@@ -160,6 +186,11 @@ The ethos and vision of ShapeShift since its inception was made very clear: priv
 
 The enforcement of KYC data collection was the end of an era for a legendary "first of its kind" financial system that was very endeared by many early adopters. 
 
+<<<<<<< HEAD
+=======
+In January 2021, ShapeShift announced the removal of its KYC requirements and the integration of decentralized exchanges into its platform. Read more: [ShapeShift Integrates Decentralized Exchanges, Removes KYC Requirements](https://shapeshift.com/newsroom/shapeshift-integrates-dex)
+
+>>>>>>> docs: update shapeshift/shapeshift-company
 ### No-KYC DEX Launch & FOX Token
 
 With KYC enforcement in place, transaction volume predictably began its rapid decline as centralized exchanges like Bittrex, GDAX, and shortly after Binance began to rapidly gain much of the world's global volume.
@@ -168,16 +199,41 @@ Little did the world know at the time, that a small project called Uniswap would
 
 Uniswap's liquidity and AMM protocols catapulted the DeFi landscape while ShapeShift was still confined within the restrictive walls of regulation. 
 
+<<<<<<< HEAD
 To those who really knew ShapeShift, its leaders, and its values, it came as no surprise when the company quickly re-aligned itself with the announcement and launch of a non-custodial, no-KYC-needed platform that aggregated and utilized the protocols and liquidity of various DEXes.
 
 ShapeShift's "FOX" token was also launched as an ERC20 utility-token that gave the holders various benefits on the platform, such as the gas-rebate program. 
 
 The company, however, struggled to gain ground as the entire industry entered its longest and arguably the most important bear market in its short history. It was during this "crypto winter" when many projects, platforms, and protocols were laying down the foundation and the infrastructure needed to mature the market past the speculation phase and into the utilization phase. 
+=======
+To those who really knew ShapeShift, its leaders, and its values, it came as no surprise when the company quickly re-aligned itself the announcement and launch of a non-custodial, no-KYC, _no fees_ platform that aggregated and utilized the protocols and liquidity of various DEXes. 
+
+**Recommended Reads:**
+
+* [ShapeShift is Decentralizing. ShapeShift is decentralizing to build… | by Erik Voorhees](https://erikvoorhees.medium.com/shapeshift-is-decentralizing-639bb4c82fc8)
+* [ShapeShift Launches Decentralized Cross-Chain Trading via Thorchain](https://www.prnewswire.com/news-releases/shapeshift-launches-decentralized-native-bitcoin-trading-through-integration-with-thorchain-301267955.html)
+* [An Introduction to THORChain for Bitcoiners | by Erik Voorhees](https://erikvoorhees.medium.com/an-introduction-to-thorchain-for-bitcoiners-3f621bf0028e)
+* [Rethink, Renew: ShapeShift CEO Erik Voorhees to Rebrand Crypto Exchange](https://www.coindesk.com/markets/2019/02/17/rethink-renew-shapeshift-ceo-erik-voorhees-to-rebrand-crypto-exchange/)
+
+ShapeShift's "FOX" token was also launched in this hectic era for ShapeShift as an ERC20 utility-token that gave the holders various benefits on the platform, such as the gas-rebate program. 
+
+The company, however, struggled to gain ground as the entire industry entered its longest and arguably the most important bear market in its short history. It was during this "crypto winter" when many projects, platforms, and protocols were laying down the foundation and the infrastructure needed to mature the market past the speculation phase and into the utilization phase.
+
+![](https://hackmd.io/_uploads/rkMWEGdKY.png)
+>>>>>>> docs: update shapeshift/shapeshift-company
 
 ### The Announcement
 
 Winter eventually thawed into spring and by late 2020 the industry was once again booming with chatter, optimism, breakthroughs, and major protocol-level improvements. Ideas and ambitions, that were only text and diagrams on whitepapers just a few years ago, slowly but surely began to show glimpse and teasers of the endless possibilities that blockchain and distributed peer-to-peer technology could open up. 
 
+<<<<<<< HEAD
+=======
+**Recommended Reads:**
+
+* [ShapeShift Lays Off 37 Employees in a “Deep and Painful Reduction”](https://defirepublic.com/shapeshift-lays-off-37-employees-in-painful-reduction/)
+* [Overcoming ShapeShift’s Crypto Winter and the Path Ahead](https://medium.com/shapeshift-stories/overcoming-shapeshifts-crypto-winter-and-the-path-ahead-73f59bb8cf13)
+
+>>>>>>> docs: update shapeshift/shapeshift-company
 With the DeFi revolution already in full swing, it was time for the DAO revolution. In July 2021, ShapeShift publicly announced its plans to decentralize the entire company while conducting one of the largest airdrops in history of FOX tokens, which would eventually be used for decentralized governance processes. 
 
 The decision to decentralize a company of this size, history, range of services and products, number of employees, physical ownership of materials, etc., was an ambitious one that could be used as inspiration or a case study for future companies that are thinking of decentralizing. 
@@ -186,6 +242,7 @@ If all goes as planned, centralized ShapeShift should no longer be existing on J
 
 ShapeShift AG is now ShapeShift DAO.
 
+<<<<<<< HEAD
 Learn more about ShapeShift DAO: <link>
 CEO Erik Voorhees Announcement: [link](https://erikvoorhees.medium.com/shapeshift-is-decentralizing-639bb4c82fc8)
 
@@ -199,3 +256,25 @@ signee: 0xef4fd55584434903aa6fc9baa61eacdde5355da0
 0x8a2b8520f75afea149c4a0152840cdbf4fdc5a7af4b3499f2b72a4024588e8b924313791c0418bf034ff89fb204910e3c6a8e00abb5e13bdbbbbea028beb26021c
 
 ---
+=======
+**Recommended Reads:**
+
+- [ShapeShift is Decentralizing *Erik Voorhees, Medium*](https://erikvoorhees.medium.com/shapeshift-is-decentralizing-639bb4c82fc8)
+- [ShapeShift to Decentralize Entire Company; Largest Airdrop in History *Official Release*](https://shapeshift.com/newsroom/shapeshift-to-decentralize-entire-company-largest-airdrop-in-history-shifts-governance-to-the-community)
+- [ShapeShift to Shut Down, Airdrop Itself Out of Existence *CoinDesk*](https://www.coindesk.com/business/2021/07/14/shapeshift-to-shut-down-airdrop-fox-tokens-to-decentralize-itself-out-of-existence/)
+- [ShapeShift, DAOs and the Future of Work *CoinDesk Special Feature*](https://www.coindesk.com/markets/2021/08/18/shapeshift-daos-and-the-future-of-work/)
+{.links-list}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X90dZRp785A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+[Learn more about ShapeShift DAO.](https://docs.shapeshift.one/en/shapeshift/shapeshift-dao)
+
+
+- bounty: true
+- amt: 30
+- signedBy: 0xef4fd55584434903aa6fc9baa61eacdde5355da0
+- hash: 0x8a2b8520f75afea149c4a0152840cdbf4fdc5a7af4b3499f2b72a4024588e8b924313791c0418bf034ff89fb204910e3c6a8e00abb5e13bdbbbbea028beb26021c
+{.is-hidden}
+>>>>>>> docs: update shapeshift/shapeshift-company
