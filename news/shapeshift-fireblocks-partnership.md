@@ -2,8 +2,8 @@
 title: ShapeShift DAO Partners with Fireblocks
 description: Collaboration Delivers Institutional Investors Operational Ease, Security, and Custody
 published: false
-date: 2021-12-17T01:19:09.538Z
-tags: news, shapeshift dao, shapeshift news, partnerships, dao news
+date: 2021-12-17T01:19:45.853Z
+tags: dao news, news, partnerships, shapeshift dao, shapeshift news
 editor: markdown
 dateCreated: 2021-12-17T01:19:09.538Z
 ---
@@ -42,3 +42,7 @@ Now in a decentralized form, ShapeShift's mission is to build the world's best o
 > This press release was originally published on Dec 02, 2021 by ShapeShift and may have been slightly modified for translation by the Information and Globalization workstream for an ongoing archival project.
 {.is-success}
 
+- bounty: true
+- amt: 12
+- signedBy: 0xef4fd55584434903aa6fc9baa61eacdde5355da0
+{.is-hidden}
