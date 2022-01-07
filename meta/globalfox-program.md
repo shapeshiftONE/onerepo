@@ -2,8 +2,8 @@
 title: GlobalFOX Community Ambassador Program (Language Leaders)
 description: Info & Globalization Workstream Language Leaders Onboarding
 published: true
-date: 2021-10-10T19:06:45.996Z
-tags: gca, globalfox, globalfox program, language leaders, meta, process, workstream
+date: 2022-01-07T10:01:35.042Z
+tags: gca, globalfox, globalfox program, language leaders, process, workstream
 editor: markdown
 dateCreated: 2021-09-29T21:58:51.443Z
 ---
