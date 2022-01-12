@@ -16,7 +16,7 @@ dateCreated: 2021-12-20T23:03:02.268Z
 
 Made up of over 1,500 attendees, the event hosted over 750 hackers from 23 countries. Together, developers, technologists, coders, crypto-economists, and makers collaborated around a common purpose: buidling the decentralized future.
 
-The [ShapeShift](https://shapeshift.io/) team was there for the entire 36 hours — speaking on panels, showing demos of our [beta platform,](https://beta.shapeshift.com/signup?utm_source=medium_post&utm_medium=medium&utm_campaign=beta_signup) competing in the buidlathon, and judging the ShapeShift and CoinCap bounty entries.
+The [ShapeShift](https://shapeshift.io/) team was there for the entire 36 hours — speaking on panels, showing demos of our [beta platform,](https://beta.shapeshift.com/signup) competing in the buidlathon, and judging the ShapeShift and CoinCap bounty entries.
 
 The energy was electric, and over the course of the weekend, you couldn’t help but feel the undeniable spirit of partnership, community, and working together.<br/> 
 

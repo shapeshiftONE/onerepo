@@ -48,8 +48,6 @@ Another language that is growing in popularity across the blockchain space is Go
 
 These are just a few of the languages used in the building of blockchains; creating new technologies and allowing for greater accessibility to the cryptocurrency space.<br/> 
 
-[![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9a22c95e8c4fc9c99bf871_5e99465a00cd267c22225d32_1*ABIuarek0t40ggfsJql5wA.gif)](http://beta.shapeshift.com)[>> Click here to sign up & trade for free with self-custody on the ShapeShift Platform <<](http://beta.shapeshift.com/?utm_source=social&utm_medium=medium&utm_campaign=shapeshift_platform&utm_term=cta04)
-
 ---
 
 > This document was originally published on 2020-01-30 by ShapeShift Team and may have been slightly modified for translation by the Information and Globalization workstream for an ongoing archival project.

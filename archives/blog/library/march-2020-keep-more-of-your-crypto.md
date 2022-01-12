@@ -22,7 +22,7 @@ A great solution with very competitive fees is [Wyre](https://www.sendwyre.com/)
 
 ##  Buy Crypto With Your Debit Card: Fees Under 2%
 
-1. Create a new software wallet in seconds or connect your hardware wallet to the [ShapeShift Platform](http://beta.shapeshift.com/?utm_source=social&utm_medium=medium&utm_campaign=shapeshift_platform&utm_term=cta_29).
+1. Create a new software wallet in seconds or connect your hardware wallet to the [ShapeShift Platform](http://beta.shapeshift.com/).
 2. Click “Buy Crypto” at the top of your dashboard — no verification needed.
 3. Click “Use Debit Card” and choose what cryptocurrency you want to buy.
 4. Enter your debit card information.
@@ -30,9 +30,9 @@ A great solution with very competitive fees is [Wyre](https://www.sendwyre.com/)
 
 <iframe allowfullscreen="" frameborder="0" scrolling="auto" src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FdhscMLTb2No%3Ffeature%3Doembed&amp;display_name=YouTube&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdhscMLTb2No&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FdhscMLTb2No%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07&amp;type=text%2Fhtml&amp;schema=youtube"></iframe>
 
-## Trade Crypto Confidently — [For Free](https://shapeshift.com/free-trading?utm_source=social&utm_medium=medium&utm_campaign=shapeshift_platform&utm_term=cta_31)
+## Trade Crypto Confidently — [For Free](https://shapeshift.com/free-trading)
 
-Curious about a new token you’ve heard about? Feel like that coin your friend is strong on might actually be going to the moon? Maybe you’re a firm believer in a token’s utility and protocols. Whatever the reason, trading one crypto for another is a crucial element for many crypto users, but it can feel overwhelming when there are so many services out there. *That’s why we made trading free with our* [*ERC-20 token FOX*](https://shapeshift.com/fox-token?utm_source=social&utm_medium=medium&utm_campaign=shapeshift_platform&utm_term=cta_30)*.<br/> *
+Curious about a new token you’ve heard about? Feel like that coin your friend is strong on might actually be going to the moon? Maybe you’re a firm believer in a token’s utility and protocols. Whatever the reason, trading one crypto for another is a crucial element for many crypto users, but it can feel overwhelming when there are so many services out there. *That’s why we made trading free with our* [*ERC-20 token FOX*](https://shapeshift.com/fox-token)*.<br/> *
 
 ![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9a22d43b81bc2e1e235d42_5e99312be2013b1013dd8c92_0*gED7F8Svmq0yqfFx.gif)
 
@@ -46,7 +46,7 @@ We want to empower our users with self-custody, free trading and transparent rat
 
 ##  Be Thrifty With Your Crypto
 
-Don’t let your resolution to focus on your finances be forgotten. It’s time to stop wasting money on high fees for buying and trading crypto. Be confident you’re getting the best rates when you let [ShapeShift](http://shapeshift.com/?utm_source=social&utm_medium=medium&utm_campaign=shapeshift_platform&utm_term=cta_28) take the stress and the fees out of your crypto journey.<br/> 
+Don’t let your resolution to focus on your finances be forgotten. It’s time to stop wasting money on high fees for buying and trading crypto. Be confident you’re getting the best rates when you let [ShapeShift](http://shapeshift.com/) take the stress and the fees out of your crypto journey.<br/> 
 
 [![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9a22d4cd7578defbc05ca3_5e99312cd833516b83bab7b9_0*NHMok8KCFHMecBm-.png)](http://beta.shapeshift.com) 
 

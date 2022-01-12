@@ -58,10 +58,6 @@ Due to its Netflix status, [*Banking on Bitcoin*](https://www.netflix.com/title/
 
 Crypto can sometimes seem infinitely deep, infinitely wide, and too quickly-evolving to keep pace with. I hope these documentaries will help you scratch the surface, and begin to understand the potential and importance of crypto and blockchain tech.<br/> 
 
-![We are offering ShapeShift members a KeepKey, the premier hardware wallet of the ShapeShift Platform for only $10.](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9f14c1d78f9d589ce57ab6_0*xvcl_sWlexV7u2fN.png)
-
-> At [ShapeShift](http://shapeshift.com?utm_source=content&utm_medium=medium&utm_campaign=10_member_kk&utm_term=cta15), we’re providing next-level tools for crypto management and we want to make it easy for you to try out our new hardware secured platform. We are offering [ShapeShift members](https://auth.shapeshift.io/signup?utm_source=content&utm_medium=medium&utm_campaign=10_member_kk&utm_term=cta14) a KeepKey, the premier hardware wallet of the ShapeShift Platform for [only $10](https://pages.shapeshift.com/members_keepkey/?utm_source=content&utm_medium=medium&utm_campaign=10_member_kk&utm_term=cta13).
-
 ---
 
 > This document was originally published on 2019-11-08 by Ari Chernoff and may have been slightly modified for translation by the Information and Globalization workstream for an ongoing archival project.

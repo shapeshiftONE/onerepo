@@ -28,8 +28,6 @@ DEXs offer thousands of trading pairs: users get the opportunity to get involved
 
 While there are many DEXs, ShapeShift enables users to scan across multiple DEXs to find the best rates and trading pairs through a single, [mobile interface](https://shapeshift.com/invite) (and, it will be coming to our web platform soon!). Unlike other similar services, we don’t charge fees on DEX trades. 
 
-Users also gain significant advantages from trading with ShapeShift: they can earn [FOX Tokens](https://shapeshift.com/fox-token) back on every trade, which qualifies them to earn [Rainfall](https://shapeshift.com/rainfall) awards—every time someone trades, someone wins free USDC. We announce hundreds of winners every day.
-
 This move into DeFi through DEX trading is laying the foundation for ShapeShift to enable customers to explore the many advantages of decentralized finance. Look for more to come in the future! 
 
 ## There is time to get in on the action: start DEX trading today!

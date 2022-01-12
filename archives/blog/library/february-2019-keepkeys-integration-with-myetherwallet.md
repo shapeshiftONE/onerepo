@@ -12,11 +12,11 @@ dateCreated: 2021-12-20T23:02:46.885Z
 
 ![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9fe9fa5e97b6163f5ed4ed_1_OZj_nDX9x-7PDWZoyYLHag.png)
 
-We’re thrilled to announce KeepKey’s partnership with[**MyEtherWallet (MEWV5)**](https://www.myetherwallet.com/)**.**
+We’re thrilled to announce KeepKey’s partnership with [**MyEtherWallet (MEWV5)**](https://www.myetherwallet.com/)**.**
 
 The new integration with [**MyEtherWallet**](https://medium.com/@myetherwallet)means that interacting with the Ethereum blockchain is now easier than ever. Your KeepKey ensures that your keys are kept offline and safe while MEW provides an [**all-new, redesigned,**](https://medium.com/myetherwallet/lets-make-it-official-mew-v5-myetherwallet-s-all-new-interface-is-here-2063117180a4)simple, clean interface.
 
-## **🎉To celebrate, we’re offering 35% off when you buy a KeepKey with promo code: KKMEW! 🎉<br/> **
+## **🎉To celebrate, we’re offering 35% off when you buy a KeepKey with promo code: KKMEW! 🎉**<br/>
 
 ![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9fea567e69099e2b53bda5_1*gtQKE9HdrdIMDJhPVyfRNw.png)
 

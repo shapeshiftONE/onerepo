@@ -12,7 +12,7 @@ dateCreated: 2021-12-20T23:03:03.333Z
 
 ![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9a22e5559b4a68fbc7e77f_5e992ebb280f80f5ad929918_1_c0JoRH7p614jVG-SJT5JGw.png)
 
-**Due** to the ongoing threat of the coronavirus known as COVID-19, the [ShapeShift](http://shapeshift.com/?utm_source=social&utm_medium=medium&utm_campaign=shapeshift_platform&utm_term=cta_31) team has decided to close our office and move to a remote work structure until further notice. COVID-19 has shown that it has the ability to spread rapidly through populations, and ShapeShift wants to do all that it can to hinder this virus in the coming weeks and months.
+**Due** to the ongoing threat of the coronavirus known as COVID-19, the [ShapeShift](http://shapeshift.com/) team has decided to close our office and move to a remote work structure until further notice. COVID-19 has shown that it has the ability to spread rapidly through populations, and ShapeShift wants to do all that it can to hinder this virus in the coming weeks and months.
 
 [The New York Times](https://www.nytimes.com/2020/03/11/science/coronavirus-curve-mitigation-infection.html) and many others have highlighted the need to “flatten the curve” of the virus. If stringent measures aren’t taken to halt its spread, we could see the healthcare system being overwhelmed by more cases than it can readily handle. If we take the proper precautions, we can keep the number of cases below that threshold. If this is done successfully, then the healthcare system will likely have adequate resources to take care of those who tested positive throughout the span of the outbreak.<br/> 
 
@@ -30,15 +30,9 @@ Our decision to implement this policy is an effort to be proactive, rather than 
 
 ## **Looking Forward**
 
-[ShapeShift](http://shapeshift.com/?utm_source=social&utm_medium=medium&utm_campaign=shapeshift_platform&utm_term=cta_31) continues to build its zero-commission self-custody trading platform for those who value financial sovereignty. Yet again, the status quo financial system is showing worrying cracks, and we believe open, borderless alternatives will help the world recover and thrive. This outbreak has only strengthened our resolve.
+[ShapeShift](http://shapeshift.com/) continues to build its zero-commission self-custody trading platform for those who value financial sovereignty. Yet again, the status quo financial system is showing worrying cracks, and we believe open, borderless alternatives will help the world recover and thrive. This outbreak has only strengthened our resolve.
 
 Follow our team on [Twitter](https://twitter.com/ShapeShift_io) for the latest updates on ShapeShift news, and try out commission-free trading on our platform.
-
-> ***Level Up Your Crypto Experience<br/>***[*Create a verified account*](http://beta.shapeshift.com/?utm_source=social&utm_medium=medium&utm_campaign=shapeshift_platform&utm_term=cta_32) *& get 100* [*FOX Tokens*](https://shapeshift.com/fox-token?utm_source=social&utm_medium=medium&utm_campaign=shapeshift_platform&utm_term=cta_33) *to start trading* [*without commission, spread, or trading fees*](https://shapeshift.com/free-trading?utm_source=social&utm_medium=medium&utm_campaign=shapeshift_platform&utm_term=cta_34)*.*
-
-![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9a22e522bbc0ea38baae78_5e992f18a8693f7d16464969_0*TvxWjFiD51_FqVIn.gif)
-
-<br/> 
 
 ---
 

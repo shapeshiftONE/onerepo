@@ -12,7 +12,7 @@ dateCreated: 2021-12-20T23:02:59.361Z
 
 ![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9fbd8c5a41a61273e91cc7_1_otl4NEpA4WZJlo3WbCmD9g-4%20(dragged).png)
 
-SegWit support is now available for KeepKey in the [**ShapeShift Platform**](http://shapeshift.com/?utm_source=content&utm_medium=medium&utm_campaign=launch&utm_term=cta21)! We’ve been building a new, intuitive client to give KeepKey users an unparalleled experience, and it’s now complete with SegWit.
+SegWit support is now available for KeepKey in the [**ShapeShift Platform**](http://shapeshift.com/)! We’ve been building a new, intuitive client to give KeepKey users an unparalleled experience, and it’s now complete with SegWit.
 
 Last year, we started building a comprehensive web-based platform for KeepKey. While this vastly improves the hardware wallet experience and is available to KeepKey owners for free, it meant SegWit for KeepKey had to be deprioritized for a while. We think that after trying KeepKey’s new platform, you’ll understand why we poured our time and talent into this vision.
 
@@ -32,7 +32,7 @@ SegWit, short for [Segregated Witness](https://www.investopedia.com/terms/s/segw
 
 SwegWit is supported for both KeepKey and Trezor in the platform. If you used the ShapeShift Platform before SegWit was released, or if you currently use the KeepKey Chrome App, learn how to get started below.
 
-* Grab your KeepKey and login to the [ShapeShift Platform](http://shapeshift.com/?utm_source=content&utm_medium=medium&utm_campaign=launch&utm_term=cta21).
+* Grab your KeepKey and login to the [ShapeShift Platform](http://shapeshift.com/).
 * Your KeepKey firmware needs to be v.6.2.0 or higher. If your firmware is below v.6.2.0, you can update it by clicking below.
 
 ## Experience the New ShapeShift
@@ -49,7 +49,7 @@ Download the KeepKey app to securely communicate with the ShapeShift Platform.
 
 *- BTC* ***SegWit*** *addresses start with a 3.*
 
-Moving forward, your BTC address in the Platform will start with a 3 instead of a 1. You can still access your BTC Legacy account and address in the [KeepKey Chrome App](https://chrome.google.com/webstore/detail/keepkey-client/idgiipeogajjpkgheijapngmlbohdhjg?utm_source=chrome-ntp-launcher).
+Moving forward, your BTC address in the Platform will start with a 3 instead of a 1. You can still access your BTC Legacy account and address in the [KeepKey Chrome App](https://chrome.google.com/webstore/detail/keepkey-client/idgiipeogajjpkgheijapngmlbohdhjg).
 
 * Your BTC account balance will reflect the total amount on your BTC Legacy address and your BTC SegWit address.
 * When you spend Bitcoin in the ShapeShift Platform, funds will be spent from the smallest number of UXTOs, regardless of if the funds are on your BTC Legacy address or BTC SegWit address. This helps reduce transaction costs.
@@ -61,8 +61,6 @@ Moving forward, your BTC address in the Platform will start with a 3 instead of 
 We hope you enjoy SegWit! We look forward to building additional features as the platform matures over the coming months.
 
 If you have any questions, please reach out to our [Support Team](https://shapeshift.zendesk.com/hc/en-us/requests/new).<br/> 
-
-[![The new frontier in crypto management. Create an account to claim your 100 FOX tokens at ShapeShift.com](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9fbdb4a674bf66b1e15b26_1*oMjDmFibfnxqKGRg8zb8xw.png)](http://beta.shapeshift.com)Create an account to claim your 100 FOX tokens at ShapeShift.com<br/>
 
 ---
 

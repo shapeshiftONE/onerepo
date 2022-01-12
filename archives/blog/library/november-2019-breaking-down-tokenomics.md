@@ -12,11 +12,9 @@ dateCreated: 2021-12-20T23:02:21.702Z
 
 ![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9f014b31f412380fa97259_1_mUD6f-3RH79--_ACrEotHA.png)
 
-<br/>**Token** economics are what happens when tokens act as a vehicle for the creation of entirely new economic models. It can be difficult to understand these models because of the nascent nature of the concept. The boom of initial coin offerings to hit the cryptocurrency market in 2017, spawned many of these new ideas and tokens. Amidst all of that uproar, these tokens were released to the public living on a variety of blockchain platforms, and each token is programmed in a unique way.
+**Token** economics are what happens when tokens act as a vehicle for the creation of entirely new economic models. It can be difficult to understand these models because of the nascent nature of the concept. The boom of initial coin offerings to hit the cryptocurrency market in 2017, spawned many of these new ideas and tokens. Amidst all of that uproar, these tokens were released to the public living on a variety of blockchain platforms, and each token is programmed in a unique way.
 
 Understanding the dynamics of token economics provides many insights that cryptocurrency enthusiasts and investors alike can appreciate. Let’s take a closer and see what we can learn from the basics of tokenomics.<br/> 
-
-[![Receive 100 FOX tokens when you create a ShapeShift account. Trade crypto for free in the ShapeShift Platform. ShapeShift.com](https://assets.website-files.com/max/5624/1*IykQG89A6MmnrtHpPogeVw.png)](http://beta.shapeshift.com)
 
 ## Token Economics
 
@@ -77,8 +75,6 @@ Where a cryptocurrency exchange like [Binance](https://www.binance.com/en) allow
 ## Where do we go from here?
 
 The token economic models face two ongoing and obvious struggles. One is that creators are still making them fund initial coin offerings for projects that have no fundamental value. Two, those creators and the investors who help fund the initial startup costs of a new project lock up a majority of the coins, not allowing them into circulation. This takes away from where the community thinks the value should be going — development. While various token economics models promote the democratic transfer of value, the future of those models will likely be focused on how to filter out the bad actors and move the value towards the future of development.
-
-> *At* [*ShapeShift*](http://shapeshift.com/?utm_source=social&utm_medium=medium&utm_campaign=portis_launch&utm_term=cta07)*, we’re providing next-level tools for crypto management and we want to make it easy for you to try out our new hardware secured platform. >>>* [*Sign up to receive 100 FOX tokens and start trading*](https://auth.shapeshift.io/signup?utm_source=social&utm_medium=medium&utm_campaign=portis_launch&utm_term=cta06)*. <<<*
 
 ---
 

@@ -12,11 +12,11 @@ dateCreated: 2021-12-20T23:02:27.029Z
 
 ![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5fd40a14f03f72fdd58081b4_ccspace.jpg)
 
-Have you ever thought about how often you monitor your favorite cryptos and how much of your day is spent obsessing over the highs and lows of cryptocurrency prices? For some, it’s the first thing you do when you wake up in the morning and the last thing you do before you go to bed. For others, it’s a tab that is consistently open on your computer. Well, we’re here to feed your habit. The [CoinCap](http://coincap.io?utm_source=social&utm_medium=medium&utm_campaign=coincap_app_0420&utm_term=cta_05) 2.0 Mobile App is your solution for real-time market data — anytime, anywhere.<br/> 
+Have you ever thought about how often you monitor your favorite cryptos and how much of your day is spent obsessing over the highs and lows of cryptocurrency prices? For some, it’s the first thing you do when you wake up in the morning and the last thing you do before you go to bed. For others, it’s a tab that is consistently open on your computer. Well, we’re here to feed your habit. The [CoinCap](http://coincap.io) 2.0 Mobile App is your solution for real-time market data — anytime, anywhere.<br/> 
 
 ![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9a22d07e1ac28fcc5c6823_5e9918def5510b79097e5aaa_1*jMMcmjNTQ2PZhJ-PehKEOA.png)
 
-[CoinCap Mobile for Android or iOS](https://pages.shapeshift.com/coincap-mobile/?utm_source=social&utm_medium=medium&utm_campaign=coincap_app_0420&utm_term=cta_04)
+[CoinCap Mobile for Android or iOS](https://pages.shapeshift.com/coincap-mobile/)
 
 ##  Convenient and Compelling
 
@@ -34,15 +34,12 @@ CoinCap has officially launched a built-in software wallet powered by Portis! Wh
 
 ![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9a22d05e8c4f62c09bf878_5e99193af5510bcc247e85fc_1*4Ld8cV8TSdZylm7S3LfZVQ.png)
 
-## <br/>Check Out the [New ShapeShift](http://shapeshift.com?utm_source=social&utm_medium=medium&utm_campaign=coincap_app_0420&utm_term=cta_03)
-
-Open your “Settings” tab and click “Trade with ShapeShift” to see all that we have to offer. Want to buy, sell, and [trade for free](https://shapeshift.com/free-trading?utm_source=social&utm_medium=medium&utm_campaign=coincap_app_0420&utm_term=cta_07)? Thanks to FOX Tokens, we’ve got you covered. Still not convinced we have the best rates? Check out the [rate comparison](https://coincap.io/rate-compare?utm_source=social&utm_medium=medium&utm_campaign=coincap_app_0420&utm_term=cta_06) page to see how we rank with competitors.
 
 <iframe allowfullscreen="true" frameborder="0" scrolling="no" src="https://www.youtube.com/embed/AnFkX6r32sY"></iframe>
 
-So, look no further to satisfy your daily crypto habit. With real-time market data for over 1,500 digital assets, pulled from 4,548 markets on 71 exchanges, [CoinCap is the app](https://pages.shapeshift.com/coincap-mobile/?utm_source=social&utm_medium=medium&utm_campaign=coincap_app_0420&utm_term=cta_04) for you.
+So, look no further to satisfy your daily crypto habit. With real-time market data for over 1,500 digital assets, pulled from 4,548 markets on 71 exchanges, [CoinCap is the app](https://pages.shapeshift.com/coincap-mobile/) for you.
 
-## Download CoinCap Mobile for [Android](https://play.google.com/store/apps/details?id=io.coinCap.coinCap&utm_source=social&utm_medium=medium&utm_campaign=coincap_app_0420&utm_term=cta_01) or [iOS](https://itunes.apple.com/us/app/coincap/id1074052280?mt=8&ign-mpt=uo%3D4&utm_source=social&utm_medium=medium&utm_campaign=coincap_app_0420&utm_term=cta_02) today!<br/> 
+## Download CoinCap Mobile for [Android](https://play.google.com/store/apps/details?id=io.coinCap.coinCap) or [iOS](https://itunes.apple.com/us/app/coincap/id1074052280?mt=8&ign-mpt=uo%3D4) today!<br/> 
 
 ---
 

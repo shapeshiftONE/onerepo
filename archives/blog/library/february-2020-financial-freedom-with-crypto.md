@@ -12,7 +12,7 @@ dateCreated: 2021-12-20T23:02:35.470Z
 
 ![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9a22d2559b4ab8b7c7e751_5e99305300cd26eab1185e69_1_WFtnL4Laytf18So09joYpg.png)
 
-**What** can we do in the crypto and blockchain space to disrupt traditional finance and empower people?When crypto trading comes to mind, you might think of words like “liberty,” “privacy,” or “innovation,” but we’re guessing that “free,” is pretty far down the list. In November of last year, [ShapeShift](http://www.shapeshift.com/?utm_source=social&utm_medium=medium&utm_campaign=shapeshift_platform&utm_term=cta_21) became the first crypto platform to offer free trading, as we saw the potential benefits that trading with zero commissions, fees, or spread could bring users around the world.
+**What** can we do in the crypto and blockchain space to disrupt traditional finance and empower people?When crypto trading comes to mind, you might think of words like “liberty,” “privacy,” or “innovation,” but we’re guessing that “free,” is pretty far down the list. In November of last year, [ShapeShift](http://www.shapeshift.com/) became the first crypto platform to offer free trading, as we saw the potential benefits that trading with zero commissions, fees, or spread could bring users around the world.
 
 When more tools and services in crypto are free or more affordable, we can offer a global audience better alternatives to traditional finance. That’s why it’s important to make crypto more widely accessible — so more people can benefit from a new monetary system.
 
@@ -22,7 +22,7 @@ Many in the crypto space think wide-spread adoption is essential to making crypt
 
 * **Greece**
 * **Iceland**
-* **Venezuela<br/> **
+* **Venezuela**<br/>
 
 ## The Greek Debt Crisis
 
@@ -50,18 +50,6 @@ While we are building a new financial future, keep these three words in mind: **
 
 <iframe allowfullscreen="" frameborder="0" scrolling="auto" src="https://cdn.embedly.com/widgets/media.html?type=text%2Fhtml&amp;key=a19fcc184b9711e1b4764040d3dc5c07&amp;schema=twitter&amp;url=https%3A//twitter.com/erikvoorhees/status/1222901700962344962&amp;image=https%3A//i.embed.ly/1/image%3Furl%3Dhttps%253A%252F%252Fpbs.twimg.com%252Fprofile_images%252F1224129791403544576%252FI_jrXRgb_400x400.jpg%26key%3Da19fcc184b9711e1b4764040d3dc5c07"></iframe>
 
-## No Fees, Free FOX & Giveaways
-
-With [ShapeShift](http://www.shapeshift.com/?utm_source=social&utm_medium=medium&utm_campaign=shapeshift_platform&utm_term=cta_21), free trading is as easy as [signing up](https://auth.shapeshift.io/signup?utm_source=social&utm_medium=medium&utm_campaign=shapeshift_platform&utm_term=cta_20), claiming your 100 [FOX Tokens](https://shapeshift.com/fox-token?utm_source=social&utm_medium=medium&utm_campaign=shapeshift_platform&utm_term=cta_23), and receiving $1,000 of [zero-commission trading](https://shapeshift.com/free-trading?utm_source=social&utm_medium=medium&utm_campaign=shapeshift_platform&utm_term=cta_24) every month. And we don’t want to stop there. We’re putting crypto back in the hands of the community by giving away 30 [ETH this month](https://pages.shapeshift.com/eth_giveaway/?utm_source=social&utm_medium=medium&utm_campaign=shapeshift_platform&utm_term=cta_25), with more to come in March.
-
-* Low rates without spread or commissions
-* [100 free FOX](https://shapeshift.com/fox-token?utm_source=social&utm_medium=medium&utm_campaign=shapeshift_platform&utm_term=cta_23) Tokens at [signup](https://auth.shapeshift.io/signup?utm_source=social&utm_medium=medium&utm_campaign=shapeshift_platform&utm_term=cta_20)
-* [Free trading](https://shapeshift.com/free-trading?utm_source=social&utm_medium=medium&utm_campaign=shapeshift_platform&utm_term=cta_24) with FOX Tokens
-* Bitcoin and Ethereum g[iveaways](https://pages.shapeshift.com/eth_giveaway/?utm_source=social&utm_medium=medium&utm_campaign=shapeshift_platform&utm_term=cta_25) for our users<br/> 
-
-**We welcome you to join us in building a better financial system.**Find out more [here](https://shapeshift.com/free-trading?utm_source=social&utm_medium=medium&utm_campaign=shapeshift_platform&utm_term=cta_24) and discover the benefits that free trading can bring.<br/> 
-
-[![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9a22d27e1ac25da75c6829_5e99324300cd26829b196ecc_0*e-H7EwlSzSNlfyic.png)](http://beta.shapeshift.com) 
 
 ---
 

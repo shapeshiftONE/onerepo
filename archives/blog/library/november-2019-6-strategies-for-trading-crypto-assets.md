@@ -16,9 +16,7 @@ dateCreated: 2021-12-20T23:31:00.121Z
 
 As a result of its perceived complexity, we’ve decided to set about demystifying trading as it relates to crypto. What you learn here will be taught with crypto in mind, but it can be applied to traditional trading as well. Here are 6 trading strategies to get you started in the crypto space.<br/> 
 
-[![Receive 100 FOX tokens when you create a ShapeShift account. Trade crypto for free in the ShapeShift Platform. ShapeShift.com](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9a22d0cd75784f9dc05c92_5e993d8a280f8074bb9a31fc_1*IykQG89A6MmnrtHpPogeVw.png)](http://beta.shapeshift.com)
-
-## **<br/>Passive Investment Strategies**
+## **Passive Investment Strategies**
 
 Passive investment strategies are perfect for beginners, as they’re simple and easy to implement. Passive strategies can be applied not only to crypto, but to other asset classesas well.<br/> 
 

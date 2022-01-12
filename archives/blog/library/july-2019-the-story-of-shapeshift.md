@@ -14,7 +14,7 @@ dateCreated: 2021-12-20T23:03:18.105Z
 
 *The following is a speech from our Chief Operating Officer* [*Jon*](https://corp.shapeshift.io/company-info/) *to the ShapeShift Team* — **on our fifth anniversary**.<br/>
 
-In 2014, I was working with Erik on another crypto project, when he came to me and said that he had a new idea that he would like to explore simultaneously. He recounted a story where he had been trying to buy some altcoin (there weren’t many back then), and how cumbersome the process had been. He said since these crypto assets were natively digital, all the friction made no sense. He should be able to just “send one asset, and receive another one.” He wanted to scope out an initial solution to this idea, and he had a name for what we should call it — “[ShapeShift](http://shapeshift.com/?utm_source=content&utm_medium=medium&utm_campaign=launch&utm_term=cta15).”
+In 2014, I was working with Erik on another crypto project, when he came to me and said that he had a new idea that he would like to explore simultaneously. He recounted a story where he had been trying to buy some altcoin (there weren’t many back then), and how cumbersome the process had been. He said since these crypto assets were natively digital, all the friction made no sense. He should be able to just “send one asset, and receive another one.” He wanted to scope out an initial solution to this idea, and he had a name for what we should call it — “[ShapeShift](http://shapeshift.com/).”
 
 ## *Follow ShapeShift’s* [*first-ever customer transaction*](https://www.blockchain.com/btc/tx/c88532239d11a0901779cafc02b1475686811fbf5493572e52000d8ca6bc4bbe) *— BTC to LTC on 7/30/2014.*
 
@@ -52,9 +52,7 @@ We will not capitalize on our opportunities by trying to just be a better mouset
 
 We only can retain that pioneering edge by continually moving forward to where the new frontier is, and in this industry that frontier shifts under our feet on a daily basis. I never want us to forget that just because we can’t see something yet, that is not always an argument against its existence. Let us not become blind to that which we cannot readily see now, when we know our vision will adjust as we reach towards the horizon.
 
-Want to learn more about **ShapeShift**? Visit our new [website](http://shapeshift.com/?utm_source=content&utm_medium=medium&utm_campaign=launch&utm_term=cta15), watch our [demo video](https://youtu.be/4WOeMyczyvU) or check out this [blog](https://medium.com/shapeshift-stories/building-a-bridge-to-financial-sovereignty-5cad4323bfe6) from our CEO [Erik Voorhees](https://twitter.com/ErikVoorhees).<br/> 
-
-[![Try the new ShapeShift Platform. Your Crypto. Your Control.](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9fbdb4a674bf66b1e15b26_1*oMjDmFibfnxqKGRg8zb8xw.png)](http://shapeshift.com)Claim your 100 FOX Tokens — Visit ShapeShift.com
+Want to learn more about **ShapeShift**? Visit our new [website](http://shapeshift.com/), watch our [demo video](https://youtu.be/4WOeMyczyvU) or check out this [blog](https://medium.com/shapeshift-stories/building-a-bridge-to-financial-sovereignty-5cad4323bfe6) from our CEO [Erik Voorhees](https://twitter.com/ErikVoorhees).<br/> 
 
 ---
 

@@ -64,10 +64,6 @@ As we’ve seen in crypto, there is no such thing as a perfect system or a perfe
 
 Bitcoin is now one step closer to mainstream adoption and continues to challenge the world’s oldest and most used payment systems.<br/> 
 
-![Receive 100 FOX tokens when you create a ShapeShift account. Trade crypto for free in the ShapeShift Platform. ShapeShift.com](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9a22d4cd7578defbc05ca3_5e99312cd833516b83bab7b9_0*NHMok8KCFHMecBm-.png)
-
- 
-
 ---
 
 > This document was originally published on 2019-10-09 by ShapeShift Team and may have been slightly modified for translation by the Information and Globalization workstream for an ongoing archival project.

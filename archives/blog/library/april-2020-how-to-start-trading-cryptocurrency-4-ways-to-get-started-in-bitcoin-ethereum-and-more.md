@@ -48,17 +48,6 @@ The original coin, Bitcoin was created in 2008 and has a loyal community of user
 
 Once you have a basic understanding of crypto, the first step to buying your own is setting up a wallet. A cryptocurrency wallet holds your private and public keys, which allow you to interact with various blockchains to send, receive, and manage your crypto. It’s important to understand that a wallet does not actually store any crypto, but it records transactions related to your crypto. By creating a new wallet, you are generating unique addresses for each coin that no one else in the world will have, giving you a way to send or receive crypto. Follow the steps below to generate a new wallet. 
 
-## Create a Wallet
-
-1. Download the ShapeShift app or visit the [ShapeShift Platform](http://beta.shapeshift.com) <br/>
-2. Select Portis wallet<br/>
-3. Enter your email and choose a password<br/>- *Ensure your password is somewhere safe and it cannot be lost or forgotten - there is no way to do a password reset.* 4. Click “Register” - you just created a new wallet!<br/>
-5. Record your private keys from the settings menu by clicking “Get Recovery Sentence”<br/>*- These 24 words are the only way to recover your Portis account in case you forget your password. Make a copy and store it in a safe place.*
-
-Now that you have a wallet set up, you need to add some crypto. You can either buy BTC or ETH with your debit card or send yourself crypto from another wallet.<br/> 
-
-<iframe allowfullscreen="true" frameborder="0" scrolling="no" src="https://www.youtube.com/embed/Iywdlv2sfgU"></iframe>
-
 ## More Insight on Cryptocurrency Storage
 
 Once you are managing a crypto wallet, it’s essential to understand what the functions of a private key and a public key are. A public key (or address) can be used by anyone to send crypto to a particular recipient. The corresponding private key is proof that you own the crypto in your wallet, and is the most important thing to keep safe. Think of your public key like an email address and your private key as the password to the mailbox. Keep your private keys in a safe and secure place, as anyone with access to them, has access to your funds.
@@ -91,9 +80,10 @@ Now that you have some crypto, it’s time to make a trade. Services with a one-
 
 3. Decide the amount of BTC you want to trade
 
-4. Click Trade and confirm your transaction  <br/>** If you are logged in with a verified ShapeShift account you can trade without commissions or spread.*
+4. Click Trade and confirm your transaction<br/>
+**If you are logged in with a verified ShapeShift account you can trade without commissions or spread.**
 
-5. That’s it - your new will be sent to your wallet shortly
+6. That’s it - your new will be sent to your wallet shortly
 
 A service offering one-to-one, noncustodial trades is typically called a market maker, meaning they supply the liquidity and you are trading directly with them. This is beneficial because it gives you access to top-tier liquidity from multiple sources and you never have to worry about thin order books. Learn more about how our trading works [here](https://shapeshift.com/library/how-shapeshift-trading-works). 
 
@@ -127,15 +117,11 @@ If you’re interested in learning more from some of the experts in the crypto s
 * [9 Best Books for Crypto Beginners](https://shapeshift.com/library/9-best-books-for-crypto-beginners)
 * [7 TED Talks to Learn About Bitcoin and Crypto<br/> ](https://shapeshift.com/library/want-to-learn-about-bitcoin-and-crypto-watch-these-7-ted-talks)
 
-## Get Started in Crypto Trading Today
+**DISCLAIMER:**
 
-Getting started in crypto can feel overwhelming, but with a little help, it can quickly become an exciting new industry to dive into. With ShapeShift, you can trade commission free in our powerful platform while still controlling your cryptocurrency private keys. Get started today and earn 100 FOX Tokens or explore more crypto resources in the [ShapeShift Blog Library](http://www.shapeshift.com/library).
-
-[![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9a22cd559b4a265ec7e70f_5e992e3071b57f848d1b2c67_0*zDFJb9ADZOitNNFX.gif)](http://beta.shapeshift.com/)***<br/>Explore the*** [***ShapeShift Platform***](http://beta.shapeshift.com/?utm_source=social&utm_medium=medium&utm_campaign=shapeshift_platform&utm_term=cta_36) ***— the best new way to manage crypto.*** [*Create a verified account*](https://auth.shapeshift.io/signup?utm_source=social&utm_medium=medium&utm_campaign=shapeshift_platform&utm_term=cta_19) *& start* [*trading without commission, spread, or trading fees*](https://shapeshift.com/free-trading?utm_source=social&utm_medium=medium&utm_campaign=shapeshift_platform&utm_term=cta_18)*.***DISCLAIMER:<br/>***These blog posts serve as a general overview of the crypto industry. No content in these blog posts or on the ShapeShift website constitutes purchase or investment advice. Digital assets are experimental, volatile and risky, and we therefore recommend that you seek professional advice from a qualified advisor before making any financial decision.*
+*These blog posts serve as a general overview of the crypto industry. No content in these blog posts or on the ShapeShift website constitutes purchase or investment advice. Digital assets are experimental, volatile and risky, and we therefore recommend that you seek professional advice from a qualified advisor before making any financial decision.*
 
 *The information is provided “as is” without warranty of any kind, express or implied, and in no event will ShapeShift be liable for damages of any nature resulting from reliance upon the information. The blog posts may contain links to third-party materials that are not owned or controlled by ShapeShift. ShapeShift does not endorse or assume any responsibility for any such third-party sites, information, materials, products, or services.*
-
- 
 
 ---
 

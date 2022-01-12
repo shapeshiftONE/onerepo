@@ -128,10 +128,6 @@ Code sent to a second device to ensure the identity of someone logging into an a
 
 We believe in keeping you secure and want your private keys to remain with you in the safest way possible. When you pair your hardware wallet with our platform, you are getting the best of both worlds: a sleek interface and the knowledge that your crypto is as safe as it can be.
 
-*🚀 Are you ready?* [*Let’s do this thing*](http://shapeshift.com/?utm_source=content&utm_medium=medium&utm_campaign=launch&utm_term=cta26)*.*
-
-[![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9fe0c07b5b12eacf7c1604_0*7U8yrm1A2Emhq5sU.png)](http://beta.shapeshift.com) 
-
 ---
 
 > This document was originally published on 2019-06-07 by ShapeShift Team and may have been slightly modified for translation by the Information and Globalization workstream for an ongoing archival project.

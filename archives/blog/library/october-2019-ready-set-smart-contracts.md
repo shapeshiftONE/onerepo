@@ -48,7 +48,7 @@ The amount of gas a user needs to execute a smart contract depends on how large 
 
 Ethereum is the pioneer of smart contracts, making the network a prime example of a smart contract platform. But as mentioned earlier, there are many blockchains making advances with smart contract technology.
 
-[***EOSIO***](https://twitter.com/block_one_)*offers smart contract capabilities and ranks in the top 10 among all cryptocurrencies and market capitalization. Though it is smart contract friendly, EOS is focused on offering transaction speeds that surpass all other blockchains.*
+[***EOSIO***](https://twitter.com/block_one_) *offers smart contract capabilities and ranks in the top 10 among all cryptocurrencies and market capitalization. Though it is smart contract friendly, EOS is focused on offering transaction speeds that surpass all other blockchains.*
 
 [***Tezos***](https://tezos.com/) *offers a “self-amending” cryptographic ledger that can adapt to whatever the world needs with participants in the network voting on what should happen next.*
 
@@ -57,10 +57,6 @@ Ethereum is the pioneer of smart contracts, making the network a prime example o
 ## 🏎💨 Start Your Engines
 
 Ethereum’s founders were the first to realize that blockchains could handle more than just basic payments. Now, other builders in the crypto space are quickly catching on to new ideas and concepts like smart contracts. With further development and interest from a variety of industries, this tech may just be a gateway to mainstream adoption.
-
-## *At* [*ShapeShift*](http://beta.shapeshift.com/?utm_source=social&utm_medium=twitter&utm_campaign=10_btc_program&utm_term=cta08)*, we’re providing next-level tools for crypto management and we want to make it easy for you to try out our new hardware secured platform. We are offering* [*ShapeShift members*](https://auth.shapeshift.io/signup?utm_source=content&utm_medium=medium&utm_campaign=10_member_kk&utm_term=cta04) *a KeepKey, the premier hardware wallet of the ShapeShift Platform for* [*only $10*](https://pages.shapeshift.com/members_keepkey/?utm_source=content&utm_medium=medium&utm_campaign=10_member_kk&utm_term=cta08)*.*<br/><br/>
-
-![Receive 100 FOX tokens when you create a ShapeShift account. Trade crypto for free in the ShapeShift Platform. ShapeShift.com](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9f1cd6888b90ed9991f27d_1*tSDEyI4_ey4pCktaxeODvw.png)
 
 ---
 

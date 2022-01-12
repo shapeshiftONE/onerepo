@@ -12,7 +12,7 @@ dateCreated: 2021-12-20T23:03:12.579Z
 
 ![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9f2ad087561677b635a76b_1_TaKFptp7-_gguPC0Wl7qsw.png)
 
-<br/>**On** [International Podcast Day](https://internationalpodcastday.com/)we asked our friends on [Crypto Twitter](https://twitter.com/hashtag/cryptotwitter) which industry podcasts they consider to be the best out there. Take a look at the [comments](https://twitter.com/ShapeShift_io/status/1178793071464439808?s=20) for a treasure trove of recommendations straight from the community. We’ve compiled the fan favorites and industry bests below.<br/> 
+**On** [International Podcast Day](https://internationalpodcastday.com/)we asked our friends on [Crypto Twitter](https://twitter.com/hashtag/cryptotwitter) which industry podcasts they consider to be the best out there. Take a look at the [comments](https://twitter.com/ShapeShift_io/status/1178793071464439808?s=20) for a treasure trove of recommendations straight from the community. We’ve compiled the fan favorites and industry bests below.<br/> 
 
 ## [Crypto Campfire Podcast](https://open.spotify.com/show/4Spb6nPpo0CE4oUn59hAmh?si=8OnAlpwWR1CdDldl9Zb71g)
 

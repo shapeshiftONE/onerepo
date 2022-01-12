@@ -12,7 +12,7 @@ dateCreated: 2021-12-20T23:03:25.477Z
 
 ![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9fd962df89132df8990dcc_1_ENLx3iVAB2BbTJElqvyCfw.png)
 
-**You know they’re out there** — Scammers, hackers, thieves. There are plenty of bad actors in this space who are trying to take control of your crypto. Even knowing this, most crypto users still don’t take the precautions needed to stay safe. It’s time for a security overhaul, and we’re here to show you how the new [ShapeShift Platform](http://shapeshift.com/?utm_source=content&utm_medium=medium&utm_campaign=launch&utm_term=cta01) will do just that.
+**You know they’re out there** — Scammers, hackers, thieves. There are plenty of bad actors in this space who are trying to take control of your crypto. Even knowing this, most crypto users still don’t take the precautions needed to stay safe. It’s time for a security overhaul, and we’re here to show you how the new [ShapeShift Platform](http://shapeshift.com/) will do just that.
 
 ## Not Your Keys, Not Your Crypto
 
@@ -42,13 +42,13 @@ The tiny screens leave you wishing that you had a little something more and you 
 
 <iframe allowfullscreen="" frameborder="0" scrolling="auto" src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F342793961%3Fapp_id%3D122963&amp;dntp=1&amp;url=https%3A%2F%2Fvimeo.com%2F342793961&amp;image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F793831963_1280.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07&amp;type=text%2Fhtml&amp;schema=vimeo"></iframe>
 
-[<br/>](http://shapeshift.com/?utm_source=content&utm_medium=medium&utm_campaign=launch&utm_term=cta03) 
+[<br/>](http://shapeshift.com/) 
 
 ## Presenting a Better, Safer, & New Alternative
 
-For the first time, hardware security meets a crypto toolkit coupled with a beautiful interface. And damn, it’s a match made in heaven. With the new [ShapeShift Platform](http://shapeshift.com/?utm_source=content&utm_medium=medium&utm_campaign=launch&utm_term=cta02), your private keys remain entirely offline and **in your control**. Buying, selling, and hodling have never been easier.
+For the first time, hardware security meets a crypto toolkit coupled with a beautiful interface. And damn, it’s a match made in heaven. With the new [ShapeShift Platform](http://shapeshift.com/), your private keys remain entirely offline and **in your control**. Buying, selling, and hodling have never been easier.
 
-It’s about time cold storage is both approachable and accessible. Plug in your [KeepKey](http://keepkey.com/?utm_source=content&utm_medium=medium&utm_campaign=launch&utm_term=cta07) or [Trezor](https://shapeshift.zendesk.com/hc/en-us/articles/360006855179-Connecting-Trezor-to-ShapeShift?utm_source=content&utm_medium=medium&utm_campaign=launch&utm_term=cta09) *(Ledger coming soon)* and see how far hardware wallets have come.<br/> 
+It’s about time cold storage is both approachable and accessible. Plug in your [KeepKey](http://keepkey.com/) or [Trezor](https://shapeshift.zendesk.com/hc/en-us/articles/360006855179-Connecting-Trezor-to-ShapeShift) *(Ledger coming soon)* and see how far hardware wallets have come.<br/> 
 
 ## 👏 Go Non-Custodial 👏
 
@@ -72,17 +72,15 @@ Mobile friendly wallets are popular because of our extremely ::cough:: unhealthy
 
 And with real-time market data thanks to [CoinCap](https://coincap.io/), you can be confident your portfolio is accurate.<br/> 
 
-[![](https://assets.website-files.com/max/5624/1*oMjDmFibfnxqKGRg8zb8xw.png)](http://beta.shapeshift.com)
-
 ## Over to You
 
 If your security is lacking (or even non-existent) it’s time to do something about it. Protect your crypto by making these important changes: offline key management, noncustodial trading, and portfolio tracking that’s not connected to your funds.
 
-Stop enabling hackers and start stonewalling them with the [ShapeShift Platform](http://shapeshift.com/?utm_source=content&utm_medium=medium&utm_campaign=launch&utm_term=cta04). We’ve combined security, control, and ease-of-use into one beautiful interface.
+Stop enabling hackers and start stonewalling them with the [ShapeShift Platform](http://shapeshift.com/). We’ve combined security, control, and ease-of-use into one beautiful interface.
 
-[Create](https://auth.shapeshift.io/signup?utm_source=content&utm_medium=medium&utm_campaign=launch&utm_term=cta06) your ShapeShift Account for free and start forging a safer, empowered future. Self-sovereignty begins here.
+[Create](https://auth.shapeshift.io/signup) your ShapeShift Account for free and start forging a safer, empowered future. Self-sovereignty begins here.
 
-*Have you tried the ShapeShift Platform? Let us know what you think!* [***Click here to try it out***!](http://shapeshift.com/?utm_source=content&utm_medium=medium&utm_campaign=launch&utm_term=cta10)
+*Have you tried the ShapeShift Platform? Let us know what you think!* [***Click here to try it out***!](http://shapeshift.com/)
 
 ---
 

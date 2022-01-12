@@ -80,8 +80,6 @@ There are two payments projects on the Ethereum network: xDai and Connext. [xDai
 
 The world of decentralized finance exists to continue the mission of providing users with democracy and agency over their value and to make the cryptocurrency market more stable and accessible. That means making it accessible to consumers, merchants, investors, and institutions. Innovation is propelling DeFi into real-world use cases, giving the technology the avenues and potential to impact the world.<br/> 
 
-[![Trade crypto for free on the ShapeShift Platform. Create a verified account & get 100 FOX tokens to start trading for free.](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9a22d122bbc05a6dbaae4f_5e997ee8b22d0dc1fcb28502_1*X3aiehe4q4bRHgqSb-u0hQ.png)](http://beta.shapeshift.com) 
-
 ---
 
 > This document was originally published on 2019-12-02 by ShapeShift Team and may have been slightly modified for translation by the Information and Globalization workstream for an ongoing archival project.

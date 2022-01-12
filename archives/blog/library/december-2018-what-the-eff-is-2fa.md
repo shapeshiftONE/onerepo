@@ -12,7 +12,7 @@ dateCreated: 2021-12-20T23:03:23.637Z
 
 ![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9fed295c060380632a25d9_Image%201%20(2).png)
 
-Have you ever been a victim of a cyber attack? If not, you most likely know one of the [**nearly 60 million people in the United States**](https://us.norton.com/internetsecurity-emerging-threats-10-facts-about-todays-cybersecurity-landscape-that-you-should-know.html) impacted by identity theft. Reducing these, and other similar attacks are easy with a tried-and-tested method: **two-factor authentication (2FA).<br/> **
+Have you ever been a victim of a cyber attack? If not, you most likely know one of the [**nearly 60 million people in the United States**](https://us.norton.com/internetsecurity-emerging-threats-10-facts-about-todays-cybersecurity-landscape-that-you-should-know.html) impacted by identity theft. Reducing these, and other similar attacks are easy with a tried-and-tested method: **two-factor authentication (2FA).**<br/>
 
 ## What is Two-Factor Authentication (2FA)?
 

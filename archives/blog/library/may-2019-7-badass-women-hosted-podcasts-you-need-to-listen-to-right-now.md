@@ -22,7 +22,7 @@ Your iTunes library (not to mention your mojo) will thank you.<br/>
 
 ![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9fe712df8913a3db9f2ddd_1*ou-xqHkx26PfhJXRIbtkdg.jpeg)
 
-[<br/>“What Grinds My Gears”](https://www.blockworksgroup.io/podcasts/what-grinds-my-gears) is your weekly digest of all the fascinating, bizarre, and buzz-worthy news in cryptocurrencies and blockchain tech, dissected by [Jill Carlson](https://twitter.com/_jillruth) and [Meltem Demirors.<br/> ](http://shapeshift.io/downtherabbithole/?utm_source=medium&utm_medium=medium_page&utm_campaign=down_the_rabbit_hole)
+[<br/>“What Grinds My Gears”](https://www.blockworksgroup.io/podcasts/what-grinds-my-gears) is your weekly digest of all the fascinating, bizarre, and buzz-worthy news in cryptocurrencies and blockchain tech, dissected by [Jill Carlson](https://twitter.com/_jillruth) and [Meltem Demirors.<br/> ](http://shapeshift.io/downtherabbithole/)
 
 ## 2. “She Did It Her Way” with Amanda Boleyn<br/> 
 

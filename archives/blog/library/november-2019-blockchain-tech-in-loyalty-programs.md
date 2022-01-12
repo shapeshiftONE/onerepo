@@ -18,9 +18,7 @@ These programs are all fun and games until you attempt to redeem your airline mi
 
 Customer loyalty programs have become complicated and clunky. The majority require you to sign up for *another* credit card that you don’t really need. Other programs are nice in theory but are full of hidden restrictions and red tape. Even the simple coffee punch cards are more likely to be lost than ever actually redeemed. *So what’s the solution?*<br/>
 
-[![](https://assets.website-files.com/max/5624/1*IykQG89A6MmnrtHpPogeVw.png)](http://beta.shapeshift.com)
-
-## **The Blockchain Solution**
+## The Blockchain Solution
 
 Imagine this: It’s 2030 and you make a purchase at your local grocery store. *Cha-ching!* Your wallet just received 10 loyalty crypto tokens. These are not only used for whatever perk the store offers, but they can never expire or be taken away.
 
@@ -28,7 +26,7 @@ A loyalty program is merely some type of incentive that encourages customers to 
 
 Blockchain technology can, and already has started to improve outdated rewards programs in several ways.<br/> 
 
-## **Customer Benefits**
+## Customer Benefits
 
 **Ownership:** A token can never be taken away as long as the owner of the wallet controls the keys.
 
@@ -40,7 +38,7 @@ Blockchain technology can, and already has started to improve outdated rewards p
 
 **Trust:** Users can see their rewards in real-time and anyone can verify their balance on the blockchain.<br/> 
 
-## **Business Benefits**
+## Business Benefits
 
 **Reducing cost**: Companies can cut costs on system management, transactional, and customer acquisition.
 
@@ -77,10 +75,6 @@ Blockchain tokens and loyalty programs have begun to merge together in the past 
 ## Over to You
 
 Will crypto and blockchain technology continue to bring more consumer-focused advancements? Let us know what crypto loyalty programs you use and what you think of them below.
-
-*>>>* [*Sign up to receive 100 FOX tokens and get started trading for free.*](https://auth.shapeshift.io/signup?utm_source=social&utm_medium=medium&utm_campaign=portis_launch&utm_term=cta05) *<<<*
-
-[![Trade crypto for free on the ShapeShift Platform. Create a verified account & get 100 FOX tokens to start trading for free.](https://assets.website-files.com/max/5624/1*y1Hdd-GTcXHyF0hzzsNl1A.png)](http://beta.shapeshift.com)<br/>
 
 ---
 

@@ -12,7 +12,7 @@ dateCreated: 2021-12-20T23:03:21.822Z
 
 ![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9a22f45b73a11aa2f26ac6_5e9954ed91657b97fe3a645f_1_3QvwNt0uMC9IF9Mqu8jceg.png)
 
-[<br/>**Brave browser**](https://brave.com/) is at the leading edge of privacy and innovation in both cryptocurrency and blockchain tech with regard to the privacy rights of the individual. Unlike many other of the thousands of altcoin projects that struggle to gain legitimate traction in terms of adoption and practical use, Brave is actually making waves.
+[**Brave browser**](https://brave.com/) is at the leading edge of privacy and innovation in both cryptocurrency and blockchain tech with regard to the privacy rights of the individual. Unlike many other of the thousands of altcoin projects that struggle to gain legitimate traction in terms of adoption and practical use, Brave is actually making waves.
 
 Consider for a moment that during [September 2019](https://imgur.com/fnk5iGp), Brave browser downloads for the Android operating system topped [Mozilla Firefox](https://en.wikipedia.org/wiki/Firefox) and the top AdBlocker in Japan. That’s an excellent sign for Brave and the community that supports the browser. Not only because it ranked in the top 10 in Android downloads for that month, but also because one of the founders of Brave is also responsible for the founding of Firefox.
 
@@ -76,14 +76,6 @@ Users can block content with their wireless router settings or a blocking router
 ## Browser Extensions
 
 Browser extensions are by far the most popular way to block ads on existing browsers like Google Chrome and Safari. AdBlock is one of the most downloaded extensions. The problem is, [it allows some ads.](https://help.getadblock.com/support/solutions/articles/6000092027-why-does-adblock-allow-non-intrusive-ads-) UBlock Origin is the other popular extension. Its user base is growing because of its [open-source software](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) and that it’s a reasonable alternative to AdBlock.<br/> 
-
-## The ShapeShift Platform + Brave Browser
-
-If you're a fan of Brave browser, you’re in luck! You can use the web-based [ShapeShift Platform](http://beta.shapeshift.com/?utm_source=social&utm_medium=medium&utm_campaign=fox_launch&utm_term=cta81) with your favorite secure browser. Need help getting started using Brave Browser with the new ShapeShift Platform? [Start here](http://using%20brave%20browser%20with%20the%20new%20shapeshift/).<br/> 
-
-[![Trade crypto for free on the ShapeShift Platform. Create a verified account & get 100 FOX tokens to start trading for free.](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9a22f4279a9966664f2dd7_5e99551e91e0276bb517fcfc_1*TeNCJcWt1rXNeaH2y3_e3g.png)](http://beta.shapeshift.com)![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9a22cd279a9936ac4f2c4a_5e993242280f80362393f711_0*fXLWl2rVdmX3MIHA.png)
-
-<br/>
 
 ---
 

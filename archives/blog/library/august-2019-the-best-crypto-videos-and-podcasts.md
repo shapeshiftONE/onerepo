@@ -56,7 +56,7 @@ CZ’s AMA after the [Binance](https://www.binance.com/) hack deserves a place o
 
 The Winklevoss twins and [Laura Shin](https://twitter.com/laurashin) created a powerful Unchained episode in early 2019. They discussed the twins’ crypto exchange, [Gemini](https://gemini.com/); their stablecoin, [GUSD](https://coincap.io/assets/gemini-dollar); and plenty of interesting stories that make for a memorable episode.<br/> 
 
-[>> ‎Listen to Unchained Podcast](https://podcasts.apple.com/us/podcast/unchained-your-no-hype-resource-for-all-things-crypto/id1123922160)
+[>> Listen to Unchained Podcast](https://podcasts.apple.com/us/podcast/unchained-your-no-hype-resource-for-all-things-crypto/id1123922160)
 
 ## What’s the best crypto content you’ve seen lately?
 
@@ -64,9 +64,7 @@ Leave us a link in the comments and we will check it out. We may just add your s
 
 ***Like this blog? Read*** [***8 Projects Making Waves in the Crypto Space***](https://medium.com/shapeshift-stories/8-projects-making-waves-in-the-crypto-space-5e98fc60fe26) ***and*** [***9 Best Books for Crypto Beginners***](https://medium.com/shapeshift-stories/9-best-books-for-crypto-beginners-2d102d73c7e)***.***
 
-> [***Achieve Financial Sovereignty with ShapeShift***](http://shapeshift.com/?utm_source=content&utm_medium=medium&utm_campaign=launch&utm_term=cta32)* **The* [*ShapeShift Platform*](http://beta.shapeshift.com/) *supports an ever-growing number of digital assets like bitcoin, ethereum, litecoin and dozens more.* 
-
- 
+> [***Achieve Financial Sovereignty with ShapeShift***](http://shapeshift.com/)* **The* [*ShapeShift Platform*](http://beta.shapeshift.com/) *supports an ever-growing number of digital assets like bitcoin, ethereum, litecoin and dozens more.* 
 
 ---
 

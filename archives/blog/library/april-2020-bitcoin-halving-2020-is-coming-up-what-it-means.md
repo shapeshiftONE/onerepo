@@ -68,13 +68,7 @@ Bitcoin’s third halving event will occur when block number 630,000 is successf
 
 Many believe that [bitcoin’s price](https://coincap.io/assets/bitcoin) has appreciated over the last several months partly because the upcoming halving event has already been accounted for. Even if the price drops after halving, one offsetting benefit may be that more people could become aware of bitcoin and blockchains simply because crypto projects might be prominently featured in the news again.<br/><br/>
 
-## Get Started in Crypto Trading Today
-
-Getting started in crypto can feel overwhelming, but with a little help, it can quickly become an exciting new industry to dive into. With [ShapeShift](http://shapeshift.com), you can trade commission free in our powerful platform while still controlling your cryptocurrency private keys. Get started today and earn [100 FOX Tokens](https://shapeshift.com/fox-token) or explore more crypto resources in the [ShapeShift Blog Library](http://www.shapeshift.com/library).<br/> 
-
-![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5ea9d798181f44f780ff8e87_RdMGKTX4p2qrQCjOHy2dVFvbke3ZylzJm0df2pBq6PJpDUJ7hcOP2CCTwrTeEzAC8yZY5emE7aBSlVA9MV09mRWpEaCK0hnXbY33queoaAY_HcBSET3WEeOmhfVZhI7VCa982TXG.gif)
-
-***Explore the*** [***ShapeShift Platform***](http://beta.shapeshift.com/?utm_source=social&utm_medium=medium&utm_campaign=shapeshift_platform&utm_term=cta_36) ***— the best new way to manage crypto.***[*Create a verified account*](https://auth.shapeshift.io/signup?utm_source=social&utm_medium=medium&utm_campaign=shapeshift_platform&utm_term=cta_19) *& start* [*trading without commission, spread, or trading fees*](https://shapeshift.com/free-trading?utm_source=social&utm_medium=medium&utm_campaign=shapeshift_platform&utm_term=cta_18)*.***DISCLAIMER:**
+**DISCLAIMER:**
 
 *These blog posts serve as a general overview of the crypto industry. No content in these blog posts or on the ShapeShift website constitutes purchase or investment advice. Digital assets are experimental, volatile and risky, and we therefore recommend that you seek professional advice from a qualified advisor before making any financial decision.*
 

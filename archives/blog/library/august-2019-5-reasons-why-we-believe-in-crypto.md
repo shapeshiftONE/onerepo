@@ -19,9 +19,9 @@ We do. With all of the skeptics out there, it’s easy to lose focus on what rea
 
 If you feel like you have started to become a victim of [**FUD**](https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt)**,** we want to remind you why we are here. **To create a borderless financial system built on open, decentralized protocols.**
 
-If you need a reason to believe, look no further. Get inspired by the five reasons we at [ShapeShift](http://shapeshift.com/?utm_source=content&utm_medium=medium&utm_campaign=launch&utm_term=cta30) believe in crypto.
+If you need a reason to believe, look no further. Get inspired by the five reasons we at [ShapeShift](http://shapeshift.com/) believe in crypto.
 
-## **<br/>#1 The Principles**
+## **#1 The Principles**
 
 Cryptocurrencies were not just born out of economic necessity. Ideologies and philosophies have deep roots in this space. Many early adopters have recognized that on a fundamental level, we were in need of a freer and smarter form of money. Bitcoin was recognized as a tool that could be a borderless currency, create cheaper transactions and advance ease of use in exchanging value.<br/><br/>Read a note from ShapeShift CEO Erik Voorhees >> Building a Bridge to Financial Sovereignty <br/> 
 
@@ -44,12 +44,6 @@ Although people claim to, nobody really knows where the crypto space will take u
 *We need to make sure that we aren’t just building to extend our runway and gamble on the future of what we’re doing. —* [***Vitalik Buterin***](https://twitter.com/VitalikButerin)
 
 We need to build long-lasting, effective technology that makes clear to the world in a very simple way, how remarkable these advancements are.
-
-## We welcome you to join us in building a better financial system.
-
-Why do you believe in crypto? Let us know in the comments below.<br/> 
-
-[![ShapeShift Members Only: Sign up to receive a KeepKey hardware wallet for only $10.](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9fae0674f1eb8709c82e3a_1*JDrrxGFfUMIQRLXZOdhmaw.png)](http://beta.shapeshift.com)<br/>
 
 ---
 

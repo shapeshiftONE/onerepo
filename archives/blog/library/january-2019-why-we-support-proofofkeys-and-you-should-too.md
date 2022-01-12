@@ -91,7 +91,7 @@ Although generally, the rule of thumb is not to store your crypto on exchanges, 
 
 So as we round out 10 years of Bitcoin, let’s set the tone for the next 10 years by exercising our financial sovereignty.
 
-But always remember, **the safest way** to store your cryptocurrencies is always on a “cold storage” device, like [**KeepKey**](https://keepkey.myshopify.com/collections/frontpage/products/keepkey-the-simple-bitcoin-hardware-wallet?utm_source=medium&utm_medium=medium_page&utm_campaign=buy_now).
+But always remember, **the safest way** to store your cryptocurrencies is always on a “cold storage” device, like [**KeepKey**](https://keepkey.myshopify.com/collections/frontpage/products/keepkey-the-simple-bitcoin-hardware-wallet).
 
 ---
 

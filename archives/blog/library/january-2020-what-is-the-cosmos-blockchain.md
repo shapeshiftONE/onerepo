@@ -73,8 +73,6 @@ The [ATOM token](https://coincap.io/assets/cosmos) plays a significant role in r
 
 ATOM tokens also act as a means of accounting for transaction fees. That doesn’t mean fees must be paid using ATOM tokens. Other currencies can be used to pay transaction fees. The incentive for [using ATOM tokens](https://medium.com/@CryptoSeq/cosmos-atom-token-and-the-commonly-misunderstood-staking-tokens-part-three-958c295c5b78) for staking is that users can receive a portion of the fees in different currencies depending on the number of ATOM tokens being staked. Remember that zones are their own blockchains in the Cosmos network, which means they have their own native tokens. Validators can accept any combination of tokens they want as a transaction fee. 2% of the fees collected go into a reserve pool, and the other 98% goes to validators based on the stake they have invested in the network.
 
-*⚛️ Connect your KeepKey to the* [*ShapeShift Platform*](http://beta.shapeshift.com/?utm_source=social&utm_medium=medium&utm_campaign=cosmos_launch&utm_term=cta02) *and trade dozens of assets for Cosmos (ATOM).* [*Trade with the best rates, no commission or spread.*](https://shapeshift.com/free-trading?utm_source=social&utm_medium=medium&utm_campaign=cosmos_launch&utm_term=cta05)
-
 ## Which blockchains work with Cosmos?
 
 There are over 100 projects working with the Cosmos network at this time. The [list](https://forum.cosmos.network/t/list-of-projects-in-cosmos-tendermint-ecosystem/243) is steadily growing, with many notable projects building on Cosmos.
@@ -98,12 +96,6 @@ e-Money’s goal is to launch a [currency-backed token](https://e-money.com/docu
 ## The Internet of Blockchains
 
 Cosmos has a unique way of allowing blockchains to communicate with one another and a market capitalization that ranks the project among similar blockchains like [Aion](https://aion.theoan.com/), [Cardano](https://www.cardano.org/en/home/), and [ICON](https://icon.foundation/?lang=en). To many in the blockchain space, Cosmos has the potential to bring the connectivity of the internet to blockchains.<br/> 
-
-## **Cosmos ATOM on the ShapeShift Platform**
-
-Now, you can buy, sell, and hodl ATOM tokens in the [ShapeShift Platform](http://shapeshift.com/?utm_source=social&utm_medium=medium&utm_campaign=cosmos_launch&utm_term=cta01) with your [KeepKey](https://shapeshift.io/keepkey/). Get started by connecting your KeepKey at [beta.shapeshift.com](http://beta.shapeshift.com/?utm_source=social&utm_medium=medium&utm_campaign=cosmos_launch&utm_term=cta02). Want to trade ATOM tokens commission free? You can earn 100 [FOX tokens](https://shapeshift.com/fox-token?utm_source=social&utm_medium=medium&utm_campaign=cosmos_launch&utm_term=cta04) that unlock $1,000 in free trading every 30 days by [verifying your account](https://auth.shapeshift.io/signup?utm_source=social&utm_medium=medium&utm_campaign=cosmos_launch&utm_term=cta03)!<br/> 
-
-[![Visit ShapeShift.com to trade Cosmos ATOM commission free with your KeepKey hardware wallet.](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9a22c95e8c4fc9c99bf871_5e99465a00cd267c22225d32_1*ABIuarek0t40ggfsJql5wA.gif)](http://beta.shapeshift.com)> Visit [ShapeShift.com](http://ShapeShift.com) to trade Cosmos ATOM commission free with your KeepKey hardware wallet < 
 
 ---
 

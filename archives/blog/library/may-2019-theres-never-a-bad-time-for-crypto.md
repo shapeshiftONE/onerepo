@@ -36,7 +36,7 @@ Use the Watchlist feature to add the coins you’re particularly bullish on for 
 
 With real-time market data for over 1,500 digital assets pulled from 7,890 markets on 71 exchanges, CoinCap blows the competition out of the water.
 
-No other app on the market offers a clean and simple UI to show the nature of cryptocurrencies. If you’ve been looking for an app to view the value of your crypto in a simple, visually appealing, easy-to use-way — CoinCap 2.0 Mobile is a perfect choice. With our transparent data, you’ll never have to worry about seeing the most accurate and up-to-date market data and prices possible. Learn more about how we aggregate this data on our [**methodology**](https://coincap.io/methodology)page.
+No other app on the market offers a clean and simple UI to show the nature of cryptocurrencies. If you’ve been looking for an app to view the value of your crypto in a simple, visually appealing, easy-to use-way — CoinCap 2.0 Mobile is a perfect choice. With our transparent data, you’ll never have to worry about seeing the most accurate and up-to-date market data and prices possible. Learn more about how we aggregate this data on our [**methodology**](https://coincap.io/methodology) page.
 
 ## [**Download CoinCap Mobile for Android or iOS today!**](https://pages.shapeshift.com/coincap-mobile/)
 

@@ -62,10 +62,6 @@ This interview focuses on ShapeShift’s new product release — [the ShapeShift
 
 What’s your favorite interview with our CEO? Let us know what you think in the comments below. *Stay up to date with our team and the latest ShapeShift news by following us on* [*Twitter*](https://twitter.com/ShapeShift_io)*.*
 
-*At* [*ShapeShift*](http://beta.shapeshift.com/?utm_source=social&utm_medium=twitter&utm_campaign=10_btc_program&utm_term=cta08)*, we’re providing next-level tools for crypto management and we want to make it easy for you to try out our new hardware secured platform. We are offering* [*ShapeShift members*](https://auth.shapeshift.io/signup?utm_source=content&utm_medium=medium&utm_campaign=10_member_kk&utm_term=cta04) *a KeepKey, the premier hardware wallet of the ShapeShift Platform for* [*only $10*](https://pages.shapeshift.com/members_keepkey/)*.*
-
-[![Receive 100 FOX tokens when you create a ShapeShift account. Trade crypto for free in the ShapeShift Platform. ShapeShift.com](https://assets.website-files.com/max/5624/1*IykQG89A6MmnrtHpPogeVw.png)](http://beta.shapeshift.com)
-
 ---
 
 > This document was originally published on 2019-10-17 by Ari Chernoff and may have been slightly modified for translation by the Information and Globalization workstream for an ongoing archival project.

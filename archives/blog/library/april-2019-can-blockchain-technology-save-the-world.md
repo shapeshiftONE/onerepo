@@ -18,7 +18,7 @@ In October 2018, the [U.N. released a Climate Report,](https://www.un.org/en/sec
 
 New companies are springing up daily stating that they will use the transparency of blockchain to solve all sorts of problems — even climate change.
 
-**🌏** In honor of [Earth Day,](https://www.earthday.org/) we wanted to highlight four blockchain technology climate groups building a more sustainable and regenerative future. **🌏<br/> **
+**🌏** In honor of [Earth Day,](https://www.earthday.org/) we wanted to highlight four blockchain technology climate groups building a more sustainable and regenerative future. **🌏**<br/>
 
 ![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9fe5342b0b3001c72804ce_1_eYAFx6IB0Jt6bkyS4Dgc3w.png)
 

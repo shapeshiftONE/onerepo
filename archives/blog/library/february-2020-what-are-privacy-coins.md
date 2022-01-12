@@ -20,11 +20,17 @@ Privacy coins take the anonymous nature and privacy ethos of Bitcoin to the next
 
 *Below are examples of how Bitcoin transactions can be tracked.*
 
-**Connecting Nodes<br/>**Bitcoin is a peer-to-peer network where nodes can be connected to each other. Anyone with sound deductive reasoning skills and a penchant for digital forensics can theoretically connect the dots (nodes) together and uncover transactions. This is not easy, but certainly possible.
+**Connecting Nodes**
 
-**Know Your Client Verification<br/>**Users trading Bitcoin on an exchange and identifying themselves, makes tracing transactions back to that user easy.
+Bitcoin is a peer-to-peer network where nodes can be connected to each other. Anyone with sound deductive reasoning skills and a penchant for digital forensics can theoretically connect the dots (nodes) together and uncover transactions. This is not easy, but certainly possible.
 
-**The Public Ledger<br/>**Bitcoin’s blockchain serves as a public ledger. Transactions are open to everyone, which means addresses are traceable. If even one address is tied to a specific user, other addresses in that group of transactions on the blockchain can be tied to that very same user.<br/> 
+**Know Your Client Verification**
+
+Users trading Bitcoin on an exchange and identifying themselves, makes tracing transactions back to that user easy.
+
+**The Public Ledger**
+
+Bitcoin’s blockchain serves as a public ledger. Transactions are open to everyone, which means addresses are traceable. If even one address is tied to a specific user, other addresses in that group of transactions on the blockchain can be tied to that very same user.<br/> 
 
 ## Privacy Focused Cryptocurrency Projects
 
@@ -67,10 +73,6 @@ Anyone that wants proof of how valuable user data is, needs only to look at the 
 What do they all have in common? They all leverage our personal data to make money. They have been hacked before, and they’ve all come under the scrutiny of government agencies many times before. They seem to dominate so much of the technology, push the limits of privacy and ultimately commoditize the ideas, thoughts, and actions of individuals.
 
 That’s why old-school cryptocurrency advocates built Bitcoin, and it’s why so many others have entered the space since. To try to give the individual power over their money yes, but just as importantly, over their privacy.<br/> 
-
->  ***The ShapeShift Platform | Upgrade Your Crypto Experience<br/>****Use platform without an account to monitor your portfolio in real-time, send and receive dozens of assets, and buy Bitcoin and Ethereum. Connect your hardware wallet (Ledger, Trezor or KeepKey) or create a free software wallet with only an email and password.* 
-
-[![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9a22ca279a9939834f2c40_5e9929f6cf6d9b7cde57fc17_1*drZT8HQKHjzQqpHv45aqgw.gif)](http://beta.shapeshift.com) 
 
 ---
 
