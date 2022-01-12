@@ -1,11 +1,11 @@
 ---
 title: FOX on Fire - ShapeShift DAO Partners with Fireblocks
 description: Collaboration Delivers Institutional Investors Ease, Security, and Custody
-published: false
-date: 2021-12-20T23:02:35.899Z
-tags: library, defi, dao, needs-review
+published: true
+date: 2021-12-21T04:21:29.888Z
+tags: dao, defi, library, needs-review
 editor: markdown
-dateCreated: 2021-12-20T23:02:35.899Z
+dateCreated: 2021-12-21T03:38:36.336Z
 ---
 
 # FOX on Fire - ShapeShift DAO Partners with Fireblocks
@@ -51,7 +51,7 @@ To learn more about FOX, the ShapeShift DAO, and Fireblocks, below are some help
 
 [ShapeShift Discord](https://discord.com/invite/shapeshift)
 
-[Fireblocks.com<br/> ](https://www.fireblocks.com/)<br/>
+[Fireblocks.com](https://www.fireblocks.com/)<br/>
 
 **This is not to be construed as investment advice; the FOX Token is a governance token for the purposes of rendering project decisions via voting by token holders. We do not suggest investing for the purposes of speculative financial gain, as no gains are guaranteed and losses (of any or all value) are possible. All investment risk is assumed by investors.*
 

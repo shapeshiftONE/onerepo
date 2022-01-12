@@ -1,11 +1,11 @@
 ---
 title: Can Blockchain Technology Save the World?
 description: 5 climate groups using blockchain tech to create a more sustainable future.
-published: false
-date: 2021-12-20T23:02:25.722Z
+published: true
+date: 2021-12-21T04:18:36.952Z
 tags: library, needs-review
 editor: markdown
-dateCreated: 2021-12-20T23:02:25.722Z
+dateCreated: 2021-12-21T03:37:32.894Z
 ---
 
 # Can Blockchain Technology Save the World?
