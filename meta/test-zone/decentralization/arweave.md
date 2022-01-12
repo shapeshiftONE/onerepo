@@ -10,3 +10,5 @@ foo: bar
 ---
 
 # Hello World
+
+Insufficient balance, test no. 2
