@@ -27,7 +27,7 @@ I shared some of my thoughts and open questions with my mentor and boss, Jon. He
 
 It was time to dive in and see how I could make a difference.<br/>
 
-My first step was to join in the conversation on [Discord](https://discord.gg/ybtb5Q2D) and begin scouting the forum to see what ideas the community had already put out there. Then, I spotted an opportunity—an area where we could significantly add to our platform to improve our user experience. It was time to step forward and make a proposal.<br/>
+My first step was to join in the conversation on [Discord](https://discord.gg/shapeshift) and begin scouting the forum to see what ideas the community had already put out there. Then, I spotted an opportunity—an area where we could significantly add to our platform to improve our user experience. It was time to step forward and make a proposal.<br/>
 
 ## **Submitting a DAO Proposal: The Steps (Spoiler: It’s Not that Hard!)**<br/>
 

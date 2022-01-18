@@ -56,8 +56,6 @@ Bitcoin Billionaires is the story of Tyler and Cameron Winklevosses entrance int
 
 🦊 Did we miss anything? Let us know your favorite crypto-related reads on [Twitter](https://twitter.com/ShapeShift_io)!<br/> <br/>
 
-[![Claim your 100 FOX Tokens now at ShapeShift.com](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9fd1852b0b308fa81e4584_1*LHR_-reQxwV3rCWU3SQvNQ.png)](http://beta.shapeshift.com) 
-
 ---
 
 > This document was originally published on 2019-07-18 by ShapeShift Team and may have been slightly modified for translation by the Information and Globalization workstream for an ongoing archival project.

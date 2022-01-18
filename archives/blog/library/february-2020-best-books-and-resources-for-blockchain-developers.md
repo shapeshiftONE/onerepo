@@ -16,7 +16,7 @@ dateCreated: 2021-12-20T23:02:19.842Z
 
 If you’re a programmer in crypto and blockchain tech, you’re likely trying to solve problems that very few people in the world have attempted to solve. When this is the case, the resources you keep close at hand will make a substantial difference in the amount of time you spend on a problem.
 
-To give you a head start, we asked our own engineers at [ShapeShift](http://shapeshift.com/?utm_source=social&utm_medium=medium&utm_campaign=shapeshift_platform&utm_term=cta_16) to name some of the most valuable resources they’ve come to rely upon.<br/> 
+To give you a head start, we asked our own engineers at [ShapeShift](http://shapeshift.com/) to name some of the most valuable resources they’ve come to rely upon.<br/> 
 
 ## **Andreas…Andreas…And More Andreas…**
 
@@ -59,10 +59,6 @@ This crypto economics resource library is just as it sounds, an array of topics 
 ## Start Your Research
 
 These are just a few “Getting Started” resources for programmers interested in crypto and blockchain. As the world of blockchain technology continues to develop, we will inevitably see more and more comprehensive resources become available to the growing number of developers fascinated by the crypto space.<br/> 
-
-![Create a verified account & get 100 FOX Tokens to start trading without commission, spread, or trading fees.](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9a22cf5e8c4f9e129bf877_5e99346891657b32712add68_1*1mDJ9b5NTvXAavfQ2yzvVg.gif)
-
-***Explore the*** [***ShapeShift Platform***](http://beta.shapeshift.com/?utm_source=social&utm_medium=medium&utm_campaign=shapeshift_platform&utm_term=cta_15) ***— the best new way to manage crypto.*** [*Create a verified account*](https://auth.shapeshift.io/signup?utm_source=social&utm_medium=medium&utm_campaign=shapeshift_platform&utm_term=cta_19) *& start* [*trading without commission, spread, or trading fees*](https://shapeshift.com/free-trading?utm_source=social&utm_medium=medium&utm_campaign=shapeshift_platform&utm_term=cta_18)*.*
 
 ---
 

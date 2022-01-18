@@ -67,8 +67,6 @@ Whether it’s Proof of Work, Proof of Stake, Delegated Proof of Stake or any ot
 
 The cryptocurrencies and blockchains that will push humanity into the future may include rules and ideas that haven’t even been invented yet. But that’s a reason to be excited, not worried. Keeping an eye on the future and exploring what we don’t yet know is where innovation lies.
 
-> *At* [*ShapeShift*](http://beta.shapeshift.com/?utm_source=content&utm_medium=medium&utm_campaign=no_account&utm_term=cta01)*, we’re providing next-level tools for crypto management and we want to make it easy for you to try out platform. Create a software wallet for free and verify your ShapeShift account receive 100 FOX Tokens:*[*beta.shapeshift.com*](http://beta.shapeshift.com)
-
 ---
 
 > This document was originally published on 2019-09-10 by ShapeShift Team and may have been slightly modified for translation by the Information and Globalization workstream for an ongoing archival project.

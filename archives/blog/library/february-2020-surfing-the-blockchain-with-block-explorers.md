@@ -58,9 +58,9 @@ You also cannot search for Monero transactions via address alone. You will need 
 
 ## Where Do I Get My TXID or Address?
 
-To use a block explorer, you will need to have something to search for. Otherwise, you will never find the information you need. To best understand how to locate a transaction, let’s walk through an example via [ShapeShift](http://shapeshift.com/?utm_source=social&utm_medium=medium&utm_campaign=shapeshift_platform&utm_term=cta06).
+To use a block explorer, you will need to have something to search for. Otherwise, you will never find the information you need. To best understand how to locate a transaction, let’s walk through an example via [ShapeShift](http://shapeshift.com/).
 
-Let’s say you want to see your Ethereum transactions on the blockchain. First, you will need to locate your Ethereum address. To do this, click “Receive” at the top of the page on [beta.shapeshift.com](http://beta.shapeshift.com/?utm_source=social&utm_medium=medium&utm_campaign=shapeshift_platform&utm_term=cta07).
+Let’s say you want to see your Ethereum transactions on the blockchain. First, you will need to locate your Ethereum address. To do this, click “Receive” at the top of the page on [beta.shapeshift.com](http://beta.shapeshift.com/).
 
 * A menu will pop up that looks like the one below. You can either scroll to find Ethereum or input it in the search bar. When it pops up, either click it or keep typing until it automatically selects the asset.<br/> 
 
@@ -82,7 +82,7 @@ Let’s say you want to see your Ethereum transactions on the blockchain. First,
 
 ![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9a22f17e1ac235f25c6874_5e994252f5510b63ce915f9e_0*t24ZVGOutjIEJoFP.png)
 
-<br/>Now, what if you wanted to find a transaction using the TXID rather than a list of all of your transactions? **Let’s try it!<br/> **
+<br/>Now, what if you wanted to find a transaction using the TXID rather than a list of all of your transactions? **Let’s try it!**<br/>
 
 * Click “Assets” and locate “Ethereum”. Once you have done that, click the asset and the account you want to view.<br/> 
 
@@ -97,12 +97,6 @@ Let’s say you want to see your Ethereum transactions on the blockchain. First,
 ![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9a22f17e1ac26cbd5c6875_5e99425371acf5fa4036742f_0*EYXPxcW8ZkXj3P9r.png)
 
 <br/>While ShapeShift makes it easy, users of other wallets or exchanges may not have the ability to click a link. If that is the case, simply copy the entire transaction ID and paste it in Etherscan, just like we did with the address.<br/> 
-
-## **Now You Can Start Tracking Your Own Transactions**
-
-Once you know how to use a block explorer, you‘ll be empowered to find any transaction or list of transactions that you may need to locate on a blockchain’s ledger. Fortunately, [ShapeShift](https://beta.shapeshift.com/) makes it easy with a single clickable link — but if you want to have some fun, do a bit of exploring on your own!<br/> 
-
-[![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9a22d4cd7578defbc05ca3_5e99312cd833516b83bab7b9_0*NHMok8KCFHMecBm-.png)](https://beta.shapeshift.com/)***Explore the ShapeShift Platform — the best new way to manage your crypto*** [*Create a verified account*](https://auth.shapeshift.io/signup) *& get 100* [*FOX Tokens*](https://shapeshift.com/fox-token) *to start trading* [*without commission, spread, or trading fees.*](https://shapeshift.com/free-trading) 
 
 ---
 

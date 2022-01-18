@@ -20,8 +20,6 @@ Bitcoin is still used as a payment method, but it’s also seen as a speculative
 
 Bitcoin has a variety of use cases, which will continue to grow and solidify as the industry advances. However, for those who desire or are in need of an alternative, stable currency, the crypto space developed stablecoins as a solution. Many stablecoins are tied to assets like fiat (ex. the US dollar) or gold, giving users the knowledge that the price is pegged to a familiar asset and [the ability to hedge against other](https://news.bitcoin.com/traders-flock-tether-usdc-pax-stablecoins/), more volatile cryptocurrencies.
 
-Learn about four of our favorite stablecoins in the crypto space, now able to be traded on the [ShapeShift Platform](http://beta.shapeshift.com/?utm_source=social&utm_medium=medium&utm_campaign=shapeshift_platform&utm_term=cta_36): [**USDT**](https://coincap.io/assets/tether)**,** [**USDC**](https://coincap.io/assets/usd-coin)**,** [**TUSD**](https://coincap.io/assets/trueusd)**,** [**PAX**](https://coincap.io/assets/paxos-standard-token)**.<br/> <br/> **
-
 ![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9a22ee5b73a152eef26a96_5e992c6e4b61695d143d63fc_1*_juRwEt9ID8SNm55rmtXXQ.png)
 
 ## [USDT](https://tether.to/)
@@ -64,19 +62,13 @@ Whereas many cryptos can themselves be volatile, stablecoins are made to fit int
 
 ## Get Started Trading Stablecoins
 
-If you’re looking to get your hands on USDT, TUSD, USDC, or PAX head over to the [ShapeShift Platform](http://beta.shapeshift.com/?utm_source=social&utm_medium=medium&utm_campaign=shapeshift_platform&utm_term=cta_36) for an easy, frictionless experience in an ecosystem unlike any other.<br/> 
+If you’re looking to get your hands on USDT, TUSD, USDC, or PAX head over to the [ShapeShift Platform](http://beta.shapeshift.com/) for an easy, frictionless experience in an ecosystem unlike any other.<br/> 
 
 [![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9a22db89972d193b852e74_5e992c6fd8335191dfb90d3e_1*0XAwnvtp3dn7Vbes6zCNuw.png)](http://beta.shapeshift.com) 
 
 ***DISCLAIMER:****<br/>These blog posts serve as a general overview of the crypto industry. No content in these blog posts or on the ShapeShift website constitutes purchase or investment advice. Digital assets are experimental, volatile and risky, and we therefore recommend that you seek professional advice from a qualified advisor before making any financial decision.*
 
 *The information is provided “as is” without warranty of any kind, express or implied, and in no event will ShapeShift be liable for damages of any nature resulting from reliance upon the information. The blog posts may contain links to third-party materials that are not owned or controlled by ShapeShift. ShapeShift does not endorse or assume any responsibility for any such third-party sites, information, materials, products, or services.*
-
-<br/>
-
-![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9a22cd559b4a265ec7e70f_5e992e3071b57f848d1b2c67_0*zDFJb9ADZOitNNFX.gif)
-
-***Explore the*** [***ShapeShift Platform***](http://beta.shapeshift.com/?utm_source=social&utm_medium=medium&utm_campaign=shapeshift_platform&utm_term=cta_36) ***— the best new way to manage crypto.*** [*Create a verified account*](https://auth.shapeshift.io/signup?utm_source=social&utm_medium=medium&utm_campaign=shapeshift_platform&utm_term=cta_19) *& start* [*trading without commission, spread, or trading fees*](https://shapeshift.com/free-trading?utm_source=social&utm_medium=medium&utm_campaign=shapeshift_platform&utm_term=cta_18)*.* 
 
 ---
 

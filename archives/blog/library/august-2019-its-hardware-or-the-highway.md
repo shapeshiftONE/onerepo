@@ -16,7 +16,7 @@ Whether you’ve been in crypto since the start or are just beginning, deciding 
 
 In the past, there were alwaysfeatures that had to be sacrificed regardless of your wallet choice. *That’s why we decided to take matters into our own hands.*We created the ideal wallet by building an incredible UX and UI in tandem with the most secure wallet type — hardware.
 
-**Give the hardware you already own a free upgrade with the new** [**ShapeShift Platform**](http://shapeshift.com/?utm_source=content&utm_medium=medium&utm_campaign=launch&utm_term=cta17)**.** You’ll be able to stay on the cutting edge of cold storage without the hassle and limited features you’re accustomed to. No more excuses — if you’re serious about security, it’s hardware or the highway.
+**Give the hardware you already own a free upgrade with the new** [**ShapeShift Platform**](http://shapeshift.com/)**.** You’ll be able to stay on the cutting edge of cold storage without the hassle and limited features you’re accustomed to. No more excuses — if you’re serious about security, it’s hardware or the highway.
 
 *If you’re serious about security — it’s hardware or the highway.*
 
@@ -32,7 +32,7 @@ This experience is changing thanks to the ShapeShift Platform, by providing an e
 
 ![Connect the hardware wallet you already own to the new ShapeShift Platform.](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9fbf044367e4541423519c_0*63jQ6YkUVcY8EK5s.png)
 
-## [**<br/>KeepKey**](http://shapeshift.io/keepkey/?utm_source=content&utm_medium=medium&utm_campaign=launch&utm_term=cta18)
+## [**<br/>KeepKey**](http://shapeshift.io/keepkey/)
 
 Founded in 2015, KeepKey was the second hardware wallet to enter the market. KeepKey has established a reputation as a high-quality wallet — due to the sleek design. The large screen and sturdy materials are for more than looking good — they also protect users from Man in the Middle attacks.
 
@@ -58,22 +58,18 @@ Unlike integrations that only offer a limited amount of features, our platform g
 4. Real-time price and portfolio tracking
 5. Web-based for easy access wherever you are
 
-**Ready to see it in action?** Watch our demo [**video**](https://www.youtube.com/watch?v=4WOeMyczyvU) or [**try it out**](http://shapeshift.com/?utm_source=content&utm_medium=medium&utm_campaign=launch&utm_term=cta17) for yourself.<br/> 
-
-![Create an account to claim your 100 FOX tokens at ShapeShift.com](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9fbdb4a674bf66b1e15b26_1*oMjDmFibfnxqKGRg8zb8xw.png)
-
-Create an account to claim your 100 FOX tokens at ShapeShift.com
+**Ready to see it in action?** Watch our demo [**video**](https://www.youtube.com/watch?v=4WOeMyczyvU) or [**try it out**](http://shapeshift.com/) for yourself.<br/> 
 
 ## Learn More about the ShapeShift Platform
 
-Explore our new [homepage](http://shapeshift.com/?utm_source=content&utm_medium=medium&utm_campaign=launch&utm_term=cta17), [sign up](https://auth.shapeshift.io/signup?utm_source=content&utm_medium=medium&utm_campaign=launch&utm_term=cta19) for a free account or [log in](https://auth.shapeshift.io/login?utm_source=content&utm_medium=medium&utm_campaign=launch&utm_term=cta20) to the platform.
+Explore our new [homepage](http://shapeshift.com/), [sign up](https://auth.shapeshift.io/signup) for a free account or [log in](https://auth.shapeshift.io/login) to the platform.
 
 ## Getting Started with Hardware Wallets
 
-* [*Get Started with KeepKey*](https://keepkey.shapeshift.com/get-started/?utm_source=content&utm_medium=medium&utm_campaign=launch&utm_term=cta21)
-* [*Get Started with Trezor*](https://shapeshift.zendesk.com/hc/en-us/articles/360006855179-Connecting-Trezor-to-ShapeShift?utm_source=content&utm_medium=medium&utm_campaign=launch&utm_term=cta22)
+* [*Get Started with KeepKey*](https://keepkey.shapeshift.com/get-started/)
+* [*Get Started with Trezor*](https://shapeshift.zendesk.com/hc/en-us/articles/360006855179-Connecting-Trezor-to-ShapeShift)
 
-Let us know what you think of your upgraded hardware experience in [**Discord**](https://discord.gg/dVVkMhb)or in the comments below!
+Let us know what you think of your upgraded hardware experience in [**Discord**](https://discord.gg/shapeshift)or in the comments below!
 
 ---
 

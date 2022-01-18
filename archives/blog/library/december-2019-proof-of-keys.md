@@ -37,15 +37,9 @@ Taking part is easy. In the short-term, simply pull your funds from custodial ex
 
 ## Take Control of Your Crypto
 
-If you want full ownership of your funds, consider using a hardware wallet like [KeepKey](https://pages.shapeshift.com/keepkey/?utm_source=social&utm_medium=medium&utm_campaign=fox_launch&utm_term=cta50), [Ledger](https://pages.shapeshift.com/ledger/?utm_source=social&utm_medium=medium&utm_campaign=fox_launch&utm_term=cta51), [Trezor](https://pages.shapeshift.com/trezor/?utm_source=social&utm_medium=medium&utm_campaign=fox_launch&utm_term=cta52) or creating a noncustodial web wallet like [Portis](https://pages.shapeshift.com/portis_wallet/?utm_source=social&utm_medium=medium&utm_campaign=fox_launch&utm_term=cta49). Trade through a self-custody solution like [ShapeShift](http://shapeshift.com?utm_source=social&utm_medium=medium&utm_campaign=fox_launch&utm_term=cta46), which integrates with these wallets so you maintain control. With ShapeShift, your keys are your keys, and that means that you’re in control of your crypto.
+If you want full ownership of your funds, consider using a hardware wallet like [KeepKey](https://pages.shapeshift.com/keepkey/), [Ledger](https://pages.shapeshift.com/ledger/), [Trezor](https://pages.shapeshift.com/trezor/) or creating a noncustodial web wallet like [Portis](https://pages.shapeshift.com/portis_wallet/). Trade through a self-custody solution like [ShapeShift](http://shapeshift.com), which integrates with these wallets so you maintain control. With ShapeShift, your keys are your keys, and that means that you’re in control of your crypto.
 
-**Proof of Keys goes back to the roots of Satoshi’s principles, and we’re here to help you get there.<br/>**
-
-> [Create a ShapeShift account](https://auth.shapeshift.io/signup?utm_source=social&utm_medium=medium&utm_campaign=fox_launch&utm_term=cta48) & receive a [KeepKey hardware wallet for only $10](https://pages.shapeshift.com/members_keepkey/?utm_source=social&utm_medium=medium&utm_campaign=fox_launch&utm_term=cta53). Get 100 FOX tokens when you signup & trade for free in the [ShapeShift Platform](http://beta.shapeshift.com?utm_source=social&utm_medium=medium&utm_campaign=fox_launch&utm_term=cta47).
-
-![Trade crypto for free on the ShapeShift Platform. Create a verified account & get 100 FOX tokens to start trading for free.](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9a22e1cd7578c95ac05ccb_5e9971a48ce1a90035ed5c83_1*g6TOFJzt3PqjSDPe4JIGJA.png)
-
- 
+**Proof of Keys goes back to the roots of Satoshi’s principles, and we’re here to help you get there.**<br/>
 
 ---
 

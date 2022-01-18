@@ -34,11 +34,7 @@ I’m here to help crypto grow, not for the daily gainz and moon memes, but for 
 
 As these financial markets fall apart, and crypto itself swings around wildly, remember why we are doing this. Remember why crypto exists in the first place. We don’t know the extent of this calamity ahead, but the tools we’re building can help humanity on the other side.
 
-Look through the darkness. The best stories are written in times of severity.<br/> <br/><br/> 
-
-![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9a22ca279a9939834f2c40_5e9929f6cf6d9b7cde57fc17_1*drZT8HQKHjzQqpHv45aqgw.gif)
-
-***Explore the ShapeShift Platform — the best new way to manage crypto.*** [*Create a verified account*](http://beta.shapeshift.com/?utm_source=social&utm_medium=medium&utm_campaign=Erik_Announcement&utm_term=cta_02) *& get 100* [*FOX Tokens*](https://shapeshift.com/fox-token?utm_source=social&utm_medium=medium&utm_campaign=Erik_Announcement&utm_term=cta_03) *to start trading* [*without commission, spread, or trading fees*](https://shapeshift.com/free-trading?utm_source=social&utm_medium=medium&utm_campaign=Erik_Announcement&utm_term=cta_04)*.* 
+Look through the darkness. The best stories are written in times of severity.<br/>
 
 ---
 

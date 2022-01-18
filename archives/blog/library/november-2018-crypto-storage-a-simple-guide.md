@@ -104,11 +104,13 @@ However, it is considered less safe than using a desktop wallet due to the commo
 
 A [“Hot Wallet”](https://en.bitcoin.it/wiki/Hot_wallet) is simply a wallet that is connected to the internet in some way. While this makes them less secure, they may be the more convenient choice for you if you are:
 
-* **Sending, receiving, or making several transactions daily<br/>**Let’s be realistic — it’s highly inconvenient if you have to scan a QR code, transcribe a key, or plug in your USB cord each time you want to transact. So if you’re someone who makes multiple transactions per day, then you might prefer to store your digital assets on a hot wallet so you can use them at your convenience.
+* **Sending, receiving, or making several transactions daily**
+
+Let’s be realistic — it’s highly inconvenient if you have to scan a QR code, transcribe a key, or plug in your USB cord each time you want to transact. So if you’re someone who makes multiple transactions per day, then you might prefer to store your digital assets on a hot wallet so you can use them at your convenience.
 
 *Think of this as the amount of cash you hold in your day-to-day wallet. Don’t store so much that in the case that your wallet is stolen, you lose your life savings, but keep enough for a night on the town.*
 
-* **Use your assets on-the-go.<br/>**It’s 2018; we’re all on the move, and you need access to your digital assets whenever, wherever, you are — and usually, that doesn’t always mean you have your computer on-hand. If this sounds like you, a mobile wallet may be your best choice.
+* **Use your assets on-the-go.** <br/> It’s 2018; we’re all on the move, and you need access to your digital assets whenever, wherever, you are — and usually, that doesn’t always mean you have your computer on-hand. If this sounds like you, a mobile wallet may be your best choice.
 
 ## There are 3 Types of Hot Wallets. These are:
 
@@ -123,8 +125,8 @@ A [“Hot Wallet”](https://en.bitcoin.it/wiki/Hot_wallet) is simply a wallet t
 
 ## Cold Storage is best if:
 
-* **Keeping your digital assets secure is top-of-mind.<br/>**If security is most important to you, keep your digital assets in cold storage. [Get a Hardware Wallet](https://keepkey.myshopify.com/collections/frontpage/products/keepkey-the-simple-bitcoin-hardware-wallet?utm_source=medium&utm_medium=medium_page&utm_campaign=buy_now). **Bottom Line.**
-* **Separate your digital assets<br/>**If you’d like to separate the assets you plan to use immediately and those you would like to store, you can choose to store some digital assets in a cold wallet and your ready-to-use assets in a hot wallet.
+* **Keeping your digital assets secure is top-of-mind.**<br/> If security is most important to you, keep your digital assets in cold storage. [Get a Hardware Wallet](https://keepkey.myshopify.com/collections/frontpage/products/keepkey-the-simple-bitcoin-hardware-wallet). **Bottom Line.**
+* **Separate your digital assets**<br/> If you’d like to separate the assets you plan to use immediately and those you would like to store, you can choose to store some digital assets in a cold wallet and your ready-to-use assets in a hot wallet.
 
 ## Over To You
 

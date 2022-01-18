@@ -12,7 +12,7 @@ dateCreated: 2021-12-20T23:02:55.288Z
 
 ![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9a22df12c39069d0650df5_5e993af900cd2662cc1de00a_1_ulwg2rVOvHXTBL80MH_E7g.png)
 
-**The** internet can be a scary place. There is malware, spyware, and worst of all scammers — or as we call them in the crypto world, bad actors. These bad actors are everywhere, from forums to chatrooms to websites that they created solely to take your hard-earned digital assets. Luckily, with a few tips and tricks from the [ShapeShift](http://shapeshift.com/?utm_source=social&utm_medium=medium&utm_campaign=shapeshift_platform&utm_term=cta_13) team, you can keep your passwords, your personal information, and your crypto safe.
+**The** internet can be a scary place. There is malware, spyware, and worst of all scammers — or as we call them in the crypto world, bad actors. These bad actors are everywhere, from forums to chatrooms to websites that they created solely to take your hard-earned digital assets. Luckily, with a few tips and tricks from the [ShapeShift](http://shapeshift.com/) team, you can keep your passwords, your personal information, and your crypto safe.
 
 **Learn about these scams and phishing attacks in crypto:**
 
@@ -98,9 +98,7 @@ Now that you know how to be safer online, you have to remember that not everyone
 * To report suspicious websites or bad actors to ShapeShift, contact our [support team](https://shapeshift.zendesk.com/hc/en-us/requests/new).
 * If you have the misfortune of becoming the victim of a SIM attack, be sure to report this to your cell phone provider right away.
 
-If you have any questions about the security of a website, reach out to their support team or other official accounts and wait for a response. Always remain vigilant when it comes to your online security. Like we often say in crypto: **Don’t trust, verify.<br/> <br/><br/>**
-
-[![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9a22ca279a9939834f2c40_5e9929f6cf6d9b7cde57fc17_1*drZT8HQKHjzQqpHv45aqgw.gif)](http://beta.shapeshift.com)***<br/>Level Up Your Crypto Experience<br/>***[*Create a verified account*](http://beta.shapeshift.com/?utm_source=social&utm_medium=medium&utm_campaign=shapeshift_platform&utm_term=cta_14) *& get 100* [*FOX Tokens*](https://shapeshift.com/fox-token?utm_source=social&utm_medium=medium&utm_campaign=shapeshift_platform&utm_term=cta_10) *to start trading* [*without commission, spread, or trading fees.*](https://shapeshift.com/free-trading?utm_source=social&utm_medium=medium&utm_campaign=shapeshift_platform&utm_term=cta_12)  <br/>
+If you have any questions about the security of a website, reach out to their support team or other official accounts and wait for a response. Always remain vigilant when it comes to your online security. Like we often say in crypto: **Don’t trust, verify.**
 
 ---
 

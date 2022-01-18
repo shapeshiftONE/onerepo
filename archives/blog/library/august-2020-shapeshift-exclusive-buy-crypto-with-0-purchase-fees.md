@@ -10,7 +10,7 @@ dateCreated: 2021-12-20T23:02:24.566Z
 
 # ShapeShift Exclusive - Buy Crypto with 0% Purchase Fees
 
-We’re excited to announce ShapeShift users can enjoy zero credit and debit card fees for buying crypto, thanks to our new fiat partnership with Banxa! This exclusive promotion is available in the [ShapeShift mobile app](https://app.adjust.com/gpizm4o?adgroup=zero_fee&deeplink=shapeshift%3A%2F%2F&fallback=https%3A%2F%2Fshapeshift.com%2Fdownload%3Fafil%3Dzero_fee) and [web platform](https://beta.shapeshift.com/?utm_source=ss_blog&utm_medium=ss_blog&utm_campaign=zero_fee) until September 2nd. 
+We’re excited to announce ShapeShift users can enjoy zero credit and debit card fees for buying crypto, thanks to our new fiat partnership with Banxa! This exclusive promotion is available in the [ShapeShift mobile app](https://app.adjust.com/gpizm4o?adgroup=zero_fee&deeplink=shapeshift%3A%2F%2F&fallback=https%3A%2F%2Fshapeshift.com%2Fdownload%3Fafil%3Dzero_fee) and [web platform](https://beta.shapeshift.com/) until September 2nd. 
 
 <br/>
 
@@ -47,7 +47,7 @@ While your order is processed, it may take up to an hour to receive your crypto 
 
 <br/>
 
-We’re thrilled our partner, Banxa, is giving ShapeShift users the opportunity to buy crypto without credit or debit card fees until September 2! [Download the ShapeShift app](https://app.adjust.com/gpizm4o?adgroup=zero_fee&deeplink=shapeshift%3A%2F%2F&fallback=https%3A%2F%2Fshapeshift.com%2Fdownload%3Fafil%3Dzero_fee) or check out our [web platform](https://beta.shapeshift.com/?utm_source=ss_blog&utm_medium=ss_blog&utm_campaign=zero_fee) to access this exclusive offer. 
+We’re thrilled our partner, Banxa, is giving ShapeShift users the opportunity to buy crypto without credit or debit card fees until September 2! [Download the ShapeShift app](https://app.adjust.com/gpizm4o?adgroup=zero_fee&deeplink=shapeshift%3A%2F%2F&fallback=https%3A%2F%2Fshapeshift.com%2Fdownload%3Fafil%3Dzero_fee) or check out our [web platform](https://beta.shapeshift.com/) to access this exclusive offer. 
 
 <br/>
 

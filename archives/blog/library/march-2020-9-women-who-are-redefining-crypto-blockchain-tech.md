@@ -44,7 +44,7 @@ Women have long been among the [movers and shakers of the crypto space,](https:/
 
 ##  Lisa Loud
 
-[Lisa Loud](https://twitter.com/lisaisloud) joined [ShapeShift](http://www.shapeshift.com/?utm_source=social&utm_medium=medium&utm_campaign=shapeshift_platform&utm_term=cta_26) in January as our new Chief Operations Officer, heading up our engineering, marketing, and international expansion efforts. She’s been an engineering lead at tech giants like Apple and Oracle, helped lead PayPal’s launch into the Canadian market, and became PayPal’s Head of Merchant Acquisition. She then joined BitMex as the company’s CMO.<br/><br/> 
+[Lisa Loud](https://twitter.com/lisaisloud) joined [ShapeShift](http://www.shapeshift.com/) in January as our new Chief Operations Officer, heading up our engineering, marketing, and international expansion efforts. She’s been an engineering lead at tech giants like Apple and Oracle, helped lead PayPal’s launch into the Canadian market, and became PayPal’s Head of Merchant Acquisition. She then joined BitMex as the company’s CMO.<br/><br/> 
 
 <iframe allowfullscreen="" frameborder="0" scrolling="auto" src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FnlrQGmv9PAQ%3Ffeature%3Doembed&amp;display_name=YouTube&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnlrQGmv9PAQ&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnlrQGmv9PAQ%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07&amp;type=text%2Fhtml&amp;schema=youtube"></iframe>
 
@@ -98,13 +98,6 @@ When it comes to many crypto and blockchain tech communities, [Laura Shin](https
 
 These are just a few of the many women who are paving the way for mass adoption in crypto. From speaking to governments and educating women around the world, to crafting groundbreaking technology for much-needed infrastructure, these women are showing us that crypto is not just for men, and in fact, benefits greatly from the women who step into it.<br/> <br/> 
 
-> ***Explore the ShapeShift Platform — the best new way to manage crypto.*** [*Create a verified account*](https://auth.shapeshift.io/signup?utm_source=social&utm_medium=medium&utm_campaign=shapeshift_platform&utm_term=cta_20) *& get 100* [*FOX Tokens*](https://shapeshift.com/fox-token?utm_source=social&utm_medium=medium&utm_campaign=shapeshift_platform&utm_term=cta_23) *to start trading* [*without commission, spread, or trading fees*](https://shapeshift.com/free-trading?utm_source=social&utm_medium=medium&utm_campaign=shapeshift_platform&utm_term=cta_24)*.*
-
-![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9a22cd559b4a265ec7e70f_5e992e3071b57f848d1b2c67_0*zDFJb9ADZOitNNFX.gif)
-
-![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9a22cd279a9936ac4f2c4a_5e993242280f80362393f711_0*fXLWl2rVdmX3MIHA.png)
-
-<br/>
 
 ---
 

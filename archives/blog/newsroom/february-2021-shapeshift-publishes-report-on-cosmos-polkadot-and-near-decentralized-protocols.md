@@ -22,7 +22,7 @@ While blockchains like Bitcoin and Ethereum have grown in mindshare, adoption an
 * Ecosystem
 * Token Distribution
 
- <br/>“The world of smart contract platforms is buzzing with new entrants—all of which strive to offer the properties of being trust-minimized, censorship-resistant, immutable, permissionless and transparent. These are the qualities that have propelled Ethereum to success,” said Kent Barton, head of Research and Development at ShapeShift and author of the series. “Enthusiasts may want to get involved with these newer blockchains early; but it’s difficult to know which new projects have a strong foundation before they have earned a critical mass of developers, users and projects. This series of reports, while not investment advice, will offer analysis and one view of their potential.” 
+“The world of smart contract platforms is buzzing with new entrants—all of which strive to offer the properties of being trust-minimized, censorship-resistant, immutable, permissionless and transparent. These are the qualities that have propelled Ethereum to success,” said Kent Barton, head of Research and Development at ShapeShift and author of the series. “Enthusiasts may want to get involved with these newer blockchains early; but it’s difficult to know which new projects have a strong foundation before they have earned a critical mass of developers, users and projects. This series of reports, while not investment advice, will offer analysis and one view of their potential.” 
 
 **RESOURCE: Download** [**New Frontiers: A Deep Dive Analysis of the Cosmos, PolkaDot, and Near Protocols**](https://shapeshift.com/reports/new-frontiers) 
 

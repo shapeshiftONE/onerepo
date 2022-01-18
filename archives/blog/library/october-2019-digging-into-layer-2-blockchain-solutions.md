@@ -94,8 +94,6 @@ On the STARKS side, Israel’s [STARKWARE](https://starkware.co/) is building an
 
 Even though these solutions are far from perfect — the potential to take blockchain technology to the next level is there. With scaling advancements like layer 2 solutions, the mission to bring mainstream adoption to crypto seems to be just on the horizon.<br/> 
 
-[![Receive 100 FOX tokens when you create a ShapeShift account. Trade crypto for free in the ShapeShift Platform. ShapeShift.com](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9a22d0cd75784f9dc05c92_5e993d8a280f8074bb9a31fc_1*IykQG89A6MmnrtHpPogeVw.png)](http://beta.shapeshift.com) 
-
 ---
 
 > This document was originally published on 2019-10-17 by ShapeShift Team and may have been slightly modified for translation by the Information and Globalization workstream for an ongoing archival project.

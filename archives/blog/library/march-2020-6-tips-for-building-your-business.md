@@ -68,10 +68,6 @@ I just joined ShapeShift a few months ago as COO, and I can say with confidence 
 
 I hope you can take some of this back to your teams to make your companies stronger. This next phase of our industry will require strong, safe companies to take the lead and bring electric light to the financial world.
 
-![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9a22ca279a9939834f2c40_5e9929f6cf6d9b7cde57fc17_1*drZT8HQKHjzQqpHv45aqgw.gif)
-
-***Explore the ShapeShift Platform — the best new way to manage crypto.*** [*Create a verified account*](http://beta.shapeshift.com/?utm_source=social&utm_medium=medium&utm_campaign=Erik_Announcement&utm_term=cta_02) *& get 100* [*FOX Tokens*](https://shapeshift.com/fox-token?utm_source=social&utm_medium=medium&utm_campaign=Erik_Announcement&utm_term=cta_03) *to start trading* [*without commission, spread, or trading fees*](https://shapeshift.com/free-trading?utm_source=social&utm_medium=medium&utm_campaign=Erik_Announcement&utm_term=cta_04)*.<br/> * 
-
 ---
 
 > This document was originally published on 2020-03-21 by Lisa Loud and may have been slightly modified for translation by the Information and Globalization workstream for an ongoing archival project.

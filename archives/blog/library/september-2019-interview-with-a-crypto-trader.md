@@ -12,7 +12,7 @@ dateCreated: 2021-12-20T23:02:43.258Z
 
 ![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9f556c27aa0f8ecda4f065_1_fX_WmGwl45iZ2yCZgilQ7A.png)
 
-<br/>**Want** to learn about the basics of trading? We‘re creating a series to simplify and breakdown the fundamentals of trading as it relates to crypto.
+**Want** to learn about the basics of trading? We‘re creating a series to simplify and breakdown the fundamentals of trading as it relates to crypto.
 
 We want to introduce you to an expert in the world of crypto trading — one of the innovators helping ShapeShift build a bridge to financial freedom.
 
@@ -63,10 +63,6 @@ Clark is the Head of Trading and Portfolio Risk at ShapeShift. Before joining in
 *Trading can be very confusing — there’s a lot of arcane vocabulary & mechanics involved. It’s also very hard to trust most of the educational material out there… after all, if a trader develops a money-making trading strategy, he or she is incentivized to keep it to herself, not share it with others. A great unbiased starting point is the book I mentioned above. So be careful out there, good luck, and be on the lookout for more trading content coming soon!*
 
 <iframe allowfullscreen="" frameborder="0" scrolling="auto" src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FKNFvZjll-xg%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DKNFvZjll-xg&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FKNFvZjll-xg%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07&amp;type=text%2Fhtml&amp;schema=youtube"></iframe>
-
-*<br/>At* [*ShapeShift*](http://shapeshift.com/?utm_source=content&utm_medium=medium&utm_campaign=10_member_kk&utm_term=cta15)*, we’re providing next-level tools for crypto management and we want to make it easy for you to try out our new hardware secured platform. We are offering* [*ShapeShift members*](https://auth.shapeshift.io/signup?utm_source=content&utm_medium=medium&utm_campaign=10_member_kk&utm_term=cta14) *a KeepKey, the premier hardware wallet of the ShapeShift Platform for* [*only $10*](https://pages.shapeshift.com/members_keepkey/?utm_source=content&utm_medium=medium&utm_campaign=10_member_kk&utm_term=cta13)*.*
-
-[![We are offering ShapeShift members a KeepKey, the premier hardware wallet of the ShapeShift Platform for only $10.](https://assets.website-files.com/max/5200/0*GZ92-7IkUDm1BCw1.png)](http://beta.shapeshift.com)
 
 ---
 

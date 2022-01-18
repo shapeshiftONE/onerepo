@@ -58,7 +58,7 @@ Take the time to close any old exchange accounts, empty your unused wallets, and
 
 Move any crypto that you are not actively trading out of exchange-based [hot wallets](https://medium.com/shapeshift-stories/https-medium-com-shapeshift-io-crypto-storage-a-simple-guide-65cfcb1553f) and into more secure wallets like software, desktop or mobile wallets. These types of (hot) wallets are still vulnerable but can be a more secure option. **Exchange hacks are real; better to be safe than sorry.**
 
-*Not sure where to begin? Check out our guide of crypto storage options.<br/> * 
+*Not sure where to begin? Check out our guide of crypto storage options.* 
 
 ## ❄️ Keep it Chill
 
@@ -77,15 +77,6 @@ While you can’t stop a natural disaster from coming, you can protect your fund
 ## Final Thoughts
 
 Feeling any better? You can rest easy knowing that you are more secure from hacks than you were yesterday. This was no easy feat! Be proud of yourself for tackling an intimidating and pretty important task.
-
-**We welcome you to join us in building a better financial system.**
-Find out more [here](https://shapeshift.com/free-trading?utm_source=social&utm_medium=medium&utm_campaign=shapeshift_platform&utm_term=cta_24) and discover the benefits that free trading can bring.<br/> 
-
-> ***Explore the ShapeShift Platform — the best new way to manage crypto.*** [*Create a verified account*](https://auth.shapeshift.io/signup?utm_source=social&utm_medium=medium&utm_campaign=shapeshift_platform&utm_term=cta_20) *& get 100* [*FOX Tokens*](https://shapeshift.com/fox-token?utm_source=social&utm_medium=medium&utm_campaign=shapeshift_platform&utm_term=cta_23) *to start trading* [*without commission, spread, or trading fees*](https://shapeshift.com/free-trading?utm_source=social&utm_medium=medium&utm_campaign=shapeshift_platform&utm_term=cta_24)*.*
-
-![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9a22cd559b4a265ec7e70f_5e992e3071b57f848d1b2c67_0*zDFJb9ADZOitNNFX.gif)
-
- 
 
 ---
 

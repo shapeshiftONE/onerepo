@@ -23,8 +23,6 @@ Take a moment to read about the problem we faced that prompted this design, and 
 
 Applications that want to interface with multiple wallets need to build an integration to each wallet. This means for every call you want to make, such as getting an address or signing a transaction, you have to write new code for each wallet.
 
-We ran into this problem while building the new [ShapeShift Platform](http://beta.shapeshift.com/?utm_source=content&utm_medium=medium&utm_campaign=no_account&utm_term=cta09), our interface for buying, trading, tracking, and hodling crypto assets across multiple hardware wallets.
-
 ![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9f487c5e020326f42a1e7c_1*S73qLZhEFp_34MWa2C-L5Q.png)
 
 ## **The Solution**
@@ -48,9 +46,6 @@ HDWallet has a separate module for each wallet it integrates with. You can see t
 If you’re interested in learning more about HDWallet, take a look at our developer exercises [here](https://codesandbox.io/s/github/keepkeyjon/teach-hdwallet/tree/master/exercises/01-pair-device?from-embed)). We give hands-on examples for navigating the enhanced capabilities that this interface provides.
 
 Access all of our developer resources for ShapeShift’s Open-Source HDWallet Library, ShapeShift Exchange API, and CoinCap API on our [website](https://pages.shapeshift.com/developer-portal/).<br/> 
-
-[![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9f487c35e7cf4d11ebebc7_1*HW2Mioz4ztDyOJkFR9WMvw.png)](http://beta.shapeshift.com)
-> *At* [*ShapeShift*](http://beta.shapeshift.com/?utm_source=social&utm_medium=twitter&utm_campaign=10_btc_program&utm_term=cta08)*, we’re providing next-level tools for crypto management and we want to make it easy for you to try out our new hardware secured platform. We are offering* [*ShapeShift members*](https://auth.shapeshift.io/signup?utm_source=content&utm_medium=medium&utm_campaign=10_member_kk&utm_term=cta04) *a $10 KeepKey, the premier hardware wallet of the ShapeShift Platform.*
 
 ---
 

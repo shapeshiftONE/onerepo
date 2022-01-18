@@ -18,7 +18,7 @@ If you're reading this, you’re familiar with how a cryptocurrency exchange wor
 
 In 2018, a record-breaking $1.3 billion was stolen from cryptocurrency exchanges. You would think the problem ultimately rests on the shoulders of custodial exchanges. It’s easy to pass the buck, blaming these exchanges for storing customer funds on computers connected to the Internet.
 
-However, some exchanges have taken action to improve and upgrade security by providing a non-custodial solution and using cold storage. In fact, many advocates for this higher level of security (including [ShapeShift](http://shapeshift.com/?utm_source=content&utm_medium=medium&utm_campaign=launch&utm_term=cta25)).
+However, some exchanges have taken action to improve and upgrade security by providing a non-custodial solution and using cold storage. In fact, many advocates for this higher level of security (including [ShapeShift](http://shapeshift.com/)).
 
 While it sucks that certain exchanges take security more seriously than others, it’s time for users to wake up to the risks of keeping crypto on exchange-based hot wallets.<br/> 
 
@@ -53,15 +53,9 @@ As you continue on your journey, remember to do your homework. Educate yourself 
 
 ## Your Crypto. Your Control.
 
-This is where the [ShapeShift Platform](http://shapeshift.com/?utm_source=content&utm_medium=medium&utm_campaign=launch&utm_term=cta25) comes in. It’s built on a principle that we call “keys-out,” in which you secure private keys, and yet you’re able to interact with the new digital financial frontier easily.
+This is where the [ShapeShift Platform](http://shapeshift.com/) comes in. It’s built on a principle that we call “keys-out,” in which you secure private keys, and yet you’re able to interact with the new digital financial frontier easily.
 
 We’re building a non-custodial platform for the world’s future financial system. The stakes are high, but the rewards will be profound.
-
-## Over to You
-
-If you’re interacting with crypto, it’s imperative to empower and educate yourself on private key security. Are you ready to take control of your financial future? [Get a KeepKey hardware wallet for only $10](https://pages.shapeshift.com/members_keepkey/?utm_source=social&utm_medium=medium&utm_campaign=fox_launch&utm_term=cta21) or connect the hardware device that you already have at [beta.shapeshift.com](http://beta.shapeshift.com/?utm_source=social&utm_medium=medium&utm_campaign=fox_launch&utm_term=cta20).<br/> 
-
-[![Trade crypto for free on the ShapeShift Platform. Create a verified account & get 100 FOX tokens to start trading for free.](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9f0a39c70fa5b0862005e1_1*-VAS9Wljwvhd-PfxF66Sog.png)](http://beta.shapeshift.com) 
 
 ---
 

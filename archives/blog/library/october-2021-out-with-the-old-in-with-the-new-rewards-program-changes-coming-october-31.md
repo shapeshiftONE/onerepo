@@ -26,7 +26,7 @@ This is the official notice to our community that ***all*** current rewards prog
 
 ## **What Will the Future Hold? Let’s DAO It!**
 
-** **But don’t fear! This is not the end of great rewards from ShapeShift, but a beginning to the DAO’s empowerment. Our community of users will now propose, vote, and decide on whether to continue these rewards, make changes to them, or add new, innovative incentives never seen before in the industry to add new value to the FOX Token. <br/>
+But don’t fear! This is not the end of great rewards from ShapeShift, but a beginning to the DAO’s empowerment. Our community of users will now propose, vote, and decide on whether to continue these rewards, make changes to them, or add new, innovative incentives never seen before in the industry to add new value to the FOX Token. <br/>
 
 We want to hear from you! Our community will be hosting three community calls to discuss the new rewards programs. These calls will be moderated by the Marketing, Product, and Tokenomics workstreams. We hope you will join us! See below for dates and times: <br/>
 

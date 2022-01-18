@@ -98,15 +98,15 @@ Like we always say in crypto, don’t trust; verify. After your audit is complet
 
 Create an [alias email](https://www.popsci.com/set-up-email-alias) for your online crypto dealings: accounts, newsletters, communities, support tickets.
 
-Your email alias acts as a “fronts” to your primary email. Using an alias decreases your chance of being targeted for email phishing attacks to your business or personal inboxes. **No crypto info should go to your primary email.<br/> **
+Your email alias acts as a “fronts” to your primary email. Using an alias decreases your chance of being targeted for email phishing attacks to your business or personal inboxes. **No crypto info should go to your primary email.**<br/>
 
 ## **10. Purge**
 
-Close any old exchange accounts, empty your unused cryptocurrency wallets, and get rid of any crypto tools that you no longer need — or use. **Don’t forget to delete all unloved crypto apps from your phone, tablet, and computer.<br/> **
+Close any old exchange accounts, empty your unused cryptocurrency wallets, and get rid of any crypto tools that you no longer need — or use. **Don’t forget to delete all unloved crypto apps from your phone, tablet, and computer.**<br/>
 
 ## **11. Drop it (if it’s Hot)**
 
-Move any crypto that you are not actively trading out of exchange-based [hot wallets](https://medium.com/shapeshift-stories/https-medium-com-shapeshift-io-crypto-storage-a-simple-guide-65cfcb1553f) and into more secure wallets like software, desktop or mobile wallets. These types of (hot) wallets are still vulnerable but can be a more secure option. **Exchange hacks are real; better to be safe than sorry.<br/> **
+Move any crypto that you are not actively trading out of exchange-based [hot wallets](https://medium.com/shapeshift-stories/https-medium-com-shapeshift-io-crypto-storage-a-simple-guide-65cfcb1553f) and into more secure wallets like software, desktop or mobile wallets. These types of (hot) wallets are still vulnerable but can be a more secure option. **Exchange hacks are real; better to be safe than sorry.**<br/>
 
 ## **12. Stay Chill with Cold Storage**
 

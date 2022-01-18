@@ -24,7 +24,7 @@ Of course, simply collecting the cute animated animals is not enough for many pl
 
 <iframe allowfullscreen="" frameborder="0" scrolling="auto" src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F3PTstAK-cH8%3Ffeature%3Doembed&amp;display_name=YouTube&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D3PTstAK-cH8&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F3PTstAK-cH8%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07&amp;type=text%2Fhtml&amp;schema=youtube"></iframe>
 
-## **<br/><br/><br/>**
+<br/>
 
 ![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9a22cb5b73a1ff28f268f7_5e993eb8099fd9354592ce01_1*vaSuES12OUR6rpBPXIDQ0w.png)
 
@@ -109,14 +109,6 @@ Does Crypto World sound like the place for you? [My Crypto Heroes](https://www.m
 To purchase heroes or crypto energy, the player must use GUM, or Game User Money. While GUM is not a token that you would find on the blockchain, it can only be purchased with Ethereum, tying the game to the ever-expanding crypto community.<br/><br/> 
 
 <iframe allowfullscreen="" frameborder="0" scrolling="auto" src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FJufXwrVdhtQ%3Ffeature%3Doembed&amp;display_name=YouTube&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJufXwrVdhtQ&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJufXwrVdhtQ%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07&amp;type=text%2Fhtml&amp;schema=youtube"></iframe>
-
-## The Future of Gaming
-
-What’s next for games built on blockchain tech? Let us know your favorite games that integrate crypto and blockchain technology into gaming in the comments below.<br/><br/> 
-
-![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9a22cc14c15b0bbda6e0f7_5e993eb9ca811e1342c44dc8_1*rzWf64wrKlEJ8RdtVo035A.png)
-
-***Trade crypto for free on the*** [***ShapeShift Platform***](http://beta.shapeshift.com/?utm_source=social&utm_medium=medium&utm_campaign=fox_launch&utm_term=cta77)* *[*Create a verified account*](https://auth.shapeshift.io/signup) *& get 100* [*FOX Tokens*](https://shapeshift.com/fox-token) *to start trading without commission, spread, or trading fees.<br/><br/> * 
 
 ---
 

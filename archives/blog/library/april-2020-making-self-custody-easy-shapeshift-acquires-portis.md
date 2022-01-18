@@ -16,15 +16,15 @@ dateCreated: 2021-12-20T23:02:59.685Z
 
 Why is this important to understand? Because for the world’s new financial system to be honest, open, and resilient, it must be sovereign down to an individual level. Every person on Earth must have the ability to interact openly, without political prejudice or arbitrary restraint. When you control your own keys, you are expressing this virtue.
 
-But self-custody isn’t a panacea: it is hard from a UX perspective. At least, it has been. Our mission is to fix that, which is why we launched the new [ShapeShift.com](https://shapeshift.com/?utm_source=social&utm_medium=medium&utm_campaign=portis_acquisition&utm_term=cta_01) last July. It’s a true self-custody platform for your digital wealth.
+But self-custody isn’t a panacea: it is hard from a UX perspective. At least, it has been. Our mission is to fix that, which is why we launched the new [ShapeShift.com](https://shapeshift.com/) last July. It’s a true self-custody platform for your digital wealth.
 
 ShapeShift today has announced our acquisition of [Portis](https://www.portis.io/), an Israeli startup that built the leading Web3 wallet SDK for developers of crypto applications to easily integrate wallet functionality into their product. Portis accomplished three important objectives:
 
-**1)** Client-side encryption, ensuring full self-custody.
+1. Client-side encryption, ensuring full self-custody.
 
-**2)** Incredibly easy login, using the familiar email and password.
+2. Incredibly easy login, using the familiar email and password.
 
-**3)** A focus on developers with [a beautiful SDK](https://github.com/portis-project/web-sdk) for seamless integration.
+3. A focus on developers with [a beautiful SDK](https://github.com/portis-project/web-sdk) for seamless integration.
 
 Portis’ wallet provides a very simple and easy UX for end-users of crypto, but their actual target customer is other developers: the thousands of talented engineers all over the world building the future of finance, including most of the [leading DeFi projects](https://apps.portis.io/). Any developer can build their app with Portis’ wallet component, saving them time and complexity, while maintaining fidelity to self-custody for users.<br/> 
 
@@ -42,8 +42,6 @@ Soon, you’ll see “Log in with ShapeShift” all over the DeFi ecosystem, and
 And all while retaining control of your keys.
 
 We’re thrilled to bring the Portis team into the fox family, and will be further expanding the Portis SDK functionality in the coming months.
-
-If you haven’t tried the new [ShapeShift.com](https://shapeshift.com/?utm_source=social&utm_medium=medium&utm_campaign=portis_acquisition&utm_term=cta_01), now would be a great time to experience [easy self-custody](https://pages.shapeshift.com/portis_wallet/?utm_source=social&utm_medium=medium&utm_campaign=portis_acquisition&utm_term=cta_05) and [zero-commission trading](https://shapeshift.com/free-trading?utm_source=social&utm_medium=medium&utm_campaign=portis_acquisition&utm_term=cta_04).
 
 And for the devs out there, build your Web3 DApp faster with [Portis.io](https://docs.portis.io/#/).
 
