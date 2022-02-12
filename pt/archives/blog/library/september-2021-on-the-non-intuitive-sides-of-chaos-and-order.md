@@ -2,8 +2,8 @@
 title: Sobre os Lados Não-Intuitivos do Caos e da Ordem
 description: Diretor de Produto da ShapeShift discute o caos e ordem na esfera da inovação.
 published: true
-date: 2022-02-12T01:57:40.592Z
-tags: bitcoin, jon, jon shapeshift, caos, filosofia
+date: 2022-02-12T02:01:41.154Z
+tags: bitcoin, caos, filosofia, jon, jon shapeshift
 editor: markdown
 dateCreated: 2022-02-12T01:57:40.592Z
 ---
@@ -53,7 +53,7 @@ Lembro-me de uma passagem de um dos meus livros favoritos que estou relendo no m
 
 À medida que avançamos para esta nova versão da ShapeShift como uma DAO alimentada por uma comunidade descentralizada e global, quero que todos nos lembremos deste pouco de sabedoria. Irão haver inúmeros erros à medida que encontrarmos nosso caminho neste novo mundo. Haverá uma ladainha de experimentos fracassados e haverá uma grande quantidade de caos para todos os envolvidos. No entanto, isso não precisa ser uma coisa ruim! Será bom para todos nós aprendermos a abraçar o caos como um importante agente de mudança para melhor. Podemos aproveitar o caos para nossos propósitos e dele pode surgir algo bonito e incrivelmente poderoso para toda a humanidade que não encontraria seu caminho para a existência de outra forma. Todos nós podemos tentar ser um pouco mais neophilius e um pouco menos neophobus, abraçar a mudança, a experimentação e a incerteza que vem com isso e que dará frutos para as próximas gerações. Isso acontecerá não apenas apesar dos inúmeros e inevitáveis erros que cometemos, mas fundamentalmente por causa deles.
 
-Se você for tirar alguma coisa desse artigo, eu quero que seja isso: não descarte o caos de imediato como ruim ou abrace a ordem automaticamente como boa. Entenda o bem que a mudança caótica pode trazer e o mal que a ordem pode nos prender, incentivando e cimentando a falta de mudança. Nem o caos nem a ordem são "bons" ou "ruins"; eles são simplesmente conceitos formados por humanos que podem ser utilizados como ferramentas para nossos fins. Entre no caos, abrace e aproveite-o mesmo nàs vezes que ele lhe parecer esmagador, e faça da ordem uma ferramenta que você empunha, não uma autoridade que você obedece cegamente.
+Se você for tirar alguma coisa desse artigo, eu quero que seja isso: não descarte o caos de imediato como ruim ou abrace a ordem automaticamente como boa. Entenda o bem que a mudança caótica pode trazer e o mal que a ordem pode nos prender, incentivando e cimentando a falta de mudança. Nem o caos nem a ordem são "bons" ou "ruins"; eles são simplesmente conceitos formados por humanos que podem ser utilizados como ferramentas para nossos fins. Entre no caos, abrace e aproveite-o mesmo quand lhe parecer esmagador, e faça da ordem uma ferramenta que você empunha, não uma autoridade que você obedece cegamente.
 
 
 > Este documento foi originalmente publicado em 2021-09-03 por Jon ShapeShift e pode ter sido levemente modificado para tradução pela Guilda Informação e Globalização com objetivo de arquivamento.
