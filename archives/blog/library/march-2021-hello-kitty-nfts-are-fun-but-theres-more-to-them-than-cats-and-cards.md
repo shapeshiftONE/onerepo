@@ -1,66 +1,67 @@
 ---
-title: Hello, Kitty! NFTs Are Fun—But There’s More to Them Than Cats and Cards
-description: NFTs are getting a lot of hype; but what's their true promise? Read more!
+title: Hello, Kitty! NFTs São Divertidos — Mas Há Mais Para Eles Além de Gatos e Cartas
+description: NFTs estão cada dia mais hypados; mas qual é a sua verdadeira promessa? 
 published: false
 date: 2021-12-20T23:02:38.245Z
-tags: library, defi, needs-review
+tags: lNFT, cards, arte, 
 editor: markdown
 dateCreated: 2021-12-20T23:02:38.245Z
 ---
 
-# Hello, Kitty! NFTs Are Fun—But There’s More to Them Than Cats and Cards
+# Hello, Kitty! NFTs São Divertidos — Mas Há Mais Para Eles Além de Gatos e Cartas
 
-Blockchain industry observers know the cycle all too well: a new innovation or chain emerges onto the scene; early adopters embrace it in a trickle; then the masses adopt it in a flood fueled by countless media headlines characterizing the trend as a “craze,” or “fad,” surely to die off as suddenly as it arrived. We’ve seen this cycle play out with bitcoin, smart contract blockchains, and DeFi. And now, you are **>here<** again—with NFTs (non-fungible tokens).<br/>
+Observadores da indústria blockchain sabem do ciclo muito bem: uma inovação recente ou nova cadeia surge na cena; adeptos iniciais agarram ela por um fio; então as massas adotam ela numa enchente impulsionada por incontáveis manchetes da mídia caracterizando a tendência como uma "onda" ou "moda", tendo morte certa já no momento em que chegou. Nós vimos esse cíclo se desenrolar com o bitcoin, blockchains de smart contract e DeFi. E agora você está **>aqui<** novamente com os NFTs (non-fungible tokens, tokens não fungíveis).<br/>
 
-It’s easy to see how NFTs are getting a fair amount of media attention and a dose of skepticism. To date, the focus has been primarily on adorable digital kittens you can trade and breed, artwork, sports highlights, even tweets being sold for amounts almost unimaginable to most of us. 
+É fácil ver como os NFTs estão conseguindo uma boa quantia de atenção da mídia e uma dose de ceticismo. Até aqui, o foco tem sido primariamente nos adoráveis gatinhos digitais que você pode vender e reproduzir, trabalhos de arte, highlights de esportes e até mesmo tweets sendo vendidos por quantias quase inimagináveis para a grande maioria de nós. 
 
-But, the current focus and hype is missing the fundamental, and possibly future-changing value of NFTs and the decentralized processes and standards that fuel them. Let’s take a step back, understand what NFTs are, and take a look at what they can possibly enable for music, gaming, DeFi, and the average consumer today and in the future.<br/>
+Mas, o foco e o hype atuais estão perdendo o fundamental, e possivelmente futuramente mais promissor valor dos NFTs e os processos descentralizados e padrões que impulsionam eles. Tomemos um passo para trás, entendamos o que são NFTs e dar uma olhada no que eles podem proporcionar para a música, jogos, DeFi, e para o consumidor comum hoje e no futuro.<br/>
 
-## **NFTs: Decentralizing Commerce as Crypto Is Decentralized Finance**
-
-<br/>
-
-NFTs can be defined as cryptographic assets with unique identification codes that are stored on a blockchain. Each is unique and cannot be exchanged equivalently, unlike bitcoins, which can be exchanged one for one since each is the same (and hence bitcoins are “fungible”). Most NFTs are based on the ERC-721 standard of the Ethereum blockchain, which tracks tokens’ unique identifiers to owners; whereas Ethereum-based tokens are based on the ERC-20 standard, where a ledger records balances, addresses, and transactions. <br/>
-
-Most typically, NFTs are digital art, collectibles, music, land in digital worlds (the “metaverse”) and tokens with utility in gaming (such as shields, swords, etc. that have powers in the game). They can be virtually anything in digital form. They can have both flexibility and multi-utility: for example, an NFT can have a function within a game, but it can also enable players to earn through winning in the game or staking their NFTs into the liquidity pool. [Animoca Brands](https://www.animocabrands.com/)’ F1 Delta Time provides a great example—their digital race car game enables users to compete for NFTs as well as REVV tokens, their main utility token and in-game currency. [Users can also “stake” their tokens](https://www.animocabrands.com/f1deltatime-launches-2nd-staking), or, temporarily transfer ownership of their NFT car to the game to earn passive REVV. The cars have varying levels of rarity, and the more rare the car, the more they can earn through staking.<br/>
-
-NFTs can also be interoperable across different gaming platforms. [Sorare](https://sorare.com/r/franksmooth?gclid=CjwKCAjwgOGCBhAlEiwA7FUXknQF_M1Kr7TONsWF3pOwY65B9ffvZTquwVZbKLUh1FPPdBx05jjL-RoCsPcQAvD_BwE), for example, has an NFT football trading card and fantasy football tournament platform. Recently, Ubisoft released a new game, [One Shot League](https://oneshotleague.ubisoft.com/), based on the unique and scarce Sorare cards, making the cards interoperable between the platforms.<br/>
-
-NFTs are “minted” (the process of taking a digital asset and representing it on the blockchain in tokenized form) and can be sold on a number of specialized NFT marketplaces (for example, sports-based NFT sites) or online auction houses. Their guaranteed uniqueness/scarcity is one element that drives higher prices (along with speculation, or the hope of considerable gain in value); this market-based dynamic is as old as economics itself.<br/>
-
-Much like cryptocurrency, this mechanism for selling digital goods removes a central authority or middleman from the sales process as well as ensuring immutability of the record of sale, establishing the uniqueness and ownership of the item in question and ensuring the privacy of the buyer and seller. Royalties for the resale of the NFT are baked into the smart contract—while different marketplaces have differing terms, artists or owners can often select the royalties structure to earn a percentage each time their NFT is resold.<br/>
-
-So, we see that NFTs hold much the same promise of immutability, decentralization, and privacy within commerce as cryptocurrency holds within finance. It brings sellers and buyers together, without middlemen, mega-retailers, or power brokers in control of digital rights taking a cut along the way or cornering specific markets. Through NFTs, DeFi projects are able to monetize their DApp tokens and create sustainable business models.<br/>
-
-Today, NFTs are primarily used for selling digital assets and for building liquidity within specific blockchains. But, where might this capability lead in the future? 
-
-## **NFTs as Divisible, Broader in Scope**
+## **NFTs: Descentralizar o Comercio por meio da Cripto é Finança Descentralizada**
 
 <br/>
 
-While NFTs are minted and sold primarily for digital assets, the same value proposition can be applied, though use cases are limited, to real-world assets, such as real estate, jewelry, real-world art—almost anything that can be bought and sold. Blockchains have the underlying capability to forever and immutably imprint ownership rights and providence, proving that a product is authentic, unique, and that is what it purports to be based on its ID on the blockchain. Products must be imprinted with digital identification, via QR codes, microscopic laser IDs, or unremovable near-field communications (NFC) tags, enabling them to participate in the digital marketplace. 
+NFTs podem ser definidas como ativos criptográficos com códigos de identificação únicos que são gurdados numa blockchain. Cada um é único e não pode ser trocado de forma equivalente, ao contrário dos bitcoins, os quais podem ser trocados um por um já que cada um é o mesmo (e, portanto, bitcoins são "fungíveis"). A maioria dos NFTs são baseados no padrão ERC-721 da blockchain da Ethereum, que rastreia identificadores  únicos de tokens para os donos; enquanto que os tokens baseados em ethereum são baseados no padrão ERC-20, onde um registro grava os balanços, endereços e transações. <br/>
 
-If and when the underlying principles of blockchain-based commerce moves more aggressively into the realm of real-world objects, this could enable buyers and sellers to reduce overhead costs in the process, such as supply chain markups, agent fees, lawyers (since the contract terms are built into the smart contract), and reduce the constant surveillance of the consumer’s purchasing behaviors for marketing analytics typically done by large shopping portals. This is little different from hype around NFTs of today in many ways—while the digital art (or song, etc.) being sold is minted as an NFT, it was still created in some other system. Thus, the original still exists elsewhere, though the selling of it creates a provenance and ownership rights for the minted NFT. It is not a far leap to begin using the blockchain-based commerce system we see in use today for digital goods in the three-dimensional realm.<br/>
+Mais recorrentemente, NFTs são arte digital, colecionáveis, música, terrenos em mundos digitais (o "metaverso") e tokens com utilidade em jogos (tais como escudos, espadas, etc., que possuem poderes no jogo). Elas podem ser praticamente qualquer coisa em forma digital. Eles podem ter tanto flexibilidade e multi-utilidade: por exemplo, um NFT pode ter uma função dentro de um jogo, mas isso pode também permitir aos jogadores ganharem através de vitórias no jogo ou ao fazer stake em seus NFTs na pool de liquidez. A [Animoca Brands](https://www.animocabrands.com/) F1 Delta Time providencia um grande exemplo — seus carros de corridas digitais permitem aos usuários competirem por NFTs, bem como por tokens REVV, seu principal token de utilidade e moeda in game. [Usuários podem também fazer "stake" de seus tokens](https://www.animocabrands.com/f1deltatime-launches-2nd-staking) ou temporariamente transferir propriedade de seu carro NFT para o jogo para ganhar REVV passivo. Os carros possuem níveis variados de raridade, e quanto mais raro o carro, mais eles podem ganhar através do staking.<br/>
 
-We should also expect to see the concept of interoperability continue to expand within gaming and DeFi. Through expanding partnerships, projects can increase the utility of their NFTs, and hence, value, expanding the users’ experience and broadening the reach of the NFTs created.<br/>
+NFTs também podem ser interoperáveis através de diferentes plataformas de jogos. A [Sorare](https://sorare.com/r/franksmooth?gclid=CjwKCAjwgOGCBhAlEiwA7FUXknQF_M1Kr7TONsWF3pOwY65B9ffvZTquwVZbKLUh1FPPdBx05jjL-RoCsPcQAvD_BwE), por exemplo, possui um cartão de trading de futebol em NFT e uma plataforma de torneio de futebol de fantasia. Recentemente, a Ubisoft lançou um novo jogo, [One Shot League](https://oneshotleague.ubisoft.com/), baseado nas cartas Sorare únicas e escassas, fazendo as cartas interoperáveis entre as plataformas.<br/>
 
-A new concept, “RFTs,” or, “re-fungible tokens,” was introduced in 2018 with the [ERC-1633 standard](https://github.com/ethereum/EIPs/issues/1634) (or, EIP-1633). The standard, which was merged into the [official Ethereum EIPs](https://github.com/ethereum/eips) within the past couple of weeks, can enable joint ownership and division of NFT assets. Using simple queries, it gives marketplaces like [Opensea](https://opensea.io/) the ability to confirm whether an ERC-721 NFT asset was owned by an individual or group while preserving the integrity of the ERC-721 and ERC-20 standards. Though still new and with much to be resolved around whether/how it will be implemented by marketplaces and the ERC-20 community, as well as copyright questions, the possibilities of this are significant. In the realm of real-world objects, such as intellectual property, real estate, or very costly assets of any type, people would have the option to co-invest, divide assets, and share royalty rewards as the property is resold over time. The definition of NFTs often includes “cannot be divided into smaller units”; this newest standard addition may be cause for a change in how NFTs are defined.
+NFTs são "cunhados" (o processo de tomar um ativo digital e de representá-lo na blockchain em forma tokenizada) e podem ser vendidos em um número de mercados NFT especializados (por exemplo, sites de NFT baseados em esportes) ou casas de leilões online. Sua singularidade/escassez garantida é um elemento que impulsiona preços mais altos (junto com a especulação, ou a esperança de consideráveis ganhos em valor); essa dinâmica baseada no mercado é tão antiga quanto a própria economia.<br/>
+
+Muito parecido com as criptomoedas, o mecanismo para vender bens digitais remove uma autoridade central ou intermediário do processo das vendas bem como assegura imutabilidade de registro de venda, estabelecendo a singularidade e a propriedade do item em questão e assegurando a privacidade do comprador e do vendedor. Royalties para re-venda do NFT são apoiados em smart contract — enquanto diferentes mercados possuem termos diferentes, artistas ou donos podem frequentemente selecionar a estrutura dos royalties para ganhar uma porcentagem a cada vez que seu NFT é vendido.<br/>
+
+Assim, vemos que os NFTs possuem quase a mesma promessa de imutabilidade, descentralização e privacidade dentro do comércio do mesmo modo que a criptomoeda possui dentro das finanças. Eles unem vendedores e compradores, sem intermediários, megavarejistas ou corretores poderosos no controle dos direitos digitais, fazendo cortes ao longo do caminho ou encurralando mercados específicos. Através dos NFTs, projetos DeFi podem monetizar seus tokens DApps e criar modelos de negócios sustentáveis.<br/>
+
+Hoje em dia, NFTs são primariamente usados para vender ativos digitais e para desenvolver a liquidez dentro de blockchains específicas. Mas, para onde essa capacidade leva no futuro? 
+
+## **NFTs enquanto Divisíveis, mais Amplos em Escopo**
 
 <br/>
 
-## **The Value of Cats**
+Enquanto os NFTs são emitidos e vendidos primariamente para ativos digitais, a proposição de mesmo valor pode ser aplicada, embora casos de uso sejam limitados a ativos do mundo real, tais como bens imóveis, joalheria, artes do mundo real—quase qualquer coisa que pode ser comprada e vendida. Blockchains tem a capacidade subjacente para sempre e imutavelmente imprimir direitos de propriedade e providência, provando que um produto é autêntico, único, e que o que ele visa a ser baseaa em seu ID na blockchain. Produtos devem ser impressos com identificação digital, via QR codes, IDs de laseres microscópicos, ou tags de comunicação de campo próximo (NFC, near-field communications) não removíveis, permitindo que eles participem do mercado digital. 
+
+Se e quando os princípios subjacentes do comércio baseado em blockchain se moverem de forma mais agressiva para o domínio dos objetos do mundo real, isso poderá permitir que compradores e vendedores reduzam custos indiretos no processo, como marcações da cadeia de suprimentos, taxas de agentes, advogados (desde que os termos do contrato sejam incorporados ao contrato inteligente) e reduzam a vigilância constante dos comportamentos de compra do consumidor para análises de marketing normalmente feitas por grandes portais de compras. Isso é um pouco diferente do hype em torno dos NFTs de hoje em muitos aspectos — embora a arte digital (ou música, etc.) vendida seja cunhada como um NFT, ela ainda foi criada em algum outro sistema. Assim, a original ainda existe em outro lugar, embora a venda dela crie uma proveniência e direitos de propriedade para o NFT cunhado. Não é um grande salto para começarmos a usar o sistema de comércio baseado em blockchain que vemos em uso hoje para bens digitais no campo tridimensional.<br/>
+
+Também devemos esperar ver o conceito de interoperabilidade continuar a se expandir dentro dos jogos e do DeFi. Por meio da expansão de parcerias, os projetos podem aumentar a utilidade de seus NFTs e, consequentemente, o valor, ampliando a experiência dos usuários e ampliando o alcance dos NFTs criados.<br/>
+
+Um novo conceito, "RFTs", ou "tokens re-fungíveis" foi introduzido em 2018 com o [padrão ERC-1633](https://github.com/ethereum/EIPs/issues/1634) (ou EIP-1633). O padrão, que emergiu nas [EIPs oficiais da Ethereum](https://github.com/ethereum/eips) dentro das últimas semanas, pode permitir propriedade conjunta e divisões de ativos NFT. Usando simples questões, isso concede a mercados como o [Opensea](https://opensea.io/) a habilidade para confirmar se um ativo ERC-721 NFT era propriedade de um indivíduo ou grupo enquanto preserva a integridade dos padrões ERC-721 e ERC-20. Embora ainda novos e com muito a ser resolvido sobre se/como serão implementados por mercados e pela comunidade ERC-20, bem como em questões de direitos autorais, as possibilidades disso são significativas. No domínio dos objetos do mundo real, como propriedade intelectual, imóveis ou ativos muito caros de qualquer tipo, as pessoas teriam a opção de coinvestir, dividir ativos e compartilhar recompensas de royalties à medida que a propriedade fosse revendida ao longo do tempo. A definição de NFTs geralmente inclui “não pode ser dividido em unidades menores”; essa adição de padrão mais recente pode ser causa de uma mudança na forma pela qual os NFTs são definidos.
 
 <br/>
 
-It’s always difficult to predict whether any particular trend will continue, gain steam, or lose ground. We aren’t investment advisors, and aren’t recommending or dissuading readers from jumping into the NFT rush. We do, however, see the fundamental promise NFTs can bring to the decentralization of commerce. The mainstream media’s focus on NFTs is often centered on the dollar amounts and the collectibles that are drawing them. While the stories may not all include a deeper review of NFT value, these digital collectibles and their coverage are fortunate: they draw more mainstream users into the Ethereum ecosystem, moving us to a fuller embrace of decentralized finance and cryptocurrency. And, we think the kitties are pretty cute, too.
+## **O Valor dos Gatos**
+
+<br/>
+
+É sempre difícil prever se alguma tendência específica continuará, ganhará força ou perderá terreno. Não somos consultores de investimentos e não estamos recomendando ou dissuadindo os leitores a entrar na corrida pelo NFT. No entanto, vemos a promessa fundamental de que os NFTs podem trazer a descentralização do comércio. O foco da grande mídia em NFTs geralmente está centrado nos valores em dólares e nos itens colecionáveis que os estão atraindo. Embora nem todas as histórias incluam uma revisão mais profunda do valor do NFT, esses colecionáveis digitais e sua cobertura são afortunados: eles atraem mais usuários comuns para o ecossistema Ethereum, levando-nos a uma adoção mais completa de finanças descentralizadas e das criptomoedas. E acreditamos que os gatinhos são muito fofinhos também.
 
 <br/>
 
 ---
 
-> This document was originally published on 2021-03-25 by Lindsay ShapeShift and may have been slightly modified for translation by the Information and Globalization workstream for an ongoing archival project.
+> Este documento foi originalmente publicado em 25/03/2021 por LindSay ShapeShift e pode ter sido levemente modificado pelo fluxo de trabalho de Informação e Globalização para um projeto em andamento de arquivamento.
 >
-> Original article can be found [here](https://shapeshift.com/library/hello-kitty-nfts-are-fun-but-theres-more-to-them-than-cats-and-cards).
+> O artigo original pode ser encontrado [aqui](https://shapeshift.com/library/hello-kitty-nfts-are-fun-but-theres-more-to-them-than-cats-and-cards).
+
 {.is-success}
 
 ---
