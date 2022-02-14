@@ -1,87 +1,89 @@
 ---
-title: What is Brave Browser?
-description: Explore crypto’s leading secure, privacy-first internet browsing experience.
+title: O que é o Brave Browser?
+description: Explore a experiência de navegação na internet segura e que prioriza a privacidade em criptomoedas.
 published: false
 date: 2021-12-20T23:03:21.822Z
-tags: library, bitcoin, needs-review
+tags: brave, privacidade, navegador, internet segura
 editor: markdown
 dateCreated: 2021-12-20T23:03:21.822Z
 ---
 
-# What is Brave Browser?
+# O que é o Brave Browser?
 
 ![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9a22f45b73a11aa2f26ac6_5e9954ed91657b97fe3a645f_1_3QvwNt0uMC9IF9Mqu8jceg.png)
 
-[**Brave browser**](https://brave.com/) is at the leading edge of privacy and innovation in both cryptocurrency and blockchain tech with regard to the privacy rights of the individual. Unlike many other of the thousands of altcoin projects that struggle to gain legitimate traction in terms of adoption and practical use, Brave is actually making waves.
+[**Brave browser**](https://brave.com/) está na vanguarda da privacidade e inovação em tecnologia de criptomoeda e blockchain em relação aos direitos de privacidade do indivíduo. Ao contrário de muitos outros dos milhares de projetos de altcoin que lutam para ganhar tração legítima em termos de adoção e uso prático, o Brave está realmente fazendo ondas.
 
-Consider for a moment that during [September 2019](https://imgur.com/fnk5iGp), Brave browser downloads for the Android operating system topped [Mozilla Firefox](https://en.wikipedia.org/wiki/Firefox) and the top AdBlocker in Japan. That’s an excellent sign for Brave and the community that supports the browser. Not only because it ranked in the top 10 in Android downloads for that month, but also because one of the founders of Brave is also responsible for the founding of Firefox.
+Considere por um momento que durante [setembro de 2019](https://imgur.com/fnk5iGp), os downloads do navegador Brave para o sistema operacional Android superaram o [Mozilla Firefox](https://en.wikipedia.org/wiki/Firefox) e o principal AdBlocker no Japão. Esse é um excelente sinal para o Brave e a comunidade que suporta o navegador. Não só porque ficou no top 10 de downloads do Android naquele mês, mas também porque um dos fundadores do Brave também é responsável pela fundação do Firefox.
 
-With so many people supporting the Brave browser, it’s truly a sign of the times. People care about data privacy rights of the individual and this is one of the most important social movements now and for the future.
+Com tantas pessoas apoiando o navegador Brave, podemos considerar isso como um sinal. As pessoas se preocupam com os direitos de privacidade de dados do indivíduo e este é um dos movimentos sociais mais importantes para o presente e para o futuro.
 
-It’s with this in mind that we explore what a privacy browser is and how the features and benefits of Brave are empowering web surfers. They can now protect their privacy, monetize the value of their information on their own terms, and reward content creators.
+É com isso em mente que exploramos o que é um navegador de privacidade e como os recursos e benefícios do Brave estão capacitando os internautas. Agora eles podem proteger sua privacidade, monetizar o valor de suas informações em seus próprios termos e recompensar os criadores de conteúdo.
 
-## What is a privacy browser?
+## O que é um navegador de privacidade?
 
-Brave browser is unique because it is a privacy-focused web browser. Privacy browser means that it doesn’t track every move a user makes with cookies. When you use a privacy browser, you don’t have to deal with accepting terms and conditions before using a particular website. It also means that advertisers can’t use retargeting ads to follow users around and seek their attention, and most importantly, advertisers can't sell products and services. Brave strives to be the ultimate privacy browser. It’s proving to be a better alternative to adblockers and also a way to reward creators.
+O navegador Brave é único porque é um navegador da Web focado na privacidade. O navegador de privacidade significa que ele não rastreia todos os movimentos que um usuário faz com cookies. Ao usar um navegador de privacidade, você não precisa aceitar os termos e condições antes de usar um determinado site. Isso também significa que os anunciantes não podem usar anúncios de redirecionamento para seguir os usuários e buscar sua atenção e, o mais importante, os anunciantes não podem vender produtos e serviços. O Brave se esforça para ser o navegador de privacidade definitivo. Está provando ser uma alternativa melhor aos bloqueadores de anúncios e também uma maneira de recompensar os criadores.
 
-## The Brave Network + Basic Attention Token
+## A Rede Brave + Basic Attention Token
 
-Brave is more than just a browser that limits exposure to advertising and the distribution of data to third parties, it’s a network that uses the [Basic Attention Token](https://coincap.io/assets/basic-attention-token) as a conduit for driving an economy of exchange. Users get access to ad-free content and are allowed to maintain their privacy. Content creators get compensated for their work through donations from other users, and advertisers get access to users who are actually interested in their offerings. While it’s true that users can still see ads, the point is that they get to choose whether or not to see the ads. No need to download a third-party adblocker.
+Brave é mais do que apenas um navegador que limita a exposição à publicidade e a distribuição de dados a terceiros — é uma rede que usa o [Basic Attention Token](https://coincap.io/assets/basic-attention-token) como um canal para a condução de uma economia de troca. Os usuários obtêm acesso a conteúdo sem anúncios e têm permissão para manter sua privacidade. Os criadores de conteúdo são recompensados ​​por seu trabalho por meio de doações de outros usuários, e os anunciantes obtêm acesso a usuários que estão realmente interessados ​​em suas ofertas. Embora seja verdade que os usuários ainda possam ver anúncios, o ponto é que eles podem escolher se querem ou não ver os anúncios. Não há necessidade de baixar um bloqueador de anúncios de terceiros.
 
-All of these benefits are clearly outlined [in Brave’s whitepaper](https://basicattentiontoken.org/wp-content/uploads/2017/05/BasicAttentionTokenWhitePaper-4.pdf). The document makes four major values, and so far since the project’s launch in 2015, it’s obvious that Brave is delivering on those promises.
+Todos esses benefícios estão claramente descritos [no whitepaper da Brave](https://basicattentiontoken.org/wp-content/uploads/2017/05/BasicAttentionTokenWhitePaper-4.pdf). O documento apresenta quatro valores principais e, desde o lançamento do projeto em 2015, é óbvio que o Brave está cumprindo essas promessas.
 
-* Brave aims to be open source and remain a platform made for the community, by the community.
-* Brave will be transparent with users in regard to how data is blocked and stored.
-* Brave will remain a fully decentralized web browser and ecosystem.
-* Brave promises to be efficient in the way it uses both information and processing power.
+* O Brave pretende ser de código aberto e continuar sendo uma plataforma feita para a comunidade, pela comunidade.
+* O Brave será transparente com os usuários em relação a como os dados são bloqueados e armazenados.
+* O Brave continuará sendo um navegador e ecossistema totalmente descentralizado.
+* O Brave promete ser eficiente na maneira como usa a informação e o poder de processamento.
 
-## The Secret Sauce Behind Brave
+## O segredo por trás do Brave
 
-In comparison to Internet Explorer, Google Chrome, and Mozilla Firefox, Brave is clearly the new arrival on the web browsing scene *(having only been in business since May of 2015)*. Even with that being true and Brave being the first blockchain-based browser to gain any significant traction among users, it should come as no surprise that Brave’s development team is the secret sauce behind its robust ecosystem. The project itself is a new idea, but the leaders of it are two of the most familiar faces in the technology world.
+Em comparação com o Internet Explorer, o Google Chrome e o Mozilla Firefox, o Brave é claramente o recém-chegado ao cenário da navegação na web *(estave no mercado apenas desde maio de 2015)*. Mesmo com isso sendo verdade e o Brave sendo o primeiro navegador baseado em blockchain a ganhar tração significativa entre os usuários, não é surpresa que a equipe de desenvolvimento do Brave seja o ingrediente secreto por trás de seu ecossistema robusto. O projeto em si é uma ideia nova, mas seus líderes são dois dos rostos mais conhecidos no mundo da tecnologia.
 
-## Brave’s Leadership
+## A Liderança da Brave
 
-The names [Brendan Eich](https://brave.com/ama-with-brendan-eich/) and [Brian Bondy](https://brave.com/ama-with-brian-bondy/) may not sound familiar, but most internet users are well aware of the projects these innovators have worked on in the past. Eich’s most notable invention has been driving internet and web applications for decades. He’s the inventor of the computer programming language [JavaScript](https://en.wikipedia.org/wiki/JavaScript). He also is the co-founder of [Firefox](https://en.wikipedia.org/wiki/Firefox). Bondy is the primary developer of [many projects](https://brianbondy.com/projects) and libraries that you may be familiar with. He’s worked with brands like [Khan Academy](https://github.com/Khan/khan-windows) and [Firefox](https://github.com/mozilla/gecko-dev).
+Os nomes [Brendan Eich](https://brave.com/ama-with-brendan-eich/) e [Brian Bondy](https://brave.com/ama-with-brian-bondy/) podem não soar familiar, mas a maioria dos usuários da Internet está bem ciente dos projetos em que esses inovadores trabalharam no passado. A invenção mais notável de Eich tem impulsionado aplicativos da Internet e da Web há décadas. Ele é o inventor da linguagem de programação de computadores [JavaScript](https://en.wikipedia.org/wiki/JavaScript). Ele também é cofundador do [Firefox](https://en.wikipedia.org/wiki/Firefox). Bondy é o principal desenvolvedor de [muitos projetos](https://brianbondy.com/projects) e bibliotecas com as quais você pode estar familiarizado. Ele trabalhou com marcas como [Khan Academy](https://github.com/Khan/khan-windows) e [Firefox](https://github.com/mozilla/gecko-dev).
 
-When Firefox took direct aim at Internet Explorer, it ultimately inspired other technology innovators to keep building new and improved web browsers. It’s that desire that is allowing Eich and Bondy to keep pushing Brave forward. The organization has a clear and focused mission to make browsing the web privately both easy and rewarding and it is all driven by the leadership team.<br/> 
+Quando o Firefox mirou diretamente no Internet Explorer, acabou inspirando outros inovadores de tecnologia a continuar construindo navegadores novos e aprimorados. É esse desejo que está permitindo que Eich e Bondy continuem empurrando Brave para frente. A organização tem uma missão clara e focada em tornar a navegação privada na web fácil e recompensadora e tudo isso é conduzido pela equipe de liderança.<br/>
 
-<iframe allowfullscreen="" frameborder="0" scrolling="auto" src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FDDJCKxb65Pk%3Fstart%3D1294%26feature%3Doembed%26start%3D1294&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DDDJCKxb65Pk&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FDDJCKxb65Pk%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07&amp;type=text%2Fhtml&amp;schema=youtube"></iframe>
+<iframe allowfullscreen="" frameborder="0" scrolling="auto" src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed %2FDDJCKxb65Pk%3Fstart%3D1294%26feature%3Doembed%26start%3D1294&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DDDJCKxb65Pk&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi %2FDDJCKxb65Pk%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07&amp;type=text%2Fhtml&amp;schema=youtube"></iframe>
 
-## Why Do We Need Privacy Browsers in Crypto?
+## Por que precisamos de navegadores de privacidade baseados em criptografia?
 
-Privacy-focused cryptocurrencies fund some of the most utilized blockchains in the industry. The top ones include the aforementioned ZCash alongside other popular names like [Monero](https://coincap.io/assets/monero), [Dash](https://coincap.io/assets/dash), [Verge](https://coincap.io/assets/verge) and [Bitcoin Private](https://coincap.io/assets/bitcoin-private). With so many options, newbies might be tempted to ask: Why do we need privacy browsers in crypto at all?
+Criptomoedas focadas em privacidade financiam algumas das blockchains mais utilizadas na indústria. Os principais incluem o ZCash mencionado acima ao lado de outros nomes populares como [Monero](https://coincap.io/assets/monero), [Dash](https://coincap.io/assets/dash), [Verge]( https://coincap.io/assets/verge) e [Bitcoin Private](https://coincap.io/assets/bitcoin-private). Com tantas opções, os novatos podem ficar tentados a perguntar: por que precisamos de navegadores de privacidade baseados em criptografia?
 
-**The answer is simple.** Blockchains and cryptocurrencies can’t be hacked for personal information, but a website or application certainly can be. Given that data is arguably more valuable than any other commodity in the world today, a privacy browser like Brave allows users to decide who should get their data, what advertisers should get their attention, and which content creators should stand to benefit from their own hard work the most.
+**A resposta é simples.** Blockchains e criptomoedas não podem ser hackeadas para obter informações pessoais, mas um site ou aplicativo certamente pode ser. Dado que os dados são indiscutivelmente mais valiosos do que qualquer outra mercadoria no mundo hoje, um navegador de privacidade como o Brave permite que os usuários decidam quem deve obter seus dados, quais anunciantes devem receber sua atenção e quais criadores de conteúdo devem ser mais recompensados pelos serviços que prestaram.
 
-When it comes down to it, the value of any privacy-related product, service or blockchain is only worth as much as the user experience that it provides to the individual, content creators, and advertisers. Brave serves all three without compromising the needs of any one party. It’s really difficult to do both of those things and still allow for commerce to take place.
+Quando se trata disso, o valor de qualquer produto, serviço ou blockchain relacionado à privacidade só vale o quanto da experiência do usuário que ele fornece ao indivíduo, criadores de conteúdo e anunciantes. O Brave atende a todos os três sem comprometer as necessidades de nenhuma das partes. É realmente difícil fazer as duas coisas e ainda permitir que o comércio ocorra.
 
-Fortunately, such is the beauty of what happens when decentralized technology, blockchain and the desire to maintain personal data privacy rights come together.
+Felizmente, essa é a beleza que surge quando a tecnologia descentralizada, a blockchain e o desejo de proteger o direito à privacidade dos dados pessoais se unem.
 
-## Take Ad Blocking to the Next Level
+## Levando o Bloqueio de Anúncios ao Próximo Nível
 
-Brave is the first browser of its kind that rewards advertisers and content publishers while allowing users to block ads. That doesn’t mean it’s the only company involved in ad blocking. Far from it. The bottom line is, web surfers are getting sick of having to view ads in order to consume content or use “free” platforms. The good news is, there are actually four different options users have when they finally decide they don’t want to see ads anymore. Brave is only one of them. The other three options include:
+O Brave é o primeiro navegador desse tipo que recompensa anunciantes e criadores de conteúdo enquanto permite que os usuários bloqueiem anúncios. Isso não significa que é a única empresa envolvida no bloqueio de anúncios. Longe disso. A conclusão é que os internautas estão ficando cansados ​​de ter que visualizar anúncios para consumir conteúdo ou usar plataformas “gratuitas”. A boa notícia é que, na verdade, existem quatro opções diferentes que os usuários têm quando finalmente decidem que não querem mais ver anúncios. Bravo é apenas um deles. As outras três opções incluem:
 
-* Virtual Private Networks
-* Blocking content with a wireless router
-* Browser Extensions
+* Redes Privadas Virtuais
+* Bloqueando conteúdo com um roteador sem fio
+* Extensões do navegador
 
-## Virtual Private Networks
+## Redes Privadas Virtuais
 
-Virtual Private Networks (VPNs) help hide the user’s identity on the web. This allows users to browse with increased anonymity. Some VPN providers offer ad blocking as part of their service and most charge a monthly or annual fee.
+As Redes Privadas Virtuais (VPNs) ajudam a ocultar a identidade do usuário na web. Isso permite que os usuários naveguem com maior anonimato. Alguns provedores de VPN oferecem bloqueio de anúncios como parte de seu serviço e a maioria cobra uma taxa mensal ou anual.
 
-## Blocking with a Router
+## Bloqueando com um roteador
 
-Users can block content with their wireless router settings or a blocking router. Basic instructions on how to do this with a specific brand of router will come up with a simple Google search. There are also blocking routers that are available pre-programmed for users that block out less than desirable content.
+Os usuários podem bloquear conteúdo com suas configurações de roteador sem fio ou um roteador de bloqueio. Instruções básicas sobre como fazer isso com uma marca específica de roteador surgirão com uma simples pesquisa no Google. Há também roteadores de bloqueio que estão disponíveis pré-programados para usuários que bloqueiam tudo menos o conteúdo desejável.
 
-## Browser Extensions
+## Extensões do navegador
 
-Browser extensions are by far the most popular way to block ads on existing browsers like Google Chrome and Safari. AdBlock is one of the most downloaded extensions. The problem is, [it allows some ads.](https://help.getadblock.com/support/solutions/articles/6000092027-why-does-adblock-allow-non-intrusive-ads-) UBlock Origin is the other popular extension. Its user base is growing because of its [open-source software](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) and that it’s a reasonable alternative to AdBlock.<br/> 
+As extensões do navegador são de longe a maneira mais popular de bloquear anúncios em navegadores existentes, como Google Chrome e Safari. AdBlock é uma das extensões mais baixadas. O problema é que [permite alguns anúncios.](https://help.getadblock.com/support/solutions/articles/6000092027-why-does-adblock-allow-non-intrusive-ads-) UBlock Origin é o outro extensão popular. Sua base de usuários está crescendo por causa de seu [software de código aberto](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) e por ser uma alternativa razoável ao AdBlock.<br />
 
 ---
 
-> This document was originally published on 2020-01-17 by ShapeShift Team and may have been slightly modified for translation by the Information and Globalization workstream for an ongoing archival project.
+> Este documento foi publicado originalmente em 2020-01-17 pela ShapeShift Team e pode ter sido ligeiramente modificado para tradução pelo fluxo de trabalho de Informação e Globalização para um projeto de arquivo em andamento.
 >
-> Original article can be found [here](https://shapeshift.com/library/what-is-brave-browser).
+> O artigo original pode ser encontrado [aqui](https://shapeshift.com/library/what-is-brave-browser).
+
+
 {.is-success}
 
 ---
