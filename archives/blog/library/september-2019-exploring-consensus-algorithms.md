@@ -1,77 +1,79 @@
 ---
-title: Exploring Consensus Algorithms
+title: Explorando Algoritmos de Consenso
 description: Proof of Work vs. Proof of Stake
 published: false
 date: 2021-12-20T23:02:35.048Z
-tags: library, bitcoin, cryptocurrency, finance, needs-review
+tags: bitcoin, pos, pow, consenso, algoritimo, educativo
 editor: markdown
 dateCreated: 2021-12-20T23:02:35.048Z
 ---
 
-# Exploring Consensus Algorithms
+# Explorando Algoritmos de Consenso
 
 ![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9f57ee07bdfea1e7ac96ac_1_tQ_nSdkltp2lDkk2IOGfnw.png)
 
-**Consensus** algorithms are the mechanisms that allow blockchains to remain secure and reward users who act as their gatekeepers. The two types of consensus algorithms that dominate the cryptocurrency landscape: Proof of Work and Proof of Stake.
+Os algoritmos de **Consenso** são os mecanismos que permitem que as blockchains permaneçam seguras e recompensem os usuários que atuam como seus guardiões. Os dois tipos de algoritmos de consenso que dominam o cenário das criptomoedas: Prova de Trabalho e Prova de Participação.
 
-Once you get beyond the initial excitement of buying your first bitcoin, you may be interested in how Proof of Work functions and which blockchains use Proof of Stake.<br/> 
+Depois de superar a empolgação inicial de comprar seu primeiro bitcoin, você pode se interessar em como a Prova de Trabalho funciona e quais blockchains usam a Prova de Participação.<br/>
 
-## **Proof of Work** (PoW)
+## **Prova de Trabalho** (PoW)
 
-The entire concept behind **Proof of Work** is to keep a network secure and make it trustworthy, while rewarding the stewards who contribute to that mission. Some early adopters credit Bitcoin’s inventor Satoshi Nakamoto with first outlining the Proof of Work algorithm in the [Bitcoin whitepaper](https://bitcoin.org/bitcoin.pdf) (2008). Though in actuality, the original idea for PoW came from an earlier whitepaper: [Pricing via Processing or Combatting Junk Mail](http://www.wisdom.weizmann.ac.il/~naor/PAPERS/pvp.pdf) (1993).<br/> 
+Todo o conceito por trás da **Prova de Trabalho** é manter uma rede segura e torná-la confiável, ao mesmo tempo em que recompensa os administradores que contribuem para essa missão. Alguns pioneiros creditam ao inventor do Bitcoin, Satoshi Nakamoto, o primeiro delineamento do algoritmo de Prova de Trabalho no [whitepaper Bitcoin](https://bitcoin.org/bitcoin.pdf) (2008). Embora, na verdade, a ideia original do PoT tenha vindo de um whitepaper anterior: [Pricing via Processing or Combatting Junk Mail](http://www.wisdom.weizmann.ac.il/~naor/PAPERS/pvp.pdf) (1993).<br/>
 
-## How Proof of Work Functions With Bitcoin
+## Como Funciona a Prova de Trabalho com Bitcoin
 
-Bitcoin is a decentralized peer-to-peer payment system that allows individuals to exchange value between one another, without the need for a third-party. Every transaction is recorded on a public ledger for everyone to see. That ledger is otherwise known as a blockchain. Users act as [nodes](https://medium.com/coinmonks/blockchain-what-is-a-node-or-masternode-and-what-does-it-do-4d9a4200938f) and maintain the network voluntarily. The Proof of Work algorithm functions by having all nodes solve cryptographic puzzles. The first miner to solve the puzzle earns cryptocurrency as a reward.
+Bitcoin é um sistema de pagamento peer-to-peer descentralizado que permite que indivíduos troquem valor entre si, sem a necessidade de terceiros. Cada transação é registrada em um registro financeiro público para que todos possam ver. Esse registro financeiro é também conhecido como blockchain. Os usuários agem como [nodes](https://medium.com/coinmonks/blockchain-what-is-a-node-or-masternode-and-what-does-it-do-4d9a4200938f) e mantêm a rede voluntariamente. O algoritmo de Prova de Trabalho funciona fazendo com que todos os nodes resolvam quebra-cabeças criptográficos. O primeiro minerador a resolver o quebra-cabeça ganha criptomoedas como recompensa.
 
-As puzzles get solved, they become more challenging. Only a finite number of bitcoins will ever exist (21 million to be exact). This ensures bitcoins will never be devalued because of inflation, in the way fiat currencies are devalued. However, this also means that the cost of mining increases over time. Why? Because more and more nodes are racing to solve puzzles that are not only more difficult, but also more financially rewarding. Thus, large mining pools are developing, making the power to confirm transactions more centralized. A result that may not seem congruent with Bitcoin’s values.
+À medida que os quebra-cabeças são resolvidos, eles se tornam mais desafiadores. Apenas um número finito de bitcoins existirá (21 milhões para ser exato). Isso garante que os bitcoins nunca serão desvalorizados por causa da inflação, da mesma forma que as moedas fiduciárias são desvalorizadas. No entanto, isso também significa que o custo da mineração aumenta ao longo do tempo. Por quê? Porque existem cada vez mais nós, que estão correndo para resolver quebra-cabeças que não são apenas mais difíceis, mas também financeiramente mais recompensadores. Assim, grandes pools de mineração estão se desenvolvendo, tornando o poder de confirmar transações mais centralizado. Um resultado que pode não parecer congruente com os valores do Bitcoin.
 
-Today, miners are collectively [using enough energy](https://digiconomist.net/bitcoin-energy-consumption) to power entire countries. In response to this, a [post](https://bitcointalk.org/index.php?topic=27787.0) on the BitcoinTalk forum introduced the idea of a more energy-efficient algorithm called **Proof of Stake** (2011).<br/> 
+Hoje, os mineradores estão coletivamente [usando energia suficiente](https://digiconomist.net/bitcoin-energy-consumption) para abastecer países inteiros. Em resposta a isso, um [post](https://bitcointalk.org/index.php?topic=27787.0) no fórum BitcoinTalk introduziu a ideia de um algoritmo mais eficiente em termos de energia chamado **Prova de Participação** (2011 ).<br/>
 
-## Proof of Stake (PoS)
+## Prova de Participação (PoS)
 
-A **Proof of Stake** algorithm selects one node in a network to validate the next block of transactions. The selection is slightly randomized to ensure that not every miner (called a validator in PoS lingo) is competing at the same time and wasting energy.
+Um algoritmo de **Prova de Participação** seleciona um node em uma rede para validar o próximo bloco de transações. A seleção é levemente aleatória para garantir que nem todo minerador (chamado de validador, no jargão PoS) esteja competindo ao mesmo tempo e desperdiçando energia.
 
-Where all a node needs in a PoW system is more computing power, PoS validators must deposit coins or stake them to the network. The more coins a given node can stake to the network, the more likely that node is to be selected as a validator. That’s why selecting a validator is slightly randomized. It ensures that the nodes staking the most coins don’t get too many rewards too fast and centralize control of the network.<br/> 
+Onde tudo que um node precisa em um sistema PoS é mais poder de computação, os validadores PoS devem depositar moedas ou investir na rede. Quanto mais moedas um determinado node puder investir na rede, maior a probabilidade de esse node ser selecionado como validador. É por isso que selecionar um validador é um pouco aleatório. Isso garante que os nodes que investem mais moedas não recebam muitas recompensas muito rápido e centralizem o controle da rede.<br/>
 
-## Proof of Work vs. Proof of Stake
+## Prova de Trabalho vs. Prova de Participação
 
-The **Proof of Work** consensus algorithm offers two main benefits. One is that it’s the algorithm driving Bitcoin, the most valuable and well-known cryptocurrency in the world. Secondly, people trust Bitcoin and it’s ledger. Enthusiasts believe that bitcoin’s blockchain will always be the best way to secure a public, permissionless platform and keep all participants honest in spite of its flaws.
+O algoritmo de consenso baseado em **Prova de Trabalho** oferece dois benefícios principais. Uma é ser o algoritmo que impulsiona o Bitcoin, a criptomoeda mais valiosa e conhecida do mundo. Em segundo lugar, as pessoas confiam no Bitcoin e em seu registro financeiro. Os entusiastas acreditam que a blockchain do bitcoin sempre será a melhor maneira de proteger uma plataforma pública e sem permissão e manter todos os participantes honestos, apesar de suas falhas.
 
-*Like we mentioned earlier*, PoW isn’t perfect. Mining power requirements will continue to increase and put a strain on the world’s power grid. Mining pools will continue to increase in size and dominate the validation process.
+*Como mencionamos anteriormente*, PoW não é perfeito. Os requisitos de energia da mineração continuarão a aumentar e sobrecarregar a rede elétrica mundial. Os pools de mineração continuarão a aumentar de tamanho e dominarão o processo de validação.
 
-Having a large group of miners dominate more than 50% of the network and determine which transactions are validated and which are not is known as a [51% attack](https://www.investopedia.com/terms/1/51-attack.asp). Using a **Proof of Stake** model makes a 51% attack less likely. It’s also faster, more energy-efficient and costs less to run a PoS based blockchain.
+Ter um grande grupo de mineradores dominando mais de 50% da rede e determinando quais transações são validadas e quais não são é conhecido como um [ataque de 51%](https://www.investopedia.com/terms/1/51- ataque.asp). O uso de um modelo **Prova de Participação** reduz a probabilidade de um ataque em 51%. Também é mais rápido, mais eficiente em termos de energia e custa menos para executar um blockchain baseado em PoS.
 
-The downside of PoS is that the rich will still get richer and potentially control the consensus of the blockchain — without the need to invest in mining equipment or expertise. To try to combat this problem, several blockchain projects have adopted what is known as the **Delegated Proof of Stake** (DPoS) system. In this system, rather than participants using their wealth to vote on consensus, they use their wealth to vote on delegates. Those delegates then reach a conclusion on consensus. This little twist essentially makes it arguably more difficult to game the system.<br/> 
+A desvantagem do PoS é que os ricos ficarão ainda mais ricos e potencialmente controlarão o consenso do blockchain – sem a necessidade de investir em equipamentos ou conhecimentos de mineração. Para tentar combater esse problema, vários projetos de blockchain adotaram o que é conhecido como **Prova de Participação Delegada** (DPoS). Nesse sistema, em vez de os participantes usarem sua riqueza para votar em consenso, eles usam sua riqueza para votar nos delegados. Esses delegados, então, chegam a uma conclusão por consenso. Essa pequena reviravolta torna essencialmente mais difícil se aproveitar do sistema.<br/>
 
-## Cryptocurrencies Using Proof of Work
+## Criptomoedas Usando Prova de Trabalho
 
-Bitcoin and all of its forks (e.g. Bitcoin Cash, Bitcoin Gold) use the **Proof of Work** consensus mechanism, as do most other cryptocurrencies. Call it a side effect of the *‘if it ain’t broke, don’t fix it’* school of thought.
+Bitcoin e todos os seus forks (por exemplo, Bitcoin Cash, Bitcoin Gold) usam o mecanismo de consenso **Prova de Trabalho**, assim como a maioria das outras criptomoedas. Chame isso de efeito colateral da escola de pensamento *'se não está quebrado, não conserte'*.
 
-Other projects using PoW include privacy coins like [Monero](https://www.getmonero.org/) or [Verge](https://vergecurrency.com/), decentralized crypto exchange coins like [Digibyte](https://www.digibyte.co/), and blockchains dedicated to building decentralized applications like [Ethereum](https://www.ethereum.org/) *(which is moving to a PoS model soon).*<br/>
+Outros projetos que usam PoW incluem moedas de privacidade como [Monero](https://www.getmonero.org/) ou [Verge](https://vergecurrency.com/), moedas de troca de criptografia descentralizadas como [Digibyte](https:/ /www.digibyte.co/) e blockchains dedicados à construção de aplicativos descentralizados como [Ethereum](https://www.ethereum.org/) *(que será migrado para um modelo PoS em breve).*<br/>
 
-## Cryptocurrencies Using Proof of Stake
+## Criptomoedas Usando Prova de Participação
 
-As mentioned, Ethereum currently operates using PoW but is moving towards a **Proof of Stake** protocol called [Casper](https://blockgeeks.com/guides/ethereum-casper/). Casper allows a validator’s stake to get slashed if they act in a malicious manner. This also allows the blockchain and its participants to solve the problem of malicious actors even when certain crucial elements of information are missing. *A dilemma referred to as a *[*Byzantine fault*](https://en.wikipedia.org/wiki/Byzantine_fault)*.*
+Como mencionado, a Ethereum atualmente opera usando PoW, mas está se movendo em direção a um protocolo **Prova de Participação** chamado [Casper](https://blockgeeks.com/guides/ethereum-casper/). O Casper permite que a participação de um validador seja reduzida se ele agir de maneira maliciosa. Isso também permite que o blockchain e seus participantes resolvam o problema de agentes mal-intencionados, mesmo quando certos elementos cruciais de informação estão faltando. *Um dilema conhecido como *[*falha bizantina*](https://en.wikipedia.org/wiki/Byzantine_fault)*.*
 
-**Many projects in the crypto space are using a PoS model now:**
+**Muitos projetos no mundo cripto estão usando um modelo PoS agora:**
 
-* [NavCoin](https://navcoin.org/en): A privacy-based cryptocurrency.
-* [NEO](https://neo.org/): An open-source smart contracts platform, dubbed the Ethereum of China.
-* [ARK](https://ark.io/): A project aimed at making it easier to build blockchains.
-* [Komodo](https://komodoplatform.com/): A project making enterprise blockchain solutions easier to implement.<br/> 
+* [NavCoin](https://navcoin.org/en): Uma criptomoeda baseada em privacidade.
+* [NEO](https://neo.org/): Uma plataforma de contratos inteligentes de código aberto, apelidada de “Ethereum da China”.
+* [ARK](https://ark.io/): Um projeto que visa facilitar a construção de blockchains.
+* [Komodo](https://komodoplatform.com/): Um projeto que facilita a implementação de soluções corporativas de blockchain.<br/>
 
-## The End Goal of All Consensus Algorithms
+## O Objetivo Final de Todos os Algoritmos de Consenso
 
-Whether it’s Proof of Work, Proof of Stake, Delegated Proof of Stake or any other type of consensus algorithm that prevails, the broader goal will be the same: to make blockchains faster, more efficient, scalable and immutable.
+Seja Prova de Trabalho, Prova de Participação, Prova de Participação Delegada ou qualquer outro tipo de algoritmo de consenso que prevaleça, o objetivo mais amplo será o mesmo: tornar os blockchains mais rápidos, eficientes, escaláveis e imutáveis.
 
-The cryptocurrencies and blockchains that will push humanity into the future may include rules and ideas that haven’t even been invented yet. But that’s a reason to be excited, not worried. Keeping an eye on the future and exploring what we don’t yet know is where innovation lies.
+As criptomoedas e blockchains que impulsionarão a humanidade para o futuro podem incluir regras e ideias que ainda nem foram inventadas. Mas essa é uma razão para estar animado, e não preocupado. Olhar para o futuro e explorar aquilo que ainda não conhecemos é a alma da inovação.
 
 ---
 
-> This document was originally published on 2019-09-10 by ShapeShift Team and may have been slightly modified for translation by the Information and Globalization workstream for an ongoing archival project.
+> Este documento foi publicado originalmente em 10/09/2019 pela Equipe ShapeShift e pode ter sido ligeiramente modificado para tradução pelo fluxo de trabalho de Informação e Globalização para um projeto de arquivamente em andamento.
 >
-> Original article can be found [here](https://shapeshift.com/library/exploring-consensus-algorithms).
+> O artigo original pode ser encontrado [aqui](https://shapeshift.com/library/exploring-consensus-algorithms).
+
+
 {.is-success}
 
 ---
