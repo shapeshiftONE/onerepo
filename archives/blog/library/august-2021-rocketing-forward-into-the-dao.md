@@ -1,67 +1,63 @@
 ---
-title: Rocketing Forward Into the DAO
-description: Submitting My First Proposal and Embracing a New Way Forward
-published: false
+title: Disparando rumo a DAO
+description: Enviando minha primeira proposta e abraçando um novo caminho.
+published: true
 date: 2021-12-20T23:02:58.338Z
-tags: library, culture, defi, ethereum, shapeshift, needs-review
+tags: DAO, cultura, depoimento
 editor: markdown
 dateCreated: 2021-12-20T23:02:58.338Z
 ---
 
-# Rocketing Forward Into the DAO
+# Disparando rumo a DAO
+Eu recentemente participei da ETHcc em Paris, onde eu foi incrivelmente inspirado não só pelo entusiasmo sem fim da comunidade por todas as coisas de cripto, mas também pela energia e excitação que tantos transmitiram sobre a ShapeShift se tornar uma organização autônoma descentralizada (DAO). Minha primeira prioridade quando eu retornei era passar para frente, ao time ShapeShift, o que aprendi e experienciei.
 
-I recently attended ETHcc in Paris, where I was incredibly inspired by not only the endless enthusiasm of the community for all things crypto, but also the energy and excitement so many conveyed about ShapeShift becoming a decentralized autonomous organization (DAO). My first priority when I returned was passing along what I learned and experienced to the ShapeShift team.<br/>
+Compartilhei minhas maiores conclusões da conferência: ideias para novas parcerias, a inspiração que recebi de Vitalik quando ele fez um apelo para que construíssemos mais no Ethereum outras coisas além de apenas finanças descentralizadas e as repetidas perguntas de outros participantes sobre como transformar suas próprios organizações em DAOs.
 
-I shared my biggest takeaways from the conference: ideas for new partnerships, the inspiration I got from Vitalik when he made the plea for us to build more on Ethereum beyond just decentralized finance, and the repeated questions from other attendees about how to turn their own organizations into a DAO. <br/>
+Sim, fiquei entusiasmado e inspirado, bem como movido pelo compromisso da ShapeShift em assumir riscos – ou seja, mudar sua estrutura de governança corporativa em favor da criação da ShapeShift DAO.
 
-Yes, I was both excited and inspired, as well as moved by ShapeShift’s commitment to taking risks—namely, changing its corporate governance structure in favor of the creation of the ShapeShift DAO. <br/>
+Ainda assim, as perguntas permaneceram. Enquanto nos dirigíamos para um cenário de muitas incógnitas, eu estava pensando:
 
-Still, questions lingered. As we headed into many unknowns, I was contemplating: 
+* Como podemos fazer a transição com sucesso tão rapidamente?
+* Vamos realmente deixar qualquer um se juntar a nós nessa jornada?
+* O que acontecerá a esse projeto no qual eu gastei os últimos 5 anos trabalhando?
+* O que estarei fazendo assim que meu emprego formal com a ShapeShift acabar?
 
-* How can we successfully transition so quickly?
-* Are we really going to let anyone join us on this journey?
-* What will happen to this project that I have spent the past five years working on?
-* What will I be doing once my formal employment with ShapeShift ends? <br/>
+Compartilhei alguns dos meus pensamentos e perguntas abertas com meu mentor e chefe, Jon. Ele me lembrou que já tínhamos todas as ferramentas de que precisávamos para ter sucesso neste novo mundo. Respirei fundo e, com minha visão de futuro refocada, soube que nosso modelo de governança corporativa havia mudado para sempre e se encaixava perfeitamente no mundo que todos estivemos trabalhando para ajudar a construir.
 
-I shared some of my thoughts and open questions with my mentor and boss, Jon. He reminded me that we already had all the tools we needed to be successful in this new world. I took a deep breath and, with my future vision refocused, knew then our corporate governance model was forever changed, and it fit perfectly into the world we have all been working to help build. <br/>
+Era hora de mergulhar fundo e ver como eu poderia fazer alguma diferença.
 
-It was time to dive in and see how I could make a difference.<br/>
+Meu primeiro passo foi participar da conversa no [Discord](discord.gg) e começar a explorar o fórum para ver quais ideias a comunidade já havia colocado lá. Então, identifiquei uma oportunidade — uma área em que poderíamos adicionar significativamente à nossa plataforma para melhorar a experiência do usuário. Era hora de dar um passo à frente e fazer uma proposta.
 
-My first step was to join in the conversation on [Discord](https://discord.gg/shapeshift) and begin scouting the forum to see what ideas the community had already put out there. Then, I spotted an opportunity—an area where we could significantly add to our platform to improve our user experience. It was time to step forward and make a proposal.<br/>
+## Enviando uma proposta DAO: Os Passos (Spoiler: Não é tão difícil!)
+### Fase 1: Encontrando a ideia
+Algumas pessoas podem entrar com uma ideia que já sabem que querem ver realizada. Para mim, eu queria participar do progresso do ShapeShift e, assim, comecei a procurar um projeto que eu sabia que tinha habilidade e capacidade para realizar, que era um desejo claro e presente da base de usuários, e que contribuiria ao crescimento da empresa.
 
-## **Submitting a DAO Proposal: The Steps (Spoiler: It’s Not that Hard!)**<br/>
+Comecei a pesquisar nos fóruns e fui atraído por uma ideia de integração com o Osmosis (OSMO), um laboratório autoproclamado Automated Money Maker (AMM). Isso se alinhava com os valores da ShapeShift de promover a auto-soberania de ativos cripto e resultaria no uso mais profundo de ferramentas descentralizadas por meio de soluções mais acessíveis. O projeto precisava de um líder — alguém para elaborar um plano e alocar recursos. Isso se alinhou perfeitamente com o meu conjunto de habilidades.
 
-## **Phase 1: Finding the idea**<br/>
+### Fase 2: Aprenda como enviar uma proposta
 
-Some people may go into it with an idea they already know they want to see realized. For me, I wanted to participate in the forward progress of ShapeShift, and so, I started looking for a project that I knew I had the skill and capability to accomplish, that was a clear and present desire of the user base, and would contribute to company growth. <br/>
+Este [texto](https://forum.shapeshift.com/t/fox-governance-process/55) apresenta o processo completo de enviar uma proposta em linguagem simples. Não é tão difícil! Propostas sólidas e bem consideradas têm maior probabilidade de ganhar votos positivos, por isso encorajo qualquer pessoa que considere enviar uma a adicionar detalhes, marcos, datas, custos — qualquer coisa relevante para ajudar os votantes a tomar uma decisão e entender o escopo e o impacto do projeto. Tomei a decisão de incluir quatro marcos na proposta para que não fosse estritamente limitado ao tempo nem uma situação de “tudo ou nada” para quem trabalha no projeto.
 
-I started researching on the forums and was drawn to an idea for integrating with Osmosis (OSMO), a self-proclaimed Automated Money Maker (AMM) laboratory. This aligned with the ShapeShift values of promoting self-sovereignty of crypto assets and would result in further usage of decentralized tools via more accessible solutions. The project needed a leader—someone to craft a plan and allocate resources. It lined up perfectly with my skill set (check).<br/>
+### Fase 3: Pule! Mostre para o mundo
 
-## **Phase 2: Learn how to submit a proposal**<br/>
+Uma vez que a proposta estava completa, eu enviei-a para a comunidade via [boardroom](https://app.boardroom.info/shapeshift/overview), onde eu solicitei um feedback formal. Essa é uma parte importante do processo — você tem uma oportunidade de melhorar a proposta ao identificar lacunas ou preocupações de potenciais votantes antes da votação formal.
 
-This [resource](https://forum.shapeshift.com/t/fox-governance-process/55) lays out the complete process of submitting a proposal in simple language. It is not that hard! Solid, well-considered proposals are more likely to earn positive votes, so I encourage anyone considering submitting one themselves to add in details, milestones, dates, costs—anything relevant to help voters make a decision and understand the scope and impact of the project. I made the decision to include four milestones in the proposal so it would not be strictly time-bound nor an “all-or-nothing” situation for those working on the project.<br/>
+### Fase 4: O voto formal
 
-## **Phase 3: Take the plunge, show the world**
+Eu estive na ShapeShift por 4 anos; Eu estou familiarizado com nosso processo e como alcançar objetivos em nosso mundo centralizado das 9 às 5. No entanto, me vi com borboletas no estômago, lendo e relendo a proposta para ter certeza de que cada 'i' estava pontilhado.
 
-Once the proposal was completed, I submitted it to the community via [boardroom](https://app.boardroom.info/shapeshift/overview), where I solicited formal feedback. This is an important part of the process—you get an opportunity to improve the proposal by identifying gaps or concerns by potential voters prior to the formal vote.<br/>
+O suporte estava incrivelmente positivo e muito pesado. Não apenas nossa comunidade parecia querer essa ferramenta, eles viram o valor de adicionar uma comunidade adicional no ecossistema ShapeShift. Minha proposta passou, e era a primeira de todas a alcançar o quórum! Já houve muito entusiasmo e apoio da comunidade OSMO sobre essa ideia — eles se ofereceram para igualar nossa recompensa FOX com OSMO (pendente de seu próprio voto de [governança](https://www.mintscan.io/osmosis/proposals/26)).
 
-## **Phase 4: The formal vote**
+## Às vezes, você tem apenas que respirar e disparar em frente.
 
-I’ve been at ShapeShift for five years; I am familiar with our processes and how to accomplish goals in our 9-to-5, centralized world. Yet, I found myself with butterflies in my stomach, reading and re-reading the proposal to make sure every ‘i’ was dotted. <br/>
+Trabalhar em uma DAO é novo. Não para todos, para deixar claro. Mas é algo novo para mim, é novo para muitos no ShapeShift, e é novo para a maioria das pessoas no mundo de negócios. A mudança é difícil para a maioria das pessoas, mas às vezes você só precisa dar esse salto de fé e seguir em frente. Enviar uma proposta, trabalhar em um ambiente diferente e ajustar-se à governança baseada em tokens parece difícil, mas, pela minha experiência recente, a única coisa realmente difícil em grande parte disso é se ajustar ao fato de ser novo. 
 
-The support was incredibly positive and overwhelming. Not only did our community seem to want this feature, they saw the value of adding an additional community into the ShapeShift ecosystem. My proposal passed, and was the first ever to achieve quorum! There has already been much excitement and support from the OSMO community on this idea—they have offered to match our FOX bounty with OSMO (pending their own [governance vote](https://www.mintscan.io/osmosis/proposals/26)).<br/>
+Submeter uma proposta não foi tão difícil e, no final das contas, o trabalho ainda é trabalho. Contribui com valor para ShapeShift da mesma forma. Somente em um mundo descentralizado, existem inúmeras pessoas que podem encontrar áreas onde podemos melhorar, enviar uma proposta e adicionar inovação à nossa plataforma.
 
-## **Sometimes, You Have to Just Take a Breath and Rocket Forward**<br/>
+> Este documento foi originalmente publicado em 2021-08-24 por Danielle Wall e pode ter sido levemente modificado para tradução pelo fluxo de trabalho de informação e globalização para um ocorrente projeto de arquivamento.
 
-Working in a DAO is new. Not to everyone, to be sure. But it is new to me, it is new to many at ShapeShift, and it is new to most people in the working world. Change is hard for most people, but sometimes you just have to take that leap of faith and push forward. Submitting a proposal, working in a different environment, and adjusting to token-based governance all seem difficult, but, from my recent experience, the only really hard thing about much of this is adjusting to the fact that it’s new. <br/>
+> O artigo original pode ser encontrado [aqui](https://shapeshift.com/library/rocketing-forward-into-the-dao).
 
-Submitting a proposal wasn’t that difficult and, at the end of the day, the work is still work. It contributes value to ShapeShift just the same. Only in a decentralized world, there are countless people who can all find areas where we can improve, submit a proposal, and add to the innovation of our platform.<br/>
-
----
-
-> This document was originally published on 2021-08-24 by Danielle Wall and may have been slightly modified for translation by the Information and Globalization workstream for an ongoing archival project.
->
-> Original article can be found [here](https://shapeshift.com/library/rocketing-forward-into-the-dao).
 {.is-success}
 
 ---
