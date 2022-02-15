@@ -1,90 +1,91 @@
 ---
-title: Discovering DeFi in Blockchain Tech
-description: Learn about DeFi, lending, decentralized exchanges, derivatives, and more.
-published: false
+title: Descobrindo a DeFi na Tecnologia Blockchain
+description: Aprenda sobre: DeFi, lending, derivativos, DEXes e muito mais.
+published: true
 date: 2021-12-20T23:02:34.251Z
-tags: library, defi, finance, needs-review
+tags: defi, lending, borrow, dex, tutorial, derivativos
 editor: markdown
 dateCreated: 2021-12-20T23:02:34.251Z
 ---
 
-# Discovering DeFi in Blockchain Tech
+# Descobrindo a DeFi na Tecnologia Blockchain
 
 ![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9a22d15b73a1572ff26959_5e997ceee2013b7e140402e6_1_7tRdedJZQtryuJRrCOotIw%2520(1).png)
 
-**If** you’re involved in the crypto space, you’ve probably heard of DeFi. This has been one of the major buzzwords of the fintech world in 2019. DeFi is not a blockchain application, even though it sounds like it would be. It’s actually an abbreviation for the term decentralize finance.
+**Se** você está envolvido no espaço cripto, você provavelmente já ouviu falar em DeFi. Essa tem sido uma das palavras de ordem do mundo das fintechs em 2019. DeFi não é um aplicativo blockchain, mesmo que pareça que pareça que é. É na verdade uma abreviação para o termo finanças descentralizadas.
 
-The ethos behind the concept is simple, take value out of the hands of banks, governments, and other middlemen and empower the individual to take control of their own finances.
+O ethos por trás do conceito é simples, tomar o valor das mãos dos bancos, governos, e outros intermediários e aumentar o poder do indivíduo de ter controle sobre suas próprias finanças.
 
-From a technical standpoint, saving more value for the individual and keeping that money in their pockets means two things. First, all of the technical tools currently embedded within the ecosystem of decentralized technology get put to good use. Secondly, developers and users alike continue finding new ways to make achieving a truly decentralized financial system easier. The goal is to make spending, investing, and borrowing seamless in practice and completely democratic in structure.
+De um ponto de vista técnico, poupar mais valor para o indivíduo e manter esse dinheiro em seus bolsos significa duas coisas. Primeiro, todos os instrumentos técnicos atualmente embebidos dentro do ecossistema de tecnologia descentralizada são postos em bom uso. Segundo, os desenvolvedores e outros usuários continuam achando novos modos de alcançar um sistema verdadeiramente descentralizado que seja mais fácil. A meta é fazer gastos, investimentos e empréstimos ininterruptos na prática e completamente democráticos em estrutura.
 
-## Which Blockchains Use DeFi?
+## Quais Blockchains Usam DeFi?
 
-There are over 20 different blockchain projects currently helping people take control of their own finances. The majority of DeFi projects are executed on the Ethereum blockchain. Ethereum is dedicated to becoming the world’s largest decentralized computer. It allows developers to fund their own applications, build them, and share them with the world, without needing a big tech intermediary like Google or Apple to facilitate innovation, publishing, or marketing.
+Há mais de 20 diferentes projetos de blockchain atualmente ajudando as pessoas a tomar o controle de suas próprias finanças. A maioria dos projetos DeFi são executados na blockchain da Ethereum. A Ethereum é dedicada a se tornar o maior computador descentralizado do mundo. Permite aos desenvolvedores financiarem seus próprios aplicativos, desenvolverem-os e os compartilharem com o mundo, sem precisar de uma big tech intermediária como a Google ou a Apple para facilitar a inovação, publicação ou marketing.
 
-At this time, there’s only one blockchain project on the Bitcoin network that relates to decentralized finance, [The Lightning Network.](https://lightning.network/lightning-network-summary.pdf) This is a second layer of code on top of the Bitcoin blockchain that allows for the creation of smart contracts, which are self-executing contracts that eliminate the need for a third-party to oversee transactions. This makes transactions more cost-effective. The Lightning Network also accomplishes the following:
+Nesse momento, há apenas um projeto de blockchain na rede do Bitcoin que se relaciona com finanças descentralizadas [A Lighting Network.](https://lightning.network/lightning-network-summary.pdf) Essa é a segunda camada de código sobre a blockchain do Bitcoin que permite a criação de contratos inteligentes, os quais são contratos autoexecutáveis que eliminam a necessidade de um terceiro para fiscalizar as transações. Isso faz as transações serem mais custo-efetivas. A Lighting Network também cumpre com o seguinte:
 
-* **Instant Payments:** Lightning Network can be used at point-of-sale terminals to facilitate a transaction on the spot. This makes it easy and practical to use Bitcoin for everyday purchases.
-* **Micropayments:** Lightning Network allows for transactions as small as 0.00000001 BTC to be confirmed on the blockchain. This makes it easy to pay for consuming content or to send the spare change to a friend or merchant.
-* **Scalability:** The scalability implementation within the Lightning Network makes it possible for two parties to make unlimited transactions between devices off-chain. Only the final outcomes of a transaction go on-chain. Say hello to efficiency!
+* **Pagamentos Instantâneos:** A Lightning Network pode ser usada em pontos de vendas terminais para facilitar uma transação a vista. Isso faz com que seja fácil usar o Bitcoin para compras cotidianas.
+* **Micropagamentos:** A Lightning Network permite transações tão pequenas quanto 0.00000001  a serem confirmadas na blockchain. Isso faz com que seja fácil pagar por conteúdo de consumo ou para enviar o troco a uma amigo ou mercador.
+* **Escalabilidade:** A implementação da escalabilidade dentro da Lightning Network faz possível com que duas partes façam transações ilimitadas entre dispositivos off-chain. Apenas os  resultados finais de uma transação ficam on-chain. Diga olá para a eficiência!
 
-## Types of DeFi Projects
+## Tipos de Projetos DeFi
 
-Many other significant [DeFi projects](https://defipulse.com/) in the blockchain world are hosted on the Ethereum network. These projects intend to make access to assets easier for everyone, ensuring that there is enough liquidity to go around. The endgame is to make things as seamless as possible and to make cryptocurrencies and blockchain tech easier to use.
+Muitos outros [projetos DeFi](https://defipulse.com/) significantes no mundo blockchain são hospedados na rede da Ethereum. Esses projetos intencionam fazer o acesso aos  ativos mais fácil para todos, assegurando que lá há liquidez o suficiente para que ela flua. O fim do jogo é fazer as coisas tão ininterruptas quanto possível e fazer com que as criptomoedas e a blockchain sejam mais fáceis para usar.
 
-## **<br/>Those projects fit into five different categories:**
+##  **<br/>Esses projetos cabem em cinco diferentes categorias:**
 
-* Lending
-* Decentralized Exchanges
-* Derivatives
-* Payments
-* Assets
+* Empréstimo
+* Corretoras descentralizadas
+* Derivativos
+* Pagamentos
+* Ativos
 
-## Lending
+## Empréstimo
 
-[MakerDao](https://makerdao.com/en/) is by far the most popular DeFi project on the Ethereum network. Currently, there are over $309 million in user funds locked into the project. The project itself is a decentralized credit platform that supports [DAI](https://coincap.io/assets/dai).
+[MakerDao](https://makerdao.com/en/) é de longe o projeto DeFi mais popular na rede da Ethereum. Atualmente, ´há mais de $309 milhões em fundos de usuários trancados no projeto. O próprio projeto é uma plataforma de crédito descentralizada com suporte a [DAI](https://coincap.io/assets/dai).
 
-DAI is a stablecoin with value that is attached directly to the U.S. dollar. It allows anyone who uses [MKR](https://coincap.io/assets/maker) to open a Collateralized Debt Position (CDP). This means they lock in ETH and generate DAI as debt against the collateral. In other words, the user gets to borrow money. DAI debt incurs a stability fee, which is paid in MKR tokens upon the repayment of the DAI being borrowed.
+DAI é uma stablecoin com valor que é anexada diretamente ao dolar americano. Ela permite que todos usem [MKR](https://coincap.io/assets/maker) para abrir uma Posição de Dívida Colateralizada (CDP, Collateralized Debt Position). Isso significa que eles trancam em ETH e geram DAI como dívida contra o colateral. Em outras palavras, o usuário consegue pegar dinheiro emprestado. Dívidas em DAI incorrem em uma taxa de estabilidade, a qual é paga em tokens MRK sob o re-pagamento da DAI sendo emprestado.
 
-Users can borrow up to 66% of their collateral’s value (based on a 150% collateralization ratio). CDPs that fall below that rate are subject to a 13% penalty and liquidation to bring the CDP out of default. Liquidated collateral is sold on the open market at a 3% discount.
+Usuáarios podem pegar emprestado até 66% do valor de seus colaterais (baseado em uma média de 150% d e colateralização). CDPs que caem para abio dessa taxa são sujeitas a uma penalidade de 13% e a liquidação para levar a CDP de volta para o padrão. Colaterais liquidados são vendidos no mercado aberto com 3% de desconto.
 
-Other DeFi lending projects attempting to accomplish the same type of efficiency include [Compound](https://compound.finance/), [InstaDapp](https://instadapp.io/), [dYdX](https://dydx.exchange/) and [Nuo Network](https://www.nuo.network/).
+Outros projetos de empréstimos em DeFi tentando completar o mesmo tipo de eficiência incluem o [Compound](https://compound.finance/), [InstaDapp](https://instadapp.io/), [dYdX](https://dydx.exchange/) and [Nuo Network](https://www.nuo.network/).
 
-## Decentralized Exchange Projects
+## Projetos de Corretoras Descentralizadas
 
-The top decentralized exchange projects on the Ethereum blockchain include Uniswap, [Bancor](https://www.bancor.network/), and [Kyber](https://kyber.network/). Out of the $33 million in fines locked into the three projects, over two-thirds of that value is just in Uniswap.
+Os principais projetos de corretoras descentralizadas na blockchain da Ethereum incluem a Uniswap, [Bancor](https://www.bancor.network/) e [Kyber](https://kyber.network/). Dos US$ 33 milhões em multas vinculadas aos três projetos, mais de dois terços desse valor estão apenas no Uniswap.
 
-[Uniswap](https://uniswap.io/) is a fully decentralized on-chain protocol that uses liquidity pools instead of order books to facilitate transactions. Anyone can trade between ETH or any other tokens that use the ERC-20 protocol. Traders can also earn fees by providing added liquidity to the market and lending their own tokens to the exchange.
+[Uniswap](https://uniswap.io/) é um protocolo on-chain totalmente descentralizado que usa pools de liquidez em vez de livros de pedidos para facilitar as transações. Qualquer pessoa pode negociar entre ETH ou qualquer outro token que use o protocolo ERC-20. Traders também podem ganhar taxas fornecendo liquidez adicional ao mercado e emprestando seus próprios tokens para a corretora.
 
-Uniswap doesn’t have a native token, but each trading pair is represented by a freely transferable ERC-20 token. All trading fees are added to the appropriate trading pool, and that fee usually ranges around 0.3% on a trade.
+A Uniswap não possui um token nativo, mas cada par de negociação é representado por uma token ERC-20 livremente transferível. Todas as tarifas de negociação são adicionadas para a trading pool apropriada e essa tarifa geralmente gira em torno de 0.3% numa negociação.
 
-## Derivatives
+## Derivativos
 
-A derivative is essentially a synthetic asset that represents a real-world asset. Creating these kinds of assets on the blockchain gives users access to real-world markets while providing the security that comes with a decentralized network.
+Um derivativo é essencialmente um ativo sintético que representa um ativo do mundo real. Criar esses tipos de ativos na bockchain dá aos usuários acessos a mercados do mundo real enquanto providenciam a segurança que vêm com uma rede descentralizada.
 
-[Synthetix](https://www.synthetix.io/) controls almost $88.5 million in funds and represents 20 different synths connected to cryptocurrencies, fiat currencies, and commodities. The project intends to introduce stocks and indices in the future.
+[Syinthetix](https://www.synthetix.io/) controla até $88.5 milhões em fundos e representa 20 diferentes synths conectados a criptomoedas, moedas fiduciárias e mercadorias. O projeto intenciona introduzir ações e índices no futuro.
 
-Other derivatives based projects include predictive markets, one of the most popular use cases for blockchain projects. [Augur](https://www.augur.net/) is a popular peer-to-peer project in that space. It allows anyone to create a market surrounding a real-world event. Given gambling is one of the most popular uses for crypto, these kinds of markets have continued to thrive.
+Outros projetos baseados em derivativos incluem mercados previsíveis, um dos mais populares casos de uso para projetos blockchain. [Augur](https://www.augur.net/) é um projeto peer-to-peer popular nesse espaço. Permite que todos criem um mercado em volta de um evento do mundo real. Dado que apostas são um dos usos mais populares para as criptos, esses tipos de mercados continuam a prosperar.
 
-## Payments
+## Pagamentos
 
-The Lightning Network handles $7.7 million worth of payments at any given time and is the only payment network that’s on the Bitcoin blockchain.
+A Lightning Network mexe com o equivalente a $7.7 milhões em pagamentos a qualquer dado tempo e é a única rede de pagamentos na blockchain do Bitcoin.
 
-There are two payments projects on the Ethereum network: xDai and Connext. [xDai](https://www.xdaichain.com/) is a sidechain project with five-second block times and low gas costs. It is associated with the [POA Network](https://www.poa.network/) and [MakerDao](https://makerdao.com/en/). [Connext](https://connext.network/) essentially allows users to load a card with value and use that value instantly.
+Há dois projetos de pagamentos na rede da Ethereum: xDai e Connext. [xDai](https://www.xdaichain.com/) é um projeto sidechain com tempos de bloco de cinco segundos e baixos custos de gas. É associado com a [POA Network](https://www.poa.network/) and [MakerDao](https://makerdao.com/en/). [Connext](https://connext.network/) essencialmente permite que os usuários carreguem um cartão com  um determinado valor e usem esse valor instantaneamente.
 
-## Assets
+## Ativos
 
-[WBTC](https://www.wbtc.network/) is an ERC-20 token backed by Bitcoin. The idea behind it is to bring the vast liquidity available on the Bitcoin network to Ethereum. WBTCs are traded on both decentralized and centralized exchanges. Users can swap WBTC through eight different merchants. Swapping assets does require customers to go through Anti-Money Laundering (AML) and Know Your Client (KYC) procedures. This initiative is run by a decentralized autonomous organization and is supported by 16 different projects that all have an interest in decentralizing finance. These include [Dharma](https://www.dharma.io/), [MakerDao](https://makerdao.com/en/), [Set Protocol](https://www.tokensets.com/) and [Compound](https://compound.finance/).
+[WBTC](https://www.wbtc.network/) é um token ERC-20 lastreado por Bitcoin. A ideia por atrás disso é trazer a vasta liquidez disponível na rede do Bitcoin para a Ethereum. WBTCs são negociados tanto em corretoras centralizadas como em corretoras descentralizadas. Usuários podem trocar WBTC através de três diferentes mercados. Trocar ativos requer que os clientes vão através de procedimentos Anti-Lavagem de Dinheiro (AML, Anti-Money Laundering) e de Know your Client (KYC). Essa iniciativa é dirigida por uma organização descentralizada autônoma e é apoiada por 16 diferentes projetos que todos têm um interesse em descentralizar as finanças. Esses incluem [Dharma](https://www.dharma.io/), [MakerDao](https://makerdao.com/en/), [Set Protocol](https://www.tokensets.com/) e [Compound](https://compound.finance/).
 
-## The Future of DeFi
+## O Futuro da DeFi
 
-The world of decentralized finance exists to continue the mission of providing users with democracy and agency over their value and to make the cryptocurrency market more stable and accessible. That means making it accessible to consumers, merchants, investors, and institutions. Innovation is propelling DeFi into real-world use cases, giving the technology the avenues and potential to impact the world.<br/> 
+O mundo das finanças descentralizadas existe para continuar a missão de prover aos usuáraios democracia e agência sobre o valor deles e fazer do mercado de criptomoedas mais estável e acessível. Isso significa fazê-lo acessível a consumidores, comerciantes, investidores e instituições. A inovação está propelindo o DeFi para casos de uso no mundo real, dando a tecnologia as vias e o potencial para impactar o mundo.<br/> 
 
 ---
 
-> This document was originally published on 2019-12-02 by ShapeShift Team and may have been slightly modified for translation by the Information and Globalization workstream for an ongoing archival project.
+> Este documento foi originalmente publicado em 02/12/2019 pela Equipe ShapeShift e pode ter sido levemente modificado para tradução pelo fluxo de trabalho de Informação e Globalização para um projeto em andamento de arquivamento.
 >
-> Original article can be found [here](https://shapeshift.com/library/discovering-defi-in-blockchain-tech).
+> O artigo original pode ser encontrado [aqui](https://shapeshift.com/library/discovering-defi-in-blockchain-tech).
+
 {.is-success}
 
 ---
