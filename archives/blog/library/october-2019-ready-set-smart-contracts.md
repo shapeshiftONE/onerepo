@@ -1,68 +1,66 @@
 ---
-title: Ready, Set, Smart Contracts!
-description: Get up to speed on Ethereum’s gas & smart contracts.
-published: false
+title: Preparar, Apontar, Contratos Inteligentes!
+description: Fique por dentro dos contratos inteligentes e do gás da rede Ethereum.
+published: true
 date: 2021-12-20T23:02:57.109Z
-tags: library, ethereum, finance, needs-review
+tags: gas, ethereum, contrato inteligente, desenvolvimento, rede ethereum, ETH
 editor: markdown
 dateCreated: 2021-12-20T23:02:57.109Z
 ---
 
-# Ready, Set, Smart Contracts!
+# Preparar, Apontar, Contratos Inteligentes!
 
-![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9f1de56e4ed03fd436de98_1_bqrhDTw5DN0URwJVl1N9tQ.png)
+![](https://camo.githubusercontent.com/3c7c1c7f2aabd665fa6bb9041b08368a286c603c75f69e71ccd94fcc9e7ce142/68747470733a2f2f6173736574732e776562736974652d66696c65732e636f6d2f3565396130393631306237646365373166383766376631372f3565396631646535366534656430336664343336646539385f315f6271726844547735444e305552774a566c314e3974512e706e67)
 
-**The** [Ethereum](https://www.ethereum.org/) blockchain is on a mission to become the most powerful decentralized supercomputer using gas to fuel smart contracts. Ethereum-based projects are regularly dominating the crypto news, with innovative ideas based around these new concepts and technology.
 
-Learning about gas and smart contracts can be valuable information to any crypto enthusiast, even those who aren’t interested in Ethereum specifically. Ethereum is known for paving the way for this technology, but there are many other blockchains exploring smart contracts. They all have a shared goal of evolving decentralized technologies and cryptocurrencies far beyond what they are today.<br/> 
+A blockchain [Ethereum](https://www.ethereum.org/) está em uma missão de se tornar o supercomputador descentralizado mais poderoso ao usar gas para alimentar contratos inteligentes. Projetos baseados em Ethereum estão dominando regularmente as notícias de cripto, com ideias inovadoras baseadas nesses novos conceitos e tecnologias.
 
-## ⛽️ Gas: Fueling the Ethereum Network
+Aprender sobre gas e contratos inteligentes pode ser uma informação valiosa para qualquer entusiasta de cripto, mesmo aqueles que não estão interessados especificamente na Ethereum. A Ethereum é conhecida por pavimentar a estrada para essa tecnologia, mas existem muitas outras blockchains explorando contratos inteligentes. Todas elas têm um objetivo comum de desenvolver tecnologias descentralizadas e criptomoedas para muito além do que são hoje.
 
-Gas on the Ethereum network is similar to gas in a car — it’s what sets the Ethereum blockchain in motion. In the context of blockchain technology, gas refers to the [smallest unit of work](https://www.youtube.com/watch?v=hQ78FVSv-vs&t) that occurs on the network. Just like most other blockchains, Ethereum depends on nodes to secure the network by confirming transactions and completing computations. These nodes are called validators.
+## ⛽️ Gas: Abastecendo a Rede Ethereum
 
-In order for validators to work together in a decentralized fashion, they need a way to decide what tasks should be done first. This is because Ethereum can only account for a limited number of gas units at any given time. Without both gas and a gas limit, there would be a lack of order, and the blockchain would be susceptible to spamming attacks.
+O gas na rede Ethereum é semelhante ao gás em um carro — é o que coloca a blockchain Ethereum em movimento. No contexto da tecnologia blockchain, gas se refere à [menor unidade de trabalho](https://www.youtube.com/watch?v=hQ78FVSv-vs&t) que ocorre na rede. Assim como a maioria das outras blockchains, o Ethereum depende de *nodes* [nós] para proteger a rede, confirmando transações e concluindo cálculos. Esses nós são chamados de validadores.
 
-Gas prevents users from spending an unlimited amount of ETH tokens on the Ethereum network. It also safeguards the network from overloading and gives people an incentive to keep the blockchain secure and running smoothly.<br/> 
+Para que os validadores trabalhem juntos de forma descentralizada, eles precisam de uma maneira de decidir quais tarefas devem ser realizadas primeiro. Isso ocorre porque o Ethereum só pode contabilizar um número limitado de unidades de gas a qualquer momento. Sem gas e um limite de gas, haveria uma falta de ordens e a blockchain seria suscetível a ataques de spam.
 
-![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9f1e15888b907b1c92d077_1*OVlusBsHObgphFXuxVKZ5Q.png)
+Gas previne que os usuários gastem uma quantidade ilimitada de tokens ETH na rede Ethereum. Ele também protege a rede contra sobrecarga e dá às pessoas um incentivo para manter a blockchain segura e funcionando sem problemas.
 
-<br/>Gas is not a reward. Gas is considered Ethereum’s base units of work. Rewards are attached to the gas price in the form of tokens, called GWEI. GWEI is an incentive to validators, who prioritize work that is assigned a greater reward. In addition to knowing what work is most valuable, a validator also needs to know how much work is being requested. This is represented by the gas limit. Many wallet apps set the limit for the user, so it’s not something the average crypto user may be aware of when performing transactions. If the gas limit is too low, transactions will not be prioritized. If the gas limit is too high, the excess gas is returned to the user once the transaction is complete.
+![](https://camo.githubusercontent.com/fae51cd3375d7b793e034547984a4d69ee48f6ec3d9ba46dcdc789c38c23a9d9/68747470733a2f2f6173736574732e776562736974652d66696c65732e636f6d2f3565396130393631306237646365373166383766376631372f3565396631653135383838623930376231633932643037375f312a4f566c75734273484f6267706846587578564b5a35512e706e67)
+O gas não é uma recompensa. O gas é considerado a unidade básica de trabalho da Ethereum. As recompensas são anexadas ao preço do gas na forma de tokens, chamados GWEI. O GWEI é um incentivo aos validadores, que priorizam o trabalho que recebe maior recompensa. Além de saber qual trabalho é mais valioso, um validador também precisa saber quanto trabalho está sendo solicitado. Isso é representado pelo limite de gas. Muitos aplicativos de carteira definem o limite para o usuário, portanto, não é algo que o usuário médio de cripto irá estar ciente ao realizar transações. Se o limite de gas for muito baixo, as transações não serão priorizadas. Se o limite de gas for muito alto, o excesso de gas será devolvido ao usuário assim que a transação for concluída.
 
-## 👨 🔧 Smart Contracts Defined
+## 👨 🔧 Contratos inteligentes definidos
+Um *[smart contract](https://blockgeeks.com/guides/ethereum-gas/)* [contrato inteligente] permite um acordo entre duas partes para a troca de valor, sem a necessidade de um intermediário. Tal valor pode ser qualquer coisa — dinheiro, propriedade, ações ou *copyrights*. Esses contratos são automáticos e auto executáveis.
 
-A [smart contract](https://blockgeeks.com/guides/ethereum-gas/) enables an agreement between two parties to exchange value, without the need for a middleman. That value could be anything from money, property, shares, or copyrights. These contracts are both automatic and self-executing.
+Do ponto de vista técnico, os programadores criam contratos inteligentes usando uma linguagem chamada [Solidity](https://blockonomi.com/solidity-guide/). Os princípios básicos de um contrato inteligente seguem uma lógica *se-isso-então-aquilo*. Isso garante que os resultados finais definidos por um contrato inteligente não sejam executados até que todas as condições descritas por tal contrato sejam satisfeitas.
 
-From a technical standpoint, programmers create smart contracts using a language called S[olidity](https://blockonomi.com/solidity-guide/). The basic principles of a smart contract follow an *if-this-then-that* logic. This ensures that the final outcomes defined by a smart contract don’t execute until every single condition outlined by that contract is satisfied.
+*Ex. Um proprietário que vende uma propriedade é um caso de uso real para contratos inteligentes. A venda de imóveis exige uma grande quantidade de papelada e pode ser muito complexa. Requer muita comunicação entre o comprador e o vendedor, e o risco de fraude definitivamente precisa ser contabilizado. Com o alto preço dos imóveis e o potencial de ser a compra mais cara que um indivíduo fará em sua vida, os agentes imobiliários e os serviços de custódia precisam estar envolvidos para facilitar a transação. Os advogados imobiliários muitas vezes auxiliam na apresentação da papelada. Isso significa que três intermediários diferentes que participam da transação ganham uma comissão ou taxa porque o comprador e o vendedor gostariam de fazer uma troca de valor.*
 
-*EX. A homeowner selling a property is a real-world use case for smart contracts. Selling property demands a large amounts of paperwork and can be very complex. It requires a lot of communication between the buyer and seller, and the risk of fraud definitely needs to be accounted for. With the high price on real estate and the potential to be the most costly purchase an individual will ever make in their lifetime, real estate agents and escrow services need to be involved in facilitating the transaction. Real estate lawyers often assist in filing the paperwork. That means three different intermediaries participating in the transaction earn a commission or a fee because the buyer and seller would like to make an exchange of value.*
+*Um contrato inteligente pode substituir os serviços de custódia e das terceiras partes envolvidas, deixando mais dinheiro nos bolsos do comprador e do vendedor. Considerando que agentes, advogados e serviços de custódia podem acabar com algo em torno de 5% a 10% da transação imobiliária, a economia de custos com o uso de um contrato inteligente pode ser bastante significativa.*
 
-*A smart contract can replace the escrow services and third parties involved, leaving more money in the pockets of the buyer and seller. Considering agents, lawyers, and escrow services can end up with anywhere from 5% to 10% of the real estate transaction, the cost savings from using a smart contract can be quite significant.*
+## 🚦 Lançando Contratos Inteligentes com Gas
+Todo trabalho realizado na blockchain Ethereum requer gas. Geralmente em cripto, trabalho se refere apenas à validação de transações. Em relação à blockchain Ethereum, o trabalho refere-se tanto à conclusão de transações quanto à execução de aplicativos descentralizados e de contratos inteligentes.
 
-## 🚦 **Launching Smart Contracts With Gas**
+A quantia de gas que um usuário precisa para executar um contrato inteligente depende de quão grande e pesada é o contrato e quão rápido o usuário deseja que ele seja executado. Se um usuário estiver disposto a esperar, ele pode pagar menos em gas. Se quiser que o contrato seja concluído rapidamente, o usuário pode pagar uma quantidade maior de gas.
 
-Every bit of work carried out on the Ethereum blockchain requires gas. Generally, in crypto work usually refers only to validating transactions. In regards to the Ethereum blockchain, work refers to both completing transactions *and* running decentralized applications and smart contracts.
+## 🏁 Impulsionando a Tecnologia Blockchain
+Ethereum é a pioneira dos contratos inteligentes, fazendo da rede um exemplo primário de uma plataforma de contratos inteligentes; mas como mencionado anteriormente, há muitas blockchains fazendo avanços com a tecnologia de contrato inteligente.
 
-The amount of gas a user needs to execute a smart contract depends on how large and cumbersome the contract is and how fast the user wants it executed. If a user is willing to wait, they can pay less in gas. If they want the contract completed quickly, the user can pay a higher amount of gas.<br/> 
+A [EOSIO](https://twitter.com/block_one_) oferece recursos de contrato inteligente e está entre as 10 principais entre todas as criptomoedas e capitalização de mercado. Embora seja amigável para contratos inteligentes, a EOS está focada em oferecer velocidades de transação que superam todas as outras blockchains.
 
-## 🏁 Driving Change in Blockchain Technology
+A [Tezos](https://tezos.com/) oferece um livro-razão criptográfico “*self-amending*” [auto modificável] que pode se adaptar ao que o mundo precisar, com os participantes da rede votando sobre o que deve acontecer a seguir.
 
-Ethereum is the pioneer of smart contracts, making the network a prime example of a smart contract platform. But as mentioned earlier, there are many blockchains making advances with smart contract technology.
+A [Stellar](https://www.stellar.org/developers/guides/walkthroughs/stellar-smart-contracts.html) quer interromper as remessas internacionais, permitindo que os usuários substituam serviços como Western Union e MoneyGram e concluam transações instantaneamente quase sem custo.
 
-[***EOSIO***](https://twitter.com/block_one_) *offers smart contract capabilities and ranks in the top 10 among all cryptocurrencies and market capitalization. Though it is smart contract friendly, EOS is focused on offering transaction speeds that surpass all other blockchains.*
-
-[***Tezos***](https://tezos.com/) *offers a “self-amending” cryptographic ledger that can adapt to whatever the world needs with participants in the network voting on what should happen next.*
-
-[***Stellar***](https://www.stellar.org/developers/guides/walkthroughs/stellar-smart-contracts.html) *wants to disrupt international remittance, allowing users to replace services like Western Union and MoneyGram and complete transactions instantly at almost no cost.*<br/>
-
-## 🏎💨 Start Your Engines
-
-Ethereum’s founders were the first to realize that blockchains could handle more than just basic payments. Now, other builders in the crypto space are quickly catching on to new ideas and concepts like smart contracts. With further development and interest from a variety of industries, this tech may just be a gateway to mainstream adoption.
+## 🏎💨 Ligue seus Motores
+Os fundadores do Ethereum foram os primeiros a perceber que as blockchains poderiam lidar com mais do que apenas pagamentos básicos. Agora, outros construtores do espaço cripto estão rapidamente adotando novas ideias e conceitos, como contratos inteligentes. Com mais desenvolvimento e o interesse de uma variedade de indústrias, essa tecnologia pode ser uma porta de entrada para a adoção do *mainstream*.
 
 ---
 
-> This document was originally published on 2019-10-22 by ShapeShift Team and may have been slightly modified for translation by the Information and Globalization workstream for an ongoing archival project.
->
-> Original article can be found [here](https://shapeshift.com/library/ready-set-smart-contracts).
+> Este documento foi originalmente publicado em 2019-10-22 pelo Time ShapeShift e pode ter sido levemente modificado para tradução pelo fluxo de trabalho de informação e globalização para um ocorrente projeto de arquivamento.
+> 
+> O artigo original pode ser encontrado [aqui](https://shapeshift.com/library/ready-set-smart-contracts).
+
+
 {.is-success}
 
 ---
