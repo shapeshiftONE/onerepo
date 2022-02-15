@@ -1,86 +1,87 @@
 ---
-title: Bitcoin Halving 2020 Is Coming Up - What It Means
-description: Learn about the next BTC halving, past halvings, and their effects. 
-published: false
+title: Bitcoin Halving 2020 está chegando - o que isso significa
+description: Saiba mais sobre o próximo halving do BTC, halvings anteriores e seus efeitos.
+published: true
 date: 2021-12-20T23:02:20.272Z
-tags: library, bitcoin, trading, news, needs-review
+tags: bitcoin, halving, blockchain, tecnologia, 2020
 editor: markdown
 dateCreated: 2021-12-20T23:02:20.272Z
 ---
 
-# Bitcoin Halving 2020 Is Coming Up - What It Means
+# Bitcoin Halving 2020 está chegando - o que isso significa
 
 ![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5ea9d814c4a052c712741800_Halving.png)
 
-The next bitcoin halving event is just around the corner, estimated to take place on May 11, 2020. Crypto enthusiasts, profiteers, and the casual observer can’t help but ask what it all means. To answer that question, it’s important to examine what the bitcoin halving event actually is and why it is programmed into the Bitcoin network in the first place.
+O próximo evento de halving do bitcoin está chegando, estimado para ocorrer em 11 de maio de 2020. Entusiastas de criptomoedas, aproveitadores e observadores casuais não podem deixar de perguntar o que tudo isso significa. Para responder a essa pergunta, é importante examinar o que o evento de halving do bitcoin realmente é e por que ele está programado na rede Bitcoin em primeiro lugar.
 
-It’s also important to understand that bitcoin is not the only cryptocurrency that incorporates halving events into its network. There are many versions of halving events which, in a broader sense, are supply and demand controls designed to address inflation and economics in innovative ways.
+É também importante entender que o bitcoin não é a única criptomoeda que incorpora eventos halving em sua rede. Existem muitas versões de eventos do tipo halving que, em um sentido mais amplo, são controles de oferta e demanda projetados para lidar com a inflação e a economia de maneiras inovadoras.
 
-Let’s explore the bitcoin halving and its implications on both supply, demand, price, and market sentiment. Halving affects all of them.
+Vamos explorar o halving do bitcoin e suas implicações na oferta, demanda, preço e sentimento do mercado. O halving afeta todos eles.
 
-## What is bitcoin halving?
+## O que é o halving do bitcoin?
 
-Bitcoin is produced by miners, who earn a defined amount of bitcoin whenever they produce a block. When bitcoin first started, miners earned 50 bitcoins per block. Halving is the reduction of that reward by one half after every 210,000 mined blocks. The current reward is 12.5 coins per block, which will decrease to 6.25 coins per block at the halving event.
+Bitcoin é produzido por mineradores, que ganham uma quantidade definida de bitcoin sempre que produzem um bloco. Quando o bitcoin começou, os mineradores ganhavam 50 bitcoins por bloco. O halving é a redução dessa recompensa pela metade a cada 210.000 blocos minerados. A recompensa atual é de 12,5 moedas por bloco, que diminuirá para 6,25 moedas por bloco no evento do halving.
 
-As the reward decreases, so does the global bitcoin supply as miners get less currency per unit of effort. The mining of bitcoin resembles the mining of a dwindling supply of a precious metal such as gold. Eventually, there will be no earnings at all for mining bitcoin (although the breakeven point of mining energy cost matching profit will arrive long before that). 
+À medida que a recompensa diminui, o mesmo acontece com a oferta global de bitcoin, pois os mineradores obtêm menos moeda por unidade de esforço. A mineração de bitcoin se assemelha à mineração de uma oferta cada vez menor de um metal precioso como o ouro. Eventualmente, não haverá ganhos para a mineração de bitcoin (embora o ponto de equilíbrio do lucro correspondente ao custo de energia da mineração chegue muito antes disso). 
 
-The bitcoin halving event is preprogrammed and built into the Bitcoin network. It creates scarcity to control inflation in a predetermined fashion. 
+O evento de halving do bitcoin é pré-programado e integrado à rede Bitcoin. Cria escassez para controlar a inflação de forma predeterminada. 
 
-## Inflation Is Why Cryptocurrencies Implement Halving Events
+## A inflação é o motivo pelo qual as criptomoedas implementam eventos de halving
 
-Some governments have the power to print more national currency as their leaders see fit, and increasing the supply of money can be seen as a positive until the demand for the currency is low. This can lead to inflation, as the real value of that currency drops. Outside agents might become reluctant to do business with countries who purchase goods or services with an inflationary currency, and their citizens could have to spend more money to acquire basic commodities and goods necessary for daily life. 
+Alguns governos têm o poder de imprimir mais moeda nacional conforme seus líderes acharem adequado, e aumentar a oferta de dinheiro pode ser visto como positivo até que a demanda pela moeda seja baixa. Isso pode levar à inflação, pois o valor real dessa moeda cai. Agentes externos podem ficar relutantes em fazer negócios com países que compram bens ou serviços com uma moeda inflacionária, e seus cidadãos podem ter que gastar mais dinheiro para adquirir bens básicos e necessários para a vida diária. 
 
-[Venezuela](https://www.cnbc.com/2019/08/02/venezuela-inflation-at-10-million-percent-its-time-for-shock-therapy.html) is one example of a country that is experiencing hyperinflation and economic crisis due to the mass-printing of money to account for a growing national debt. Some citizens are fleeing Venezuela as they realize the money they worked so hard to earn is no longer worth nearly as much as it was when they earned it. The inflation rate is drastic with no immediate end in sight (although we at ShapeShift do [have a solution in mind](https://medium.com/shapeshift-stories/financial-freedom-with-crypto-d42dde08a37d)).
+[Venezuela](https://www.cnbc.com/2019/08/02/venezuela-inflation-at-10-million-percent-its-time-for-shock-therapy.html) é um exemplo de país que está passando por hiperinflação e crise econômica devido à impressão em massa de dinheiro para dar conta de uma dívida nacional crescente. Alguns cidadãos estão fugindo da Venezuela ao perceberem que o dinheiro que trabalharam tanto para ganhar não vale mais tanto quanto quando o ganharam. A taxa de inflação é drástica, sem fim imediato à vista (embora nós da ShapeShift tenhamos uma solução em mente)(https://medium.com/shapeshift-stories/financial-freedom-with-crypto-d42dde08a37d)).
 
-Bitcoin’s built-in halving mechanism causes the new supply of bitcoin entering the market to be cut in half approximately every four years. Bitcoin supply will therefore slow and eventually end, so steady demand will allow it to maintain its value.
+O mecanismo de halving integrado do Bitcoin faz com que a nova oferta de bitcoin que entra no mercado seja cortada pela metade aproximadamente a cada quatro anos. A oferta de Bitcoin, portanto, diminuirá e, eventualmente, terminará, portanto, a demanda constante permitirá que ela mantenha seu valor.
 
-## Past Bitcoin Halving Events
+## Eventos anteriores de halving do Bitcoin
 
-The 2020 halving event will not be the first to occur on the Bitcoin network. Past halving events have eventually led to increases in the price of bitcoin at different times, for different reasons. 
+O halving de 2020 não será o primeiro a ocorrer na rede Bitcoin. Os halvings anteriores acabaram levando a aumentos no preço do bitcoin em momentos diferentes, por diferentes razões. 
 
-The first halving event occurred on November 28, 2012. It didn’t have an immediate impact on the price but by the end of 2013, bitcoin’s price had increased by more than 9,100%. The earliest price jump after that halving occurred within 90 days and saw the price nearly triple.
+O primeiro halving ocorreu em 28 de novembro de 2012. Não teve um impacto imediato no preço, mas no final de 2013, o preço do bitcoin aumentou mais de 9.100%. O primeiro salto de preço após o halving ocorreu em 90 dias e viu o preço quase triplicar.
 
-The second halving event in bitcoin’s history was triggered on July 9, 2016, and the price of bitcoin dropped 5% within 90 days. It wasn’t until the end of 2017 that bitcoin and other cryptocurrencies reached their highest all-time values.
+O segundo halving na história do bitcoin foi desencadeado em 9 de julho de 2016, e o preço do bitcoin caiu 5% em 90 dias. Foi apenas no final de 2017 que o bitcoin e outras criptomoedas atingiram seus valores mais altos de todos os tempos.
 
-One thing that is different in 2020 is that the blockchain industry has gained more traction. Bitcoin is much more readily available to the average consumer today than it was in 2012 or even 2016. It is also more widely known and talked about in mainstream media, which gives beginners more information. Investors are much more comfortable with the idea of cryptocurrency now than they were in the past. It’s difficult to predict what will happen to the price of bitcoin after the next halving event, anticipated in May of this year.
+Uma coisa diferente em 2020 é que a indústria de blockchain ganhou mais força. O Bitcoin está muito mais disponível para o consumidor médio hoje do que em 2012 ou mesmo em 2016. Também é mais conhecido e falado na grande mídia, o que dá mais informações aos iniciantes. Os investidores estão muito mais confortáveis com a ideia de criptomoeda agora do que no passado. É difícil prever o que acontecerá com o preço do bitcoin após o próximo halving, previsto para maio deste ano.
 
-## Is halving good for bitcoin?
+## O halving é bom para o bitcoin?
 
-There are three schools of thought about whether or not the bitcoin halving event is positive or negative. Enthusiasts naturally believe that the halving event will decrease the supply of new bitcoins entering the market (which is good) and ultimately drive up the price of bitcoins. Others believe that the halving event will not matter in the long run nearly as much as other fundamental factors and market sentiment. Then of course, there is a third group that thinks the bitcoin halving event will harm the network and the price. Let’s take a look at [all three perspectives](https://messari.io/article/everything-you-need-to-know-about-the-next-bitcoin-halving) more closely. 
+Existem três escolas de pensamento sobre se o evento do halving do bitcoin é positivo ou negativo. Os entusiastas naturalmente acreditam que o halving diminuirá a oferta de novos bitcoins entrando no mercado (o que é bom) e, finalmente, aumentará o preço dos bitcoins. Outros acreditam que o halving não importará no longo prazo tanto quanto outros fatores fundamentais e o sentimento do mercado. Então, é claro, há um terceiro grupo que acha que o halving do bitcoin prejudicará a rede e o preço. Vamos dar uma olhada em [todas as três perspectivas](https://messari.io/article/everything-you-need-to-know-about-the-next-bitcoin-halving) mais de perto. 
 
-## The Case for Bitcoin Increasing in Price
+## O caso para o aumento do preço do Bitcoin
 
-This argument mostly comes from proponents of the stock-to-flow ratio. Stock-to-flow weighs the total supply of bitcoins versus the new supply. Since the new supply will make up smaller and smaller percentages of the total supply as halving events occur, proponents of the stock-to-flow ratio argue that the price should go up. The fact that the anticipated decrease of the new supply is an event known to the public means that bidding the price of bitcoin up is something the general public can participate in months before the halving event actually happens. 
+Esse argumento vem principalmente dos defensores da relação estoque-fluxo. Stock-to-flow pesa a oferta total de bitcoins versus a nova oferta. Como a nova oferta representará porcentagens cada vez menores da oferta total à medida que ocorrerem eventos halving, os defensores da relação estoque-fluxo argumentam que o preço deve subir. O fato de a diminuição antecipada da nova oferta ser um evento conhecido do público significa que aumentar o preço do bitcoin é algo que o público em geral pode participar meses antes do halving acontecer. 
 
-## The Case for Bitcoin Price Being Unaffected
+## O caso do preço do Bitcoin não ser afetado
 
-Some investors and experts argue that halving events are only one factor among a multitude of factors that determine bitcoin’s price at any given time. This is true, as the market is always gauging fundamental value and technical analysis at every moment. This argument again posits that everybody knows about the halving event in advance. In free markets, investors (in this case, those interested in bitcoin) should have access to the knowledge, which makes the market more efficient.
+Alguns investidores e especialistas argumentam que os eventos de halving são apenas um fator entre uma infinidade de fatores que determinam o preço do bitcoin em um determinado momento. Isso é verdade, pois o mercado está sempre avaliando o valor fundamental e a análise técnica a cada momento. Este argumento novamente postula que todos sabem sobre o evento do halving com antecedência. Nos mercados livres, os investidores (neste caso, os interessados em bitcoin) tem acesso ao conhecimento, o que torna o mercado mais eficiente.
 
-## The Case for Bitcoin Price Going Down
+## O caso do preço do Bitcoin caindo
 
-Miners earn less for their work after a halving event. Larger miners might be able to swallow the increased costs and still turn a profit, but smaller ones will have trouble keeping up. This means that they may have to sell new coins for less than anticipated, driving the price down for all.
+Os mineradores ganham menos por seu trabalho após um halving. As mineradoras maiores podem ser capazes de engolir o aumento dos custos e ainda obter lucro, mas as menores terão dificuldade em acompanhar. Isso significa que eles podem ter que vender novas moedas por menos do que o previsto, reduzindo o preço para todos.
 
-## When is the bitcoin halving event?
+## Quando é o evento de halving do bitcoin?
 
-Bitcoin’s third halving event will occur when block number 630,000 is successfully mined. The exact date is uncertain but data extrapolation indicates that the halving event will occur on May 11. The exact time and date depend on the overall performance of the Bitcoin network. While the network is designed to mine a block every ten minutes, this timing can vary, depending on the amount and consistency of hash power driving the network at any given moment.
+O terceiro halving do Bitcoin ocorrerá quando o bloco número 630.000 for minerado com sucesso. A data exata é incerta, mas a extrapolação de dados indica que o halving ocorrerá em 11 de maio. A hora e a data exatas dependem do desempenho geral da rede Bitcoin. Embora a rede seja projetada para minerar um bloco a cada dez minutos, esse tempo pode variar, dependendo da quantidade e consistência do poder de hash que conduz a rede em um determinado momento.
 
-## What does this halving event mean for bitcoin’s future?
+## O que esse halving significa para o futuro do bitcoin?
 
-Many believe that [bitcoin’s price](https://coincap.io/assets/bitcoin) has appreciated over the last several months partly because the upcoming halving event has already been accounted for. Even if the price drops after halving, one offsetting benefit may be that more people could become aware of bitcoin and blockchains simply because crypto projects might be prominently featured in the news again.<br/><br/>
+Muitos acreditam que [o preço do bitcoin](https://coincap.io/assets/bitcoin) aumentou nos últimos meses, em parte porque o próximo halving já foi precificado. Mesmo que o preço caia após o halving, um benefício compensatório pode ser que mais pessoas possam se conscientizar sobre bitcoin e blockchains simplesmente porque os projetos de criptomoedas podem ser destaque nas notícias novamente.<br/><br/>
 
-**DISCLAIMER:**
+**AVISO LEGAL:**
 
-*These blog posts serve as a general overview of the crypto industry. No content in these blog posts or on the ShapeShift website constitutes purchase or investment advice. Digital assets are experimental, volatile and risky, and we therefore recommend that you seek professional advice from a qualified advisor before making any financial decision.*
+*Estas postagens de blog servem como uma visão geral da indústria de criptomoedas. Nenhum conteúdo nestas postagens de blog ou no site ShapeShift constitui conselho de compra ou investimento. Os ativos digitais são experimentais, voláteis e arriscados e, portanto, recomendamos que você procure aconselhamento profissional de um consultor qualificado antes de tomar qualquer decisão financeira.*
 
-*The information is provided “as is” without warranty of any kind, express or implied, and in no event will ShapeShift be liable for damages of any nature resulting from reliance upon the information. The blog posts may contain links to third-party materials that are not owned or controlled by ShapeShift. ShapeShift does not endorse or assume any responsibility for any such third-party sites, information, materials, products, or services.*
+*A informação é fornecida "como está" sem garantia de qualquer tipo, expressa ou implícita, e em nenhum evento será capaz de ser responsável por danos de qualquer natureza resultante da confiança após a informação. As postagens do blog podem conter links para materiais de terceiros que não são de propriedade ou controlados pela ShapeShift. A ShapeShift não endossa nem assume qualquer responsabilidade por tais sites, informações, materiais, produtos ou serviços de terceiros.*
 
 <br/>
 
 ---
 
-> This document was originally published on 2020-04-29 by ShapeShift and may have been slightly modified for translation by the Information and Globalization workstream for an ongoing archival project.
+> Este documento foi publicado originalmente em 29-04-2020 pela ShapeShift e pode ter sido ligeiramente modificado para tradução pelo fluxo de trabalho de Informação e Globalização para um projeto de arquivo em andamento.
 >
-> Original article can be found [here](https://shapeshift.com/library/bitcoin-halving-2020-what-it-means).
+> O artigo original pode ser encontrado [aqui](https://shapeshift.com/library/bitcoin-halving-2020-what-it-means).
+
 {.is-success}
 
 ---
