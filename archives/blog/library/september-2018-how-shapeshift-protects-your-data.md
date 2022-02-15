@@ -1,7 +1,7 @@
 ---
 title: Como a ShapeShift protege seus dados
 description: A ShapeShift está empenhada em manter os dados dos clientes seguros.
-published: false
+published: true
 date: 2021-12-20T23:02:39.376Z
 tags: shapeshift, segurança, privacidade
 editor: markdown
