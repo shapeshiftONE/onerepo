@@ -1,7 +1,7 @@
 ---
 title: Liberdade Financeira com Criptomoedas
 description: As crises econômicas na Grécia, Islândia e Venezuela inspiram auto-soberania.
-published: false
+published: true
 date: 2021-12-20T23:02:35.470Z
 tags: liberdade, liberdade financeira, cripto, crise
 editor: markdown
