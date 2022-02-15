@@ -1,51 +1,51 @@
 ---
-title: Proof of Keys
-description: Proof of Keys on January 3rd. Not your keys. Not your bitcoin.
-published: false
+title: Prova de Chaves
+description: Prova de Chaves em 3 de janeiro. Sem suas chaves, sem suas moedas.
+published: true
 date: 2021-12-20T23:02:56.372Z
-tags: library, bitcoin, finance, needs-review
+tags: bitcoin, prova de chaves, blockchain
 editor: markdown
 dateCreated: 2021-12-20T23:02:56.372Z
 ---
 
-# Proof of Keys
+# Prova de Chaves
 
 ![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9a22e1cd75789885c05ccd_5e997106692e5889e55b112e_1_DfZj3E-B5K--NZT9w8owyg.png)
 
-**This** January 3rd, many in the global crypto community will take part in the annual [Proof of Keys](https://www.proofofkeys.com/) day. For those of you who are new to crypto or haven’t heard of [#ProofofKeys](https://twitter.com/hashtag/ProofofKeys?src=hashtag_click), we’re here to break it down for you. Learn about Proof of Keys, why it matters, and how you can be a part of it.
+**Nesse** 3 de Janeiro, muitas das comunidades globais de cripto participaram no dia anual da [*Proof of Keys*](https://www.proofofkeys.com/) [Prova de Chaves]. Para vocês que são novos na cripto ou não ouviram falar da [#ProofofKeys](https://twitter.com/hashtag/ProofofKeys?src=hashtag_click), estamos aqui para resumir para você. Saiba mais sobre a Prova de Chaves, por que ela é importante e como você pode fazer parte dela.
 
-##  🔑 What is Proof of Keys?
+##  🔑 O que é a Prova de Chaves?
 
-Proof of Keys takes place on January 3rd, the anniversary of the [Bitcoin Genesis Block](https://www.investopedia.com/terms/g/genesis-block.asp) — the first Bitcoin block ever to be mined. It was started by [Trace Mayer](https://twitter.com/TraceMayer), founder of the [Bitcoin Knowledge podcast](https://twitter.com/bitcoinkn), as a way to celebrate the financial freedom that the creation of Bitcoin allows.
+A *Proof of Keys* ocorre no dia 3 de janeiro, o aniversário do [bloco de gênese do Bitcoin](https://www.investopedia.com/terms/g/genesis-block.asp) — o primeiro bloco Bitcoin de todos a ser minerado. Foi iniciado por [Trace Mayer](https://twitter.com/TraceMayer), fundador do [podcast Bitcoin Knowledge](https://twitter.com/bitcoinkn) [Conhecimento Bitcoin], como uma forma de celebrar a liberdade financeira que a criação do Bitcoin permite.
 
-To take part, Mayer asks the crypto community to remove their funds from exchanges on January 3rd as proof of their existence, and a recognition that your crypto isn’t yours unless you’re holding the keys.
+Para fazer parte, Mayer pede para a comunidade cripto remover seus fundos das exchanges no dia 3 de Janeiro como prova da existência deles, e um reconhecimento que sua cripto não é sua a não ser que você esteja mantendo as chaves.
 
-##  So why does this matter?
+##  Então, por que isso importa?
 
-Taking your assets off of an exchange may sound like an inconvenience, but it’s an important act for two reasons:
+Retirar seus ativos de uma corretora pode parecer um inconveniente, mas é um ato importante por dois motivos:
 
-1. You should always have a secure wallet ready to be used, you should build the habit of pulling your funds within your control.
-2. By withdrawing from central parties once per year, insolvency can be exposed. Proof of Keys is about testing central parties to prove that the crypto they claim is there, is actually there.
+1. Você deve sempre ter uma carteira segura pronta para ser usada, você deve criar o hábito de puxar seus fundos para próximo do seu controle.
+2. Ao retirar-se das entidades centrais uma vez por ano, a insolvência pode ser exposta. A *Proof of Keys* trata de testar as partes centrais para provar que a criptomoeda que eles afirmam estar lá, está realmente lá.
 
-After all, exchange hacks are common. Exchanges create “honeypots” for hackers, and just as humans are flawed, neither are our defenses against hacking infallible. Stories like [Mt. Gox](https://www.wired.com/2014/03/bitcoin-exchange/) and [Quadriga](https://www.coindesk.com/quadriga-creditor-protection-filing) happen every year, and nobody should wait for an exchange to be hacked to recognize that they don’t have full control of their digital assets.
+Afinal, hacks de corretoras são comuns. As exchanges criam “honeypots” para hackers e, assim como os humanos são falhos, nossas defesas contra hackers também não são infalíveis. Histórias como [Mt. Gox](https://www.wired.com/2014/03/bitcoin-exchange/) e [Quadriga](https://www.coindesk.com/quadriga-creditor-protection-filing) acontecem todos os anos, e ninguém deve esperar que uma exchange seja hackeada para só então reconhecer que elas não têm controle total de seus ativos digitais.
 
-Controlling your funds is in line with the principles that Bitcoin was founded upon. Crypto enables financial freedom, and the ability to take control of your assets like never before. By not holding your keys, you’re giving up the fundamental freedom that Bitcoin and other cryptocurrencies allow.
+O controle de seus fundos está alinhado com os princípios sobre os quais o Bitcoin foi fundado. Cripto permite a liberdade financeira e a capacidade de controlar seus ativos como nunca antes. Ao não segurar suas chaves, você está abrindo mão da liberdade fundamental que o Bitcoin e outras criptomoedas permitem.
 
-##  How can I take part?
+## Como posso participar?
 
-Taking part is easy. In the short-term, simply pull your funds from custodial exchanges for at least the entire day on January 3rd, 2019. If you want to put those funds back with a custodian later, that’s obviously your choice, but the action proves you really have the funds you think you have.
+Participar é fácil. No curto prazo, basta retirar seus fundos das exchanges de custódia por pelo menos o dia inteiro de 3 de janeiro de 2019. Se você quiser devolver esses fundos a um custodiante mais tarde, essa é obviamente sua escolha, mas a ação prova que você realmente tem os fundos que você acha que tem.
 
-## Take Control of Your Crypto
+## Tome Controle de Sua Cripto
 
-If you want full ownership of your funds, consider using a hardware wallet like [KeepKey](https://pages.shapeshift.com/keepkey/), [Ledger](https://pages.shapeshift.com/ledger/), [Trezor](https://pages.shapeshift.com/trezor/) or creating a noncustodial web wallet like [Portis](https://pages.shapeshift.com/portis_wallet/). Trade through a self-custody solution like [ShapeShift](http://shapeshift.com), which integrates with these wallets so you maintain control. With ShapeShift, your keys are your keys, and that means that you’re in control of your crypto.
+Se você quer controle total sobre seus fundos, considere ter uma carteira em hardware como [KeepKey](https://pages.shapeshift.com/keepkey/), [Ledger](https://pages.shapeshift.com/ledger/), [Trezor](https://pages.shapeshift.com/trezor/) ou criar uma carteira web não-custodial como [Portis](https://pages.shapeshift.com/portis_wallet/). Transacione através de uma solução de auto-custódia como [ShapeShift](http://shapeshift.com), que se integra a essas carteiras para que você mantenha o controle. Com ShapeShift, suas chaves são suas chaves, e isso significa que você está no controle de sua cripto.
 
-**Proof of Keys goes back to the roots of Satoshi’s principles, and we’re here to help you get there.**<br/>
+**Prova das Chaves retorna às raízes dos princípios de Satoshi, e estamos aqui para ajudá-lo a chegar lá.**<br/>
 
 ---
-
-> This document was originally published on 2019-12-09 by ShapeShift Team and may have been slightly modified for translation by the Information and Globalization workstream for an ongoing archival project.
+> Este documento foi originalmente publicado em 2019-12-09 pelo Time ShapeShift e pode ter sido levemente modificado para tradução pelo fluxo de trabalho de informação e globalização para um ocorrente projeto de arquivamento.
 >
-> Original article can be found [here](https://shapeshift.com/library/proof-of-keys).
+> O artigo original pode ser encontrado [aqui](https://shapeshift.com/library/proof-of-keys).
+
 {.is-success}
 
 ---
