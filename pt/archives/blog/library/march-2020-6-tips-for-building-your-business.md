@@ -1,78 +1,79 @@
 ---
-title: 6 Tips for Building Your Business
-description: ShapeShift COO Lisa Loud shares lessons learned at Apple, PayPal, and BitMEX.
-published: false
+title: 6 Dicas para Construir seu Negócio
+description: A COO da ShapeShift, Lisa Loud, compartilha lições aprendidas na Apple, PayPal e BitMEX.
+published: true
 date: 2021-12-20T23:31:00.464Z
-tags: library, bitcoin, cryptocurrency, finance, needs-review
+tags: fintechs, negócios, shapeshift, liderança, gestão, mulheres na gestão
 editor: markdown
 dateCreated: 2021-12-20T23:31:00.464Z
 ---
 
-# 6 Tips for Building Your Business
+# 6 Dicas para Construir seu Negócio
 
 ![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9a22cb7e1ac2f4d85c67ff_5e99299571acf58e54288602_1_qiKBoS9ZpvMRA8i9311VbQ.png)
 
-**When** I joined BitMEX, I had been at PayPal and Apple for more time than anywhere else. I jumped out of a big tech structured environment into what felt like the Wild West. At that time, the BitMEX team was small and the culture was a “trading culture” — which basically meant every man for himself. I really do mean man there — I was one of two females at the company and the only one in a senior position.<br/><br/>That was a wild ride. We built as fast as possible to capture the market, while also setting up processes and infrastructure to make sure we could scale. Our daily trading volume started at $100k, and by January 2018 it was up to $6 billion per day. It was not an easy time, but it was worth it for the difficult lessons I learned. Those lessons have been invaluable to me, and I’d like to share a few of them with you here.
-
+**Quando** entrei na BitMEX, eu havia estado no PayPal e na Apple há mais tempo do que em qualquer outro lugar. Saí de um ambiente estruturado de grande tecnologia para o que parecia ser o Velho Oeste. Naquela época, a equipe da BitMEX era pequena e a cultura era uma “cultura comercial” — o que basicamente significava cada homem por si. Eu realmente quero dizer homem — eu era uma das duas mulheres na empresa e a única em uma posição sênior.<br/><br/>Foi um passeio selvagem. Construímos o mais rápido possível para capturar o mercado, além de configurar processos e infraestrutura para garantir que pudéssemos escalar. Nosso volume diário de negociação começou em US $100 mil e, em janeiro de 2018, chegou a US $6 bilhões por dia. Não foi um momento fácil, mas valeu a pena pelas difíceis lições que aprendi. Essas lições foram inestimáveis para mim, e eu gostaria de compartilhar algumas delas com você aqui.
 <br/>
 
-## 1. Bring women into your leadership.
+## 1. Trazer Mulheres para a Liderança
 
-When an organization creates gender balance, they see almost instant improvements. These include fewer crisis alerts, better decision making, and enhanced team alignment. Over time, they see improved company culture and employee buy-in due to an increased sense of fairness.
+Quando uma organização cria equilíbrio de gênero, ela vê melhorias quase instantâneas. Isso inclui menos alertas de crise, melhor tomada de decisão e alinhamento aprimorado da equipe. Com o tempo, eles veem uma cultura de empresa aprimorada e maior adesão dos funcionários devido a um maior senso de justiça.
 
-[An MIT study in 2014](http://news.mit.edu/2014/workplace-diversity-can-help-bottom-line-1007), covering 8 years of data, concluded that companies with an even gender split could increase revenue by roughly 41 percent. These numbers show us how cost-effective diversifying your team is, and how companies who stick to old traditions are likely hurting their own bottom line.
+[Um estudo do MIT de 2014](http://news.mit.edu/2014/workplace-diversity-can-help-bottom-line-1007), cobrindo 8 anos de dados, concluiu que as empresas com uma divisão de gênero uniforme podem aumentar a receita em cerca de 41%. Esses números nos mostram o custo-benefício da diversificação de sua equipe e como as empresas que seguem tradições antigas provavelmente estão prejudicando seus próprios resultados.
 
-## 2. Hire experience.
+## 2. Contrate experiência.
 
-When it comes to learning how to hire, you have two options. One is to spend a year working for an established, successful company, and to be a sponge there. Ask questions about everything, and assess what works and what doesn’t. The issue here is that many of us simply don’t have the time to do this. Timing is everything, and we don’t want to lose a year of building.
+Quando se trata de aprender a contratar, você tem duas opções. Uma delas é passar um ano trabalhando para uma empresa estabelecida e bem-sucedida e ser uma esponja lá. Faça perguntas sobre tudo e avalie o que funciona e o que não funciona. A questão aqui é que muitos de nós simplesmente não temos tempo para fazer isso. O tempo é tudo, e não queremos perder um ano de construção.
 
-If you feel a sense of urgency to get your tech out into the market so that you can iterate on it and make it the best it can be, then you need to hire someone who already knows how to do that. Hiring passionate, inexperienced people is always an option, but they still need to learn, and that takes time.
+Se você sente um senso de urgência para colocar sua tecnologia no mercado para que você possa iterar e torná-la o melhor possível, então você precisa contratar alguém que já saiba como fazer isso. Contratar pessoas apaixonadas e inexperientes é sempre uma opção, mas elas ainda precisam aprender, e isso leva tempo.
 
-## 3. Accept the reality that you are not your own customer.
+## 3. Aceite a realidade de que você não é seu próprio cliente.
 
-If I could have you take one thing away from this post, it would be this. You may be an early adopter in crypto, and you’re wanting to build something that you need and that’s why you’re here in the first place. That’s a great place to start, but if you stop there, you are going to fail. Ask your customers what they want, not yourself. It’s not about building what you think would be revolutionary, it’s about building what people need.
+Se eu pudesse fazer você tirar uma coisa desse post, seria isso. Você talvez seja um dos primeiros a adotar cripto e deseja construir algo de que precisa e é por isso que está aqui em primeiro lugar. Esse é um ótimo lugar para começar, mas se você parar por aí, vai falhar. Pergunte aos seus clientes o que eles querem, não a si mesmo. Não se trata de construir o que você acha que seria revolucionário, trata-se de construir o que as pessoas precisam.
 
-A great analogy that comes to mind is this: Do people really need a quarter-inch drill? The answer is, no. People need a quarter-inch hole, and a drill is a good solution, but if you jump right to it, you may miss the opportunity to build something even better.
+Uma ótima analogia que me vem à mente é esta: as pessoas realmente precisam de uma furadeira de um quarto de polegada? A resposta é não. As pessoas precisam de um buraco de um quarto de polegada, e uma furadeira é uma boa solução, mas se você pular direto para ela, pode perder a oportunidade de construir algo ainda melhor.
 
-## 4. Create practical solutions and think small.
+## 4. Crie soluções práticas e pense pequeno.
 
-When electricity was invented, it was a technology without an application. No lights, no fridges, no stoves, or hair dryers. All of those applications of that technology still needed to be conceived and built. We have this amazing blockchain technology, but we don’t have a lot of real-world applications for it yet.
+Quando a eletricidade foi inventada, era uma tecnologia sem aplicação. Sem luzes, sem geladeiras, sem fogões ou secadores de cabelo. Todas essas aplicações dessa tecnologia ainda precisavam ser concebidas e construídas. Temos essa incrível tecnologia blockchain, mas ainda não temos muitos aplicativos do mundo real para ela.
 
-Those get built by the entrepreneurs — the people who are interested in making money, not inventing a breakthrough innovation. I’m sure you’ve often heard of a new project that people say will change everything. Let’s stop trying to change everything, and start trying to solve one problem at a time.
+Essas são construídas pelos empreendedores – as pessoas que estão interessadas em ganhar dinheiro, não em inventar uma inovação revolucionária. Tenho certeza que você já ouviu falar de um novo projeto que as pessoas dizem que vai mudar tudo. Vamos parar de tentar mudar tudo e começar a tentar resolver um problema de cada vez.
 
-## 5. If you have to make a change, don’t wait too long.
+## 5. Se você tiver que fazer uma mudança, não espere muito.
 
-I’ve been in an organization where a founder had a college buddy in a position well beyond his background and skills. He wreaked havoc on the company. As the founder, you have to recognize that your company is more important than giving your friend a job.
+Estive em uma organização onde um fundador tinha um colega de faculdade em uma posição muito além de sua formação e habilidades. Ele causou estragos na empresa. Como fundador, você deve reconhecer que sua empresa é mais importante do que dar um emprego ao seu amigo.
 
-Most of us spend a lot of our waking hours in a work environment, and those environments are constantly changing. Change that is imposed on us is difficult, and naturally, we resist it. Yet there are things that leaders do that make change even harder, like waiting too long to act.
+A maioria de nós passa muito tempo das horas que passamos acordados em um ambiente de trabalho, e esses ambientes estão mudando constantemente. A mudança que nos é imposta é difícil e, naturalmente, resistimos. No entanto, há coisas que os líderes fazem que tornam a mudança ainda mais difícil, como esperar muito tempo para agir.
 
-Change doesn’t have to be negative. I’m sure you’ve seen how energized entrepreneurs starting new projects can be. In these cases, transformation creates positive emotions of optimism and anticipation.
+A mudança não precisa ser negativa. Tenho certeza que você já viu como empreendedores podem ser enérgicos ao iniciar novos projetos. Nesses casos, a transformação cria emoções positivas de otimismo e antecipação.
 
-When we talk about transforming our work environment, there’s a very different emotional tone that comes up. It feels more like discomfort, concern, or maybe even fear. The uncertainty riles us and lacks the excitement and clarity of a new endeavor.
+Quando falamos em transformar nosso ambiente de trabalho, surge um tom emocional muito diferente. Parece mais com desconforto, preocupação ou talvez até medo. A incerteza nos irrita e falta a emoção e a clareza de um novo empreendimento.
 
-So think carefully about the changes you need to make, but don’t put them off. Be brave and bold. Remember that you are building the future.
+Portanto, pense cuidadosamente sobre as mudanças que você precisa fazer, mas não as adie. Seja corajoso e ousado. Lembre-se que você está construindo o futuro.
 
-## 6. Leverage your sense of purpose.
+## 6. Aproveite seu senso de propósito.
 
-Most companies would kill to have what we have in the crypto space. Our industry has a powerful sense of meaning within it, while organizations in other industries struggle to inspire their teams with a sense of purpose. It’s hard to create purpose around a financial objective, and while big corporations may have motivated leadership, most employees are just collecting a paycheck.
+A maioria das empresas mataria para ter o que temos no espaço cripto. Nosso setor tem um poderoso senso de significado dentro dele, enquanto organizações de outros setores lutam para inspirar suas equipes com um senso de propósito. É difícil criar propósito em torno de um objetivo financeiro e, embora as grandes corporações possam ter uma liderança motivada, a maioria dos funcionários está apenas coletando um salário.
 
-Everyone in crypto is an early adopter. Everyone is a part of this because they are willing to take a risk and join an industry that hasn’t been proven. Purpose is the most important factor in creating a good company culture, and we in crypto have an abundance of it
+Todo mundo em cripto é um pioneiro. Todos fazem parte disso porque estão dispostos a arriscar e ingressar em um setor que não foi comprovado. O propósito é o fator mais importante na criação de uma boa cultura de empresa, e nós, em cripto, temos isso em abundância.
 
-## Looking to the Future
+## Olhando para o futuro
 
-So here’s what we can expect to happen next. We’re going to see wider acceptance, and that means more mainstream players in the space. It’s critical that we’re the ones to build the companies of the future now. Let’s take that passion and purpose and build fair, effective, and strong companies with competent leadership. We owe it to the inventors and the visionaries who started this, to stay at the forefront of this technological revolution as it continues to move forward at breakneck speed.
+Então, aqui está o que podemos esperar que aconteça a seguir. Veremos uma aceitação mais ampla, e isso significa mais players populares no meio. É fundamental que sejamos nós a construir as empresas do futuro agora. Vamos pegar essa paixão e propósito e construir empresas justas, eficazes e fortes com liderança competente. Devemos aos inventores e visionários que iniciaram isso, permanecer na vanguarda desta revolução tecnológica à medida que continua avançando a uma velocidade vertiginosa.
 
-If we don’t, here’s what will happen. Facebook will launch Libra and dominate crypto payments. JP Morgan and Fidelity will dominate crypto trading. Giant tech companies will use their influence, and their competitive engines to take over the crypto industry, and make it just like every other big business. We will be fondly remembered as the AOL of blockchain; early pioneers who failed to maintain their relevance in a changing world.
+Se não o fizermos, aqui está o que vai acontecer. O Facebook lançará Libra e dominará pagamentos de cripto. JP Morgan e Fidelity dominarão o comércio de criptomoedas. Empresas gigantes de tecnologia usarão sua influência e seus mecanismos competitivos para dominar a indústria de cripto e torná-la como qualquer outra grande empresa. Seremos lembrados com carinho como a AOL da blockchain; pioneiros que não conseguiram manter sua relevância em um mundo em mudança.
 
-I just joined ShapeShift a few months ago as COO, and I can say with confidence that this is one of the companies in the space that is putting all the pieces together and building a solid and scalable entity. The executive team is half women and half men, and there is a high level of experience throughout the organization
+Acabei de ingressar no ShapeShift há alguns meses como COO e posso dizer com confiança que esta é uma das empresas no meio que mais está juntando todas as peças e construindo uma entidade sólida e escalável. A equipe executiva é metade de mulheres e metade homens, e há um alto nível de experiência em toda a organização
 
-I hope you can take some of this back to your teams to make your companies stronger. This next phase of our industry will require strong, safe companies to take the lead and bring electric light to the financial world.
+Espero que você possa levar um pouco disso de volta para suas equipes para tornar suas empresas mais fortes. Esta próxima fase de nossa indústria exigirá que empresas fortes e seguras assumam a liderança e tragam luz elétrica para o mundo financeiro.
 
 ---
 
-> This document was originally published on 2020-03-21 by Lisa Loud and may have been slightly modified for translation by the Information and Globalization workstream for an ongoing archival project.
+> Este documento foi originalmente publicado em 2020-03-21 por Lisa Loud e pode ter sido levemente modificado para tradução pelo fluxo de trabalho de informação e globalização para um ocorrente projeto de arquivamento.
 >
-> Original article can be found [here](https://shapeshift.com/library/6-tips-for-building-your-business).
+> O artigo original pode ser encontrado [aqui](https://shapeshift.com/library/6-tips-for-building-your-business).
+
+
 {.is-success}
 
 ---
