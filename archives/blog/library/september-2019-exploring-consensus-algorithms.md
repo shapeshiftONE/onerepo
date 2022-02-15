@@ -1,7 +1,7 @@
 ---
 title: Explorando Algoritmos de Consenso
 description: Proof of Work vs. Proof of Stake
-published: false
+published: true
 date: 2021-12-20T23:02:35.048Z
 tags: bitcoin, pos, pow, consenso, algoritimo, educativo
 editor: markdown
