@@ -1,74 +1,77 @@
 ---
-title: Interview with a Crypto Trader
-description: 10 Questions with ShapeShift’s Head of Trading.
-published: false
+title: Entrevista com um Cripto Trader
+description: 10 perguntas a um profissional ShapeShift.
+published: true
 date: 2021-12-20T23:02:43.258Z
-tags: library, trading, finance, shapeshift, needs-review
+tags: entrevista, trading, shapeshift, criptomoedas, trader
 editor: markdown
 dateCreated: 2021-12-20T23:02:43.258Z
 ---
 
-# Interview with a Crypto Trader
+# Entrevista com um Cripto Trader
 
 ![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9f556c27aa0f8ecda4f065_1_fX_WmGwl45iZ2yCZgilQ7A.png)
 
-**Want** to learn about the basics of trading? We‘re creating a series to simplify and breakdown the fundamentals of trading as it relates to crypto.
+**Quer** aprender sobre os conceitos básicos do trading? Estamos criando uma série para simplificar e detalhar os fundamentos do trading no que se refere às criptomoedas.
 
-We want to introduce you to an expert in the world of crypto trading — one of the innovators helping ShapeShift build a bridge to financial freedom.
+Queremos apresentá-lo a um especialista no mundo do comércio de criptomoedas - um dos inovadores que está ajudando a ShapeShift a construir uma ponte para a liberdade financeira.
 
-Clark is the Head of Trading and Portfolio Risk at ShapeShift. Before joining in early 2018, he traded currencies, interest rates, and commodities at various Wall Street firms for 14 years in New York and Singapore.
+Clark é o Chefe de Trading e Risco de Portfólio na ShapeShift. Antes de ingressar no início de 2018, ele negociou moedas, taxas de juros e commodities em várias empresas de Wall Street por 14 anos em Nova York e Cingapura.
 
-## **What’s one surprising fact about you that people wouldn’t expect?**
+## **Qual é um fato surpreendente sobre você que as pessoas não esperariam?**
 
-*My favorite job that I’ve ever had (aside from ShapeShift, of course!) was working at Foot Locker in high school.*
+*Meu trabalho favorito (antes da ShapeShift, é claro!) foi trabalhar na Foot Locker no ensino médio.*
 
-## How did you begin your trading career?
+## Como você começou sua carreira comercial?
 
-*My first trading job was at Lehman Brothers. While our currency trading business at Lehman was actually quite profitable in 2008, it was wild to have a front-row seat to see the global financial crisis unfold.*
+*Meu primeiro trabalho como trader foi no Lehman Brothers. Embora nosso negócio de câmbio no Lehman tenha sido bastante lucrativo em 2008, foi uma loucura ter um assento na primeira fila para ver a crise financeira global se desenrolar.*
 
-## **What brought you from Wall Street to the Wild West of crypto?**
+## **O que trouxe você de Wall Street para o Velho Oeste das criptomoedas?**
 
-*We’ve seen the domino effect that digitization and automation have had on a wide variety of industries — middlemen are getting disrupted throughout the global economy. It seems inevitable that digital finance will be the next domino to fall. I wanted to get ahead of this and ride the wave of disruption!*
+*Vimos o efeito dominó que a digitalização e a automação tiveram em uma ampla variedade de setores – os intermediários estão sendo interrompidos em toda a economia global. Parece inevitável que as finanças digitais sejam o próximo dominó a cair. Eu queria me antecipar a isso e aproveitar a onda da disrupção!*
 
-## What‘s your goal at ShapeShift?
+## Qual é o seu objetivo na ShapeShift?
 
-*Here at ShapeShift, I’m leading our effort to be as transparent and unbiased as possible when it comes to our market-making business. My view is that a better educated customer base in crypto will lead to a healthier ecosystem overall.*
+*Aqui na ShapeShift estou liderando nosso esforço para ser o mais transparente e imparcial possível quando se trata do nosso negócio de criação de mercado. Minha opinião é que uma base de clientes mais instruída em criptografia levará a um ecossistema mais saudável em geral.*
 
-## **What have you done to enhance ShapeShift’s trading system?**
+## **O que você fez para melhorar o sistema de negociação do ShapeShift?**
 
-*I’ve built currency trading systems and managed the associated risk for my entire career; it’s been very rewarding to be able to apply those skills in a fresh (crypto) context. We’re hard at work making sure that our users get the best trading rates and experience possible.*
+* Construí sistemas de negociação de moedas e gerenciei o risco associado durante toda a minha carreira; tem sido muito gratificante poder aplicar essas habilidades em um novo contexto (criptográfico). Estamos trabalhando duro para garantir que nossos usuários obtenham as melhores taxas de negociação e experiência possível.*
 
 ![](https://assets.website-files.com/max/2100/1*UDDSVEk79XI6mfpZoiXUQg.gif)
 
-## Let’s do a few rapid-fire questions to give people a better idea of wh*o* ***you are.***<br/>
+## Vamos fazer algumas perguntas rápidas para dar às pessoas uma ideia melhor de quem* ***você é.***<br/>
 
-## What’s your favorite book?
+## Qual é o seu livro favorito?
 
-[*The Art of Currency Trading by Brent Donnelly*](https://www.goodreads.com/book/show/43210755-the-art-of-currency-trading)*.*<br/>
+[*The Art of Currency Trading, de Brent Donnelly*](https://www.goodreads.com/book/show/43210755-the-art-of-currency-trading)*.*<br/>
 
-## What’s your go-to place for the best food?
+## Qual é o seu lugar favorito para comer?
 
-[*Kikis in NYC.*](http://nymag.com/listings/restaurant/kikis/)<br/>
+[*Kikis, em Nova York.*](http://nymag.com/listings/restaurant/kikis/)<br/>
 
-## Best place in the world to vacation?
+## E o melhor lugar do mundo para passar férias?
 
-*The Maldives.*
+*As Maldivas.*
 
-## What do you love to do when you’re not trading?
+## O que você gosta de fazer quando não está negociando?
 
-*Basketball, music, and gaming.*
+*Basquete, música e jogos.*
 
-## **Anything else you want to add?**
+## **Há algo a mais que você queira adicionar?**
 
-*Trading can be very confusing — there’s a lot of arcane vocabulary & mechanics involved. It’s also very hard to trust most of the educational material out there… after all, if a trader develops a money-making trading strategy, he or she is incentivized to keep it to herself, not share it with others. A great unbiased starting point is the book I mentioned above. So be careful out there, good luck, and be on the lookout for more trading content coming soon!*
+* A negociação pode ser muito confusa - há muito vocabulário e mecânicas misteriosas envolvidos. Também é muito difícil confiar na maior parte do material educacional disponível… afinal, se um trader desenvolve uma estratégia de negociação lucrativa, ele é incentivado a guardá-la para si mesmo, não compartilhá-la com outras pessoas. Um ótimo ponto de partida imparcial é o livro que mencionei acima. Portanto, tenha cuidado, boa sorte e fique atento para mais conteúdo de negociação em breve!*
 
-<iframe allowfullscreen="" frameborder="0" scrolling="auto" src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FKNFvZjll-xg%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DKNFvZjll-xg&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FKNFvZjll-xg%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07&amp;type=text%2Fhtml&amp;schema=youtube"></iframe>
+<iframe allowfullscreen="" frameborder="0" scrolling="auto" src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed %2FKNFvZjll-xg%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DKNFvZjll-xg&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FKNFvZjll-xg %2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07&amp;type=text%2Fhtml&amp;schema=youtube"></iframe>
 
 ---
 
-> This document was originally published on 2019-09-17 by ShapeShift Team and may have been slightly modified for translation by the Information and Globalization workstream for an ongoing archival project.
+> Este documento foi publicado originalmente em 17/09/2019 pela Equipe ShapeShift e pode ter sido ligeiramente modificado para tradução pelo fluxo de trabalho de Informação e Globalização para um projeto de arquivamento em andamento.
 >
-> Original article can be found [here](https://shapeshift.com/library/interview-with-a-crypto-trader).
+> O artigo original pode ser encontrado [aqui](https://shapeshift.com/library/interview-with-a-crypto-trader).
+{.is-sucesso}
+
+
 {.is-success}
 
 ---
