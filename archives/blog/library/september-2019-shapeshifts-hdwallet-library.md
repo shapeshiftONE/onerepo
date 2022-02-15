@@ -1,7 +1,7 @@
 ---
 title: Biblioteca HDWallet do ShapeShift
 description: Simplifique a integração da carteira com nossa nova biblioteca de código aberto.
-published: false
+published: true
 date: 2021-12-20T23:03:00.678Z
 tags: bitcoin, hdwallet, cripto, carteira cripto, dev, desenvolvimento
 editor: markdown
