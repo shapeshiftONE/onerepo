@@ -1,61 +1,62 @@
 ---
-title: The Power of Cryptography
-description: A beginner's guide to public and private keys.
-published: false
+title: O Poder da Criptografia
+description: Um guia para iniciantes sobre chaves públicas e privadas.
+published: true
 date: 2021-12-20T23:03:17.065Z
 tags: library, security, bitcoin, needs-review
 editor: markdown
 dateCreated: 2021-12-20T23:03:17.065Z
 ---
 
-# The Power of Cryptography
+# O Poder da Criptografia
 
 ![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9fe664f01b87e59121323b_1_3VBrEt6tEGGLUrte9icrbQ.jpeg)
 
-<br/>Whether you’re new to crypto or a long-time veteran, there are certain ideas that everyone involved in this space should understand. Today we’re going to cover one of them: public and private keys.
+<br/>Seja você novo nas criptos ou um veterano de longa data, há certas ideias que todos envolvidos nesse espaço deveriam entender. Hoje vamos cobrir uma delas: chaves públicas e privadas.
 
-In our earlier post on [Crypto Storage](https://bit.ly/2UtogzI), we used these two terms extensively tohelp convey the benefits of hardware wallets. Now we’ll break them down to show how they fit into the larger ecosystem around us.
+Em nossa postagem anterior sobre [Armazenamento de Criptos](https://bit.ly/2UtogzI) usamos esses dois termos de forma extensiva para ajudar a expressar os benefícios de carteiras em hardware. Agora iremos quebrá-los para mostrar como eles se encaixam no ecossistema maior ao nosso redor.
 
-In order to do this, we need to start with the basics of cryptography, the fundamental idea that public and private keys are built upon.<br/> 
+Para fazer isso, precisamos começar com o básico sobre a criptografia, a ideia fundamental sobre a qual chaves públicas e privadas são desenvolvidas.<br/> 
 
-## **What is Cryptography?**
+## **O que é Criptografia?**
 
-The word cryptography, like many other words in the English language, has its roots in Greek. Broken down, the word roughly translates into “hidden writing.” In an environment like the internet where privacy can seem scarce,public and private keys enable people to communicate through cryptography.
+A palavra criptografia, assim como muitas outras palavras na língua inglesa, tem suas raízes no grego. Quebrada, a palavra grosseiramente diz "escrita escondida". Em um ambiente como a internet, onde a privacidade pode parecer escassa, chaves públicas e privadas fazem com que as pessoas se comuniquem através da criptografia.
 
-So how is this relevant to you? Let’s imagine you’re sending an important document to a friend over the internet. Maybe it’s a secret note you only want them to see; maybe it’s your lease agreement. You want to send this document to your friend, and you want to make sure that no one can read it but them. That’s where public and private keys come into play in the form of asymmetric cryptography.<br/> 
+Então, o quão relevante é isso pra você? Imaginemos que você está enviando um importante documento para um amigo pela internet. Talvez seja uma nota secreta que você quer que só vocês vejam ela; talvez seja seu acordo e você quer mandar esse documento para seu amigo, e você quer ter certeza que ninguém pode ler isso senão ele. É aí que as chaves pública e privadas entram em jogo na forma de criptografia assimétrica.<br/> 
 
-## **Asymmetric vs. Symmetric Cryptography**
+## **Criptograia Assimétrica vs Simétrica**
 
-Asymmetric cryptography is a method that uses one key to encrypt data (the public key) and one key to decrypt data (the private key). Conversely, symmetric cryptography uses the same key to both encrypt and decrypt the same piece of data.
+A criptografia assimétrica é um método que usa uma chave para encriptar dados (a chave pública) e uma chave para decriptar dados (a chave privada). Conversívelmente, criptografia simétrica usa a mesma chave tanto para encriptar quanto para decriptar o mesmo pedaço de dado.
 
-As a result, asymmetric is more secure than symmetric cryptography, but the process can take *slightly* longer as you’re dealing with two keys instead of one.
+Como um resultado, a criptografia assimétrica é mais segura que a criptografia simétrica, mas o processo pode demorar *levemente* mais enquanto você está lidando com duas chaves em vez de uma.
 
-Now, as asymmetric cryptography is what is used in the Bitcoin protocol, that’s what we’ll focus on.
+Agora, enquanto a criptografia assimétrica é o que é usado no protocolo Bitcoin, é nisso que iremos nos focar.
 
-Ok, so let’s stick with the example of sending a friend your lease agreement. If you want to ensure through cryptography that only they can read the agreement, these are the steps you would follow:
+Ok, então fiquemos com o exemplo de enviar a um amigo seu acordo de aluguel. Se você quer assegurar através da criptografia que apenas ele pode ler o acordo, esses são os passos que você seguiria:
 
-1. Obtain your friends public key
-2. Encrypt the agreement with that public key
-3. Send the encrypted agreement to your friend
-4. Your friend receives the encrypted agreement and decrypts it with their private key
+1. Obtenha a chave pública de seu amigo
+2. Encripte o acordo com essa chave pública
+3. Envie o acordo encriptada para seu amigo
+4. Seu amigo recebe o acordo encriptado e decripta ele com a chave privada dele.
 
-In this way, anyone can send your friend encrypted data when using that friend’s public key, while your friend is the only one who can decrypt it and read the encrypted messages. This works in the same way that anyone can send you an email, but only you are able to open your mailbox and read the messages.<br/> 
+Desse modo, qualquer um pode enviar a seu amigo dados encriptados quando usa a chave pública desse amigo, enquanto seu amigo é o único que pode decriptar eles e ler as mensagens encriptadas. Isso funciona do mesmo modo que qualquer um pode te mndar um email, e apenas você pode abrir sua caixa de email e ler as mensagens.<br/> 
 
-## **How It Relates to Crypto**
+## **Como isso se Relaciona a Cripto**
 
-So how does this relate back to blockchain technology and cryptocurrencies? At a base level, the public and private keys are one of the fundamental components that make transactions on the blockchain possible.
+Então como isso se relaciona com a tecnologia blockchain e com as criptomoedas? A um nível base, as chaves públicas e privadas são um dos componentes fundamentais que fazem as transações na blockchain serem possíveis.
 
-When your keys are created, your public key is put through [a hash function](https://www.investopedia.com/terms/h/hash.asp), and the resulting random string of letters and numbers is used as your wallet address. Transactions will work like our lease agreement example above.
+Quando suas chaves  são criadas, sua chave pública é colocada em uma [função hash](https://www.investopedia.com/terms/h/hash.asp), e o arranjo aleatório de letras e de números é usada como o endereço da sua carteira. As transações irão funcionar assim como o nosso exemplo acima do acordo de aluguel.
 
-Let’s use Bitcoin as an example. First, someone will send bitcoin to your wallet address. By doing so, they are giving you the right to spend that bitcoin, *as long as you can prove yourself as the owner of the address*. By signing the transaction using the corresponding private key, you are given ownership of that right to spend ([Read more about UTXO’s here](https://www.investopedia.com/terms/u/utxo.asp)).
+Usemos o Bitcoin como um exemplo. Primeiro, alguém irá enviar o bitcoin para o endereço de sua carteira. Ao fazer isso, ele está te dando o direito de gastar esse bitcoin, *na medida em que você pode provar que você mesmo é o dono do endereço*. Ao assinar a transação usando a chave privada correspondente, é dada a propriedade desse direito de gastar([Leia mais sobre UTXO's aqui](https://www.investopedia.com/terms/u/utxo.asp)).
 
-Knowing the basics of public and private keys is fundamental in understanding the Bitcoin protocol, and impressing your friends.
+Conhecer o básico sobre chaves públicas e privadas é fundamental no entendimento do protocolo Bitcoin, e para impressionar seus amigos.
 
 ---
 
-> This document was originally published on 2019-05-12 by Ari Chernoff and may have been slightly modified for translation by the Information and Globalization workstream for an ongoing archival project.
+> Esse documento foi originalmente publicado em 12/05/2019 por Ari Chernoff e pode ter sido levemente modificado para tradução pelo fluxo de trabalho de Informação e Globalização para um projeto de arquivamento em andamento.
 >
-> Original article can be found [here](https://shapeshift.com/library/the-power-of-cryptography).
+> O artigo original pode ser achado [aqui](https://shapeshift.com/library/the-power-of-cryptography).
+
 {.is-success}
 
 ---
