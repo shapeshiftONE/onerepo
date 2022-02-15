@@ -1,107 +1,108 @@
 ---
-title: What is the Cosmos Blockchain?
-description: Get up to speed on Cosmos, Tendermint, and the ATOM token.
-published: false
+title: O que é a Cosmos Blockchain?
+description: Fique por dentro da Cosmos, Tendermint e do token ATOM.
+published: true
 date: 2021-12-20T23:03:22.161Z
-tags: library, cryptocurrency, finance, needs-review
+tags: cosmos, atom, tendermint, blockchain, tecnologia
 editor: markdown
 dateCreated: 2021-12-20T23:03:22.161Z
 ---
 
-# What is the Cosmos Blockchain?
+# O que é a Cosmos Blockchain?
 
 ![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9a22fa559b4ab837c7e84a_5e99592f71acf5297741dd34_1_R0jvlCUMHsHb-8zma-cE2Q-43%2520(dragged).png)
 
-**<br/>The** [Cosmos blockchain](https://cosmos.network/) is a network of parallel, independent blockchains supported by [Byzantine Fault Tolerant](https://medium.com/loom-network/understanding-blockchain-fundamentals-part-1-byzantine-fault-tolerance-245f46fe8419) consensus algorithms like [Tendermint](https://tendermint.com/). Cosmos' primary objective is to improve interoperability between blockchains. This would allow users to trade digital assets that are native to one blockchain like Bitcoin, for coins on another blockchain like Ethereum.
+**<br/>A** [Cosmos blockchain](https://cosmos.network/) é uma rede de blockchains paralelas e independentes apoiada pelos algorítmos de consenso da [Byzantine Fault Tolerant](https://medium.com/loom-network/understanding-blockchain-fundamentals-part-1-byzantine-fault-tolerance-245f46fe8419), como o [Tendermint](https://tendermint.com/). O objetivo principal da Cosmos é aprimorar a interoperabilidade entre blockchains. Isso permitiria aos usuários trocar bens digitais que são nativos de uma blockhain, como o Bitcoin, para outras moedas em outra blockchain, como a Ethereum.
 
-The central focus of the Cosmos platform is to act as *the* *internet of blockchains*. The goal of the project is to create a network that allows all other blockchains to communicate with one another and do so in the most efficient and fastest way possible.<br/> 
+O foco central da plataforma Cosmos é agir como *a* *internet das blockchains*. A meta do projeto é criar uma rede que permita a todas as outras blockchains se comunicarem umas com as outras da forma mais eficiente e veloz possível.<br/> 
 
 <iframe allowfullscreen="" frameborder="0" scrolling="auto" src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FEb8xkDi_PUg%3Ffeature%3Doembed&amp;display_name=YouTube&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DEb8xkDi_PUg&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FEb8xkDi_PUg%2Fhqdefault.jpg&amp;key=a19fcc184b9711e1b4764040d3dc5c07&amp;type=text%2Fhtml&amp;schema=youtube"></iframe>
 
-There are three core components that work together to achieve the Cosmos mission: [Tendermint Core](https://tendermint.com/core/), the Cosmos [Software Development Kit](https://docs.cosmos.network/) (SDK) and the application blockchain interface.
+Existem três núcleos essenciais que trabalham justos para alcançar a missão Cosmos: [Núcleo Tendermint](https://tendermint.com/core/), a Cosmos [Software Development Kit](https://docs.cosmos.network/) (SDK) e a aplicação da interface blockchain.
 
-The Cosmos team brings a new approach to solving the interoperability and scalability issues that are currently plaguing the blockchain space. The development team has been working on building the Cosmos network for three years. All of the key stakeholders involved possess significant experience developing other blockchain and tech-related projects that are making a genuine impact on the world today.
+A equipe da Cosmos trás um abordagem para resolver os problemas da interoperatibilidade e da escapalibilidade que, atualmente, estão corrompendo o espaco blockchain. A equipe de desenvolvimento tem trabalhado em construir a rede da Cosmos por três anos. Todos os principais stakeholders envolvidos possuem experiência significativa em desenvolver outra blockchain e projetos tecnológicos que estão causando impacto genuíno no mundo hoje em dia. 
 
 ![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9a22fa14c15b573da6e188_5e9959725041a602370b38b0_1*Z_Pzyp_BPfk-dX3ciQV3kQ.png)
 
-The team, an innovative roadmap, and the technical implementations that make up the Cosmos project are the fundamental reasons the network and its ATOM tokens collectively hold a market value of over $850 million. Cosmos ATOM token ranks as one of the [top fifteen](https://coincap.io/assets/cosmos) most valuable cryptocurrency projects on the planet.
+O time, um roteiro inovador e as implementações técnicas que fazem o projeto Cosmos são as razões fundamentais para que a rede e seus tokens ATOM coletivamente possuam um valor de mercado estimado em $850 milhões. O token Cosmos ATOM é classificado como um dos [top quinze](https://coincap.io/assets/cosmos) projetos de criptomoeda mais valiosos do planeta.
 
-## The Cosmos Blockchain Team
+## A equipe Cosmos Blockchain
 
-The Cosmos project is maintained by [three different organizations.](https://blockgeeks.com/guides/cosmos-blockchain-2/) The [Interchain Foundation](https://interchain.io/) is the top-level, non-profit organization that oversees the entire project. The [Iris Foundation](https://www.irisnet.org/) is yet another non-profit organization that oversees the creation and implementation of the Cosmos Hub IRISnet. The Interchain Foundation further contracts out portions of the development of the Cosmos project to [All in Bits Inc](https://www.bloomberg.com/profile/company/1628034D:US)., a corporation that provides Byzantine-fault tolerant and cloud-based solutions to tech projects. This intermingling of operators gives the project a wealth of experience on the team.
+O projeto Cosmos é mantido por [três organizações diferentes.](https://blockgeeks.com/guides/cosmos-blockchain-2/) A [Interchain Foundation](https://interchain.io/) é a organização de nível superior, que não tem fins lucrativos e supervisiona todo o projeto. A [Iris Foundation](https://www.irisnet.org/) é uma outra organização, também sem fins lucrativos, que supervisiona a criação e implementação da Cosmos Hub IRISnet. A Fundação Interchain ainda contrata partes do desenvolvimento do projeto Cosmos da [All in Bits Inc](https://www.bloomberg.com/profile/company/1628034D:US)., uma corporação que fornece tolerância a falhas bizantinas e soluções baseadas em nuvem para projetos de tecnologia. Esta mistura de operadores dá ao projeto uma riqueza de experiência na equipe.
 
-[Jae Kwon](https://twitter.com/jaekwon) is the CEO of [Tendermint](https://tendermint.com/), the underlying technology that helps Cosmos function. Tendermint is a mechanism that mitigates the risks associated with the Byzantine Generals Problem. Kwon also worked for Yelp, Scramble.io and Flywheel Networks. Tendermint CTO [Ethan Buchman](https://twitter.com/buchmanster) is a blockchain researcher out of the University of Guelph in Canada. [Peng Zhong](https://twitter.com/zcpeng?lang=en) is Tendermint’s head of design and a full stack developer. Not only did they develop Tendermint, but they also helped get the Cosmos project started in 2016, launched an initial coin offering a year later that raised $17 million and distributed $168 million in ATOM tokens to contributors.
+[Jae Kwon](https://twitter.com/jaekwon) é o CEO da [Tendermint](https://tendermint.com/): a tecnologia subjacente que ajuda o Cosmos a funcionar. Tendermint é um mecanismo que mitiga os riscos associados ao Problema dos Generais Bizantinos. Kwon também trabalhou para Yelp, Scramble.io e Flywheel Networks. Tendermint CTO [Ethan Buchman](https://twitter.com/buchmanster) é um pesquisador de blockchain da Universidade de Guelph, no Canadá. [Peng Zhong](https://twitter.com/zcpeng?lang=en) é o chefe de design da Tendermint e um desenvolvedor full stack. Eles não apenas desenvolveram o Tendermint, mas também ajudaram a iniciar o projeto Cosmos em 2016 e lançaram uma oferta inicial de moedas um ano depois que arrecadou US$ 17 milhões e distribuiu US$ 168 milhões em tokens ATOM aos contribuidores.
 
-## Tendermint and the Byzantine Generals Problem
+## Tendermint e O Problema dos Generais Bizantinos
 
-The Byzantine Generals Problem is a common problem to solve in any decentralized technology that allows for the exchange of value for assets, however defined. Imagine for a moment that an army living in medieval times is surrounding a castle. They are trying to coordinate an attack, but there are different groups of them. They all need to attack together, but the sheer size of the castle has them so far apart that it makes a coordinated attack virtually impossible.
+O Problema dos Generais Bizantinos é um problema comum para resolver em qualquer tecnologia descentralizada que permita a troca de valor por ativos, independentemente da definição. Imagine por um momento que um exército dos tempos medievais está cercando um castelo. Eles estão tentando coordenar um ataque, mas existem dois grupos diferentes deles. Todos eles precisam atacar juntos, mas o tamanho do castelo os mantém tão distantes que torna um ataque coordenado virtualmente impossível.
 
-This problem occurs in all blockchains because blockchains are made of nodes communicating with one another. They work to validate transactions, but they have to work in a completely trustless environment. They need to trust each other without having all of the information. Nodes don’t know whether their counterparts are good or bad. Nodes need to complete transactions without all of the data and be able to validate that everything is acceptable.
+Esse problema ocorre em todas as blockchains porque as blockchains são feitas de nodes que se comunicam entre si. Os nodes trabalham para validar transações, mas precisam trabalhar em um ambiente completamente sem confiança. Eles precisam confiar um no outro sem ter todas as informações. Os nodes não sabem se suas contrapartes são boas ou ruins. Os nodes precisam concluir as transações sem todos os dados e ser capazes de validar se tudo é aceitável.
 
-[Tendermint](https://tendermint.com/) is a Practical Byzantine Fault Tolerance, meaning it successfully solves this problem.
+[Tendermint](https://tendermint.com/) é uma Tolerância Prática a Falhas Bizantinas, o que significa que resolve esse problema com sucesso.
 
-## How does Cosmos work?
+## Como funciona o Cosmos?
 
-Tendermint can process thousands of transactions per second, and the latency of commits on the network last between one and two seconds. [The Cosmos whitepaper](https://github.com/cosmos/cosmos/blob/master/WHITEPAPER.md) suggests that even in adversarial conditions, with validators (Cosmos uses a proof-of-stake approach to consensus) crashing or signaling malicious votes throughout the network, the network still performs above 1,000 transactions per second, which is significantly more than Bitcoin or other competing blockchains.
+O Tendermint pode processar milhares de transações por segundo, e a latência dos commits na rede dura entre um e dois segundos. [O whitepaper do Cosmos](https://github.com/cosmos/cosmos/blob/master/WHITEPAPER.md) sugere que, mesmo em condições adversas, com validadores (o Cosmos usa uma abordagem de prova de participação para consenso) falhando ou sinalizando votos maliciosos em toda a rede, a rede ainda realiza mais de 1.000 transações por segundo, o que é significativamente mais do que o Bitcoin ou outras blockchains concorrentes.
 
 ![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9a22fa89972d5894853052_5e995972e2013b16c6f189e4_1*hTqmWdsbtuZY7UeOor4gxg.png)
 
-## Four Key Advantages of Tendermint
+## Quatro principais vantagens do Tendermint
 
-Overall, [Tendermint](https://tendermint.com/) offers four distinct benefits in its approach to reaching consensus:
+No geral, o [Tendermint](https://tendermint.com/) oferece quatro benefícios distintos em sua abordagem para chegar a um consenso:
 
-1. Tendermint can handle 10,000 transactions per second.
-2. The network needs only light client security, making it ideal for mobile and Internet of Things-related use cases. Most other blockchains can’t offer that.
-3. It incorporates fork accountability, which means double-spending attacks and censorship can be easily handled.
-4. Tendermint Core is application-agnostic, which means it can turn any deterministic black-box application into a distributed blockchain.
+1. O Tendermint pode lidar com 10.000 transações por segundo.
+2. A rede precisa apenas de segurança leve do cliente, tornando-a ideal para casos de uso relacionados a dispositivos móveis e Internet das Coisas. A maioria das outras blockchains não pode oferecer isso.
+3. Ele incorpora responsabilidade de fork, o que significa que ataques de gastos duplos e censura podem ser facilmente resolvidos.
+4. O Tendermint Core é agnóstico de aplicativos, o que significa que pode transformar qualquer aplicativo black-box determinista em um blockchain distribuído.
 
-[Tendermint Core](https://tendermint.com/core/) connects to blockchain applications using the Application Blockchain Interface.
+[Tendermint Core](https://tendermint.com/core/) se conecta a aplicativos blockchain usando a Interface Blockchain do Aplicativo.
 
-## The Cosmos Hub and Zones
+## O Hub e as Zonas da Cosmos
 
-[The Cosmos Hub](https://hub.cosmos.network/) is the foundation of the Cosmos blockchain. It is the blockchain’s distributed ledger. Both the Cosmos Hub and its zones can hold the user’s tokens. The zones interact with each other using inter-blockchain communication, with all of this communication passing through the Hub.
+[The Cosmos Hub](https://hub.cosmos.network/) é a base da blockchain Cosmos. É o registro contábil distribuído da blockchain. Tanto o Cosmos Hub quanto suas zonas podem armazenar os tokens dos usuários. As zonas interagem entre si usando comunicação inter-blockchain, com toda essa comunicação passando pelo Hub.
 
-Since the Hub plays a role in everything that happens on the network, it’s protected by a decentralized group of validators. This enhances security and makes it possible for the entire network to withstand severe attacks.
+Como o Hub desempenha um papel em tudo o que acontece na rede, ele é protegido por um grupo descentralizado de validadores. Isso aumenta a segurança e possibilita que toda a rede resista a ataques severos.
 
-The zones communicate with the Hub using inter-blockchain communication packets. The zones have their own validators, which take a certain amount of ATOM tokens with them to pass through the Hub. If any of the zones start acting suspiciously in an attempt to compromise the integrity of the network, the number of ATOM tokens they get to keep gets reduced by the Hub. This deters malicious actors.
+As zonas se comunicam com o Hub usando pacotes de comunicação inter-blockchain. As zonas têm seus próprios validadores, que pegam para si uma certa quantidade de tokens ATOM para passar através do Hub. Se qualquer uma das zonas começar a agir de forma suspeita em uma tentativa de comprometer a integridade da rede, o número de tokens ATOM que eles conseguem manter é reduzido pelo Hub. Isso detém atores maliciosos.
 
-The real value of these Hubs, zones, and the inter-blockchain communication packets is that all parties involved in an exchange of value can get what they want. All while maintaining independent token models, economics, and governance systems. It is as if each of these parties is its own blockchain, with the Cosmos network acting as the internet of blockchains.
+O valor real desses hubs, zonas e pacotes de comunicação inter-blockchain é que todas as partes envolvidas em uma troca de valor podem obter o que desejam. Tudo isso mantendo modelos de token independentes, economia e sistemas de governança. É como se cada uma dessas partes fosse sua própria blockchain, com a rede Cosmos atuando como a internet das blockchains.
 
-## What is the ATOM token?
+## O que é o token ATOM?
 
-The [ATOM token](https://coincap.io/assets/cosmos) plays a significant role in reducing the likelihood of malicious transactions passing through the Hub. The tokens get taken away from validators if something sketchy is happening. In this sense, it’s almost as if possessing the ATOM token is to the Cosmos blockchain what demerit points are to a driver’s license. Lose them, and all of a sudden, doing something malicious isn’t worth it.
+O [token ATOM](https://coincap.io/assets/cosmos) desempenha um papel significativo na redução da probabilidade de transações maliciosas que passam pelo Hub. Os tokens são retirados dos validadores se algo impreciso estiver acontecendo. Nesse sentido, é quase como se possuir o token ATOM fosse, para o blockchain Cosmos, o que pontos de mérito são para uma carteira de motorista. Perdê-los e, de repente, fazer algo malicioso não vale a pena.
 
-ATOM tokens also act as a means of accounting for transaction fees. That doesn’t mean fees must be paid using ATOM tokens. Other currencies can be used to pay transaction fees. The incentive for [using ATOM tokens](https://medium.com/@CryptoSeq/cosmos-atom-token-and-the-commonly-misunderstood-staking-tokens-part-three-958c295c5b78) for staking is that users can receive a portion of the fees in different currencies depending on the number of ATOM tokens being staked. Remember that zones are their own blockchains in the Cosmos network, which means they have their own native tokens. Validators can accept any combination of tokens they want as a transaction fee. 2% of the fees collected go into a reserve pool, and the other 98% goes to validators based on the stake they have invested in the network.
+Os tokens ATOM também atuam como um meio de contabilizar as taxas de transação. Isso não significa que as taxas devem ser pagas usando tokens ATOM. Outras moedas podem ser usadas para pagar taxas de transação. O incentivo para [usar tokens ATOM](https://medium.com/@CryptoSeq/cosmos-atom-token-and-the-commonly-misunderstood-staking-tokens-part-three-958c295c5b78) para staking é que os usuários podem receber uma parte das taxas em diferentes moedas, dependendo do número de tokens ATOM armazenados. Lembre-se de que as zonas são suas próprias blockchains na rede Cosmos, o que significa que elas têm seus próprios tokens nativos. Os validadores podem aceitar qualquer combinação de tokens que desejarem como taxa de transação. 2% das taxas arrecadadas vão para uma pool de reserva e os outros 98% vão para validadores com base na porcentagem que investiram na rede.
 
-## Which blockchains work with Cosmos?
+## Quais blockchains funcionam com a Cosmos?
 
-There are over 100 projects working with the Cosmos network at this time. The [list](https://forum.cosmos.network/t/list-of-projects-in-cosmos-tendermint-ecosystem/243) is steadily growing, with many notable projects building on Cosmos.
+Existem mais de 100 projetos trabalhando com a rede Cosmos neste momento. A [lista](https://forum.cosmos.network/t/list-of-projects-in-cosmos-tendermint-ecosystem/243) está crescendo constantemente, com muitos projetos notáveis baseados no Cosmos.
 
-## [Binance Chain](https://www.binance.com/en/blog/304219301536473088/Binance-Chain-Blockchain-for-Exchanging-the-World)
+## [Binance Chain](https://www.binance.com/en/blog/304219301536473088/Binance-Chain-Blockchain-for-Exchange-the-World)
 
-[Binance Chain and Binance DEX](https://docs.binance.org/acknowledgement.html#tendermint-and-cosmos) are using Cosmos SDK to build out well-structured, easy to understand coding.
+[Binance Chain e Binance DEX](https://docs.binance.org/acknowledgement.html#tendermint-and-cosmos) estão usando o Cosmos SDK para criar uma codificação bem estruturada e fácil de entender.
 
-## [Kira Interchain Exchange](https://kiraex.com/)
+## [Troca Interchain Kira](https://kiraex.com/)
 
-Kira Interchain Exchange [uses Cosmos](https://medium.com/kira-core/introducing-kira-the-future-of-interchain-exchange-c5d8f4223607) along with other blockchains to help delegators on their network participate in staking.
+Kira Interchain Exchange [usa a Cosmos](https://medium.com/kira-core/introducing-kira-the-future-of-interchain-exchange-c5d8f4223607) juntamente com outras blockchains para ajudar os delegantes em sua rede a participar do staking.
 
 ## [Aragon Chain](https://aragon.org/)
 
-Aragon [uses Cosmos](https://blog.aragon.one/aragon-chain/) SDK for its coding structure along with EVM, Ethereum Virtual Machine. Like Kira’s implementation, the purpose of using Cosmos on Aragon Chain is helping users manage staking.
+Aragon [usa a Cosmos](https://blog.aragon.one/aragon-chain/) SDK para sua estrutura de codificação junto com EVM, Ethereum Virtual Machine. Assim como a implementação de Kira, o objetivo de usar a Cosmos na Aragon Chain é ajudar os usuários a gerenciar seus stacks.
 
-## [e-Money](https://e-money.com/)
+## [e-money](https://e-money.com/)
 
-e-Money’s goal is to launch a [currency-backed token](https://e-money.com/documents/e-Money%20Whitepaper.pdf). They’ve worked on research and development with the Danish Financial Authority and plan to use the Cosmos network to move the idea forward.
+O objetivo da e-Money é lançar um [token lastreado em moeda](https://e-money.com/documents/e-Money%20Whitepaper.pdf). Eles trabalharam em pesquisa e desenvolvimento com a Autoridade Financeira Dinamarquesa e planejam usar a rede Cosmos para levar a ideia adiante.
 
-## The Internet of Blockchains
+## A Internet das Blockchains
 
-Cosmos has a unique way of allowing blockchains to communicate with one another and a market capitalization that ranks the project among similar blockchains like [Aion](https://aion.theoan.com/), [Cardano](https://www.cardano.org/en/home/), and [ICON](https://icon.foundation/?lang=en). To many in the blockchain space, Cosmos has the potential to bring the connectivity of the internet to blockchains.<br/> 
+A Cosmos tem uma maneira única de permitir que blockchains se comuniquem e tem uma capitalização de mercado que classifica o projeto entre blockchains semelhantes como [Aion](https://aion.theoan.com/), [Cardano](https://www.cardano.org/en/home/) e [ICON](https://icon.foundation/?lang=en). Para muitos no espaço blockchain, a Cosmos tem o potencial de trazer a conectividade da internet para as blockchains.<br/> 
 
 ---
 
-> This document was originally published on 2020-01-05 by ShapeShift Team and may have been slightly modified for translation by the Information and Globalization workstream for an ongoing archival project.
+> Este documento foi publicado originalmente em 2020-01-05 pela ShapeShift Team e pode ter sido ligeiramente modificado para tradução pelo fluxo de trabalho de Informação e Globalização para um projeto de arquivamento em andamento.
 >
-> Original article can be found [here](https://shapeshift.com/library/what-is-the-cosmos-blockchain).
+> O artigo original pode ser encontrado [aqui](https://shapeshift.com/library/what-is-the-cosmos-blockchain).
+
 {.is-success}
 
 ---
