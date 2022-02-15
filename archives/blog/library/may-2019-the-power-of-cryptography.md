@@ -1,7 +1,7 @@
 ---
 title: O Poder da Criptografia
 description: Guia para iniciantes sobre chaves públicas e privadas
-published: false
+published: true
 date: 2021-12-20T23:03:17.065Z
 tags: chave pública, chave privada, guia, iniciante
 editor: markdown
