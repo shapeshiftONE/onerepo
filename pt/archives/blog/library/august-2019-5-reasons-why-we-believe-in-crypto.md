@@ -1,55 +1,57 @@
 ---
-title: 5 Reasons Why We Believe in Crypto
-description: You need to believe it to build it.
-
-published: false
+title: 5 razões pelas quais acreditamos em criptomoedas
+description: Você precisa acreditar para construir
+published: true
 date: 2021-12-20T23:31:59.775Z
-tags: library, bitcoin, cryptocurrency, finance, needs-review
+tags: bitcoin, criptomoedas, comunidade
 editor: markdown
 dateCreated: 2021-12-20T23:30:59.775Z
 ---
 
-# 5 Reasons Why We Believe in Crypto
+# 5 razões pelas quais acreditamos em criptomoedas
 
 ![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9effe831f412ff55a8aedc_1_8wUtUTS3z_ZfuEsiYz2plQ%20(1).png)
 
-## *<br/>Do you think that cryptocurrency is changing the world?*
+## *<br/>Você acha que a criptomoeda está mudando o mundo?*
 
-We do. With all of the skeptics out there, it’s easy to lose focus on what really matters: the impact we are making on the world by building in this industry.
+Com certeza. Com todos os céticos por aí, é fácil perder o foco no que realmente importa: o impacto que estamos causando no mundo ao construir esta indústria.
 
-If you feel like you have started to become a victim of [**FUD**](https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt)**,** we want to remind you why we are here. **To create a borderless financial system built on open, decentralized protocols.**
+Se você sentir que começou a se tornar uma vítima de [**FUD**](https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt)**,** queremos lembrá-lo por quê estamos aqui. **Para criar um sistema financeiro sem fronteiras baseado em protocolos abertos e descentralizados.**
 
-If you need a reason to believe, look no further. Get inspired by the five reasons we at [ShapeShift](http://shapeshift.com/) believe in crypto.
+Se você precisa de uma razão para acreditar, não procure mais. Inspire-se nas cinco razões pelas quais nós da [ShapeShift](http://shapeshift.com/) acreditamos em criptomoedas.
 
-## **#1 The Principles**
+## **#1 Os Princípios**
 
-Cryptocurrencies were not just born out of economic necessity. Ideologies and philosophies have deep roots in this space. Many early adopters have recognized that on a fundamental level, we were in need of a freer and smarter form of money. Bitcoin was recognized as a tool that could be a borderless currency, create cheaper transactions and advance ease of use in exchanging value.<br/><br/>Read a note from ShapeShift CEO Erik Voorhees >> Building a Bridge to Financial Sovereignty <br/> 
+As criptomoedas não nasceram apenas da necessidade econômica. Ideologias e filosofias têm raízes profundas neste espaço. Muitos pioneiros reconheceram que, em um nível fundamental, precisávamos de uma forma de dinheiro mais livre e inteligente. O Bitcoin foi reconhecido como uma ferramenta que poderia ser uma moeda sem fronteiras, criar transações mais baratas e facilitar o uso na troca de valor. 
 
-## **#2 The Community**
+Leia uma nota do CEO da ShapeShift, Erik Voorhees >> Construindo uma ponte para a soberania financeira <br> 
 
-If you’ve spent any time on crypto Reddit or Twitter, or at meetups and events, you know what we mean. Yes, this community can be divided, but it’s also filled with some of the brightest minds in tech and economics. The crypto world is filled with intelligent, quirky, humorous, and passionate individuals who’ve created a culture unlike anything the world has ever seen.<br/> 
+## **#2 A Comunidade**
 
-## **#3 The Hope for a Better World**
+Se você já passou algum tempo no Reddit ou Twitter, ou em encontros e eventos, sabe o que queremos dizer. Sim, esta comunidade pode ser dividida, mas também está repleta de algumas das mentes mais brilhantes em tecnologia e economia. O mundo das criptomoedas está repleto de indivíduos inteligentes, peculiares, bem-humorados e apaixonados que criaram uma cultura diferente de tudo que o mundo já viu.<br/>
 
-Crypto and blockchain tech have the potential to advance more than just the world of finance. Everything from healthcare and real estate, to video and education, are within its reach. Check out [Inc.com’s article](https://www.inc.com/john-white/9-industries-that-will-soon-be-disrupted-by-blockchain.html) on industries that may be disrupted by crypto. Our favorite is #9.<br/> 
+## **#3 A esperança de um mundo melhor**
 
-## **#4 The Resilience**
+A tecnologia de criptografia e blockchain tem o potencial de avançar mais do que apenas o mundo das finanças. Tudo, desde saúde e imóveis, até vídeos e educação, está ao seu alcance. Confira o [artigo da Inc.com](https://www.inc.com/john-white/9-industries-that-will-soon-be-disrupted-by-blockchain.html) sobre indústrias que podem ser afetadas por criptografia. Nossa favorita é a nº 9.<br/>
 
-Crypto has faced a lot of backlash over the years. It has fought to shake off a bad reputation and struggled to help the world understand the positive nature that such an economic phenomenon can be. Again and again, its shown that it’s here to stay, and personally, we can’t wait to see where it goes.<br/> 
+## **#4 A Resiliência**
 
-## **#5 The Potential**
+As criptomoedas enfrentaram muita reação ao longo dos anos. Elas lutaram para se livrar de uma má reputação e lutaram para ajudar o mundo a entender a natureza positiva que esse fenômeno econômico pode ter. De novo e de novo, é mostrado que está aqui para ficar e, pessoalmente, mal podemos esperar para ver até onde elas chegarão.<br/>
 
-Although people claim to, nobody really knows where the crypto space will take us. Our favorite point made at [Berlin Blockchain Week](https://www.blockchainweek.berlin/) speaks volumes on this point.
+## **#5 O Potencial**
 
-*We need to make sure that we aren’t just building to extend our runway and gamble on the future of what we’re doing. —* [***Vitalik Buterin***](https://twitter.com/VitalikButerin)
+Embora as pessoas afirmem, ninguém sabe realmente para onde o mundo cripto nos levará. Nosso ponto favorito feito na [Berlin Blockchain Week](https://www.blockchainweek.berlin/) fala muito sobre essa questão.
 
-We need to build long-lasting, effective technology that makes clear to the world in a very simple way, how remarkable these advancements are.
+*Precisamos ter certeza de que não estamos apenas trabalhando para alargar nosso próprio caminho, mas para apostar no futuro do que estamos fazendo. —* [***Vitalik Buterin***](https://twitter.com/VitalikButerin)
+
+Precisamos construir uma tecnologia duradoura e eficaz que deixe claro para o mundo, de uma forma muito simples, como esses avanços são notáveis.
 
 ---
 
-> This document was originally published on 2019-08-26 by ShapeShift Team and may have been slightly modified for translation by the Information and Globalization workstream for an ongoing archival project.
+> Este documento foi publicado originalmente em 26/08/2019 pela Equipe ShapeShift e pode ter sido ligeiramente modificado para tradução pelo fluxo de trabalho de Informação e Globalização para um projeto de arquivamento em andamento.
 >
-> Original article can be found [here](https://shapeshift.com/library/5-reasons-why-we-believe-in-crypto).
+> O artigo original pode ser encontrado [aqui](https://shapeshift.com/library/5-reasons-why-we-believe-in-crypto).
+
 {.is-success}
 
 ---
