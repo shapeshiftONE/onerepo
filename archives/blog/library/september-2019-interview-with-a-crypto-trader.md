@@ -1,7 +1,7 @@
 ---
 title: Entrevista com um Cripto Trader
 description:10 perguntas com o chefe de negociação da ShapeShift.
-published: false
+published: true
 date: 2021-12-20T23:02:43.258Z
 tags: trade, trading, finanças, entrevista
 editor: markdown
