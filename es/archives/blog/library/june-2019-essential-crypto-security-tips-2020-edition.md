@@ -2,13 +2,13 @@
 title: Consejos esenciales de criptoseguridad (edición 2020)
 description: 22 consejos de seguridad de criptomonedas
 published: true
-date: 2022-02-23T14:48:45.260Z
+date: 2022-02-23T14:50:14.493Z
 tags: archivo, biblioteca
 editor: markdown
 dateCreated: 2022-02-23T14:48:45.260Z
 ---
 
-# Essential Crypto Security Tips (2020 Edition)
+# Consejos esenciales de criptoseguridad (Edición 2020)
 
 ![](https://assets.website-files.com/5e9a09610b7dce71f87f7f17/5e9fdc6bf01b87bf0c1dd954_1_kAl228kjuhizT0RFw8dWTQ.png)
 
