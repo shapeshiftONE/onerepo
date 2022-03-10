@@ -2,7 +2,7 @@
 title: El Viaje hacia Fox Token
 description: Conozca la naturaleza perpetua del nuevo token ERC-20 de ShapeShift.
 published: true
-date: 2022-03-10T16:12:35.897Z
+date: 2022-03-10T16:18:04.821Z
 tags: archivo, biblioteca
 editor: markdown
 dateCreated: 2022-03-10T16:12:35.897Z
@@ -18,7 +18,7 @@ dateCreated: 2022-03-10T16:12:35.897Z
 
 Desde el nacimiento de Bitcoin, el mundo ha estado observando cómo una nueva clase de activos comienza a gatear y caminar (todavía no estamos corriendo). Bitcoin creció de la nada para mostrarle al mundo que el mecanismo detrás de cómo funciona el consenso de blockchain es pragmáticamente valioso y técnicamente sólido. Lo que pensamos fue que un nuevo tipo de dinero, y eventualmente una reserva de valor, podría existir electrónicamente, alimentado completamente por tecnología sofisticada y la creencia ganada de sus usuarios. Esto expuso algunos de los fundamentos mágicos de cómo funciona el "dinero" y el "valor" financiero para que muchos los vieran, que aún no se habían dado cuenta por completo. Pero esto no era solo un nuevo tipo de dinero. Era una nueva clase de activos que rompió muchas definiciones anteriores.
 
-> [*Sign up to trade for free with FOX in the ShapeShift Platform 🚀*](https://auth.shapeshift.io/signup?utm_source=social&utm_medium=medium&utm_campaign=fox_launch&utm_term=cta07)
+> [*Regístrese para operar gratis con FOX en la plataforma ShapeShift🚀*](https://auth.shapeshift.io/signup?utm_source=social&utm_medium=medium&utm_campaign=fox_launch&utm_term=cta07)
 
 ## Una nueva era para las criptomonedas
 
