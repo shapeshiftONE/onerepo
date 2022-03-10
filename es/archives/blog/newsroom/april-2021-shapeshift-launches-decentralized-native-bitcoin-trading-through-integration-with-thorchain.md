@@ -2,7 +2,7 @@
 title: ShapeShift lanza comercio de Bitcoin nativo y descentralizado a través de la integración con THORChain
 description: La compañía es la primera marca líder en criptomonedas que ofrece a los usuarios acceso comercial descentralizado entre cadenas de bloques (sin KYC)
 published: true
-date: 2022-03-10T00:29:25.084Z
+date: 2022-03-10T00:29:45.826Z
 tags: archivo, biblioteca
 editor: markdown
 dateCreated: 2022-03-10T00:29:25.084Z
